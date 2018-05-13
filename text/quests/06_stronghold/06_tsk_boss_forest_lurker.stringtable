@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_forest_lurker</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：潛居者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺死位於黑草甸的潛居者，把它的頭帶回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把潛居者的頭交給努阿王堡的看守人費爾佷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一隻被稱為潛居者的巨大森林潛伏怪對通過黑草甸的車隊們產生了威脅。已經有人懸賞要它的腦袋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>一隻巨大的森林潛伏怪出現於黑草甸，商人們都叫它潛居者。然而它很快就會成為商隊的嚴重威脅，他們會提供賞金，只要我能殺死那東西並帶回它的頭——或者至少是相當於頭的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>潛居者不再是威脅了，我可以把它的頭帶給看守人費爾佷並換取我的獎賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了潛居者的賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

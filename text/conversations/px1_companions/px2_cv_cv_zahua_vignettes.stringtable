@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_companions\px2_cv_cv_zahua_vignettes</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>25</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個老薩滿躬身坐在一張半透明的桌子前。她的眼睛兩邊都被塗上像火焰一樣的條紋漆。
+
+她把各種奇怪的物體放在桌上：一個手骨，一個豹猊的牙齒，一個烏龜殼和一些有符號的石頭。她用懷疑的眼睛一遍一遍反覆地研究它們。
+
+最後，她抬起頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「不會錯。預兆不會撒謊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「札瓦，你會成為我們的首領。你會繼承伊謝皮羅然後帶領我們在儈弛馬圖取得勝利。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「我會告訴伊謝皮羅，他必須接納你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​伊謝皮羅坐著冥想。他睜開眼睛看著札瓦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你好，年輕人。你來找我是有問題要問我，不是嗎？」
+
+他咳嗽起來，干的像沙漠裡的沙子一樣。札瓦盯著他看，他的嘴巴微微顫動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「是的，伊謝皮羅。多年來，我在各地去尋找你的智慧。你現在要授予給我嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「是的，年輕人。我是為你而來的。」
+
+札瓦點頭，深呼吸了一口氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我們的子民是儈弛馬圖的俘虜。我得知道安尼特雷的秘密。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「當然。答案一直在你身邊，年輕人。你是睜眼瞎——」
+
+伊謝皮羅爆發出一陣咳嗽。他咳的越來越厲害，灰塵顆粒像羽毛狀從他的嘴裡飛出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「大師，不好意思。我聽不見你。」
+
+札瓦穩了穩他的肩膀，但伊謝皮羅的咳嗽只是更嚴重了。塵土從他嘴唇滿口往外湧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「回答我！」
+
+札瓦的手在伊謝皮羅虛弱的身體周圍越來越緊。他晃了晃伊謝皮羅，但咳嗽還在繼續。
+
+他再次搖晃他，然後在札瓦的手中，伊謝皮羅變成了塵土。它即刻消散在風中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​一個有著棕色皮質皮膚和皇室舉止的高的非同尋常的人向札瓦鞠躬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「俄胡拉首領，你怎麼在這？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「我代表儈弛馬圖來納貢的，偉大的首領。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​札瓦脖子處的肌腱是腫脹的，而他的拳頭是緊握的。
+
+你見到他的第一次起，他就變得失去控制。他透過摩擦作響的牙齒說話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「你來看我是否準備好要保護我的子民了。」
+
+儈弛馬圖的首領笑了，露著亮閃閃的牙齒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「那麼？你準備好了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「你必須馬上跟我來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「札瓦，你不該在這兒。如果你被抓到的話他們會處決你的。而且這次他們不會再失敗。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「我不在乎自己的生死，納瓦提婭。我是來解放塔坎的。我們會聯合起來反抗。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「那你會聯合誰呢？我們的人民非死即傷。他們的勞力太殘忍了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我們的女人現在是儈弛馬圖孩子的母親了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「塔坎只是活在我們腦海中罷了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「你統治的道路必須被清掃乾淨。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

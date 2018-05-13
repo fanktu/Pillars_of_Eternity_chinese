@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_bs_iron_flail_merc_neutral</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「那些傢伙沒有一點幽默感。不過他們的待遇可不錯！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「要是老闆說你沒問題，那你就沒問題了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「先是巴洛林，現在又是艾達瑞克。你要在我所有的工作中出現嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「我一直都知道那個艾達瑞克神不守舍的。……別告訴其他人是我說的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

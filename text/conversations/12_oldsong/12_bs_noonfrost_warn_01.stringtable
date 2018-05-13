@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_bs_noonfrost_warn_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「別想再進一步！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「轉回去，別想通過任何一道門。我們後面的大廳只屬於銳末干德和他的信徒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

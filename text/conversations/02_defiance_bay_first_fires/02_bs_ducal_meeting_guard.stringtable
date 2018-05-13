@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_bs_ducal_meeting_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「聽鐸門耐爾大人說你會出席，[Player Name]。樓上側廳為你敞開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「聽克理沃指揮官說，你會出席，[Player Name]。樓上側廳為你敞開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「聽維南說，你會出席，[Player Name]。樓上側廳為你敞開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「聽證會已開始[Player Name]，但韋伯夫人為你留了位置。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「會議進行中，未受邀請人士不允許進入接見室。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「請立即離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

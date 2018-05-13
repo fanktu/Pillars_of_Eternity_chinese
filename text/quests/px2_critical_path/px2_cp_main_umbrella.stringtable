@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px2_critical_path\px2_cp_main_umbrella</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>24</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>被遺忘的軍隊</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>尋求有關在堅忍村軍隊的信息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>調查城堡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>查明如何叫停那支軍隊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>重造艾比頓之錘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>到達凱榮的傷疤。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>消滅無目者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>在白際山邊界外休息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>多虧了你在白際山做出的努力，白皚鍛爐已經被恢復了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在我的夢中，那支軍隊來自白際山，靠近堅忍村。也許當地居民會瞭解一些情況。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>在堅忍村的東邊，有一座城寨被建造了起來。那也許就是我在尋找的軍隊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>堅忍村的代表之一是昂德拉的狂熱崇拜者。在她提供答案之前，她就自殺了。
+
+我從她的靈魂中瞭解到，她來自於「隕月修道院」，而那裡的院長知道這支軍隊，並且能夠從他叫做「聖物區」的地方叫停軍隊。
+
+如果我能進入這個房間，我也許可以在一場入侵開始之前就阻止它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我和昂德拉交流了一番，她告訴我無目者不會罷休，除非擁有對白皚鍛爐這一特定知識的每個人都死掉。而那包括很多很多人，也包括我。
+
+她相信，如果我能重新鍛造出他們的創造者艾比頓的錘子，那麼應該就可以使用它來消滅它們。
+
+白皚鍛爐能夠讓我把原版的碎片重塑成它的一個相似品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>昂德拉透露說，無目者在不活躍時會保持隱蔽，而聚集在一個被叫做「凱榮的傷疤」的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我已經找到了無目者聚集的地方。我必須在它們全力追殺我之前，找到辦法消滅他們。
+
+昂德拉向我保證說，當時機成熟，她會告訴我，我必須要做什麼。她說我必須前往它們的要塞的中心，以執行她的計劃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我需要離開白際山並休息休息。用不了多久，堅忍村應該會開始恢復。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>雷亞德賽熱斯人建造這營寨，意圖佔據矮人軍械所。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>堅忍村人從他們的居民中選出了一隊代表，試圖和雷亞德賽熱斯人進行談判，但是代表們再也沒有返回。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>院長還提到了某個叫「潮汐使者」的人會來接替他。在潛入這個地方時，這個信息也許會發揮作用。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>昂德拉出現了並告知我，我可以使用艾比頓之錘，敲擊在無目者休眠的洞穴中央的水晶。
+
+她相信無目者會被它們主人錘子的聲音吸引，並擊打相同的那個點，直到整個洞穴倒塌。它們將會被壓死。
+
+然而，這也意味著，使用錘子的人可能要跟它們分享相同的命運。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我逃出了無目者的洞穴，而隨著它們死亡，它們的靈魂離開了它們的身體。我成功地和它們進行了對話。它們都是艾比頓本人靈魂的碎片。我決定驅散這些靈魂，這樣它們將永遠無法到達他們的主人，而他將繼續對他的過去以及他之前作為保存之神的角色一無所知。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我逃出了無目者的洞穴，而隨著它們死亡，它們的靈魂離開了它們的身體。我成功地和它們進行了對話。它們都是艾比頓本人靈魂的碎片。我決定允許它們回到它們主人體內，這樣他也許能想起他曾是保存之神的過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我逃出了無目者的洞穴，而隨著它們死亡，它們的靈魂離開了它們的身體。我成功地和它們進行了對話。它們都是艾比頓本人靈魂的碎片。我們達成一致，如果我允許它們回歸到它們的主人體內，而他可以再次成為保存之神，那麼他必須在將來根據具體情況適當地收斂自己的行為，而允許一些東西消逝掉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40001</ID>
+			<DefaultText>我夢到一支軍隊漫過白際山並來摧毀我。無論我逃到哪兒，它都能找到我，並讓我的堡壘變成廢墟。那感覺不僅僅像是一場夢而已。
+
+我必須發現這支軍隊的真實身份，並在一切太遲之前，看看能夠做什麼以阻止它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

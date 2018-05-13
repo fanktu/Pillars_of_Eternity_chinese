@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_04_eyeless_stronghold\px2_04_si_crack</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你看到世界末日。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​咂裂縫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

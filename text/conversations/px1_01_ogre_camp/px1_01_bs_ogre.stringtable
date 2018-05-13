@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_01_ogre_camp\px1_01_bs_ogre</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「小老鼠，沿著跑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「主母貝熱甘的預知能力指引著我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「最近，夜風為主母帶來了噩夢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「我們是去軍械所找大炮，但也只在必須時才行動。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「現在村民會放過我們了吧？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_si_enter_cave</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​提神的微風在你靠近懸崖邊緣時吹動著你的衣角。懸崖面的洞口裂開了。洞口就在你所處位置下方的幾尺處，但風化的岩石太滑了，無法攀爬。
+
+岩石坐落於懸崖邊緣。感覺就像是堅固的錨。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你綁在岩石上的繩子懸掛在懸崖邊緣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[將繩子綁在岩石上，用抓鉤固定住後向下攀爬]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你抓緊繩子向下攀爬。突然，一陣強風從海灣處刮來。當風吹得你左右搖擺時你捏緊了繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​風穿過峭壁嘯嘯吹來，但你抓緊了繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​風力變大並將[SkillCheck 1]吹向壁面。[SkillCheck 1]鬆開繩子並開始向下墜落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​當風繼續吹時，[SkillCheck 0]和[SkillCheck 1]漸漸抓不住繩子了，呻吟著並努力試圖抓緊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​幾分鐘後，風平息下來，你可以朝洞口爬去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​一陣突然的大風將[SkillCheck 0]吹向懸崖側面。[SkillCheck 0]大聲喊叫，但緊緊抓住搖晃的繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​當風繼續吹時，[SkillCheck 0]、[SkillCheck 1]和[SkillCheck 2]漸漸抓不住繩子了，呻吟著並努力試圖抓緊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​當風繼續吹時，[SkillCheck 0]、[SkillCheck 1]、[SkillCheck 2]和[SkillCheck 3]漸漸抓不住繩子了，呻吟著並努力試圖抓緊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​當風繼續吹時，所有人除了[SkillCheck 0]漸漸抓不住繩子了，呻吟著並努力試圖抓緊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​當風繼續吹時，所有人漸漸都抓不住繩子了，呻吟著並努力試圖抓緊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[SkillCheck 0]毫不猶豫伸出手抓住[SkillCheck 1]。重量扭轉了[SkillCheck 0]的肩膀，但無疑救下了[SkillCheck 1]的性命。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

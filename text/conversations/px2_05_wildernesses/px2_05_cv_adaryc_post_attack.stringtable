@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_cv_adaryc_post_attack</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​艾達瑞克看起來被打了幾下。他的太陽穴上有淤青的擦傷，而且他的護甲有幾個地方凹了進去。
+
+他看起來很暈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「那些東西……從四面八方來了！那個代表——不，*你*是對的。那些幻景是真的。」
+
+艾達瑞克看了看你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「如果我們合作的話，我們是能打敗他們的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「祝你好運，指揮官。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「那繼續吧。逃吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我會帶上我們軍隊留下的人——那些願意跟隨我的人——進發到山的更深處。我們應該做好準備，如果……當這些怪物返回的時候。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我已經看到了，沒有什麼是你做不到的。」
+
+艾達瑞克鞠了一躬，然後轉身上路了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「你打得很棒。而且我很高興看見你能安然無恙。我的人就沒有幾個是這麼幸運了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「雷亞德賽熱斯人，別礙我的事就行。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​艾達瑞克的臉上露出了一絲驚訝。他的眼神十分嚴肅。
+
+艾達瑞克僵硬的歪著頭，離開時沒有說一句話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「如果這些幻景真的會實現，那麼最糟糕的事馬上就發生了。」
+
+艾達瑞克低下頭，轉身離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「你很勇猛。我很高興看見你能堅持到現在……我也很遺憾我失去了這麼多手下。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「保重。馬上就發生了。」
+
+艾達瑞克彎下頭，看著路面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

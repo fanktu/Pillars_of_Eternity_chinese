@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px2_bounties\px2_00_tsk_boss_deadfire</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：布林羅德</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺了布林羅德並帶回他的頭顱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>將布林羅德的頭帶給堅忍村的阿莎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>布林羅德，一名來自亡焰群島的臭名昭著的海盜，為了英格維斯的寶藏，正在洗劫艾爾·格蘭法斯的廢墟。艾爾·格蘭法斯的六大部落想要立刻阻止他的褻瀆行為。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>布林羅德最後一次是在鹿灘和克裡阿班·利拉格之間被目擊到。尖牙已經派遣了他們最好的人去對抗他了，但是無濟於事。他們極度渴望有人能夠阻止他對廢墟的侮辱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>阿莎擁有懸賞布林羅德的錢。她只是需要他死亡的證明。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了布林羅德的懸賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

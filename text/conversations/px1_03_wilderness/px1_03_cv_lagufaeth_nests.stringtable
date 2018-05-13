@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_lagufaeth_nests</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你凝視著水池。池水很乾淨，但你什麼都看不見。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你的斗篷撩起一陣水花。你認為你看到了……
+
+但不對，那只是深處的水泡。這個池子是空的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​轉向第三個池子，你看到湖底有個彩色圓形的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你感覺有人輕輕推了你的後背。
+
+你轉過身去。但身後並沒有人，但你又感到有人再推你了。
+
+有什麼東西在你的包裹裡亂動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你打開你的包裹然後聽到了一聲嘟囔。當你翻東西的時候，你的手突然碰到了什麼光滑的東西。
+
+是一個六肢魚怪小寶寶。它好奇地看著你，身上還有蛋殼的碎片。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你是他它出生後看到的第一個人。它現在把你當成爸爸了。這個四隻胳膊的魚寶寶現在是你的兒子了。」
+
+艾迭爾笑容滿面。「我真為你感到高興。」</DefaultText>
+			<FemaleText>​「你是她它出生後看到的第一個人。它現在把你當成媽媽了。這個四隻胳膊的魚寶寶現在是你的兒子了。」
+
+艾迭爾笑容滿面。「我真為你感到高興。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[帶上它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[不管它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你的身體在溫暖的水裡感到有些刺痛，你潛了下去，然後把那個球狀的東西撈了出來。它比看起來的要重，而且表面很光滑。
+
+你把它放進了包裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

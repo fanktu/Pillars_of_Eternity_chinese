@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_critical_path\px1_cp_qst_durgans_battery</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>24</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>矮人軍械所</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前往堅忍村。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>殺死在堅忍村的達茲爾。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>和瑞能吉爾德在她的房子裡交談。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>找到開啟矮人軍械所的方法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>打開矮人軍械所。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>和管家交談。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>有封信已經抵達努阿王堡，是寫給它的新主人的。管家相信這也許會是一個不錯的機會。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>堅忍村的人要求我打開矮人軍械所，一個廢棄的矮人堡壘，並找到白皚鍛爐。他們的村長，瑞能吉爾德，可能對這件事有更多的瞭解。
+
+堅忍村位於白際山，而路途會花費幾天的時間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我已經到達村子，卻發現了它正陷入對食人魔的絕望戰鬥。如果我殺掉領導這次突襲的食人魔達茲爾，這應該能打擊獸人的士氣並讓它們撤退。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>瑞能吉爾德，堅忍村的村長，召喚我前往她的房子。毫無疑問，她有關於矮人軍械所的更多信息，以及我需要做什麼才能進入那要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>瑞能吉爾德告訴我，自從200年前矮人軍械所的原始主人消失後，它就一直被牢牢封鎖了。堅忍村曾經召集過很多冒險旅團來到這片區域，但是沒有人進入要塞。
+
+我的任務比最初看起來的要更複雜，但是雷南吉爾特和她的兒子給了我幾個線索。他們建議我和伽維諾，一個靈魂學者兼工匠，談一談，還有去對質當地食人魔氏族的領袖，主母貝熱甘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我準備好進入矮人軍械所了。我有了鉛灰之鑰探險隊所找到的浮雕碎片以及從堅忍村那得知的頌詞：
+
+「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>管家請求我屈尊現身努阿王堡，因為她有相當重要的事情要討論。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>在戰鬥的當中，我看到了幻景，矮人和我並肩戰鬥。在我們解決完食人魔後他們就消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>主母貝熱甘的氏族在附近城鎮的冰穴裡建立了營地。瑞能吉爾德相信貝熱甘殺了之前的探險隊——鉛灰之鑰的小隊。如果他們找到了什麼有用的東西的話，它可能在貝熱甘手裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>伽維諾就住在矮人軍械所附近。厄爾椎克相信他也許知道一些有用的信息……如果我能說服他幫我的話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我從鉛灰之鑰探險隊殘骸中取得了一塊鐵砧形的貼磚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我會見了伽維諾，他相信矮人軍械所充溢著它的前任主人們的靈魂。他解釋說，我需要得知矮人軍械所的頌詞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>瑞能吉爾德建議我，在公爵的歇息跟顧客們談談。旅店老闆可以為我提供一碗熱湯和一個休息的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我會見了塔娜，年長的礦井監工。她有點太老了，但是如果堅忍村想要再一次把自己建立成採礦城鎮，她的經驗將會很有用。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我會見了塔娜，年長的礦井監工。她有點太老了，但是如果堅忍村想要再一次把自己建立成採礦城鎮，她的經驗將會很有用。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我打開了矮人軍械所的大門。我終於可以在此搜尋白皚鍛爐——以及在裡面的任何其他秘密。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40001</ID>
+			<DefaultText>我被召喚去白際山以找到白皚鍛爐，並且據說就被鎖在了矮人軍械所內，一個廢棄的矮人軍械所。
+
+白皚鍛爐曾用杜根鋼製造出傳奇武器，而堅忍村的村民希望能重新找到並恢復這套加工工藝。此外，矮人軍械所的某些東西也深深吸引了鉛灰之鑰的注意。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

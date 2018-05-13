@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_downwind_fang_leader</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>58</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個精靈女子站在一頭牡鹿旁邊，撫摸著這頭巨大野獸的脖頸。當你接近的時候，那只動物猛地朝你扭過頭，暴躁地用後腿直立起來。
+
+「別亂動！」女子命令道，並且揪著牡鹿脖子上的毛皮直到它平靜下來為止。「現在先放輕鬆……不需要戰鬥……暫時還不需要。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「你的路就擺在面前，外來者。解決掉鹿林僱傭兵，向我們證明自己的價值。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​那個女子站在那頭巨大的牡鹿旁邊，正在撫摸它粗壯的脖頸。她轉頭朝向你，讚許地點了點頭。「我們目睹了那場襲擊。你會成為一個很強大的獵人大師。」她把動物留在原地，向你走過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「你不該到這裡來，外來者。」她伸手去拿屁股後面綁著的幾把劍。「如果你出現在我們的領土上，要麼是你想偷我們的東西，要麼是你在幫助偷我們東西的人。」
+
+她指向北邊那些探出灌木叢的英格維斯建築廢墟。「鹿林的僱傭兵。劫掠者。你能聽到他們驚慌失措的竊竊私語嗎？立刻離開這裡，否則的話等我們解決了那些外來者，接著就會把你殺掉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「我看看我能為你做什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「跟我說說那些僱傭兵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[攻擊]「我們現在就來解決。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​精靈女子把劍放回劍鞘，把手伸向她的牡鹿。那只動物低下頭，享受著她手掌的愛撫。「高尚的。強大的。我們守候在這裡歡迎你回來，你是個戰士，也是友人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「掠襲者。劫掠者。和其他所有的在我們領地上搶劫的鹿林小偷沒什麼差別。」女子摸了摸自己被砍掉一半的耳朵。
+
+「自從這些鹿林一過河，我們就開始追蹤他們了，並且等待他們犯錯的機會。他們經常出差錯。我們在第一次進攻的時候，幹掉了他們一半人。那些逃跑了的懦夫現在蜷縮到北方去了——等風吹回來的時候，你能聞到他們的恐懼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「如果你願意教，我就學。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「為了收支平衡，我總是需要錢的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「不需要什麼報酬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「物品會丟失或者損壞，但知識從來不會失去價值。」
+
+她走近了，把手掌按上你的腹部，推得你失去了平衡。「如果你像我這樣，和羽精戰鬥過很多次，你就會學到慘痛的教訓，在戰鬥中必須時刻留意站姿，否則敵人要破壞你對身體的控制是很容易。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​她皺著眉頭，無言地看了你幾秒鐘。
+
+「哼……我還以為你會要點別的東西呢。算了。」她從包袱裡拿出一個皮質小包，遞給了你。
+
+「對金銀財寶的熱愛就好像一條下山的路。很容易被它帶著走，但也容易栽跟頭。看看那些劫掠者就知道了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​女子凝視著你，然後朝一側伸出了手臂。巨大的牡鹿走向她，女獵人輕柔地撫摸它的前額。
+
+「功績得不到讚揚的話，經常會激起憤恨。」她聳了聳肩。「萬一你覺得自豪感這個報酬並不足夠，就去古曲區的伽拉宛巨口找我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​她轉向你。一隻耳朵缺了上半部分，還有許多戰鬥的傷疤徹底摧毀了她本該光滑的皮膚。
+
+「更多的外來者。更多的骯髒腳步在踐踏我們的領土。更多的鮮血將會澆灌森林。」她搖搖頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「我是艾爾·格蘭法斯的朋友。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[說謊]「我跟鹿林僱傭兵不是一夥的。我知道我們看起來都長得一樣，但我想你是誤會了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​她定定地看著你。巨大的牡鹿重重地跺了跺前蹄，看向它的主人。「你說的是真話嗎，外來者？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「如果你真的是朋友，你就會尊重我們的領地，不會入侵玷污我們神聖的土地。」女子咬緊了牙關。在壓力之下，她臉上的肌肉輕顫著，直到突然之間，她的表情又平靜下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「如果你和那些劫掠者沒有任何關係，那我給你一個證明的機會。」
+
+她抽出了一把長劍，敏捷地劃過空氣，遙遙地指向遠處的廢墟。「侵略者必須從我們的土地上清洗出去。證明你的價值，我們就會相信你說的話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「鹿林劫掠者經常分散行動，這樣可以覆蓋更多地方，躲避我們的巡邏，或者從四面八方一同發起進攻。你要我相信你此時此刻在這裡只是因為偶然的運氣罷了？」她咬緊了牙關，肌肉輕顫著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我已經把鹿林人解決掉了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「你為什麼不自己幹掉他們呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我不去做。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​女子用一根手指拂過下唇，瞇眼看著你。「我是在給你命令。要麼像個成熟的獵人一樣接受命令，要麼就像個啜泣的孩子一樣拒絕接受。但你不能質疑我的意志。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「你……？如果你聲稱的是事實……」她朝一個苗條的，背負著獵弓的精靈男子打了個響指，然後向英格維斯廢墟的方向做了個手勢。男子優雅地跳下石頭，遠遠地觀察著廢墟。他轉向她，肯定地點點頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「如果他們投降的話，你會放他們一條生路嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「他們的貪婪沒有止境。他們從來不會記住教訓。那我們要囚犯有何用？如果我們不殺掉他們，如何以儆傚尤？」她搖搖頭。「為什麼我們要再次原諒？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​女子凝視著北方，一邊咀嚼著你的話，一邊露出了扭曲的怒容。巨大的牡鹿輕輕推了推她的肩膀，於是她伸出手來撓著那動物的下巴。「鮮血已經灑落在地。而生命會從鮮血浸泡的土地上發芽。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「我是雙榆城和部落的朋友。假如我的話有份量，我向你保證，外來者絕對不會再回來了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「因為你在天空翱翔，而他們只配在地上匍匐。尖牙值得面對更好的對手，而不是這些受傷的畜生。把他們趕回老家，並且用他們親人的性命做出嚴厲的警告。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「我想問你一些別的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​她冷冷地看著你，低聲咒罵了一句，然後把劍收回了劍鞘裡。「我們會砍下掠襲者的頭顱再把他們送回老家的。他們的頭目必須為這些罪行付出代價——只有這樣，剩下的人才能獲得自由。」
+
+她向北揮出手臂。「立刻走，趁我還沒有改變這個荒唐的決定，現在就去傳達我的信息。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​牡鹿弓起了脖子，把他尖銳的鹿角對準了你的方向。女獵人用手指劃過野獸那帶著凸起的鹿角。
+
+「那麼，就像其他的入侵者一樣，你會死。」女子吹了聲口哨，她的狩獵隊伍就發動了進攻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「你要偷走我的獵物？剝奪尖牙狩獵的機會？」她嚴厲的瞪視很快被微笑所取代。
+
+「別擔心，外來者，我們對你的行動很滿意——即使你確實剝奪了我手下年輕戰士急需的鍛煉機會。請原諒我早些時候對你的懷疑，你已經通過自己的行為展示了對艾爾·格蘭法斯的敬意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「你贏得了我們的感謝，外來者。儘管我們可以親自幹掉那些劫掠者，但你是為了我們的名義而流血的。我們敬重這樣的犧牲。」
+
+她微笑著向你鞠躬。「為了感謝你的援助，並且為你下一次的狩獵提供力量，我願意向你提供我們的手藝作品，我們的技能或者我們的賞金——無論你認為哪種對你最有價值。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「如果能掌控一件格蘭法斯人製造的武器，我會非常榮幸的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​她掃視著尖牙們，然後她的目光鎖定了其中一個戰士。她向他點點頭。
+
+他走近你，單膝跪下，沉默地將他的武器呈遞給你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「在外來者中結識新朋友對我們來說是很罕見的事。尖牙將會讚頌你，並且期待我們的命運之路再次交匯的那天。」
+
+她轉身朝她的小隊發出了一個簡短的命令。尖牙們離開了，巨大的牡鹿緊隨其後，消失在了北部曠野稠密的樹林中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「我向你承諾。這些人可以離開了，但他們的頭目必須為他們的冒犯付出代價。他必將枯萎凋零，失去自由。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「我眼下將會離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「外來者，你幫助了僱傭兵。現在我們將要去清掃你在這些土地上留下來的污點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「你希望要那個頭目的命嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「我會馬上告訴他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「他們的頭目同樣必須釋放。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​她靜靜地看著你，無視了你的發言。她的手臂交叉在胸前，身旁的牡鹿發出了低沉的咆哮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「我希望用他們的頭目給他們立一個榜樣。砍掉他的頭，剝奪他的自由，或者殺死他的家人——無論用哪種方式，只要能最有效地警告其他人不要入侵我們的領土就行。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​經過幾個小時的對練，她向你展示了許多敏捷和協調性的運用，而且詳細講解了她用於每一擊的步伐。
+
+在你的訓練結束後，你對脫離戰鬥時保護自己的能力有了更強的信心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「你回來了。尖牙欠你的人情還沒還呢吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​她微笑著向你鞠了一躬。「感謝你的幫助。我們的裝備、技能或賞金都能在你下次狩獵中助你一臂之力——選一個你最看得上眼的，當做我們的報答吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「等等，讓我想想。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​她聳了聳肩。「你下定了決心後，回來找我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「尖牙不會忘記你的援助的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「你的寬容是不會使他們就範的。他們的貪慾沒有邊際。他們不知榮譽為何物。把他們囚禁起來有什麼用？不殺他們能為其他人樹起什麼榜樣？」她搖了搖頭。「為什麼我們要再一次寬恕他們？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「你的寬容有什麼用嗎？他們的貪慾沒有邊際。他們不知榮譽為何物。把他們囚禁起來有什麼用？不殺他們能為其他人樹起什麼榜樣？」她搖了搖頭。「為什麼我們要再一次寬恕他們？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​「我會按照你的要求去做的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​[攻擊]「我沒空理你的什麼命令，做個了斷吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

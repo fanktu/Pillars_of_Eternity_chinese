@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_cv_ruins_vision</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​有一瞬間，裝置安靜下來，空氣靜止。接著，它突然爆發出一道震盪電湧。光線充斥著你的視野，接著你被震翻在地。落地時你的腦袋重重砸向地面，於是痛苦席捲了你的後腦勺，將你最後的念頭沖刷進了黑色的、失去意識的虛空。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你睜開眼睛，發現自己在另一個地方，另一個時代。你站在一個環形的房間，十分宏大，有著穹頂。它的牆用魂珀做內飾、用銅做修飾。房間的風格非常古老，但是卻不破舊。
+
+在遠端，一根巨大的魂珀柱子從下方穿過地板。它閃著微光的質地給人一種無盡深淵的錯覺。
+
+包圍著柱子的設備，很像你剛才見到的那個，但是更巨大並且更錯綜複雜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你的想法是你的，又不是你的，而它們似乎在你動腦想之前就已經存在了，而且全都是問題。緊迫的問題，令人困擾的問題。這些問題必須被回答，否則……否則…</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你在柱子底端看到一個穿著典禮長袍的大鬍子男人，頭上裝飾著奇怪的飾物。
+
+你認識這個人。你急忙朝他趕過去，掩飾著自己內心的焦慮。
+
+你有一個問題想問他，一個對於你至關重要的問題，而這個問題一直縈繞在你腦海中……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你醒來後發現身體已不像先前那麼疼痛，但腦中卻又被什麼更重要的事佔據了。微弱的細語清晰地在你耳邊迴盪，彷彿永遠不會消退的耳鳴。
+
+你周圍一陣騷動，但當你轉身看去時，你根本看不到有任何東西的跡象。你發現你的目光經常飛快地轉向這邊或那邊，不由自主地抽動。如果這是一種病，長時間不去治療的話會很危險。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你發現卡莉莎就躺在離你不遠的地方，他腦袋下鋪滿了血液。她的嘴唇沒有任何吐息的跡象。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​你發現休丹離你不遠，並躺在自己血泊中。他的身體一動不動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​休丹和卡莉莎滿身是血，躺在凹凸不平的鵝卵石上，他們的屍體在死後不自然地扭曲著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你形單影隻，孤立無援。鍍金谷應該是你在事態惡化之前接受治療的最大希望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​機器旁的人站在原地一動不動，血肉被灰燼所取代了。而領導他們的男人卻不見蹤影。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

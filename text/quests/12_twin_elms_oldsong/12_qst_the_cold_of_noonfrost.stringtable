@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_qst_the_cold_of_noonfrost</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>冰之獄</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>進入正午之霜的古曲區。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找到阿爾娃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>從正午之霜釋放阿爾娃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>返回巨口，去見菈爾哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>返回巨口，去見菈爾哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在古曲區的湖自從一群蒼精靈的到來後便開始結冰。尖牙的一位成員菈爾哈發派她的妹妹阿爾娃前往調查。
+
+阿爾娃去正午之霜神殿尋找答案。而直到現在她還沒回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>尖牙的一個斥候阿爾娃在正午之霜的湖上的神殿中失蹤了。菈爾哈曾派阿爾娃去調查殿裡的寒氣。
+
+菈爾哈認為最近來到神殿的蒼精靈可能是這個問題的原因。不管怎麼說，我可能無法在正午之霜找到阿爾娃——或她失蹤的證據。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我找到了正午之霜。格蘭費倫們在這裡有明顯的存在痕跡。
+
+如果他們對阿爾娃的失蹤負有責任，我懷疑他們是不會承認的。不過，我或許能夠自己找到她的蹤跡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>阿爾娃被鎖在正午之霜後部邊上的一個房間裡。她告訴我，格蘭費倫在她試圖溜走的時候抓住了他。她想讓我幫助她逃跑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>阿爾娃逃出了正午之霜。菈爾哈會高興見到她的，但她也想要聽到我對殿裡發生的事的報告。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>阿爾娃死前依然沒能從正午之霜逃脫。我必須把這個消息告訴菈爾哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我告訴她還不到安全離開的時候。如果蒼精靈在她逃走時抓住他的話可不是什麼好事，所以要麼得清理出一條路，要麼得找到某種方式來和他們的領導人進行談判。然而，他們好像並不想讓我見到他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>格拉斯瓦爾給了我釋放阿爾娃的許可。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我清理出一條路，使阿爾娃能從正午之霜逃脫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>阿爾娃死了，沒能從正午之霜逃脫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我和蒼精靈的首領格拉斯瓦爾做了個交易，以確保阿爾娃被釋放。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

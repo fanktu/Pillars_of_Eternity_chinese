@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_vithrack</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：澀卡爾</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺死澀卡爾，取走他的頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把澀卡爾的頭交給努阿王堡的看守人費爾佷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一名蛛人督主出現在珍珠林峭壁，有一份賞金提供給能殺掉他的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>澀卡爾是一個強大的蛛人督主，他和他的親族出現在珍珠林峭壁。他們的存在讓當地人感到緊張，他們提供賞金希望我能結果掉他。我要帶回他的頭來換取我的獎賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>把澀卡爾的頭交給努阿王堡小屋的看守人費爾佷並換取賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了蛛人督主澀卡爾的賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

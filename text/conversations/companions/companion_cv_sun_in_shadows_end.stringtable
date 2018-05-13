@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_sun_in_shadows_end</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​LREDER：玩家把鹿林的靈魂送到他們選擇的地方前的最後幾句話</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​LRGGP：玩家把鹿林的靈魂送到他們選擇的地方前的最後幾句話</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「我們無法控制發生在他們身上的事，[Player Name]。我們也不該去試。我只能等著怪物賽奧斯自己明白這一點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「有多少希望和夢想被輪迴擊得粉碎並陷……瓦爾知道那有多久！」
+
+希拉維亞斯撓了撓臉頰，上下打量了你一下。「現在你解放他們的時刻到了，[Player Name]。想想會有多少人獲得新生，而他們又會創造出多少精彩的歷程，這就是開始的那一刻，一切都在你的手中。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「不管以往發生過什麼，不管是什麼把我們引到了這裡……你可以按你自己的想法理解所有這些。」卡納淡淡一笑。「他們也同樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「自行想像，英格維斯人在幾千年前做出的決定塑造了我們的生活。」她搖著頭。「如果我們剝奪了這些靈魂追尋自己方法和目標的機會，那會很羞恥的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我們應該增強鹿林的力量了。他們已經受夠了磨難。」她歎了口氣。「我知道公爵們不希望鹿林強大，但是這樣對共和國的未來不好。我相信增強鹿林對我們最為有利。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​哀傷之母閉上眼，對你深深點了一下頭。「一路伴你左右……幫助你清洗賽奧斯在鹿林邪惡是一種榮耀。」
+
+她十指交叉，手腕上的鈴鐺發出清脆的響聲。「你面前還有一個選擇。那就是，通魂者——送這些靈魂回到他們的家裡，他們親人的身邊。讓人們記住承受遺贈而來的復原之力。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「這已經超出了我們的理解範圍，[Player Name]。眾神確實是仁慈的。只需看著賽奧斯怎麼自取滅亡吧。」他平視著你。「我不希望這樣的事發生在其他任何人身上。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「所有這些關於我們是誰，誰創造了我們的說法……」她搖搖頭。「都不重要，不是嗎？但是如果我們可以讓這些支離破碎的家庭重新團聚，我們的旅程還是值得的。」伊圖馬克彈了一下手指。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「走了這麼遠的路，結果什麼都沒完成，這是很痛苦的事。而且不知為何，我不認為我們比以前好，也不認為我們會知道我們該怎麼辦。」她悲傷地看著魂珀柱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​希拉維亞斯滿臉燦爛的笑容，拍了你一下。「幹的漂亮，[Player Name]。好好享受你的勝利吧——這是你應得的。而且如果你願意的話，你還可以用這些靈魂來增強生者的力量。一個真正的獵人可以為整個部落帶來力量和活力。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「共同的追尋把我們帶到了這裡，對於真相的追求就像被命運牽引著一樣。也許關於那個謎你有話要說。」卡納看著你。「但那是你的選擇，我的朋友。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「在我們知道了這麼多之後，[Player Name]，我想把他們還原回原來不算殘忍。我們已經知道這麼做結果會是如何，他們將無所作為。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「公爵們希望鹿林保持弱小，這樣我們就能接管和格蘭法斯人的交易。」她似乎有片刻的心理鬥爭，然後放棄了。「我不得不相信他們的判斷，將靈魂熵化是最佳方式。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​哀傷之母閉上眼，對你深深點了一下頭。「一路伴你左右……幫助你清洗賽奧斯在鹿林邪惡是一種榮耀。」
+
+她十指交叉，手腕上的鈴鐺發出清脆的響聲。「但如果我們可以從他的遺物中脫身的話，你一定要先釋放他困住的靈魂。他的工作肯定已經完成了……把這些靈魂鎖在破碎的生命身上只能拖長時間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

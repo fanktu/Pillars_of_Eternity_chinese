@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_cv_sleeping_mercenaries</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一小群蒼精靈在床上睡覺。儘管空氣很冷，他們看起來睡得很沉，胸膛此起彼伏。
+
+其中一個大聲的打著呼嚕。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[安靜的割開他們的喉嚨]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[不管他們]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你用手遮住第一個精靈的嘴巴，然後將刀刃刺進他的喉嚨，流暢的拉過。他迅速虛弱下去的掙扎幾乎沒有發出什麼聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你悄悄的向前移動，手中匕首緊握……在最後一刻，精靈的眼睛突然睜開，看見了你。
+
+你迅速的將刀刃刺進他的喉嚨——但他警告的尖叫響徹整個營地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你友好的對待其他的精靈傭兵，安靜的走過熟睡的精靈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你的同伴倣傚你的動作，在熟睡的傭兵能夠叫喊之前結束了他們的生命。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​剩下的傭兵們亂成一團。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[迅速擊殺其中一個熟睡的人]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你走向前，抓住最近一個精靈的耳朵，然後擰——
+
+一道尖銳，折斷的叫喊和令人不適的嘎吱聲之後。精靈在你手中完全鬆弛下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​你走向前，瞄準，狠狠的揮下你的武器。你聽見了武器擊中肉裡的嘎吱聲——傭兵的同伴也聽到了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你走向前，抓住最近一個精靈的耳朵，然後試著擰——
+
+他在你手中本能的蠕動，喊叫著警告其他人，然後從你手中掙脫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

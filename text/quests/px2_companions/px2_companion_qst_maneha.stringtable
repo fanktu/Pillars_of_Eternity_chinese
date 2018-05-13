@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px2_companions\px2_companion_qst_maneha</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>回憶的負擔</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>通往隕月修道院的旅程。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找到鹽之井。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>瑪娜哈，昂德拉的一名承福者，正在尋找一座隱藏的修道院，在那昂德拉教徒們丟棄所要被遺忘的各種東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我遇見了一名叫做瑪娜哈的承福者。她正在尋找隕月修道院。瑪娜哈受令去這座秘密的昂德拉神殿裡處理掉若干個代表物。
+
+她加入了我們，希望我們可以在旅程中訪問這個地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我們已經到達隕月修道院。瑪娜哈相信鹽之井就在這裡的某處。
+
+當我們找到它時，她就能洗去糾纏著她的回憶。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>瑪娜哈坦白，她尋求修道院是為了處理她自己的痛苦回憶。在修道院中有一口井，信徒們可以用它淨化自己的過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>當我醒來時發現，瑪娜哈正在做噩夢。有必要問問她這個夢的情況。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>瑪娜哈死了，而她還沒有找到自己尋求的解脫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我們找到了鹽之井，而瑪娜哈向昂德拉交出了她的痛苦回憶。要瞭解這對她的真正影響如何，目前還為時尚早。
+
+【劇透】</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我們找到了鹽之井，但是瑪娜哈最後決定帶著大屠殺的回憶活下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

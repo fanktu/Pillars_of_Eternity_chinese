@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_03_abbey\px2_03_cv_drowned_monk</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​在半困在冰中的一個骷髏上面，地穴裡寒冷的空氣裡，還徘徊著一絲精魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[探出並觸及精魂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你讓你的靈魂包裹精魂。記憶在你身下的薄霧裡分散，暗淡而破碎，碎片散亂著，就像暮光裡漂浮的塵埃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你正走進一個長方形的房間。這是在地下，石頭牆壁閃著光，依然殘留著洪水的潮濕。一隻手放在你肩膀上。你聽見她的輕語聲。「阿瑟雷克，我不想看。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​這份記憶消退了，然後你能看到的只有一塊巨石板。你盯著它，離牆只有幾英吋。你的手指在上面畫著圈，戳進粘附在已風化的表面上的苔蘚。你不確定你這樣做多久了，也許一直都這在這麼做。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​一聲尖叫驚醒了你。在眾廳裡迴盪，如雷鳴。你的耳朵很痛，疼到深處，就像一把匕首在你腦裡扭動著。你逃跑。其他人也逃跑。你不認識他們，不記得他們，但是，不知為什麼，他們的存在讓你稍微有點安心。是的，他們會有助於減輕你的痛苦。這噪聲，你會殺死它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​記憶中的怒氣消退了，而現在你坐在從岩石鑿出的階梯上。數十個骷髏在下面，在冰裡。他們下巴大張，寂靜無聲。
+
+然而，那是什麼？一陣低吼，咕嚕著，增大著，震耳欲聾。你痛苦地猛轉過頭，看看是什麼。水，極速衝下到了眾廳，將你淹沒在白色泡沫中。你摔倒了，你張開嘴想要呼喊，但是水灌入嘴裡，扼殺了你的尖叫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

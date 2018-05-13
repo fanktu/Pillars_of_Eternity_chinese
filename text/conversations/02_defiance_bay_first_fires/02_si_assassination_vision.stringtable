@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_si_assassination_vision</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「要我為你結束它嗎？」這句話一直迴響在你耳邊。你發現自己氣喘吁吁的，想要保持自己的平衡。你跪了下來，看著賽奧斯快速跑出這個建築。世界暗了下來，尖叫聲和武器聲都平息下來。剩下的只有這句話了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「要我為你結束它嗎？」賽奧斯站高高在上在講台上，地下是一群穿布袍的觀眾，你在他們之中，圍繞著一個寬且圓的、刻在石頭裡的深坑。
+
+他對著一個女人發言。女人被向後綁在一個巨大的鐵輪，俯瞰著這個巨大的石頭巨口。她的多個手指和腳趾都被切掉，她的腳底也被燒焦。她臉上的一邊皮膚看起來像是融化的蠟，黑紅而泛光，她背部的角度說明她的脊柱也壞了。儘管如此，她的表情幾乎沒有流露出痛苦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​她的眼睛幾乎閉著，她的話從哽咽的呼吸中出來，但是穩定，連續。「我已經處於平靜狀態了，大審判官。而你呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「那就這樣吧。如果你不想要終結，你就不會有。我判你宗教異端罪。願永恆監獄阻止你的靈魂通過，因為你的靈魂無可救贖。」
+
+他對著戴頭巾的逝者點點頭，他開始把她從輪子上解開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

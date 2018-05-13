@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\13_twin_elms_elms_reach\13_cv_naca</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>25</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你面前的請願者裹著一件寬鬆的長袍。她的頭髮暗淡而無光，裸露在外的皮膚上滿是汗漬和塵垢。她身上有著懷孕的浮腫，微笑咧開的嘴裡少了幾顆牙齒。
+
+當你接近時，她緩慢的轉向你，上下打量，自始至終一直在微笑。
+
+「你好。」她說道。雖然出自一具疲倦的身軀，她的聲音卻顯得洪亮而放鬆。「我叫瑙考，是一名助產士，也是博學家。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​她的手撫過小腹脹起的部位。她晃晃腦袋，輕輕一歎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​她的眼睛掃過希拉維亞斯時，因為驚訝而用手摀住了嘴。「也祝你有愉快的一天，『多彩獵人』。你來這是為了祈禱，還是尋找力量？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​希拉維亞斯好像嚇傻了。「你怎麼能看到我的——」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「原諒我朋友的脾氣。拜託了，我們想知道你所瞭解的一切。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「希拉維亞斯，這個女人在困擾你嗎？我們需要傷害她嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「給我們講講你關於凋魂豹猊都知道些什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「不，沒關係，」他說著話，眼睛一直沒離開那女人。「我只是因為她叫我而愣了一下，就這樣。」
+
+他撓撓耳朵，向著女人使勁吸了吸。「你說伽拉宛給我一件『禮物』是什麼意思？我可不這麼覺得。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「這些文本是什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「你說為重聚而活是什麼意思？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「這些牆上的文字……」她的思緒突然中斷了，手拂過肩膀，發出一聲鬥爭的歎息。
+
+很久之後，她又重新意識到了你的存在。「它們是冥想。關於自然和失去，力量和犧牲。他們對你的朋友會有意義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「你感覺還好嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我沒時間做這事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「很好！」她回答道。「抱歉，讓我一個人沉思一會。力量的儀式在變得強大——幾乎清晰可聞。」
+
+她向下撫摸著腹部，轉過身去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「事實上是氣味。」她眨眨眼回答道。「凋魂豹猊活在你的身體內。伽拉宛給了你這麼多……讓你擁有一雙瓦爾的眼睛……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「他給我的只有放逐！」希拉維亞斯大叫起來。他的聲音迴盪在寬闊的洞穴中，他的臉變得通紅。
+
+「就算我的變身是隻狐狸或者鶴，都對我的部落更有用。不管力量是否強大，我的部落都很抵制凋魂豹猊——對他們來說，我就是個毀滅靈魂的怪物！別說得這好像是種禮物一樣！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「讓她說完。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「伽拉宛不會給予你所不需要的變身。如果凋魂豹猊於你而言是一種負面效果。也許是你恰恰弄反了。伽拉宛給了你狩獵需要的工具——他沒有必要為他的獵人平添無謂的負擔。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「我還是不理解……」希拉維亞斯聳聳肩，撓撓頭，甩掉一些小蟲子。「我需要做什麼才能治好我的這種變身呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「治療？」瑙考困惑地看向希拉維亞斯，低聲嘟囔著什麼。
+
+「我親愛的孩子，凋魂豹猊本身就是解藥。伽拉宛賜予你這種變身，這樣你就能為重聚而活了！」
+
+她伸出雙臂示意送客。「去染血沙地看看我們留在石頭上的文字。它們會給你想要的答案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​瑙考微笑著。「我知道它是一種可怕的生物，由伽拉宛指派而帶來裁決。那些無價值而被這野獸殺死的人將永遠失去他們的靈魂。」
+
+希拉維亞斯的眼睛張大了，但在他打斷之前，她又補充道：「我只是在告訴你我們之前的博學士對它的描述。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​她茫然無神地盯著你，手拂過懷孕般的腹部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「我可有點懷疑這個，」希拉維亞斯在你身後小聲嘟囔著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​你向希拉維亞斯微笑了一會，直到你感到他的手在你身側。「我不覺得她還能說什麼有用的——我們趕緊去看看她說的聖典吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

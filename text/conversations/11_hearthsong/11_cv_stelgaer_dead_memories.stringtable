@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_stelgaer_dead_memories</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​地上佈滿了乾涸的血跡和被踩踏過的落葉，一隻巨型豹猊的屍體躺在那裡，爬滿了蒼蠅。屍體上佈滿了戳刺和砍剁過的痕跡，應該是曾受過矛和劍的傷害。
+
+你碰了碰豹猊屍體的一側。一群蒼蠅嗡嗡響著飛向空中，突然之間，你感知到了它殘留的精魂。周圍的世界朦朧起來……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​……獅群正在休息，年幼者躲在岩石下，肚子吃得滾圓。你轉過身，望向樹林的遠處。月光灑在那些連在一起搖曳著的樹冠上。你嗅到了空氣中有一絲異常的氣息。你躲到了陰影中，做好了準備……
+
+……瀑布在月光下閃著光。獵物就在下方。兩條腿走路，頭髮象乾草一樣。它走近了瀑布。細細的雙腿，動作緩慢，聲響很大，似乎對危險毫無知覺，它拿著一支尖利的棍棒。這是一隻兩條腿的獵手，很差勁。獵物……
+
+……獵物更近了。明亮的月光，獵物。它走進了黑暗中……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​……疼痛！你身體的一側感到劇痛！你的一側身體被棍棒刺中了。你咆哮著，搖憾著那根棍棒。它在石頭上啪地一聲斷裂了。石頭上灑滿了你的血。樹葉沙沙作響，你警覺地四處察看。又一個兩條腿的獵手。不同的是這一個大腿粗壯，無聲無息，臉上畫著條紋。強壯的獵手。敵人……
+
+……你朝著它的脖子撲了過去。它躲開了，行動很敏捷。你探出爪子，抓到它的身體，你的爪子深深地刺了進去，並劃開來。兩腿獵手的血灑在了落葉上。它大聲吼叫起來。它奮力反抗著。它長長的武器在空中揮舞。砍在了你身上。你又多了傷口。刺骨的痛楚。你攻擊它，它毫不示弱地反擊。你的爪子上沾滿熱乎乎的鮮血。和你胸膛上的傷口一樣的火熱。整個世界變成一片紅色……
+
+……你再也沒有力氣了，連呼吸的力氣都沒有了。那個兩條腿的獵手俯視著你。滿地都是你們兩個的血。它高舉起了尖利的棍棒。你看到天上明亮的月亮。那個強壯的獵手。整個世界歸於黑暗……</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

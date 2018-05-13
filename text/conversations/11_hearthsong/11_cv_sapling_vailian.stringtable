@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_sapling_vailian</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「鹿林人擅長釀酒，但格蘭法斯人建的酒館更能吸引人上門。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「雖然和我們做交易使這些部落的生活改善了不少，但他們仍然對外人有著深深的敵意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「你知道英格維斯的廢墟裡沒有什麼？上好飲料的配方……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「這裡有這麼多的羽精——一點不像我的家鄉。桌子這麼低肯定是為羽精們設計的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

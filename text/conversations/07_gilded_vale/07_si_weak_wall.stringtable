@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_si_weak_wall</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>45</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​撞擊聲沿著牆壁從地板到天花板響了起來。一小陣狂風穿了過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[向前推牆]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​經過好長一段時間後你開始看見另一邊發出來的光。你最後一陣拍打，好幾塊石磚移動了，緊接著鬆散並倒塌下來，清理出足以一人穿過的小道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[使用錘子和鑿子削弱牆壁]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「卡莉莎，你覺得你可以移動它？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​卡莉莎望著破碎的石牆想了想，然後點了點頭。她踏上前去然後推著石牆。經過一小段時間的掙扎之後，石牆倒下了，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​儘管對石牆造成了損傷，石牆依舊厚重且堅固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[派遣[Slot 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[派遣[Slot 1]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[派遣[Slot 2]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[Slot 0]用上了他所有的力氣，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[Slot 0]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[Slot 0]用上了她所有的力量，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[Slot 0]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[Slot 1]用上了他所有的力氣，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[Slot 1]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[Slot 1]用上了她所有的力量，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[Slot 1]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[Slot 2]用上了他所有的力氣，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[Slot 2]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[Slot 2]用上了她所有的力量，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[Slot 2]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​什麼人都沒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[派遣[Slot 3]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​[派遣[Slot 4]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[派遣[Slot 5]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[Slot 3]用上了他所有的力氣，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[Slot 3]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​[Slot 3]用上了她所有的力量，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[Slot 3]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​[Slot 4]用上了他所有的力氣，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[Slot 4]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[Slot 4]用上了她所有的力量，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​[Slot 4]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​[Slot 5]用上了他所有的力氣，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​[Slot 5]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​[Slot 5]用上了她所有的力量，劈啪聲開始擴散開來。最後，古老磚石開闢出一條道路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​[Slot 5]用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​[自己推]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​你用上所有的力氣，劈啪聲開始擴散開來。最後，你感覺到古老磚石讓開了一條路。牆壁倒了下來，前面出現了一間圓形房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​你用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​你開始行動。隨著你的努力，裂縫開始向縱深兩個方向擴大，但是這個過程比你想像的還要更耗費力氣。你的前額滲出汗水，你的肌肉開始酸痛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​[繼續開鑿石牆]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​[試試其他辦法]</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

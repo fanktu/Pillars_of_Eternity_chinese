@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_llengraths_arrival</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>13</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你注意到前面有什麼東西在動。
+
+一個穿布袍的身影正跌跌撞撞地踩著爛泥，向前衝著。他用一個號角吹出單調、尖利的鳴響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​響聲穿過泥沼，迴盪在幽深的樹木和廢墟間。
+
+在號角聲的掩蓋下，你聽到了不祥的隆隆聲，北邊的污水開始泛起水泡並翻滾起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​一個光滑的、有鱗的動物的吻部探出了水面。當你剛看到這一幕，緊接著就是一條巨龍從泥沼中躍了出來，泥漿和泥沼水四濺。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​巨龍搖動腦袋，把亂草從雙角上搖落，然後低下頭用一雙銳利的眼睛盯著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[揮手]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[揮動你的武器示威]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​龍冷漠地注視著你。它一動不動地站著，似乎在等待著。
+
+你注意到遠處有個小小的、黑色影子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​龍俯下頭。從它茶杯大小的眼中，你似乎看到了一絲愉快的光芒。
+
+你注意到遠處有個小小的、黑色影子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​你突然感到一陣疾風從頭頂拂下，那團影子變大了。一個長有雙翅的影子敏捷地落在了林中空地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​隨著第二條龍猛地落在地上，你看到它的背上有個人影：一個有著長長雙角的女人，身著飄逸的長袍。
+
+她姿勢優美地從龍背上滑下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[站在原地不動]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[舉起雙手]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​當你走出籐蔓叢後，來到了一處寬廣、寂靜的空地。遠處是一條看不到盡頭的深深河流，周圍是稀疏的樹木。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

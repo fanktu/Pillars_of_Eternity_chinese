@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\13_twin_elms_elms_reach\13_cv_hylea</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>135</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你閉上眼睛祈禱。隨著你在黑暗中等待，周圍的世界發生了變化。你感到溫暖而明亮的陽光照在了你的臉上。和風吹來悅耳的音樂。
+
+這些感覺雖然很生動，但不知為何你知道它們都不是真的。
+
+你環顧四周，發覺你正站在山頂上一所露天的神殿裡。廟裡擠滿了精靈、羽精和各種各樣的人。環繞著人們的是一圈大樹，它們鬱鬱蔥蔥的枝條上跳動著五顏六色、千奇百怪、形態和大小各異的鳥兒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你跪下了。當你祈禱時，你感到周圍的世界發生了變化，睜開眼，你發現自己正位於山頂神殿的幻景中。但既看不到信徒也沒有巨龍的影子，只有一棵樹在那裡。
+
+樹的枝幹包繞著整個神殿，枝幹的末端分叉成橫七豎八、粗細不一的枝條。這些細密的枝條太長太多了，和樹幹完全不成比例，但整棵樹在微風上看起來依然很穩固。
+
+一隻麻雀落在了離你最近的枝條上。它注視著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「快點，通魂者。你必須趕在悲劇發生之前阻止賽奧斯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​當你向海蕾婭祈禱時什麼也沒有發生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​吹拂的風中傳來一個聲音，文雅而柔和。「你已經到過我的神殿，並找到了巨龍。但你沒有趕走它，而是允許它留了下來。鳥巢裡再也不會有信徒們的歌聲，那只凶獸和她的幼崽為了果腹會殘殺許多生命。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​吹拂的風中傳來一個聲音，文雅而柔和。「你已經到過我的神殿，將它從巨龍手中奪了回來。現在忠實的信徒們回到了神殿，唱著歡樂的歌，通過他們的創作讚頌著我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「當你到達埋葬島時，你會發現那裡有許多靈魂，我給和了他們對其罪惡的緩刑。我把他們給你，讓他們承載你向下進發並安全落地。
+
+「當你面對賽奧斯和他的企圖的那些腐爛果實時，要想起我們在這兒的交談。在那一刻，你會擁有和神明匹敵的力量。而當一切都結束之後，你會活在你所選的那個世界（指你的選擇會改變世界。此外言下之意是你要謹慎選擇）。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​每個人都在心無旁騖地從事著自己的事。一個羽精坐一張畫布旁，手裡拿著畫筆，身旁擺滿了裝有顏料的瓶瓶罐罐。一個精靈和一個海裔站在一邊，眉飛色舞地交談著。
+
+還有一些人伏身在手中的本子上匆匆記下腦海裡詩歌的韻律，不時琢磨著音節和行文佈局。微風又吹了起來，有兩個精靈在曬著太陽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​更多的人則聚集在神殿中間。他們唱著一首繁複而混亂的、由若干組讚頌性的旋律組成的和聲。周圍的人三三兩兩地圍攏過來，似乎是被這些頌歌所吸引。
+
+樹林中掀起一陣漣漪。你以為那是風，但鳥兒的鳴叫聲變成了尖叫。成百上千隻鳥兒飛向天空，全部朝著一個方向——遠離（意思是逃走）。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​虔信者們的目光轉向樹林，他們的活動被打斷了，茫然不知所以。風大了，把詩篇和畫布吹得飛了起來，虔信者們停止了吟唱。他們向天上看，你也跟著向上看。
+
+一個黑暗的身形遮住了太陽。你不知道那是什麼，它展開來，越來越大，似乎要充滿整個天空。狂風咆哮著刮過山頂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​你還沒來得及逃走，一個陰影就已經籠罩了整座神殿。它起初只是角落上的一個黑點，然後擴張並吸入了（地面上的）所有石板。
+
+它夠到了離你最近的人，一個黑羽毛的羽精。這黑暗吞下了她，在她的位置只留下一股輕煙。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​你抬起頭，再次尋找黑暗的來源，天空中，只有被遮擋的太陽在那個黑色物體周圍留下的一圈刺眼的光暈。其他什麼也看不清楚。
+
+不過，你能感覺熱量。
+
+「恢復我的神殿。」
+
+當你再低頭看時，發現自己正站在群星之塔的海蕾婭聖壇旁。由於剛才的奇怪遭遇，你的脈搏還在狂跳，皮膚被冷汗打濕。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「我尋求拜見海蕾婭。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[向鳥吹聲口哨]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[朝麻雀扔塊石頭]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​麻雀以鳥類特有的姿態豎起了頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​麻雀飛走了，把你一個人留在了山頂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​你吹起你腦海裡最先冒出來的一段曲調。麻雀眨著晶亮的眼珠，沿著樹枝向你跳近。
+
+它一邊點著腦袋一邊張開嘴，忽然間百鳥齊鳴，一陣豐富的、興奮的合唱噴湧而出。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​伴隨著雷鳴般的拍翅、鳥鳴聲，一群數量巨大的鳥忽然飛了下來。各種形體、大小、顏色的數千隻鳥，一隻緊挨著一隻地站滿了樹枝。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​一陣清風輕輕吹過。樹幹抖動起來，發出奇特而輕柔的韻律。幾百隻鳥飛離樹枝，在大樹前形成了一個燦爛的、色彩斑斕的鳥的漩渦。隨著它們相聚並一道俯衝下來，在這一陣羽毛雨中，你隱約瞥見其中有人正盯著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「通魂者，我相信我們正站在傳說中的百鳥王庭中……」
+
+她閉上了他的眼睛，抬頭對著天空。「我感知到了某種存在……溫暖和希望……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「看那兒那覆蓋著飛羽的斗篷。我們正站在百鳥王庭裡，而那正是天空之母！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​一股微風輕輕震動，送來一個聲音，溫和而柔軟。「你把巨龍從我的神殿趕走，但讓它活了下來。為什麼你對它如此仁慈？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「那條巨龍只是在庇護他的孩子而已。難道你不是母愛之神嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「龍，如同你的鳥一樣，也是翱翔在天空中的生物。每條生命都是有代價的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「她靠強大而贏得了這份仁慈。我不會從她身上奪走它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​隨著鳥群繞著神殿飛旋，那股微風推向你。「沒錯，而每個生命都應當創造和其相稱的價值的奇跡。一條龍創造了什麼呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「烈焰。它吞噬但也助力（提供能量給）創造。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「死亡。巨龍給老的、弱的、還有恰好跑進它的視野裡的生物帶來終結。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「更多的龍。大龍創造小龍。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「美。偉大、強大而多彩，它們是令人歎為觀止的奇物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​一隻貓頭鷹發出尖叫。「而我不會幫助你。」其餘的眾鳥也飛走了，你一個人站在空空的樹前。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​突然，無數的鳥飛向空中，彷彿一場色彩的爆炸。「太陽之羽。燦爛的、燃燒著的橙黃色的羽毛。在天空中，它帶來生命；在靈魂中，帶來激勵；而在詩人的書桌上，帶來指引。
+
+「你的回答體現出了洞察力，通魂者。體現出你的靈魂是黑暗中的一盞蠟燭。或許你能把光明照進一片陰影之地。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「這是毀滅，而不是創造。那麼，走開，去獻身給和你本性相近的神吧。」眾鳥漸漸地消失在一場飛動的翅膀的風暴中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「它們的強大賦予了無數的詩歌和傳說以靈感，而它們的展翅填滿了誒歐拉各地的畫布。」
+
+一隻碩大的鸚鵡扇了扇它深紅而金黃的尾巴。
+
+「如果你能看出好的、值得保存的生物，那麼你或許是結束這場悲劇的合適人選。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「圓滑的答案，不過還是帶有一絲智慧的。生命必須繼續。幼小的必須得到養育，而每一代種下的種子必須長大並結出屬於其自己的果實。
+
+「如果你珍惜生命，那麼你或許是結束這場悲劇的合適人選。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「龍的生命一樣有價值。我不會沒有必要地結束它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「我更願意為其他戰鬥而保存我的力量。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​聚集的鳥群圍著神殿飛旋。風變為你耳中一聲輕柔的歎息。「當有人在廢墟深處等著你時，這不失為一個明智的決定。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​聚集的鳥群圍著神殿飛旋。「沒錯，通魂者。一個在合適年齡之前就結束掉的生命，是一首被扼殺的歌。一首未完成的詩。
+
+「如果你能理解這個，那麼你或許是結束這場悲劇的合適人選。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​「我已經知道賽奧斯·伊克斯·阿坎儂已去往影中之陽，以便用無數靈魂增強媉蒂卡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「我為了你的幫助而來。我必須到影中之陽去。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​「我正在聽。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​「生命是創造和慶典。我非常高興能夠在此事中為你效力。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​「好。現在，我希望請你幫我一個忙……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​「我就是想殺條巨龍而已。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「那麼你已經得到了另一位的青睞。但制止賽奧斯並不能治癒鹿林。
+
+「你必須引導那些被困的靈魂們回到他們被偷走的身體裡。眼睛從沒見過太陽的那些空嬰們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​「沒問題。但不僅要制止賽奧斯，還要結束他所釀成的悲劇。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​大樹上的眾鳥開始唧唧地唱了起來，隨著它們歌聲的起伏，海蕾婭說，「賽奧斯的行動是被另一位所控制的。流亡女王在他耳中輕語。驅使他去掠奪活人和未出生的靈魂，讓她獲益。
+
+「而他服從了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​一隻老鷹在它的棲枝上動了動身子。「她會吞噬他們。她變得越來越強大，而同時成千上萬的空嬰出生。
+
+「但還有時間去挽回這場悲劇。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「媉蒂卡為什麼要做這種事？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「聽上去賽奧斯很久前就跟她勾結在一起了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​一對老鷹開始尖叫。「因為比起仁慈，她更看重權威。比起人類，更看重律法。她認為凡人的靈魂的價值並不在於他們所創造的美麗事物，而在於他們所能增添到她的力量中的東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「你不能親自製止賽奧斯嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​那股風漸漸冷了下來。「她害怕靈魂學。她相信凡人可能會用它來篡奪眾神的力量。她的力量。她對於人類的創新毫無興趣。她怎麼會有興趣？她給出的只是命令，而不是激勵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​「你已經知道他有過很多次人生。在每一次，都是她在他的耳中言語。引導他服務於她的野心。驅使他保護她的利益。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​眾鳥的旋律漸漸地憂傷起來。「而他的每次人生，都成了一首獻身給誓縛者的歌曲中的，一段又一段（詞曲）。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​「所有的神——就連媉蒂卡——都被一個誓言所束縛。我們歌唱一個和聲，而人類唱另一個。而雖然有時我們會引入一段新的旋律，希望凡人的耳朵會聽到它、然後會回應我們，但我們卻不會干擾他們的合唱。如果這樣做了，會在眾神之間引發刺耳的不諧之音——它會壓倒我們的和你們的歌聲。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​在眾鳥咕咕聲中，那股微風輕輕劃過你的腳踝。「不過媉蒂卡對賽奧斯唱著她的曲子。我會同樣地，對你唱我的曲子。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​「我怎樣才能讓事物都回到其以前的正道上來？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​眾鳥突然沉寂了下來，觀察著你。風中的聲音又回來了。「帶領那些被困的靈魂回到他們被偷走的身體裡。眼睛從沒見過太陽的空嬰們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​「你能恢復他們。在多年的哀痛後，把歡樂的頌歌還給他們的家庭。」
+
+那股微風使你耳朵發癢。「安寧和恢復，給和苦難以意義。如果痛苦不通往完滿和充實，那麼它就沒有意義、沒有救贖。對稱性要求，在這樣的苦難之後，應有巨大的歡喜。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​「我不確定是否有可能真的消除賽奧斯所造成的傷害。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​「謝謝你，海蕾婭。我會繼續前往影中之陽。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​「或許讓這些靈魂去尋找新的人生會是個更好的決定。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​「在沒有完整度過此生的情況下，他們又怎麼能開始另外一次？就這樣讓他們前往另一次，就如同把詩截去一段。把歌切去一節。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​對這一切，葩萊吉娜報之以瞇眼和苦笑。「而我在這裡該感覺像是到家了（一樣溫馨和有歸屬感）。當真？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​杜蘭斯吐了口痰。「當世上有意義的事物正在被侵蝕時，還把他們的生命浪費在探索沒有意義的事物上，對於這些人來說，這的確是個天堂。哦，燒了這些樹吧，通魂者……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​「看看這個地方！所有的這些人，聚在一起分享他們的創造和——」卡納的眉頭皺了起來。「那幅畫到底是怎麼回事？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​莎加妮舉起她的弓。「什麼東西正在接近。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​當鳥群混雜地飛入空中，希拉維亞斯發出一陣吱吱的鳥叫聲。
+
+「糟了，」希拉維亞斯喃喃，臉色很難看。「什麼東西嚇到了它們，但它們不肯告訴我是什麼……還有，我想我發錯了鳥音，而可能罵它們是荒淫的……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​「這解釋了這些鳥的行為。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​「不像是個好兆頭。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​哀傷之母撐著她的頭。「歡樂的歌聲……變成痛苦的尖叫。如此巨大的毀滅的背後，究竟能有什麼目的、什麼教訓？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>​你的祈禱把你帶回了山頂神殿，但這次，你只看到了信徒們的灰燼和他們的藝術品。神殿的陰影包圍了你，突然你發現你回到了群星之塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>​卡納正驚訝地凝視。「世上每個角落的鳥……瞧，我想我看到了一些勞瓦泰的海雀！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​葩萊吉娜重重地歎氣。「說實話，我不太受得了鳥類。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>​那股微風意想不到地變得寒冷。「那麼，你渴望鮮血和榮耀。但只要稍加引導，你對於暴力和死亡的激情亦能保護生命。」
+
+那股微風變為你耳中一聲輕柔的歎息。「我要你面對一個更為強大的敵人。」巨大的鳥群圍著神殿飛舞著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>​那股微風吹過樹枝，引得眾鳥咯咯地笑著。「互利互惠，對吧？倒也不是一個不受歡迎的建議，只要我們有著同一個目的。」巨大的鳥群圍著神殿飛舞著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>​那股微風顫抖著。一隻鴿子咯咯叫了起來。「在如此兇惡的生物中，你還能發現其溫柔的一面。
+
+「你具有慈悲心，通魂者。你的靈魂具有非凡的領悟力。我有其他的事情請你做。」聚集的鳥群圍著神殿飛旋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>​「感到高興，是因為你尋求保護生命，還是因為你需求得到神恩？
+
+「總之，你已經在此次任務中證明了你自己。我會告訴你另一個任務。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>​哀傷之母輕輕晃了晃。「還有辦法，通魂者！還有希望……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>​「你一定要制止賽奧斯。還要結束他所釀成的悲劇。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>​「所以，靈魂學真有（傳言中的）那麼強大？」卡納看起來滿腹思緒。「……我一向尊重我們努伊王的命令，還有守護者的——但那是因為他們值得尊敬。在命令和激勵之間，是有差距的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>​艾洛斯動容了。「這就是鉛灰之鑰的本質？幾個世紀中（都是這樣）？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>​你聽到了急促的、輕柔的、哀傷的叫聲。「或許這些年（人們的經歷）無法被遺忘。而且對於一些人來說，或許已經太遲了。但如果你能恢復哪怕一個靈魂，燃起一粒生命的火星，增加一絲歡樂的聲音，那都是值得的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>​莎加妮縮了縮。「那些傷口定然能夠治癒的。你不認為長時間的缺席是可以克服的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>​哀傷之母拍了一下手掌，發出掛鈴的音樂。「在這麼多年後，讓時間治癒他們的傷口，擦乾他們的眼淚……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>​「這事還有另外一面。」他的語氣很謹慎。「你已經見過了一個脫離輪迴的靈魂的下場。這些孩子真的能夠返生嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>​「如果可以，我們當然可以治療他們的靈魂，還有他們的傷口……
+
+「但他們受苦的年月無法被消除，而且可能會在他們的人生中留下沉重的負擔……沒錯，這是困難的那個慈悲。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>​「思考，然後，選擇。」所有的鳥張開它們的翅膀飛向空中。當大量的鳥群圍繞著你，你再次瞥見了在飛羽漩渦中有個人正盯著你。她的凝視充滿了同情和希望。
+
+鳥群往太陽的方向飛去。他們逐漸模糊，在一瞬間中你看見了巨龍和一道暗影，當你的視線清晰了，你發現你正站在群星之塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>​哀傷之母的眼睛燃燒著熾熱的火焰。「通魂者，這是我所揣著的希望……鹿林的孩子們能夠被恢復，而他們的家庭能夠被治癒……
+
+「讓我們把海蕾婭的恢復（名詞）帶給這個國家吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>​你之前看到的兩個精靈，一個男性和一個女性，逃走了。你看到了一段非常短的景象：他們在山峰的陰影中抱成一團。他們好像也看見你了，並伸出手臂，在你後面無聲地呼喚。
+
+然而，其他人好像被凍結了。隨著陰影前進，他們一個個地消失了。一股猛烈的暴風拍散了他們的灰燼，還有他們的被燒焦了的創作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>​「那條巨龍只是在庇護他的孩子而已。難道你不是母愛之神嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>​你跪了下來。當你祈禱時，你感覺到你周圍的空間快速地擾動並融化，然後你發現你在一個山頂神殿的幻景中。在古老的廢墟裡長著一棵樹。
+
+樹的枝幹包繞著整個神殿，枝幹的末端分叉成橫七豎八、粗細不一的枝條。這些細密的枝條太長太多了，和樹幹完全不成比例，但整棵樹在微風上看起來依然很穩固。
+
+一隻麻雀落在了離你最近的枝條上。它注視著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>​[向海蕾婭祈禱]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>​哀傷之母拍了拍她的手掌，鈴聲像是送葬的鐘聲。「這樣做真是仁慈嗎？即使這或許能擦乾父母的眼淚……讓父親和母親照顧他們的孩子……庇護他們……
+
+「這會把孩子們的靈魂拘束在自己並不認識的半大的身體裡……這些身體已經經過了多年的監禁，『殘酷救贖』，甚至更糟……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>​哀傷之母睜大眼睛盯著你。「首給他們這一輩子的人生吧，通魂者……讓他們感受到等了他們好久的父母的愛……照顧他們……並還讓他們的歸來給鹿林帶來治癒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>​「這是我曾揣著的希望……我現在看出，這是個虛假的仁慈……只是延長苦難而已。
+
+「奪走這些生命的靈魂是賽奧斯犯下的罪行……我們別再添上一筆、不讓他們回到自然的輪迴。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>​你走到聖壇的前面，準備背誦儀式關鍵句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>​「一切都可以被重鑄。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>​「死中有生，生中有死。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>​「生存始於內在的力量。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>​「活好生命之歌的每一個音符。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>​「鬥爭是我們的本性。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>​「我歌唱海洋的悲傷，以便忘記我自己的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>​「所有生命終結於靜止。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>​「明天，我的主人被自己的鞭子勒死。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>​「沒有問題，何來答案？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>​「當媉蒂卡奪回她的王座時，一切冤屈都將昭雪。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>​你的話剛說出口就消散了，就好像落入一片虛無之中。大廳變得死寂——然後你腳下的地面開始顫抖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>​你的詞句似乎在空氣中迴響，你的聲音呈現出某種未知的藝術的旋律性和抑揚頓挫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>​「選擇恢復（名詞）吧，通魂者。把靈魂送回到他們被偷走的身體裡。向我宣誓你會這樣做，而我將會賜予你甚至能讓媉蒂卡顫抖的力量。」
+
+一對巨大的黑色的翅膀，遮擋著太陽，在大樹後展開，巨大的影子一瞬間就覆蓋了整個神殿。
+
+「我能夠仁慈也能夠凶殘，通魂者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>​「我宣誓把這些靈魂送回給鹿林的空嬰們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>​「我得好好想想。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>​「我要先聽聽其他神明有什麼要說。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>​「聆聽，然後，選擇。」所有的鳥張開它們的翅膀飛向空中。當大量的鳥群圍繞著你飛旋，你再次瞥見了在飛羽漩渦中有個人正盯著你。她的凝視充滿了同情和希望。
+
+鳥群往太陽的方向飛去。它們模糊不見，讓你回味著巨龍和影子的那一瞬間，但當你的視線重新清晰時，你發現你站在群星之塔裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>​「而我則會記住。」小燕子黑色的翅膀突然間收起，飛到了你的肩膀上。它微微仰頭開始張口唱歌，歌聲是你聞所未聞的。
+
+悲傷而美麗的音符讓你深深入迷。世界只剩下一片純淨的顏色和歌聲。每分每秒連綿不斷，像是詩裡的句子或曲子的小節一般美妙。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>​宛如從夢中醒來一般，你仍在群星之塔。海蕾婭的歌——和她祝福的力量——仍然伴隨著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>​上千隻鳥從神殿中的樹上飛落。海蕾婭的聲音在一陣微風中傳來。
+
+「你是回來宣誓的嗎，通魂者？別低估我的力量。我對忠實於我的人而言是強大的朋友。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>​一隻貓頭鷹發出刺耳的呼嘯。「你的話出賣了你冷酷無情的內心。
+
+「不過你天生富有激情而敏感。你的雙手和雙眼都經過了訓練，不是為了讓世界繼續保持現在這個樣子，而是變成它該有的樣子。
+
+「我打算給你一項更艱難的職責，通魂者。讓這個國家變回它該有的樣子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>​一隻貓頭鷹發出刺耳的呼嘯。「你的話出賣了你冷酷無情的內心。
+
+「不過你天生就帶著激情和嚴謹探索一切。你在尋求真理。我只希望當你找到它時，你能做你該做的，結束這場悲劇。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>​聚集的鳥群圍著神殿飛旋。風吹過你的耳朵，帶來一陣輕歎。「總是如此實際，通魂者。當有人在廢墟深處等著你時，這不失為一個明智的決定。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>​聚集的鳥群圍著神殿飛旋。「沒錯，通魂者。一個在合適年齡之前就結束掉的生命，是一首被扼殺的歌。一首未完成的詩。
+
+「你到此的旅行展現了一顆慈悲之心。也因此讓你成為結束這場悲劇的合適人選。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>​微風緩緩散去。一隻鴿子在咕咕直叫。「即使在猛虎心中你也能發現薔薇。
+
+「你漫長的旅行已經揭示出一顆慷慨和憐憫之心，通魂者。我有其他的事情請你做。」聚集的鳥群圍著神殿飛旋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>​「我本希望我的任務能讓你懂得仁慈和溫和。」一隻貓頭鷹發出刺耳的呼嘯。「但是我不會幫助你。」餘下的鳥兒都飛走了，只剩你站在一顆光禿禿的樹前。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>​「這是毀滅，而不是創造。我本希望能治癒你對暴力的偏愛。那麼，走開，去獻身給和你本性相近的神吧。」一片振翅聲過後，鳥兒都消失無蹤了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>​突然，無數的鳥飛向空中，彷彿一場色彩的爆炸。「太陽之羽。燦爛的、燃燒著的橙黃色的羽毛。在天空中，它帶來生命；在靈魂中，帶來激勵；而在詩人的書桌上，帶來指引。
+
+「你說話的樣子像是充滿了明亮的火花，通魂者。你的靈魂像點亮黑夜的蠟燭。也許你能為一片陰影之地帶來光明。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>​「它們的強大賦予了無數的詩歌和傳說以靈感，而它們的展翅填滿了誒歐拉各地的畫布。」
+
+一隻碩大的鸚鵡扇了扇它深紅而金黃的尾巴。
+
+「而你的靈魂也充滿了同樣熱情的能量。確實，你是結束這場悲劇的合適人選。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>​微風吹過大樹。一隻鴿子把頭伸進羽毛中並觀察著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>​鳥兒們又飛回樹上緩緩落定。微風又一次帶著女神的聲音拂過樹梢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>​這個聖壇坐落在一片明亮的星座前，它的星星組成了一個橢圓形的蛋。有一雙翅膀從蛋的中央向兩邊伸展開來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>​你又一次站在了海蕾婭的聖壇前。她星座的星星彷彿更加絢爛了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_04_eyeless_stronghold\px2_04_cv_dead_explorer</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​無論這人是誰，他都已經死了很久了。剩下的肉體已經發黑，並且凍得堅硬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​這個環形山令你和你的三個同伴擔心。它感覺不對勁、有污穢。但是，財富的誘惑更強。在湖中心那巨大的岩石可能包含黃金、寶石或更多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​那個六肢魚怪再次發出那種聲音。「等等。」你開始說話，但在你繼續說話之前，這個生物將它的矛深深地插進了你的胸膛。不幸中的萬幸，死前的痛苦很短暫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[觸摸屍體]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​筋疲力盡地忙碌了一周，才完成了這艘小船。它或許並非完全不漏水，但已經足以讓你們跨越湖水回去了。
+
+你們從岸邊出發，寒風讓帆吃滿了風。薩頓朝你咧嘴一笑——他曾對船是否能浮起來表示過最大的懷疑。片刻之後，他消失了，在一隻巨大的觸手從水下把他猛拉下去的時候，僅僅勉強發出了一聲尖叫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​更多的觸手從水中冒出。在船被撕裂時，空氣中充滿了木頭裂開的聲音。
+
+你毫不猶豫地跳入水中，並開始瘋狂地向岸上游，同時希望你的朋友也在做相同的事。你沉重的皮衣讓你行動緩慢，但出於某種奇跡，你活著爬上了岸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​你聽到汩汩聲，抬起頭，看見一個魚之人，一個六肢魚怪，站在你的上方，舉著它的矛。你雙膝跪地，雙手抬起，顯示你沒有武器，不構成威脅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

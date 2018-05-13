@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px4\px4_cv_fulvano_blunderbuss</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你注意到在魂珀和銅之間有某個不一樣的東西，在紀念像的耳朵後夾著一個木頭和鋼鐵的物體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[拿走物品]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[不去動它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​站在欄杆上，你向這個大得過頭的耳朵探出身子。你向這個物體伸出可以活動的那隻手，直到你的手指擦碰到木製的末端，接著在其上獲得了著力點。你把它拔了出來，然後爬下並回到平台上，檢查你的收穫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​鋼製的短漏斗固定在結實的柄上，這個武器似乎是一把磨損很厲害的喇叭槍。鋼鐵槍管飽受大量刮痕，同時握把的硬木表面坑坑窪窪。這個火器聞起來有煙和海的味道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

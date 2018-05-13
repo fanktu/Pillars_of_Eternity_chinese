@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_menpwgra</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：戴芙溫</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺死深朽妖戴芙溫，把她的頭帶回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把戴芙溫的頭交給努阿王堡的看守人費爾佷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一個奇怪而凶殘的德魯伊邪教圍繞深朽妖戴芙溫而發展壯大。這個組織將一個北部曠野的山洞作為其大本營。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>一個德魯伊邪教圍繞著北部曠野的一隻深朽妖而形成。我需要找到他們的山洞並殺死他們的領袖戴芙溫。她的頭將作為她的死亡證明。沒了戴芙溫，這個邪教應該就會分崩離析。
+
+戴芙溫的德魯伊邪教位於北部曠野山洞。我需要殺死戴芙溫，並拿它的頭證明它死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>戴芙溫被殺掉了，我需要帶她的頭去找努阿王堡的小屋裡的看守人費爾佷，以拿到我的賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了深朽妖戴芙溫的賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

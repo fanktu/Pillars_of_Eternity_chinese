@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_cv_woedican_ghost</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>23</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個靈體在遺址之中徘徊，背誦著群體祝福和禱告文。儘管這個靈體的形式不斷轉換，但是它始終保持著一個年長男人的容貌，還有象徵著富貴和地位的長袍。它轉向你。
+
+「來向昔日女王表達你的敬意麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「看到當地人對媉蒂卡禮拜堂的所作所為，真是非常遺憾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「讚美流亡女王！願她的皇位恢復，她的正義盛行。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「你是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「人們說我能在這找到媉蒂卡神殿。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「那麼你找到了。」幽靈模糊的面容因為憤怒而扭曲。「這些野蠻的殖民者也許已經把它燒盡，但是對誓縛者的崇敬之情還在而且還很好。這些階梯通往主要聖所。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「什麼階梯？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「艾德維倫·呂格法爾德三世，很高興認識你。我坐著從鹿眾的第一批船來到鹿林。」
+
+他模糊的眼睛流淌著憎惡。「不像這裡的鄉巴佬和棚居佬，我仍保持著舊的方式。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「你在做什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「崇拜媉蒂卡，流亡女王和誓縛者。我每天都來表達我的虔誠。」
+
+他的表情逐漸化作了困惑。「我很希望能再次回到鹿眾，但是我的皇帝要我在這些野蠻的土地上服務。於是我只好照辦。」他聳聳肩。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「當然是這些階梯。」幽靈指著一堆不可逾越的碎石。「就像遺址的其他部分一樣，它似乎已經一個多世紀沒人碰過了。
+
+「聖所一般都是在地下，靠近地下墓穴，所以它沒有在大火中燒燬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我在哪能找到地下墓穴的入口。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「在反抗灣有很多的入口，但是我想說最容易到達的在銅板巷。我已經很久沒去過那地方了，但是據我回憶，它在南部大門的附近。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「我想更加瞭解媉蒂卡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​幽靈模糊的容貌因為高興而清晰起來了。「眾神之中的女王。她監督著法律和誓言——每件事都適得其所，而媉蒂卡注視著一切。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​幽靈的表情變了。「當然，並不是所有人都接受。甚至在其他神之中，她的權威受到質疑。但是媉蒂卡也是記憶和復仇之神，她記住了。」
+
+慢慢地，幽靈點了點頭。「她記著所有輕視和得罪她取回王座的人和事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「你知道你是個幽靈，對吧？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「再說一遍？這是你哪聽來的笑話嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「我是認真的。看看你自己。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「算了吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​他閉上他的眼，用纖細的手指按著太陽穴。「瘋人院。那是這個鎮子真正需要的東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​他歎了歎氣。「我真的必須回到鹿眾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

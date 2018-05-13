@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_cursed_estoc_progression</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​破甲劍接近英格維斯的機器時似乎發出哼鳴聲。鋼劍和這一古老設備的魂珀核心之間有某種弧線連接。
+
+破甲劍發出的聲音逐漸減弱，它感覺上更有威力了。
+
+劍身顯出新的字跡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​腳下鬆軟的土壤發出怪聲，某種隱形之物從中升起。
+
+你感到微弱、幾乎不可見的精魂從墓園漂浮而起。灰色沉睡者似乎以此為食，怪聲也漸漸減弱。
+
+劍身上又顯出一段話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​魂珀柱子上散發出深沉而強大的力量。它令灰色沉睡者產生共鳴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[跪下]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​隨著你跪下，灰色沉睡者中的聲音變成低沉而平和的和聲。一股能量充盈劍身，然後萬籟俱寂。
+
+你感覺詛咒就像爛掉的帶子一樣斷了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

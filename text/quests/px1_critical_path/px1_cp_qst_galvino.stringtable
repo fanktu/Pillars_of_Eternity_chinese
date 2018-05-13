@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_critical_path\px1_cp_qst_galvino</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>17</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>白際山的隱居者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在矮人軍械所旁找到伽維諾的房子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>在堅忍村找出一個村民，其靈魂祖先是矮人軍械所的矮人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>從矮人軍械所喚醒矮人靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>伽維諾生活在矮人軍械所的陰影中。他可能知道關於城堡的一些信息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>瑞能吉爾德說我可以找伽維諾，這個人是個古怪的鐵匠和靈魂學者，住在矮人軍械所東邊。厄爾椎克相信他可能可以告訴我一些關於城堡的有用信息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>根據伽維諾所說，如果我要進入矮人軍械所，那就需要它的頌詞——在要塞還活躍時矮人用的一首詩歌。不幸的是，知道這首頌詞的所有人都死了。
+
+然而，伽維諾說堅忍村可能有那些矮人的靈魂後代——以我的能力，找到他們並不難。我可以通過喚醒那些靈魂之一來得知頌詞。而那可能會使某人也遭受我……或者梅爾沃德一樣的厄運。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我已經找到了一個矮人軍械所的某人的直系靈魂後代。我現在就可以喚醒這個人，或者再在堅忍村尋找另外一個候選者。
+
+無論如何，我都要喚醒一個能告訴我矮人軍械所頌詞的人。我應該可以通過直接跟這樣一個古老的靈魂對話就喚醒它。
+
+夠簡單的，但是這樣可能會對那個靈魂所寄居的村民造成不可預知的結果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>伽維諾給了我一個可能有用的東西。如果我對村民使用，它應該可以指示出靈魂血統有幾百年的人。這不完美，但是可以縮小範圍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>歐維娜，在公爵的歇息的女僕，她和一個名叫格瑞格的矮人分享靈魂。他既腐敗又虛偽，所以喚醒他可能會對那名害羞的女僕產生……有趣的後果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>塔娜，礦山的老監工，她是名叫芝諾薇的壞脾氣女人的靈魂後裔。鑒於芝諾薇的最終記憶非常暴力，喚醒她可能會有風險。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>或許鎮上還有其他人可以喚醒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我已經找到伽維諾的小屋，但是他不在那兒。或許值得四處查看一番。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我從格瑞格那裡得知了頌詞，他現在是一個在歐維娜身上的靈魂，曾經是矮人軍械所作風不正的一個守衛隊長。顯然喚醒已經在給她產生著改變。
+
+頌詞的詩句為：
+
+「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我從芝諾薇那裡得知了頌詞，她是一個在矮人軍械所生活了一輩子的矮人。我成功地在不傷害塔娜的情況下控制住了芝諾薇的強度。事實上，這位礦山老監工顯然找到了一個新的能量源。
+
+頌詞的詩句為：
+
+「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我從芝諾薇那裡得知了頌詞，她是一個在矮人軍械所生活了一輩子的矮人。不幸的是，芝諾薇佔據了塔娜的身體並攻擊我，我迫不得已殺了她。
+
+頌詞的詩句為：
+
+「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我要找的女人已經死了，但是我成功地從她還未消散的靈魂中獲悉頌詞的信息。
+
+頌詞的詩句為：
+
+「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

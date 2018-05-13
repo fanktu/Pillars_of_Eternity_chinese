@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_bounties\px1_03_tsk_boss_gleaming_society</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：微光會</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺了阿爾馬爾並帶回他的頭顱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把阿爾馬爾的頭顱帶給忒爾多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>有一群自稱為『微光會』的激進分子以雷亞德賽熱斯和鹿林的政治人物為目標並進行暗殺行動。他們的首領，阿爾馬爾，已被設立懸賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>有傳言稱微光會隱藏在白際山，秘密策劃著下次的襲擊。有人認為在堅忍村的東部，遠望瀑布附近就能找到他們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>阿爾馬爾已被殺死。我可以拿著他的頭顱回去向忒爾多邀賞了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了阿爾馬爾的懸賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

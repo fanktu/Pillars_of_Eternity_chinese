@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_xaurip</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：戰爭酋長伊克拉克</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺死戰爭酋長伊克拉克，把他的頭帶回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把戰爭酋長伊克拉克的頭交給努阿王堡的看守人費爾佷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>戰爭酋長伊克拉克是一個在溪谷林地徘徊的蜥人頭目。當地人提供了賞金，希望他從該地區永遠消失。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>戰爭酋長伊克拉克在溪谷林地建立了營地。如果我可以殺了他並帶回他的頭，我就能拿到賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我已經殺了戰爭酋長伊克拉克。現在我只需要把他的頭帶給看守人費爾佷，以換取賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了戰爭酋長伊克拉克的賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

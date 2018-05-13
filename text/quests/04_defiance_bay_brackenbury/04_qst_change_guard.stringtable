@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\04_defiance_bay_brackenbury\04_qst_change_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>守衛的變動</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在最初之火的熔煉堡中暗殺艾爾惴德o溫費爾德。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>回去見蓋德馬·鐸門耐爾。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>熔煉騎士團的溫費爾德司令官，曾在反抗灣發動個人改革運動，破壞並摧毀了鐸門耐爾的商業活動，蓋德馬想要他死，還想讓十二人眾背黑鍋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在溫費爾德司令官召集熔煉騎士以反對鐸門耐爾家族的集會之前，蓋德馬想要他死。蓋德馬建議我可以在小教堂找到孤身一人的目標。
+
+鐸門耐爾大人想把暗殺的責任推給十二人眾。他給了我十二人眾的一個信物，以放置在教堂裡的祭壇上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>溫費爾德被除掉了，鐸門耐爾大人會樂意聽到我成功的消息的，但他還要我在教堂的祭壇上安放十二人眾的信物。
+
+而另一方面，艾布瑞肯告訴我不要留下任何和十二人眾暗殺有關係的線索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>艾布瑞肯走近我，跟我說不要把攻擊的罪名算到十二人眾的頭上。他認為他的父親太謹慎了，而他想讓整個城市回到那個一聽到鐸門耐爾這個名字就恐懼的日子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我按蓋德馬·鐸門耐爾所說的把信物放到祭壇上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>蓋德馬對我殺了艾爾惴德卻沒驚動任何人，感到印象深刻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我殺了艾爾惴德，但有些連帶損害，蓋德馬對此不太高興。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我提醒艾爾惴德，蓋德馬·鐸門耐爾有刺殺行動。他獎賞了我。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我殺了溫費爾德，把證據指向十二人眾，此舉將增加十二人眾和熔煉騎士之間的衝突，而這一切正是蓋德馬·鐸門耐爾想要的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我殺了溫費爾德，沒留下指向十二人眾的信物。熔煉騎士很可能會懷疑是鐸門耐爾家族，但這也將給氏族贏得惡名，而這正是艾布瑞肯想要的結果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我刺殺了鐸門耐爾大人，變成了鐸門耐爾家族，或者說如果還有殘餘勢力的話，的死敵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

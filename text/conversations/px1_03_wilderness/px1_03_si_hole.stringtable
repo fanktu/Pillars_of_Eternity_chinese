@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_si_hole</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>76</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​從厚厚的冰層上的大洞往下看，可以看到昏暗的水。這個洞比釣魚的孔要大——比海裔的體形還寬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[潛下去搜索池塘底部]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[Specified 0]潛進水中，消失在黑暗裡。冰冷的水奪走身體散發的所有熱量，每一個動作都是一種痛苦的掙扎。
+
+不過，[Specified 0]有著很強的耐力和恢復能力，輕鬆地到達了池塘底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[讓[Slot 0]潛下去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[讓[Slot 1]潛下去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[讓[Slot 2]潛下去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[讓[Slot 3]潛下去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[讓[Slot 4]潛下去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[讓[Slot 5]潛下去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​你親自潛下去。黑暗吞沒了你，冰冷的水奪走你身體的每一分溫度。
+
+你感覺肢體正在變得麻木，不過你的自然強化讓你輕鬆地到達了池塘底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你親自潛下去。黑暗吞沒了你，冰冷的水奪走你身體的每一分溫度。
+
+你的四肢開始變得麻木。動作開始變得困難，不久，你就無法動彈了。
+
+你的背部抽搐了一下，你逼迫自己再次行動起來。你拚命前向游，終於浮到了水面，離開了池塘，你全身顫抖，筋疲力盡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​你親自潛下去。黑暗吞沒了你，冰冷的水奪走你身體的每一分溫度。
+
+你感覺肢體正在變得麻木，不過你的自然抗性讓你輕鬆地到達了池塘底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​你鎮定了下來，然後抓住另一個箱子。當你打開它，同樣的事情發生了——全是石頭，沒有任何有價值的東西。
+
+有些事情不太對。為了證明你搜索的結果，你帶上了其中一個空箱子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​根據地點來看，這個在地圖上出現的地方就是你找到伊什特利筆記本的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​水被你攪動著，輕觸著上面的冰層。你離開了冰冷的水。水的湧動讓你的手指十分不適，很快，你的手變得麻木起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​你到達了凍結水面上的那個洞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​誰來潛水？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[你親自下潛]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[仔細查看區域]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[透過水，仔細觀察池塘的底部]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​你小心地查看周圍的環境。動物的蹤跡很明顯，但你也看到了一個人的腳印。
+
+靠近了仔細看那個洞，你發現牆上有個鋸齒狀的霜環。看上去它是被重新打開的，而且還不止一次。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​水在不停湧動，而且有很多淤泥，幾乎是完全不透明的。
+
+你集中注意力觀察著底部，逐漸能看清一些東西了。
+
+你確信水的底部有幾個物體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​水在不停湧動，而且有很多淤泥，幾乎是完全不透明的。
+
+你認真觀察著水下的動靜，但看不出什麼特別的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​[考慮你的選擇]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​你親自潛下去。黑暗吞沒了你，但水感覺起來很溫暖，似乎在歡迎你。偶爾會有寒流從你背部穿過，但法術給你提供的防護讓你能輕鬆到達底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[下水前施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[誰來施放元素壁障？]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​[你施放了元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[讓[Slot 0]施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​[讓[Slot 1]施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[讓[Slot 2]施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[讓[Slot 3]施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​[讓[Slot 4]施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​[讓[Slot 5]施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​[不施放元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​你開始從太虛中聚集能量，把它灌入你的魔法書，你感覺到力量從中湧出，你的周圍出現了一個防護光環。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​[Specified 0]從太虛中聚集能量，把它注入魔法書。打開的書中突然閃現著光芒，而你身體周圍出現了一個防護光環。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​[Specified 0]潛進水中，消失在黑暗裡。但水感覺上去比較溫暖，甚至似乎在歡迎到來的人。
+
+被魔法保護著，[Specified 0]輕鬆地到達了池塘底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​[Specified 0]潛進水中，消失在黑暗裡。冰冷的水奪走身體散發的所有熱量，每一個動作都是一種痛苦的掙扎。
+
+不過，[Specified 0]對寒冷的自然抗力，使其輕鬆地到達了池塘底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​[Specified 0]潛進水中，消失在黑暗裡。冰冷的水奪走身體散發的所有熱量，每一個動作都是一種痛苦的掙扎，很快身體就不能動彈了。
+
+一陣抽搐逼迫你的同伴做出行動。[Specified 0]拚命往前游，浮出水面，離開了池塘，全身顫抖，筋疲力盡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​你把手伸進水中。你能覺得水的溫度順著你的皮膚在流往全身，但溫度似乎並沒有太大變化，好像水本身是溫的。
+
+寒冷看上去已經不在是威脅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​你花了幾分鐘讓自己恢復狀態，然後你決定仔細查看一下自己發現的物品。
+
+箱子上有昂德拉的標誌。你打開箱子，看看裡面的物品。不過你看到的只有石頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​嘗試失敗後，你花了一段時間，考慮自己的選擇。只有極強的抗寒能力才能讓你在水下待足夠長的時間來搜索底部的物品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​在洞的下面，也即底部，你的手碰到了木頭和金屬做成的物品。
+
+那是箱子，很小卻很重。你開始把它們弄到水面上，一個接一個，帶著它們游泳很困難，不過你克服了它。
+
+在做出很多努力之後，你離開了池塘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​在洞的下面，也即底部，[Specified 0]的手碰到了木頭和金屬做成的物品。
+
+那是箱子，很小卻很重。[Specified 0]開始把它們弄到水面上，一個接一個，帶著它們游泳很困難，不過最終還是成功了。
+
+在做出很多努力之後，[Specified 0]離開了池塘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>​你後退幾步，看著池塘上的洞，考慮著最好的應對措施。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​你鎮定了下來，然後抓住另一個箱子。這次，你打開之後，看到了一個做工精美的護甲，在它上面，還有一個鑲嵌著寶石的銀質掛墜。
+
+你認出這些物品是奧昆的傳家寶。不過，其他的箱子中放滿了石頭，你意識到這件事並不尋常。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​[閱讀伊什特利的筆記]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​伊什特利的筆記中有一些做了標記的地方，內容是：
+
+「Notoc&#160;Tlocotl，當然，禮節第一。這樣她就會上來。
+
+「Cualla&#160;Micha，她是個好姑娘，喜歡在游下去之前先聽這句。
+
+「Xitlac&#160;Cualla，記得確保她喜歡這些作為出色工作的獎勵的魚。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​[閱讀伊什特利筆記中的「Cualla Micha」部分]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>​[閱讀伊什特利筆記中的「Xitlac Cualla」部分]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​[讓六肢魚怪走開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​[恐嚇六肢魚人]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​[閱讀伊什特利筆記中的「Notoc Tlocotl」部分]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​當你念出那些詞語，水的深處湧上來很多氣泡。下面出現了一個陰影，越來越大，最後它衝破了水面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​六肢魚怪把自己奇形怪狀的頭偏到一邊，用一隻眼睛看著你。它的鼻孔突然張開。
+
+那個生物發出嘶嘶的聲音，吸入一口冷氣，然後潛了下去消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>​時不時地有幾個氣泡浮上來，說明六肢魚怪還在下面的某個地方。這一分鐘過得很漫長。渾濁的水在翻湧，一個影子再次開始在洞下面出現。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>​一個笨重的物品出現了，把冰冷的水帶了上來。這是個箱子。在它下面，六肢魚怪舉著它，露出一排牙齒，似乎是在微笑。
+
+那個生物把箱子放到冰面上，然後再次潛了下去。它重複了幾次，帶上來好幾個箱子，都被放在洞的周圍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​六肢魚怪通過鼻孔大口地呼吸著。它把頭扭到一邊盯著你。
+
+它又微笑起來，看上去很期待，六肢魚怪對著你張開了自己的嘴。
+
+「卡……啦。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>​它的眼睛凸出，一副興奮的樣子。這個生物張著嘴，盯著你，重複著它的話。
+
+「Cah&#160;llah.&#160;Cah&#160;llah.」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>​[給六肢魚怪喂一些魚]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>​你從儲物箱中拿出一大把魚，扔到這個生物的嘴裡。它的嘴一張一合，然後一口吞下了所有的魚。它滿意地瞇著眼，散發出一陣惡臭的氣息。
+
+六肢魚怪把頭扭到一邊。在它重新跳進水中的時候，牙齒上還掛著大塊的魚肉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​你把注意力切回到洞口的箱子上來。上面有昂德拉的標記。你打開箱子，看看裡面的物品。不過你看到的只有石頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>​你對六肢魚怪發出噓噓的聲音，示意它離開。它從你身邊走開，嘴一張一合，但沒有碰觸食物。
+
+那個生物瞇著眼睛，不滿地看看你，然後跳進了水中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>​你對六肢魚怪揮舞著拳頭。它從你身邊走開，沒有碰觸食物。
+
+那個生物瞇著眼睛，不滿地看看你，然後跳進了水中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>​你念出那段話，然後等待著。什麼都沒發生。你把注意力轉向承福者的筆記。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>​那個生物把頭扭到一邊，眼睛凸出，滿是興奮。
+
+這個生物張著嘴，盯著你，重複著它的話。
+
+「卡啦。卡啦。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>​你念出那段話，然後等待著。什麼都沒發生。你把注意力轉向承福者的筆記。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>​你從儲物箱中拿出一大把魚，扔到這個生物的嘴裡。它的嘴一張一合，然後一口吞下了所有的魚。它滿意地瞇著眼，散發出一陣惡臭的氣息。
+
+六肢魚怪把頭扭到一邊。它的嘴彎曲著，偷偷地笑。你覺得自己被它算計了。那個生物再次跳進了水裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>​就在你打算離開的時候，六肢魚怪張開嘴發出了刺耳的叫聲。
+
+它把頭放進水裡，瞇著眼睛看著你。你覺得自己沒能滿足它的期望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>​你對六肢魚人發出噓噓的聲音，示意它離開。它從你身邊走開，嘴一張一合，但沒有碰觸食物。
+
+那個生物瞇著眼睛，不滿地看看你，然後跳進了水中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>​[嘗試和六肢魚怪進行商議]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>​這個生物用鼻孔吸了一口氣，不滿地盯了你一眼，然後跳進了水裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>​洞裡有一隻帶著傷疤的生物盯著你，它眼睛凸出，嘴張開著。艱難地從尖牙中吐出一些話。
+
+「嗒……卡特。」
+
+年輕的六肢魚怪看上去並不害怕你的出現，扭著頭，盯著你，似乎在期待什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

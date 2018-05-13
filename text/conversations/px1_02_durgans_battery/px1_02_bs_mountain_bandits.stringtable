@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_02_durgans_battery\px1_02_bs_mountain_bandits</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「好嘛，好嘛。你看起來不像個商人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「抓住他！」</DefaultText>
+			<FemaleText>​「抓住她！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「但是我們還是可以拿你的裝備換不少銅子兒。幹掉他！」</DefaultText>
+			<FemaleText>​「但是我們還是可以拿你的裝備換不少銅子兒。幹掉她！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「他們來了。進攻！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

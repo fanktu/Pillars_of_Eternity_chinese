@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_defala</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>78</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「這些路上沒什麼人影，僅有的一些也不過是獵人、樵夫、走私販子。」
+
+她朝你豎起眉毛，露出一點微笑。她整個人行止矜持，臀部掛了一個明顯的槍套。
+
+在她遠處，有一個裝滿貨物的馬車。手銬在一側晃來晃去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​她向你問好。「最好小心點，這一片有食人魔。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「是黛瓦菈，對吧？你正在追蹤愛萊夫。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「你呢，獵人、樵夫，還是走私販子？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「我必須走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​她一皺眉，整個人顯得冰冷起來。「我還以為在這兒會找到最後一批友好的人。我是在追他，沒錯。」
+
+她的手移向手槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「他要為他在雷亞德賽熱斯的所作所為負責。而且，不論怎樣，你們休想擋我的路。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我在找雷亞德賽熱斯出來的逃犯。是一個簽了契約的奴僕，如今是在逃犯。」
+
+她的笑容好像被風吹滅的蠟燭，消失了。她用沒有笑意的眼神看著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我好像在附近見過那樣的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「『簽了契約的奴僕』？你說的是奴隸吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[攻擊]「我記得鎖鏈的重量。我要確保你以後再也不會拖累任何人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「來呀。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「誰也不應該受奴役。我要讓你再也束縛不了任何人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「等一下，他有什麼罪行？什麼罪？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「我明白了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我對你和這個村莊都沒什麼意見，但是那個羽精是在逃犯。我有責任把他帶回去。」
+
+她的指尖在手槍附近移動。她的同僚們陷入沉默，小心地看著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「除了背叛契約呢？他勒死了主人十三歲的兒子，逃跑以前殺的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「到底為什麼要抓他？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[攻擊]「奴隸販子，（我代）『陰謀家』向你問好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​她洋洋得意地笑著。「在雷亞德賽熱斯這是允許的。但是這傢伙——也就是愛萊夫——他自己簽的約，讓自己成為簽約僕役。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「如此便再好不過了。如果你以後遇上他，希望你能把他送到我這兒。別不理他。」
+
+她拍著槍套附近的硬幣錢包。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「他沒跟你說這個部分吧？首先，是他自己選擇簽約的。聽說是要還上賭博欠的債。」
+
+她示意夥伴離開，但是手仍放在槍上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「射他！」她抽出手槍。</DefaultText>
+			<FemaleText>​「射她！」她抽出手槍。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「愛萊夫沒說過這些。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「他應為罪行付出代價。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「他對我撒謊了！我要把他的腸子肚子給掏出來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「不能怪一個尋求自由的人。我站在愛萊夫這邊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「奴隸販子，省省吧，我是不會幫你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「可惡的異教徒！趕快殺了他，但願他不是犧身者！」
+
+黛瓦菈和她的夥伴在狂亂之中向你撲過來。</DefaultText>
+			<FemaleText>​「可惡的異教徒！趕快殺了她，但願她不是犧身者！」
+
+黛瓦菈和她的夥伴在狂亂之中向你撲過來。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「你願意幫我帶他正法嗎？回去跟他說，你跟我們談過了。我們會等他出城。」
+
+跟黛瓦菈一起的奴隸獵人熱切地點頭，揮舞著武器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「像你這樣強壯的好人在木材廠應該很有用。我知道邊界的幾個場子薪水很不錯。」
+
+黛瓦菈和她的同僚們朝你衝過來。</DefaultText>
+			<FemaleText>​「像你這樣強壯的好女人在木材廠應該很有用。我知道邊界的幾個場子薪水很不錯。」
+
+黛瓦菈和她的夥伴朝你衝過來。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「很多商船長都願意花大價錢買划船的奴隸。如果你聽話，也許我就不告訴他們你一直在協助盡人皆知的兒童殺手了。」
+
+黛瓦菈和她的同僚們朝你衝過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「冷靜一下，他死了就對我沒用了。」她舉起穩住的手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「不，我不管了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「好，我會回來的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​她一歎氣，其他人就抽出武器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「趕緊吧。不想打草驚蛇，讓他做出什麼蠢事出來。
+
+「此外，我們也渴望回到更加宜人的氣候去。」她壓住一陣顫抖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「在這兒外頭待著，付薪可不會自動兌現，還有天氣也不會變得暖和。我真不願相信你還在猶豫。」
+
+她雙手放在臀部，其中一隻手隨時可以抽出手槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「我改變主意了，愛萊夫應該自由。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「我要走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「你知道的，如果冒險事業不太成功的話，你會在奴隸追蹤行業大有前途。」
+
+她對愛萊夫點了個頭，而他的手腳都被拷著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「你出賣了我！我就知道！我再也不——」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「根據約定，這是你的酬金。很高興和你合作。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「不是我不感謝你付出的精力，但我開始覺得，你只是在轉移我的注意力。」
+
+她抽出手槍。她的同伴也朝你舉槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「好笑，我不是已經保證會把愛萊夫活著交給你嗎。但我聽說你在矮人的破酒吧裡整了他一頓。」
+
+她雙手交疊在胸前，沉下臉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「我不會為死人交錢。希望你能交錢補償我的損失。」
+
+她抽出手槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「你在這做什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​她高亢地笑聲迴盪在雪原。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「你可以認為，我是個獵人。」
+
+她用手指敲打槍套。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「但我現在覺得你好像受到過囚禁。」黛瓦菈上下打量你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「如今，這點區別在鹿林算不了什麼。但是你也許注意到了，我們基本上不在鹿林。」
+
+她又狡猾地笑起來，不只是瞇縫著眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「不論怎樣，我的生意和你無關。我在這一行待得夠久，認得出那種眼神。」
+
+她舉起手來防衛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「我不是要攻擊你，你看起來人不錯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「他如果回去，主人給的回報不錯，而我會讓你得到不少的抽成。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「抱歉，但事情不是這麼辦的。我不能讓你去警告愛萊夫。」
+
+她抽出手槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「可惜我們沒談攏。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​她聳肩。「看來就這樣了。問題是，我不能讓你去警告他。
+
+「但是別擔心，我對你還有別的安排。」
+
+她抽出手槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「像你這樣的聰明人可以當一個很棒的店員助手。你很幸運，店員作為主子一般會更友好。」
+
+黛瓦菈和她的同僚們朝你衝過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​「你手很利索，我認識個木工，能用得上你這雙手。」
+
+黛瓦菈和她的同僚們朝你衝過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​「堇菜的收割工作很艱苦，天天待在外面。但是，看起來你能受得了。」
+
+黛瓦菈和她的同僚們朝你衝過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​「更重要的是，他謀殺了主人的兒子，十三歲的男孩。逃跑的時候殺的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​黛瓦菈的手下打了他一巴掌，他不出聲了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「我見過愛萊夫，你找的羽精。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​[攻擊]「太可惜了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​「愛萊夫現在是我的囚犯。他得在努阿王堡服役。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​「人家雇我，不是為了讓他死在鹿林。但我會盡快處理他的。」
+
+她抽出手槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​[攻擊]「沒門。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「他應該在監獄待著，而不是任奴隸販子使役。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​「他的主人另有看法」
+
+她抽出手槍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「我打賭，在這個饑饉的城鎮躲著呢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​「結束年輕的生命……不論出自何種理由……都是不可原諒的。他做了這種事，不能就這麼走掉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​「你會嗎？」她一邊尖聲喊著，一邊把頭朝向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​「那我就當你是剛才說的那些意思。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​卡若克的魔鬼轉身凝視樹叢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​「好了，不用小心翼翼了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​札瓦微微笑著，對你讚許地點了個頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​札瓦閉上眼睛，面部肌肉時緊時松。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​「他死了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_bs_llen_assassin_soul</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>13</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個女人的冰冷的屍體一半埋藏在雪中。死亡原因很清楚——咽喉下的一道窄窄的傷口。
+
+這裡的精魂已經模糊了，而且正在快速的消失。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[探出並觸及]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[走開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你闖進一片冰冷的黑暗，碎片式的圖像從你眼前劃過，但你把握住的只剩下一個回音而已。
+
+然後，光亮——</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​陽光透過樹冠的缺口照了下來，照亮了泥沼地。每一步都沾上了泥巴和齊膝的水。你的腿已經很累了，而你才剛剛開始。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​回憶溜走了，你又回到了熟悉的堅忍村。也許是被你的閱讀擾動而逃跑了，精魂開始消散，從你的視野褪去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​回憶溜走了，你又回到了熟悉的堅忍村。也許是被你的閱讀擾動而逃跑了，精魂開始消散，從你的視野褪去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你必須讓自己習慣不舒適。你很快就會來到河邊，跟隨著它轉彎向北。
+
+這是你腦海中的一套咒語：到達堅忍村。找到通魂者。跟著他。取回命匣。</DefaultText>
+			<FemaleText>​你必須讓自己習慣不舒適。你很快就會來到河邊，跟隨著它轉彎向北。
+
+這是你腦海中的一套咒語：到達堅忍村。找到通魂者。跟著她。取回命匣。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​殺了康瑟豪特的人不會輕易倒下的。但如果你很小心，那個任務就不會落在你一個人身上。你的主人會解決通魂者的。這只不過是時間問題。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​然而，這個死掉的女人旅途的記憶縈繞著你。在白際山那一邊，西南方，有一個泥沼——而敵人在那裡等待著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​然而，這個死掉的女人旅途的記憶縈繞著你。在白際山那一邊，西南方，有一個泥沼——而敵人在那裡等待著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[搜她的口袋]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你只找到了一個小小的瓶子，裡面裝滿了深色的液體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_bs_cultists_neutral</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「那些城市的大人們在這之後一定會多加提防吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「維蒙德是一位少見的富有遠見之人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「向陰謀家默默祈禱，兄弟。」</DefaultText>
+			<FemaleText>​「默默為陰謀家祈禱，姐妹們。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「想想看，像哈羅德這樣的人都能逃脫罪行……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_high_monk</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>32</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​這個武僧用手揉著自己的太陽穴，而手掌遮住了自己的臉，他看上去很焦慮。當你靠近時他抬起頭看了你一眼，嘟囔道「這房間需要一扇門」。
+
+「我們為了在異國他鄉能有點私人空間才租了這地方……你得去再找間房。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「拿來！」武僧大喊的同時搶過你手中的信函。他的臉幾乎立刻變得通紅，「對不起，我的意思是——這很重要！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​他將信函翻過來，剝落破掉的封印。他怒視著你並皺起眉頭。「你弄壞了封印！你侵犯了我們教團的隱私！」
+
+武僧將信函扔到地上，擺出一副要打架的姿勢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「謝謝你轉傳我們兄弟倒下的詳情。如果沒別的事，請離開吧……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「什麼風把你的教團吹到這裡來了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你們是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​他剛張嘴，但話到嘴邊又嚥了下去。隨後仔細打量了你一番。「我們弟兄需要點空間來進行私密會談。拜託，整個酒館有的是人願意跟你打趣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我遇到過一個穿著跟你一樣長袍的武僧。我遇見他時他已經快死了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​武僧的眼睜得很大，緊握的拳頭上都能看到凸起的骨節。「你是說他跟我們穿著一樣的長袍？他有帶什麼東西嗎？他跟你說了什麼——給了你什麼嗎？求你了，我們一直在等著在這兒遇見另一條命令，如果你找到了……」
+
+在武僧們開始為他們陷落的朋友輕吟聖歌，一致地將視線落到地面上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[給他看信函]「他給了我這份信函。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我不記得了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我們跟隨教義的指引，」武僧喃喃自語，他的話慢而從容，「不過跟你沒什麼關係。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​武僧在你靠近時彎下腰。他用加重的語氣說道，沒能掩蓋住不耐煩的情緒。
+
+「如果你有什麼需要，請快說——不然請離開。我們不會鬧事，我們有權呆在這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「再次感謝你帶給我們的消息。我的兄弟選擇你來完成他的遺願是明智之舉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[說謊]「他什麼都沒說，也沒給我任何東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​打碎封印後，武僧打開放在裡面的卷軸並快速看了遍內容，他急促而小聲地讀著文字。
+
+他轉身對兄弟們說，「我的兄弟們，大殉道者傳話來了！我們終於找到我們要找的東西了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「謝謝，陌生人，」武僧說道，並在他面前疊起雙臂深深鞠了個躬。「你坦誠的靈魂值得讚揚。我承認我很吃驚……當你給我消息的時候，我以為封印被弄碎了。」
+
+武僧的臉變得通紅，第一次露出笑容，「我很高興看到應有的禮貌還沒從這個世界消失。」
+
+他伸手摸了摸長袍的交疊處。「來，你的坦誠必須得到獎勵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「等等！！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[自衛]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​武僧捏緊拳頭準備出擊，他的兄弟們立刻在他身後做好準備姿勢。當你喊他等等時，他猶豫了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[說謊]「你的兄弟被揍得很慘，卷軸盒上一層薄薄的蠟很顯然會在衝突中破裂。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​[說謊]「你難道看不見卷軸盒有多破舊嗎？封印無疑會在打鬥中碎裂。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[說謊]「封印在我發現時就碎了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​武僧搖搖頭怒視著你。他和兄弟們朝你衝來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​武僧的拳頭幾乎一直處於緊握準備出擊的狀態。最終，武僧的領頭人放下了拳頭。「我……為我的武斷向你道歉。」
+
+武僧伸手摸了摸挎包。「請允許我補償你把這份信函帶給我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​武僧盯著你，驚奇地睜大雙眼。「你不記得了？你偶遇一個將死之人，然後……忘記發生了什麼？」
+
+他將手臂交叉過胸口，立眉怒視著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[給他看公函]「我差點忘記了——他給了我這份公函。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​[說謊]「他試圖告訴我些什麼，但當時他已奄奄一息——他的話含糊不清。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​武僧歎了口氣，他的目光落到地下。「看來他的差事辦砸了，」他輕輕說道。
+
+「旅行者，我感謝你把這消息傳達給我們。我們等待兄弟的消息很久了——至少我們知道了他的命運。如果沒什麼事的話，我和兄弟們還有很多事要討論。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「謝謝，陌生人，」武僧說道，並在他面前疊起雙臂深深鞠了個躬。「你誠懇的靈魂值得讚揚。我承認我很驚訝……但你轉交消息時，我以為封印被弄碎了。」
+
+武僧的臉變得通紅，第一次露出笑容，「我很高興看到應有的禮貌還沒從這個世界消失。」
+
+他伸手摸了摸長袍的交疊處。「來，你的坦誠必須得到獎勵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​札瓦悄悄對你說：
+
+「他手上的紋身，還有那個斷了的匕首。他們是『仇弒』的兄弟們。他們很容易被激怒，而且這種狂怒帶給他們力量。」
+
+他暫停了一下，然後繼續說，「很多偉大的組織都把他們當作眼中釘。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

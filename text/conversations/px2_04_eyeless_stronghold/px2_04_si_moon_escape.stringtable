@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_04_eyeless_stronghold\px2_04_si_moon_escape</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>274</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一塊巨大的水晶從牆上伸出，就像從傷口伸出的矛頭。
+
+一個軍隊（指周圍休眠中的無目者）的鏡像反射，從這個水晶的完美平面上和你對視著（原文如此，應該是指主角的主觀感覺）。它呼應著你的腳步聲，發出柔和、清脆的嗡嗡聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​有人將不得不拿起艾比頓之錘砸水晶。
+
+而且昂德拉警告說，無論誰去砸，都將和無目者一起被埋葬在這個地方。
+
+你選擇誰呢？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你自己。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​當你走進[Specified 0]，所有人都鴉雀無聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[抽籤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​你撿起一把鵝卵石——幾顆灰的和一顆白的——然後隨機分發給他們。
+
+每個人都打開他們的手，看看誰抽中了白色的鵝卵石。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​它在[Specified 0]的手掌中。[Specified 0]看了看石頭，再望向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[召喚貝熱甘的食人魔]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[後退一步，然後再多考慮一番]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​你吹響戰爭號角。其深厚的音樂隆隆作響地穿過洞穴。
+
+如貝熱甘所承諾，三名戰士趕到你身邊。
+
+最大的那個接過了錘子——及其對應的嚴峻責任——帶著堅忍的尊嚴。
+
+他朝水晶揮舞起錘子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你把潛水頭盔交給[Specified 0]。只是以防萬一。
+
+[Specified 0]帶著陰沉的感謝，微笑了一下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[Specified 0]舉起錘子，向水晶揮去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​隊伍的其他人爭先恐後地跑出被洪水淹沒的洞穴，並通過地道逃走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[Specified 0]繼續錘打水晶，每次敲擊都放大上一次。回聲積累成了物理的震顫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​其他人繞過轉角，結果卻看到一排的無目者在前進過來。
+
+這些生物隨著下面的錘子重擊聲的節奏而蹣跚行進。不過，他們向隊伍扭過脖子，轉回著他們的活塞手臂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[Specified 0]對水晶的敲擊保持了穩定的節拍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​隊伍通過黑暗的、隆隆作響的走廊逃走。
+
+更多出神的無目者搖搖晃晃的走過來，但他們太著迷於那膨脹著的韻律，而沒有對小隊發動任何攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​無目者繼續從洞穴每一個可見的通道和裂縫中湧現。[Specified 0]的耳邊碎石和破碎水晶的嘈雜聲越來越響了。
+
+同時，水平線正在上升。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​你在黑水中逆行，直到嚴寒凍住你的肌肉。你不能分辨上下方向，在你的周圍你只感覺到石頭尖銳光滑的角。
+
+你被困住了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​其他人衝刺穿過湖面。冰面發出刺耳的破裂聲，在腳下危險地震動著。
+
+下沉的月亮呻吟著。長長的裂紋在冰面飛速蔓延。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​最終，大家都安全到達了岸邊。
+
+在湖中間，只有月亮的頂端仍然在冰上可見。
+
+倖存者沉默地看著它沉入深處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​卡若克的魔鬼沿著湖底吃力的走著。她既感覺不到冷也感覺不到空氣的缺乏。事實上，如果不是因為黑暗，那幾乎會是一個愉快的漫步。
+
+正因為如此，水讓她動作僵硬遲緩，而當第四條背斑魚來咬她的閃亮的手指時，她已經準備好殺戮了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[Specified 0]在湖底的碎石中艱難跋涉著。水冰冷刺骨，潛水頭盔中的空氣辛辣刺鼻，而[Specified 0]的呼吸聲悶響轟鳴。
+
+不過，這總要比淹死要好。
+
+[Specified 0]找對方向，走出了沉底的碎石，並看見了上方水面的幽靈般的光芒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​最後，[Specified 0]到達淺灘。
+
+[Specified 0]擊碎一層薄的碎冰，爬上岸，發著抖，但還活著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​世界似乎在慢動作中分崩離析。
+
+[Specified 0]和月亮碎片的暗影以及粉碎的無目者一起沉入湖中。
+
+[Specified 0]的肺火。火花閃爍著穿過[Specified 0]的視野。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​你在黑水中逆行，直到嚴寒凍住你的肌肉。你不能分辨上下方向，在你的周圍你只感覺到石頭尖銳光滑的角。
+
+你被困住了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「我過去常說，我從來沒有被選上做任何事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「我……沒想過我會再得到一次機會來保護我的人們。
+
+「我很榮幸能為你做這個。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「當我成為一個承福者時，我從來沒有想到我留在昂德拉的深處的會是我自己的屍體。
+
+「不過，做一些我不後悔的事會很不錯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「呃……最好的三件事中的兩件？」
+
+他抬頭看了看天花板，吸了一口氣，然後回頭看著你。他點點頭，放棄了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「那麼，就這樣了。一次盛大的冒險的一個戲劇性的結局。博學吟唱者們不會感到吃驚？……記住我，我的朋友。那就是我的要求。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「我已經服從了太多不理解的命令了。但是，這是我將很自豪的去做的事。
+
+「永別了，[Player Name]」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「當我們當初在昂德拉福地碰面時，我可沒想到我所報名做的事會包括這個。」
+
+她的嘴唇擠出悲傷的微笑，很快被下定決心的愁容所替代。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「別把這個當成你的赦免。你的靈魂扔將被投入到火裡，雖然我沒有機會親眼看到了。
+
+「讓（我）這（舉動）成為一個學習的榜樣吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「我說過，我是來幫你的，通魂者。而不是來代表你接受審判的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​她點點頭。「帶話給卡魯和孩子們。照顧好伊圖馬克。」
+
+她向伊圖馬克指出你，但那隻狐狸躺在她的腳下。她歎了口氣接受。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「你知道我會跟著你到任何地方，但我還沒有履行我對瑪素克的職責。我很抱歉，[Player Name]。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「如果我的犧牲能為東陲的孩子們創造一個更加安全的世界，那麼我接受它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「這是一個很好的旅程。比我希望的短。
+
+「但瓦爾使它變得很有趣，比我夢寐以求的還有趣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「原諒我。我被一隻豹猊打傷了。我為我的不幸付出了代價。
+
+「現在，輪到別人了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​一個完美、清晰的聲響穿過空氣傳出，並令你的牙齒產生共鳴。
+
+幾秒鐘後，水面泛起漣漪。某個大的東西過來了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​你舉起錘子，向水晶揮去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​[Specified 0]再次舉起錘子，最後向你點點頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​你向其他人最後點點頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​你們爭先恐後地跑出被洪水淹沒的洞穴，並通過地道逃走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​你繼續錘打水晶，每次敲擊都放大上一次。回聲積累成了物理的震顫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​你們繞過轉角，結果卻看到一排的無目者在前進過來。
+
+這些生物隨著下面的錘子重擊聲的節奏而蹣跚行進。不過，他們向你們扭過脖子，轉回著他們的活塞手臂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​[施展鏡影術]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​[施展退敵封印]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​[施展統領術]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​[考慮其他辦法]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​你的幾個相似體出現在地道中。
+
+無目者咆哮著，徒勞地撲向鏡像。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​[Specified 1]的幾個相似體出現在地道中。
+
+無目者咆哮著，徒勞地撲向鏡像。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​一個發光的封印從地面出現。前兩個無目者踩到它上面，然後往後倒，帶倒了其他大多數無目者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​在隊列中間附近的少數幾個無目者咆哮起來，煽動了附近的無目者們。
+
+當無目者轉向騷動的方向，混亂沿著隊列傳遞開來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​[命令隊伍以狂熱衝鋒向前]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​[吟唱「翁瑞茲受賜福，部落中最神速」]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>​[施展煙雲法術]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​[閃身躲過無目者]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​隊伍從分心的怪物旁衝過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​隊伍從怪物中快速通過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>​你從分心的怪物旁衝過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​你從怪物中快速通過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​然而，他們中的一個在你通過時用釘錘般的拳頭擦傷了你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​幸運的是，這些生物都太專注於錘擊而沒有追趕。
+
+他們繼續朝洞穴前進。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​在眾人通過時，他們中的一個用釘錘般的拳頭擦傷了[SkillCheck 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>​一團煙霧在地道的中間噴發。發出重重的叮噹聲，無目者彼此撞到一起。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>​無目者聚集在洞穴，他們隨著錘子的打擊節奏，接連猛擊巖壁。
+
+地面晃動。落石和粉碎的水晶飛濺在地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>​你對水晶的敲擊保持了穩定的節拍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>​你們通過黑暗的、隆隆作響的走廊逃走。
+
+更多出神的無目者搖搖晃晃的走過來，但他們太著迷於那膨脹著的韻律，而沒有對你們發動任何攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>​地道變窄了。光從前滲透過來。
+
+出口一定在下一個拐彎之後。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>​但它被碎石堵住了。
+
+同時，地面一下子下沉了幾英尺，並且地道開始沿著它的軸的旋轉起來。
+
+來自洞穴的激流的遙遠聲音迴盪著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>​[用鶴嘴鋤突破碎石]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>​[施放孿生巨石]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>​[狂暴並擊碎碎石]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>​石堆頂端要薄一些——也許可以在那裡挖出一條通道出來。
+
+不過，依然還是一項很累人的工作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>​誰能一下子把道路清理乾淨？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>​[考慮其他辦法]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>​[用槓桿翹走碎石]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>​肯定有一個脆弱的地方，不過這需要有一雙有經驗的眼睛才能找到。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>​誰來清理道路？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>​考慮誰來做。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>​[用雙手挖出去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>​所有人一起攻擊碎石，用絕望的氣力撕開石塊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>​你對碎石進行攻擊，用絕望的氣力撕開石塊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>​從深處傳來了一陣岩石破碎的轟鳴聲，月亮又下沉了幾英尺。
+
+幾分鐘狂怒的工程之後，道路終於暢通了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>​但是[SkillCheck 0]受傷了，並且已經精疲力竭。
+
+[SkillCheck 0]痛苦而不規則地喘息著，並且一支胳膊僵硬地搖擺著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>​但是你用力過猛，疼痛撕扯著你的手臂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>​月亮再次震動起來。從下面傳來雷鳴般的另一聲巨響時，隊伍剛好逃到了冰面上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>​月亮再次震動起來。從下面傳來雷鳴般的另一聲巨響時，你們剛好逃到了冰面上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>​等你刨出了一個出口時，你的手臂已經在發抖，你的背感覺就像是被反覆折斷兩次了似的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>​你在月亮的低吼聲中，迅速工作著。
+
+當你刨出一個出口之後，已經幾乎喘不過氣來了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>​[Specified 1]在月亮的低吼聲中，迅速工作著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>​[Specified 1]終於刨出一個出口。等它完成時，[Specified 1]的手臂和後背感覺就像是被反覆折斷兩次了似的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>​你召喚了兩塊巨石，並投擲向堵路石堆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>​[Specified 1]召喚了兩塊巨石，並投擲向堵路石堆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>​在一陣崩塌之後，碎石從地道中滾了下去。
+
+陽光從缺口中射了進來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>​憤怒使你的身體充滿了絕望和暴戾的力量。
+
+你在碎石中衝出了一條道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>​憤怒使[Specified 1]的身體充滿了絕望和暴戾的力量。
+
+[Specified 1]在碎石中衝出了一條道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>​你發現了一個鬆動的圓石，然後把槓桿插在了它底下。
+
+輕輕推動了一下之後，圓石就滾開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>​你在幾個不同的角度上試著插入槓桿，但是好像沒法找到一個支點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>​[Specified 1]發現了一個鬆動的圓石，然後把槓桿插在了它底下。
+
+輕輕推動了一下之後，圓石就滾開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>​[Specified 1]在幾個不同的角度上試著插入槓桿，但是好像沒法找到一個支點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>​無目者繼續從洞穴每一個可見的通道和裂縫中湧現。你的耳邊碎石和破碎水晶的嘈雜聲越來越響了。
+
+同時，水位線正在上升。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>​一個細小的裂縫強行推開了空氣，一大股水流湧進把[Specified 0]擊倒了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>​一個細小的裂縫強行推開了空氣，一大股水流湧進，把你擊倒了。
+
+整個洞穴旋轉起來，把你捲進了由鋸齒狀金屬、撕碎的肉體和石頭所組成的一鍋粥裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>​你的肺開始火起來，四肢逐漸麻木。至少你的死亡會把剩下的誒歐拉從無目者的手上拯救出來。
+
+總有一天，人們會唱著關於你的歌謠。也許會有紀念你的節日。也許——
+
+你的條件反射開始動作，你開始抽搐，嚥下了一大口冰冷的水。你在痛苦中死去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>​[偵查出更牢靠的地方穿過]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>​[施展卡拉寇斯的冰之耙來保證冰面完整]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>​[繼續跑]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>​冰的表面上遍佈裂紋。只有知道該找什麼的人才能找到安全的道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>​誰去？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>​[考慮其他辦法]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>​考慮誰來做。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>213</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>216</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>217</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>218</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>219</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>220</ID>
+			<DefaultText>​[Specified 1]小心規劃出一條穿越冰面的道路，避開裂紋和薄層。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>221</ID>
+			<DefaultText>​[Specified 1]帶頭穿過冰面。
+
+在隊伍走到中間以前，一切都很順利。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>222</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>223</ID>
+			<DefaultText>​隊伍剩下的人跟了上來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>224</ID>
+			<DefaultText>​你跟著[Specified 1]的路徑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>225</ID>
+			<DefaultText>​冰毫無徵兆的碎開，把每個人都扔進了冰冷的湖中。
+
+他們爬了出來，渾身發抖，麻木。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>226</ID>
+			<DefaultText>​冰毫無徵兆的碎開，把你扔進了冰冷的湖中。
+
+你爬了出來，渾身發抖，麻木。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>227</ID>
+			<DefaultText>​至少，你到達了安全的岸邊。
+
+在湖中間，只能在冰面上看到月亮的一角。
+
+你靜靜地看著它沉入深處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>228</ID>
+			<DefaultText>​你們衝刺穿過湖面。冰面發出刺耳的破裂聲，在腳下危險地震動著。
+
+下沉的月亮呻吟著。長長的裂紋在冰面飛速蔓延。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>229</ID>
+			<DefaultText>​你小心規劃出一條穿越冰面的道路，避開裂紋和薄層。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>230</ID>
+			<DefaultText>​你開始穿越湖面，避開裂痕和脆弱的地方。
+
+在你走到中間以前，一切都很順利。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>231</ID>
+			<DefaultText>​一隻幽靈手在[Specified 1]前面的冰上掃過。冰面重新連接在了一起，正好保持了足夠的時間以便安全通過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>232</ID>
+			<DefaultText>​一隻幽靈手在你前面的冰上掃過。冰面重新連接在了一起，正好保持了足夠的時間以便安全通過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>233</ID>
+			<DefaultText>​話語讓隊伍充滿了活力。他們加速前進，冰面在他們身後開裂但沒有危害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>234</ID>
+			<DefaultText>​話語讓你們充滿了活力。你們加速前進，冰面在你們身後開裂但沒有危害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>235</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>236</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>237</ID>
+			<DefaultText>​隨著身邊的冰塊不斷的碎裂，每個人都竭盡全力的奔跑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>238</ID>
+			<DefaultText>​隨著身邊的冰塊不斷的碎裂，你竭盡全力的奔跑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>239</ID>
+			<DefaultText>​但是，[SkillCheck 0]踩到了一個裂縫，墜入了冰冷的水中。
+
+[SkillCheck 0]成功地爬了出來，止不住地發抖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>240</ID>
+			<DefaultText>​但是，你踩到了一個裂縫，墜入了冰冷的水中。
+
+你成功地爬了出來，止不住地發抖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>241</ID>
+			<DefaultText>​最終，你到達了淺灘。
+
+你用拳頭打破了一塊薄冰爬上了岸，渾身發抖，但是好歹還是活著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>242</ID>
+			<DefaultText>​你在湖底的碎石中艱難跋涉著。水冰冷刺骨，潛水頭盔中的空氣辛辣刺鼻，你自己呼吸的聲音迴響在耳中如同咆哮一般。
+
+不過，這總要比淹死要好。
+
+你找對方向，走出了沉底的碎石，並看見了上方水面的幽靈般的光芒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>243</ID>
+			<DefaultText>​她爬出湖，一邊謾罵一邊抖掉關節中殘留的水。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>244</ID>
+			<DefaultText>​[Specified 0]感受到涼意，不過彷彿很遙遠。[Specified 0]在搖搖欲墜的月亮的廢墟裡面拚命闖出一條路。這是個耗時耗力的過程，但是[Specified 0]柔軟的肌肉和強大的肺活量都很適應這個任務。
+
+[Specified 0]發現了上方水面的幽靈般的光芒，於是向它游了過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>245</ID>
+			<DefaultText>​你感受到涼意，不過彷彿很遙遠。你在搖搖欲墜的月亮的廢墟裡面拚命闖出一條路。這是個耗時耗力的過程，但是你柔軟的肌肉和強大的肺活量都很適應這個任務。
+
+你發現了上方水面的幽靈般的光芒，於是向它游了過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>246</ID>
+			<DefaultText>​整個世界好像是在慢動作中崩塌了一樣。
+
+你連同月亮碎片的黑暗形狀以及被粉碎了的無目者一同墜入了湖中。
+
+你的四肢感到劇烈的疼痛，肺部如同火一般。你的眼前出現了閃亮的火花。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>247</ID>
+			<DefaultText>​六肢魚怪們在[Specified 0]的面前聚集了，後者發現他們彩虹色的眼睛有些不同尋常。不同尋常的智力的閃光。
+
+[Specified 0]聽到了一個低語。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>248</ID>
+			<DefaultText>​「你把我們從矮人軍械所的監禁中解救了出來。這就當我們還債了吧。」
+
+被馬如恩和其他帕格閏的靈體們佔據的六肢魚怪蜂擁著，把[Specified 0]送向水面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>249</ID>
+			<DefaultText>​六肢魚人們在你的面前聚集了，你發現他們彩虹色的眼睛有些不同尋常。不同尋常的智力的閃光。
+
+你聽到腦海裡有一個低語。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>250</ID>
+			<DefaultText>​「你把我們從矮人軍械所的監禁中解救了出來。這就當我們還債了吧。」
+
+被馬如恩和一些其他帕格閏的靈體們佔據的六肢魚怪們蜂擁著，把你送向水面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>251</ID>
+			<DefaultText>​「我之前告訴過你，你最好能忘掉看到的一切。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>252</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>253</ID>
+			<DefaultText>​「你一直都勇敢地帶領著我們，[Player Name]。能跟隨你的領導，是我們的榮幸。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>254</ID>
+			<DefaultText>​「眾神還真是跟你過不去啊。希望他們能像我一樣瞭解你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>255</ID>
+			<DefaultText>​「只要我還活著，瑪素克就會把你的名字和珀索克一起歌頌，[Player Name]。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>256</ID>
+			<DefaultText>​「我……每個人都會知道你為我們的所作所為。我會告訴我認識的所有人。就算是海洋女王本人也別想阻攔我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>257</ID>
+			<DefaultText>​「我只是希望你這麼做不是為了堅忍村的鄉巴佬。就連那些新來的也不值得你這麼做。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>258</ID>
+			<DefaultText>​「一個偉大的自由之舉。你的身體會受到磨難，但是你的靈魂會繁榮起來。
+
+「我會永遠記得你作出的榜樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>259</ID>
+			<DefaultText>​「你的犧牲會拯救許多生命。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>260</ID>
+			<DefaultText>​「那麼，直著走向火焰吧。你的（倖存）機會不樂觀，但是至少你已經學會了擁抱考驗。
+
+「我就說過，我會對你有好（影響）的，通魂者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>261</ID>
+			<DefaultText>​「你是個勇敢的人，[Player Name]。真希望我能早點兒遇見你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>262</ID>
+			<DefaultText>​「你今天的所做所為影響整個東陲的所有人，遠遠超過了白際山。我會確保共和國知曉你做出的犧牲的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>263</ID>
+			<DefaultText>​「瓦爾教導我們凡事皆有原因。或者有時候完全沒有原因。大概正是因為如此，他才沒有多少信徒吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>264</ID>
+			<DefaultText>​[Specified 0]點點頭，接受了你的艾比頓之錘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>265</ID>
+			<DefaultText>​它放置在你手掌上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>266</ID>
+			<DefaultText>​你拿起潛水頭盔，然後把它收好。只是以防萬一。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>267</ID>
+			<DefaultText>​「我在你的陪伴下已經尋得了安寧。我的靈魂不再執著於這個存在了。
+
+「請允許我報答你。讓我留下來吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>268</ID>
+			<DefaultText>​同時，一個更沉重的旋律在山洞迴盪。腳步聲。數十個他們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>269</ID>
+			<DefaultText>​一個細小的裂縫強行推開了空氣，一大股水流湧進把[Specified 0]擊倒了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>270</ID>
+			<DefaultText>​整個洞穴旋轉起來，把[Specified 0]捲進了由鋸齒狀金屬、撕碎的肉體和石頭所組成的一鍋粥裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>271</ID>
+			<DefaultText>​突然，你的後背感覺到一股暖流。
+
+一個如海浪一般的聲音在你腦海中低聲細語。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>272</ID>
+			<DefaultText>​「同樣忘掉這個吧。神是不會為了凡人好而出手干預的。」
+
+水流像一隻手，把你推向了上方水面的幽靈般的光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>273</ID>
+			<DefaultText>​沒有火花。天平。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>274</ID>
+			<DefaultText>​沒有火花。天平。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>275</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>276</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>277</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>278</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>279</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>280</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>281</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>282</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>283</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>284</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>285</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>286</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>287</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>288</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>289</ID>
+			<DefaultText>​你們這才意識到，[Specified 0]是唯一可以辦到的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>290</ID>
+			<DefaultText>​隊伍這才意識到，你是唯一可以辦到的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>291</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>292</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>293</ID>
+			<DefaultText>​你們這才意識到，[Specified 0]是唯一可以辦到的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>294</ID>
+			<DefaultText>​隊伍這才意識到，你是唯一可以辦到的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>295</ID>
+			<DefaultText>​你們這才意識到，[Specified 0]是唯一可以辦到的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>296</ID>
+			<DefaultText>​隊伍這才意識到，你是唯一可以辦到的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>297</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>298</ID>
+			<DefaultText>​「眾神們還真是跟你過意不去啊。在你的來生，他們欠你一些神奇（的補償和恩惠）。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>299</ID>
+			<DefaultText>​「我估計過我時日無多了。至少現在我還有了個好理由。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>300</ID>
+			<DefaultText>​「但是如果這能阻止無目者侵襲東陲，我會做我必須做的。祝你們勝利（順利逃出）.」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>301</ID>
+			<DefaultText>​「你一定要活著逃出去。你要拼盡全力做到。
+
+「不要失去理智。就憑往日的交情，我還要回來糾纏你呢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>302</ID>
+			<DefaultText>​「要是你打算抓住一位神明的錘子的柄的話，給他點面子，你好歹也要親手把工作完成吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>303</ID>
+			<DefaultText>​「讓我來吧。我為自己的選擇已經懊悔太久了，這正好能平衡一下。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

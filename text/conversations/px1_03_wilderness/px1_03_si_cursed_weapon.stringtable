@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_si_cursed_weapon</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>68</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​寒冷的水簾後面是一個壁龕，牆壁都結滿了冰。中間放著一個粗糙的石頭基座，也被冰塊覆蓋了。
+
+一個十字劍柄和錐形刀刃從基座伸出。從劍柄的大小以及刀刃長度判斷，這應該是一把破甲劍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[你自己去抓住武器並把它拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[告訴[Slot 0]抓住武器並把它拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[告訴[Slot 1]抓住武器並把它拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[告訴[Slot 2]抓住武器並把它拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[告訴[Slot 3]抓住武器並把它拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[告訴[Slot 4]抓住武器並把它拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[告訴[Slot 5]抓住武器並把它拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[上前，把武器從石頭中拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​誰去？
+
+（友情劇透：它會靈魂綁定到拔出它的人……謹慎選擇吧。）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[檢查該區域]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​壁龕和石頭基座只不過是一處廢墟而已。石頭上結滿了冰，地上也被冰覆蓋著。
+
+你只能看到破甲劍的一部分，似乎保存得還不錯，任何人都能把它留在這兒。
+
+不過當你靠近時，聽到了一聲尖叫，似乎是受到拷打的靈魂發出來的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​壁龕和石頭基座只不過是一處廢墟而已。石頭上結滿了冰，地上也被冰覆蓋著。
+
+你只能看到破甲劍的一部分，似乎保存得還不錯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[Specified 0]穿過瀑布，在冰冷的水下喘著氣，呼吸聲在室內迴響著。
+
+[Specified 0]靠近的時候，水流反射在刀刃上。
+
+[Specified 0]握住刀柄。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[Specified 0]的腦海中充斥著憎恨、恐懼和暴力的聲音。
+
+[Specified 0]的精神受到極大痛苦，顫抖著想把聲音趕出腦海。這個狹小的空間內迴盪著痛苦的叫聲。
+
+但[Specified 0]繼續握住刀柄，最後終於恢復了注意力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[Specified 0]的腦海中充斥著憎恨、恐懼和暴力的聲音。
+
+[Specified 0]的精神受到極大痛苦，顫抖著想把聲音趕出腦海。這個狹小的空間內迴盪著痛苦的叫聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你穿過瀑布，水落到你身上的時候，大口喘著氣。你的呼吸聲在室內迴響。
+
+靠近基座的時候，你看到了刀刃上反射的水花。
+
+你抓住刀柄。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​你的腦海中充斥著憎恨、恐懼和暴力的聲音。
+
+你的精神受到極大痛苦，顫抖著想把聲音趕出腦海。這個狹小的空間內迴盪著痛苦的叫聲。
+
+但你繼續握住刀柄，最後終於恢復了注意力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​你的腦海中充斥著憎恨、恐懼和暴力的聲音。
+
+你的精神受到極大痛苦，顫抖著想把聲音趕出腦海。這個狹小的空間內迴盪著痛苦的叫聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[堅持住]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[放開破甲劍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​你想要放開劍柄，但你感覺你的手指已經和劍柄凍結在了一起。
+
+你不停拉扯，終於掙脫，向後飛去，落在了雪地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​不過你的手卻依然緊握著那把劍，手臂因為用力過猛而顫抖著。
+
+最終，儘管那個聲音很吵，但你還是設法讓自己精神集中起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​然而就在你的呼吸恢復平穩，那個刺耳的聲音消退的時候，突然有個什麼東西把你的手向前拉扯著。
+
+感覺就像你拿著一個沉重——而且痛苦——的負擔。
+
+也許你能把破甲劍拉出來，但不小心就可能要付出代價。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​[把破甲劍從石頭中拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[放開破甲劍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​你站起來把身上的雪弄掉，由於筋疲力竭，你的身體顫抖著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​你想要放開它，不過你的手指卻和劍柄連在了一起。
+
+在掙扎了一分鐘之後，一切都毫無進展，你依然沒法擺破甲劍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​你力量驚人，瞬間把破甲劍從石頭中拔了出來。劍鋒由於你用力過大而震顫著發出響聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​在經過多次掙扎之後，你終於把破甲劍從石頭中拔了出來。你的臉上流淌著汗水，四肢顫抖著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​不過當你想要放開破甲劍，發現還是不行。你覺得劍裡的某個東西抓住了你的靈魂，和它綁在了一起。
+
+當你看著劍刃，你看到它閃爍著一種奇異的光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[堅持住]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​然而就在[Specified 0]的呼吸恢復平穩，那個刺耳的聲音消退的時候，突然有個什麼東西把[Specified 0]的手向前拉扯著。
+
+感覺就像[Specified 0]拿著一個沉重——而且痛苦——的負擔。
+
+也許[Specified 0]能把破甲劍拉出來，但不小心就可能要付出代價。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[把破甲劍從石頭中拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[Specified 0]力量驚人，瞬間把破甲劍從石頭中拔了出來。劍鋒由於用力過大而震顫著發出響聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​在經過多次掙扎之後，[Specified 0]終於把破甲劍從石頭中拔了出來。[Specified 0]的臉上流淌著汗水，四肢顫抖著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​不過當[Specified 0]想要放開破甲劍，發現還是不行。似乎劍裡的某個東西抓住了[Specified 0]的靈魂，和它綁在了一起。
+
+劍刃上泛著奇異的光芒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​不過[Specified 0]的手卻依然緊握著那把劍，手臂因為用力過猛而顫抖著。
+
+最後，儘管那個聲音很吵，但[Specified 0]還是設法讓自己精神集中起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​[Specified 0]想要放開劍柄，但感覺到手指已經和劍柄凍結在了一起。
+
+他不停拉扯，終於掙脫，向後飛去，落在了雪地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​[Specified 0]想要放開劍柄，但感覺到手指已經和劍柄凍結在了一起。
+
+她不停拉扯，終於掙脫，向後飛去，落在了雪地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​[Specified 0]站起來把身上的雪弄掉，由於筋疲力竭，你的身體顫抖著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​[踩著底座作為支撐把破甲劍拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​[放開破甲劍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​[放開破甲劍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​[踩著底座作為支撐把破甲劍拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​你踩在底座的最上面，然後調整好自己的姿勢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​你想要放開劍柄，但你感覺你的手指已經和劍柄凍結在了一起。
+
+你不停拉扯，終於掙脫，向後飛去，落在了雪地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​在一切弄好之後，你沒用多大力氣就把它拔了出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​在一切弄好之後，[Specified 0]沒用多大力氣就把它拔了出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​[Specified 0]想要放開劍柄，但感覺到手指已經和劍柄凍結在了一起。
+
+他不停拉扯，終於掙脫，向後飛去，落在了雪地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​[Specified 0]想要放開它，不過你隊友的手指卻和劍柄連在了一起。
+
+在掙扎了一分鐘之後，一切都毫無進展，[Specified 0]依然沒法擺破甲劍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​[Specified 0]想要放開劍柄，但感覺到手指已經和劍柄凍結在了一起。
+
+她不停拉扯，終於掙脫，向後飛去，落在了雪地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​[Specified 0]踩在底座的最上面，然後調整好自己的姿勢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​[仔細查看劍刃]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​劍刃由堅固的精鋼製成。近距離仔細看，[Specified 0]發現順著劍刃刻著一首詩：
+
+「背叛者注定將沉睡而永不安息，
+
+同時他的行徑將在其胸膛裡存寄。
+
+但誠懇的懺悔治癒了這悲痛之人，
+
+且可敬的舉動中止了劊子手之手。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​劍刃由堅固的精鋼製成。有人竟然把這把劍留在這個石頭裡，這讓人感覺很奇怪。不過，除了這把劍質量很不錯之外，[Specified 0]看不出別的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​[仔細查看劍刃]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​劍刃由堅固的精鋼製成。近距離仔細看，你發現順著劍刃刻著一首詩：
+
+「背叛者注定將沉睡而永不安息，
+
+同時他的行徑將在其胸膛裡存寄。
+
+但誠懇的懺悔治癒了這悲痛之人，
+
+且可敬的舉動中止了劊子手之手。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​劍刃由堅固的精鋼製成。有人竟然把這把劍留在這個石頭裡，這讓人感覺很奇怪。不過，除了這把劍質量很不錯之外，你看不出別的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​[施展烈焰之扇]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​[來回擺動，讓破甲劍發生鬆動]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​[Specified 0]的手中發出一陣熱，劍刃上的雪融化了。
+
+看上去破甲劍已經鬆動了一些。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​通過巧妙的技法，[Specified 0]成功地讓這把劍鬆動了。
+
+劍柄彈出來幾英吋，但破甲劍還插在石頭裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​[施展烈焰之扇]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​你的手中發出一陣熱，劍刃上的雪融化了。
+
+看上去破甲劍已經鬆動了一些。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​[來回擺動，讓破甲劍發生鬆動]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​通過巧妙的技法，你成功地讓這把劍鬆動了。
+
+劍柄彈出來幾英吋，但破甲劍還插在石頭裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

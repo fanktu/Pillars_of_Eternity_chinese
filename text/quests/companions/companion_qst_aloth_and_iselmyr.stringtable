@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>雙面靈魂</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在反抗灣找到一位覺醒方面的專家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>艾洛斯說他體內寄住著一個覺醒的靈魂，依塞蜜爾。他求助於我去幫他找一位瞭解這種問題的專家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>艾洛斯提到反抗灣有一個致力於研究靈魂疾病的完整機構。肯定就是我在侍僧幻景裡看到的那個地方。
+
+在那裡我也許能找到對覺醒的靈魂有所瞭解的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我被告知去找一個叫貝拉賽潔的人。她在療養院的下層工作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>看起來要想幫助艾洛斯，蕨堡區療養院是最有希望的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我準備參加公爵對靈魂學的聽證會。要想幫艾洛斯解決依塞蜜爾的問題，我得先帶著他找到這個療養院裡的專家。現在還不知道這次聽證會會對反抗灣裡的靈魂學產生什麼影響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>在得知依塞蜜爾是如何和艾洛斯脾氣暴躁的父親直接對抗之後，我認為他可能還沒有意識到依塞蜜爾有多有用。他看起來有些懷疑，不過我相信他會考慮考慮的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>每當艾洛斯進退兩難時，依塞蜜爾就會得到控制權。在得知這一點之後，我建議艾洛斯最好提防著她。他不該把控制權讓給任何人，即使是自己靈魂的一部分也不行。他看起來同意了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>看起來依塞蜜爾對艾洛斯來說是把雙刃劍。一方面來說，當艾洛斯面臨困難的時候她會幫忙，但是另一方面，他有時候並不滿意她的處理方式。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我們沒找到艾洛斯需要的靈魂學者。他不得不獨自面對這個問題。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

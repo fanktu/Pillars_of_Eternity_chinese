@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px4\px4_cv_ponamu</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「請借一步說話，我的西方朋友。」
+
+一個海裔站在你的面前，他的頭髮蓬亂，曾經光鮮的衣服已經破破爛爛。同樣糟的是他的臉，一道較細的影線交叉著更寬的幾道傷口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「歡迎回來，我的西方朋友！你是來瀏覽我的貨物的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「看一看啊嘿！啊嘿！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「自從我的船沉了，已經好久沒有見到一個人類了。你要不要讓你的錢包減輕一點？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「你是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你遇到船難了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「你都賣些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「讓我看看你的貨物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[離開]「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「我被稱作坡拿姆·鳥譏，瓦納人的編年史家。奇怪的姓，我知道，但我們沒法選擇自己的姓名，對吧？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「是哦。我們當時在從亡焰向反抗灣運輸貨物，一場風暴把它帶離航線並驅趕到了這裡。只有我活了下來。」
+
+他皺眉了一會兒，但接著搖搖頭，清空了表情。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「你應當考慮在亡焰的眾島航行，朋友。全世界也沒有比這更美麗的地帶了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「來自亡焰的船上的貨物、一些私人小玩意兒，都是上佳的品質。我本不該賣掉它們，但沒有錢，我又該怎麼返回我的家鄉？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「當然。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

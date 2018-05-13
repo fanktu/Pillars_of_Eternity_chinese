@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_si_frontal_assault</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>66</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一道沉重的木門擋在通往城堡的路上。全副武裝的戰士背著長弓，躲在側翼的塔樓外圍。
+
+想從下面進攻城堡的話，必須有相當的人手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[仔細查看門]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[呼叫矮人軍械所炮擊]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​雖然並非是一座永久性建築，但城堡看上去明顯很結實。這些牆能抵擋一陣外來的攻擊，使城堡裡的人能有時間組織起防禦力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​當你靠近橋邊時，傳來一陣嘈雜的吼叫報警聲。黑色的人影不斷出現在塔樓和通道上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​一排弓手出現了，快速打擊模式了你們，試圖阻止你們前進。一陣箭雨向你們射來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[使用原木做掩體]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[向弓手開火]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[衝向大門]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​你從原木邊撤開，然後瞄準那些城堡的守衛者。
+
+你射倒了一個弓手，然後又是一個。其餘的躲在了欄柱的後面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​你準備瞄準，但一陣箭雨迫使你躲在了原木下，暫時無法還擊。
+
+那些射手看到此景，受到了鼓勵，集中火力射來。一去箭射中了你的腿部，一陣劇痛傳來，你幾乎跪在地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​你舉起原木，用它擋住致命的箭雨。亂箭雨點般落在樹幹上，你的雙手居然沒有中箭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​你舉起原木，用它擋住致命的箭雨。亂箭雨點般落在樹幹上，你的雙手居然沒有中箭。
+
+不斷的箭雨下，[SkillCheck 0]的力量消耗很大，有一刻原木幾乎從手中滑落。一支利箭射中了[SkillCheck 0]的腿部，阻擋了你們的前進。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你攢足力氣，舉起原木衝向大門。亂箭雨點般落在你的周圍。
+
+幸好你動作快，沒有受傷。你抬起原木撞向大門，發起巨響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你攢足力氣，抬起原木加速衝向大門。
+
+但是在重壓之下，[SkillCheck 0]的力氣減弱了，一支利箭破空而來，射中了[SkillCheck 0]的腿部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​你向後退了一下，然後又向前猛衝。當門柱被撞活動時發出尖銳的爆裂聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​上面一陣騷動吸引了你的注意力。在塔樓的最左邊，一群人正拉來一口大鍋。
+
+他們把鍋向前傾，瞄準你的同伴把鍋裡的液體倒下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​黑色的液體濺落在你周圍的地上，你意識到敵人倒的是滾燙的瀝青。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​你扔掉撞門用的原木，及時跳向一邊，躲開了潑灑下的滾燙的瀝青。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[跳向一邊]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[施法元素壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​[施法冬之風]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​你及時施放出了法術。一道滾燙的瀝青瀑布從天而降，好在你沒有受傷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​你及時施放出了法術。一道滾燙的瀝青瀑布從天而降，你的法術把它擋在了半空中。
+
+凍結成塊狀的瀝青落在了地上，摔得粉碎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​你扔掉撞門用的原木，及時跳向一邊，躲開了潑灑下的滾燙的瀝青。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​你的動作遲了一點。一道滾燙的瀝青瀑布從天而降，你的肩膀前部濺上了一些。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​你從快撞開的門邊稍向後撤，準備一舉破門。
+
+城堡的守衛大聲喊著命令，幾名步槍兵加入了牆邊的弓手隊伍中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​冒著箭雨和炮火，你最後撞向大門，隨著「呯」的一聲巨響，門開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[施展你的奧術壁障]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​突然，隨著一聲震耳欲聾的巨響，城堡的大門變成碎片，和泥漿一起飛散出去。
+
+到處是塵土，一片混亂，你聽到城堡的守衛者正匆忙下著行動命令。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​發出信號後，你從門邊退開了。
+
+從軍械所的方向傳來一陣轟鳴聲。城堡塔樓裡露出一張張驚愕的面孔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​最後，你來到了門前。你們一起抬起原木，結結實實地撞向大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​你揭開面罩，它使你幾乎看不清對方的弓手。又射來一陣箭雨，但你沒有受傷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​冒著箭雨和炮火，你最後撞向大門。[SkillCheck 0]中了一箭，痛得大叫。
+
+你抬起原木向前衝，門隨著一聲巨響被撞開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​你的同伴們奮力向前，乘著機會搶佔有利地形。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​你的同伴被箭雨擋在了原地。有些人中箭了，血和雪、泥漿混在一起，你們前進的步伐變慢了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​[施放阿克米爾的炫光]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​你的同伴們弓腰躲在原木後，被紛飛的箭雨擋住了。為了躲避火力網，[SkillCheck 0]在慌亂中踏空了，幾乎把原木掉落，好在又穩住了腳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​你的同伴們弓腰躲在原木後，被紛飛的箭雨擋住了。為了躲避火力網，[SkillCheck 1]在慌亂中踏空了，幾乎把原木掉落，好在又穩住了腳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​一道眩目的光芒沿城堡的城牆噴薄而出，引起一片驚懼的尖叫聲。你聽到失足從城堡上掉下來的人恐懼的尖叫聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​你的同伴被箭雨擋在了原地。有些人中箭了，血和雪、泥漿混在一起，你們前進的步伐變慢了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​你的同伴們奮力向前，乘著機會搶佔有利地形。在混亂中，[SkillCheck 0]踩空了，一邊膝蓋扭了，好在受傷不重。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​你的同伴們奮力向前，乘著機會搶佔有利地形。在混亂中，[SkillCheck 1]踩空了，一邊膝蓋扭了，好在受傷不重。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​你攢足力氣，抬起原木加速衝向大門。
+
+但是在重壓之下，[SkillCheck 1]的力氣減弱了，一支利箭破空而來，射中了[SkillCheck 1]的腿部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​你的同伴也跟著做，慌忙跑向安全處，在你們周圍，都是一灘灘嘶嘶作響，冒著水汽的滾燙瀝青。
+
+你和同伴們沒有受傷，又一次抬起了原木。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​你的同伴也跟著做，慌忙跑向安全處，在你們周圍，都處流動著嘶嘶作響，冒著水汽的滾燙瀝青。
+
+[SkillCheck 0]踩到焦油粘住了，躲閃不及，被最後一撥瀝青潑濺到了肩部，因劇痛而大叫起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​忍受著灼痛，你和同伴們再次抬起原木，準備最後破門而入。
+
+城堡的守衛大聲喊著命令，幾名步槍兵加入了牆邊的弓手隊伍中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​你的同伴也跟著做，慌忙跑向安全處，在你們周圍，都處流動著嘶嘶作響，冒著水汽的滾燙瀝青。
+
+[SkillCheck 1]踩到焦油粘住了，躲閃不及，被最後一撥瀝青潑濺到了肩部，因劇痛而大叫起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​越來越多的瀝青落下，你的同伴慌忙跑向安全處，在你們周圍，都是一灘灘嘶嘶作響，冒著水汽的滾燙瀝青。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​你的同伴慌忙去找掩體，冒泡的瀝青焦油嚴重影響了他們的行動。隨著越來越多的瀝青潑下，痛楚的尖叫聲劃破了空氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​[集結你的同伴，一起向大門衝擊]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​隨著一聲歡呼，你和同伴們抬起原木向前撞去。第一撥箭雨落在你身後的土地上。
+
+幸好你動作快，沒有受傷。你抬起原木撞向大門，發出吱嘎吱嘎的巨響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​[施放相位撤離]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​你及時施放出了法術。一道滾燙的瀝青瀑布從天而降，好在你沒有受傷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​[把一個同伴帶到安全的地方]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​你有一息時間決定哪個同伴越過去……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​你向前跳躍，帶[Specified 0]離開了射擊線。許多沸騰的瀝青倒在你的周圍，一部分濺射到你的前肩上。但[Specified 0]安然無恙。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​越來越多的瀝青落在你周圍發臭作響的池子裡，你剩餘的同伴爭先恐後地尋找安全地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​你的剩餘同伴在尋找掩護，他們的步子撞上冒泡的柏油。滾燙的瀝青擊中更多目標，尖叫聲撕裂了空氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

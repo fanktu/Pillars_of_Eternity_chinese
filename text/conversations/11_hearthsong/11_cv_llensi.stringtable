@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_llensi</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>28</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「歡迎來我家，外來者。我是倫西，治療師兼導遊。什麼風把你吹來了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「跟我說說你自己。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「我該走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「本地人稱我是聰明的女人——算是對我的尊重，但這讓我感覺自己老了。我是藥水師兼治療師。我花了大半生治病，幫助接生嬰兒，並為痛苦的人製作解藥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「代勒姆派我找些稀有的鳴禽。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我們又見面了，外來者。你有什麼需要？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「站住！」當你的手伸向鳥籠時，倫西大喊。「你好大的膽子，敢碰我的鳥？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「古曲區的詩人代勒姆派我來找這種鳥的樣本。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「抱歉，我只是好奇。我不會再碰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​她茫然地盯著你，然後搖搖頭。「那個蠢貨代勒姆派你來的？不——絕對不行。吃我親愛的寵物絕對不會賜予那笨蛋音樂天賦。吃了他只會拉肚子和嚥下鳥嘴的痛苦。」
+
+她疊起雙臂並皺皺眉。「明明森林裡全是鳥——我的不賣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我同意，殺你的鳥似乎沒必要——我去別地找吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「代勒姆為什麼覺得吃鳥有用？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「我們沒資格囚禁動物。我覺得你或代勒姆都不該這樣——鳥應該放生。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「老舊的民間傳說簡直是扯淡，」她喃喃自語，無奈地聳聳肩。
+
+「特別是在森林長大的羽精似乎始終這麼覺得，吃罕見的生物能獲得獵物的特性。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「如此柔弱的小東西……或許我該切成兩半，一半給代勒姆，一半給你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「好吧……」她眼睛無神地看著你。「就像一隻被關起來的鳥兒一樣。我是說……他在那邊幾乎沒有什麼行動的空間……
+
+「你就是想讓我把鳥嘴放了，這樣你就能把他搶走，然後賣給代勒姆。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「你不該這樣的！」她伸手緊緊地摀住嘴，不讓自己發出恐懼的嗚咽聲。
+
+她眼睛睜得大大的，眼睛滿是恐懼地來回打量著你。「你為什麼要殺了可憐的小鳥嘴？他對你做了什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​她笑的時候臉紅成了一朵紅雲。「我很高興你能從我的角度思考。如果有人要你把你心愛的寵物當塞牙縫的食物吃掉你什麼心情？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「立刻離開我的房子！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「拜託了，別打擾我……我好想念我的鳥嘴，現在需要一個人靜靜。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「不可能是真的——就像吃掉蜘蛛不會讓你長出來八條腿，吃掉常春籐不會讓你發芽長漿果。」
+
+倫西無奈地歎了一口氣。「如果代勒姆想做一個更好的歌手，得勤加練習才是，不能迷信。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「這要讓我一晚上都睡不著了。帶走他吧——把他帶到森林裡放了他吧。」
+
+她咬著下唇衝你揮了揮手。「現在請走吧！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「代勒姆不會得到這隻鳥的。我會把它安排在安全的地方——你不用擔心鳥嘴先生會不幸福。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「如果我真那麼想要這隻鳥的話，你早就（被打得滿地）找牙了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​她嚇得臉發白。「你怎麼可以跟我那樣說話！出去！立馬從我的房子裡出去！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​她眼角濕了，鐵青著臉抽動著嘴角。「咳，我不想惹任何麻煩。帶上這隻鳥走吧！祝你的靈魂化為一片腐朽，只留你的一個空殼！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「你這只會唱歌的鳥兒真不錯，它有名字麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「嗯，有名字，」她紅著臉說，「但是我不該讓我朋友的女兒隨便給他命名……他名字很長也很傻。簡短的版本是『鳥嘴』。」
+
+她轉動著眼珠笑了。「我的下一隻鳥準備跟魂君姓。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

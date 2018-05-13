@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_02_durgans_battery\px2_02_cv_adaryc_solo</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​艾達瑞克搖晃著腦袋，他將手緊握成拳頭交叉在兩側。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「他們不會聽的。我試圖警告過他們的！為什麼他們不明白呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「這是怎麼回事？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「當你最後一次在這裡時並不是太友好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「他們這些不願面對現實的傻瓜。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我又做了相同的夢。幻景。」
+
+因為不舒服，艾達瑞克停頓了一下。「我們都知道那不僅僅是夢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我們集體的罪孽會埋葬我們所有人的。我們得繼續向前！去面對即將發生的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​艾達瑞克冷哼一聲。「所以你已經親身看過它了。真該死。我們不能光坐著等著他們看到暗示。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「捏塑怪就要來了。他們不會在乎我們的邊界，我們的爭論。我們必須聯合在一起去面對他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「你已經在營寨證明了自己良好的判斷力。我會派遣鐵連枷供你驅使。我的人會站在你這一邊的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「而且我也很榮幸。準備進攻凱榮的傷疤。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「那好吧。在凱榮的傷疤跟我碰面。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「不。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​艾達瑞克的面色，沒有任何表情。
+
+「真是遺憾，我還以為你還會稍微有點不同呢。更明事理些。看來我錯了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「如果一定要的話就獨自完成吧。但是為了我們所有人，請務必阻止這些怪物。在他們消滅我們所有人之前。」
+
+因此，艾達瑞克轉過身跑開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我們會在凱榮的傷疤集合等待你的命令。請做好準備，我的朋友。這將會是場偉大的戰鬥。」
+
+艾達瑞克輕輕的鞠了躬，然後離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「好吧，這聲音很熟悉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​艾達瑞克朝你的方向慍怒地看了一眼。他歎了口氣，伸出一隻手去撫摸他的頭髮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

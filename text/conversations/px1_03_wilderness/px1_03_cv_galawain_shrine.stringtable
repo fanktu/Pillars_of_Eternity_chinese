@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_galawain_shrine</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​簡易的聖壇覆蓋在一層厚厚的積雪之下，上面蓋著一層落葉和羽毛。祭壇一側是一對彎曲的骨頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[把圖騰放到祭壇上]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[更仔細地檢查聖壇]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​聖壇似乎乏人問津，但石頭上留有燭蠟的痕跡。
+
+你注意到，祭壇表面有一矩形區域，似乎比其他部分更潔淨，好像有什麼東西曾放在上面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​祭壇似乎自你上次來過以後還沒被人碰過。微風吹過彎曲的骨頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你剛把圖騰放回聖壇上，瞬時狂風大作，揚起一地雪塵。
+
+在風中，你聽見遠處有獵犬吠叫的聲音，空氣中銅和火藥的味道越來越重。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​上面所刻的熊的眼睛好似在發出深紅色的光，照亮了黑暗。
+
+清瘦的影子在石頭祭壇上移動，在那時間似乎消失的一刻裡，你感到被一股湧流——交織著恐懼、狂暴、追獵的刺激和被追的恐懼的湧流——帶走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​你遠遠聽見動物哀悼的嗥叫聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​那一刻，熊眼睛的光亮不斷減弱，彷彿垂死的火焰。很快，聖壇再次安靜下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[觸碰祭壇]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你的手指剛一觸到祭壇，你便感覺到一股刺痛爬上手臂。接下來的片刻，風似乎平息下來，那些荒野之聲亦不復可聞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​接著，你突然聽到一聲低吼，緊接著又有更多低吼。你突然看到了某種畫面，它完全不受時空限制。
+
+在一片黑暗之中，你看到了一隻大野獸，尖牙閃閃發光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​它怒吼不已，越來越絕望而凶殘，最終崩潰了。有那麼一會兒，你感到它的憤怒就是你的憤怒——你被它攝住，要崩潰了。
+
+有些東西已被奪走，你的領地受到威脅，而這些的代價就是血……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​這畫面來得快，去得也快。祭壇寂然獨立，空氣中再次出現了不時響起的鳥鳴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​最終，它放開了你，而影子們在月光下消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​最終，它放開了你，而影子們在日光下消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​這畫面來得快，去得也快。祭壇寂然獨立，空氣中再次出現了不時響起的鳥鳴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

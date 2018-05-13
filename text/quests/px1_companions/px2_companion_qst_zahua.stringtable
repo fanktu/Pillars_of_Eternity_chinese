@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_companions\px2_companion_qst_zahua</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>21</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>塔坎的秘密</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>尋找並追趕靈體獅子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>取回靈體的寶石。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>取出樹液來保護羚羊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>從瀑布灌滿水袋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>探索島嶼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>前往白石空洞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>札瓦讓我們一起在白石空洞使用一些「特殊草藥」，這樣我們可以追尋代表他死去大師伊謝皮羅的靈體獅子。
+
+成為一名開悟的納爾帕茲卡武士，安尼特雷的秘密也隨著伊謝皮羅的死去消失了。如果札瓦找回這份知識，他或許能夠把他的人民從奴役中解放出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>獅子似乎在帶著我們前往哪裡。如果我們想知道答案的話，我們就得跟上它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>獅子帶著我們找到一個靈體，它正在試著取回它留在附近台座的寶石。
+
+台座附近都是屍體，似乎都屬於這個靈體，這也許暗示取回寶石不比看起來簡單。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我們遇到了一隻受傷的羚羊，對捕獵者來說它是個輕鬆的目標。
+
+在北邊有一棵巨樹，樹液的味道會讓其他動物不會靠近。
+
+如果抹上這種樹液，那麼羚羊有更大的機會活下來，直到它的傷口癒合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>一個口乾舌燥的人哀求我們從附近的瀑布給他帶點水來，他說只有瀑布的水才能止渴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10009</ID>
+			<DefaultText>在白石空洞中心的池塘干了，其中央露出了一個小島。我們應該看看那裡為札瓦準備了什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10011</ID>
+			<DefaultText>札瓦提到在堅忍村東邊有個叫白石空洞的地方，他能感到對他而言有某種靈魂上的重要性。
+
+他請求我們前去探索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我從台座上重新獲得了寶石。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我成功地獲取了羚羊需要的樹液。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>當我裝水到水袋時，瀑布似乎要燙傷了我，但是後來發現那只是幻象。我取來了水，比他要的還要多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>札瓦似乎已經釋懷了他多年來否認的過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>札瓦離開了隊伍，去繼續他的征途，而我不能再幫助他了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>札瓦沒完成他的旅途就死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40001</ID>
+			<DefaultText>札瓦請我們前去堅忍村東邊的荒野，在那他遇到過一個和他靈魂共鳴的地方。他希望那裡有答案能幫他完成誓言，把他的人民從奴役中解放出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

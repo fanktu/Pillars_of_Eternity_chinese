@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_02_durgans_battery\px2_02_cv_reforge_hammer</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​從白皚鍛爐湧出難以置信的熱量火著你裸露的皮膚。
+
+艾比頓之錘的碎片在你手中變熱了，彷彿它認出了這裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[重造艾比頓之錘]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​這只是原始尺寸的一小部分而已，但這些金屬已經足夠用來打造一把錘子，適合你這樣身材的人來持有。
+
+在這座鍛爐中，碎片可以被塑造一新。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你集中精神回想起你（在幻景中）目擊到的有關這把巨錘的每一份記憶。這些影像合併起來，在你的心眼中逐漸成形。
+
+你知道每一處彎曲、每一道紋理。即使你看到只是不成塊的金屬碎片，你也可以預見它將變成什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​碎片變熱很慢，即使是在白皚鍛爐中，而當你在鐵砧進行處理時，卻會快速冷卻。
+
+你汗如雨下，並在你腳下形成水窪。隨著每一次揮舞鍛錘，你的手臂愈發酸痛，直到你幾乎舉不起它來。時間默默地流逝。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​終於，隨著用鑿子對最後的細節進行蝕刻，錘子完成了。你才做好最後的標記，你就立刻感覺到一股純粹的、放射的能量，從裡面衝了出來，如同一次機械的心跳。
+
+它在造型、比重和設計上，都有一種無法形容的美。感覺它彷彿就是對金屬的存在目的具現化。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​你拿起錘子，它的能量像波浪一般湧向你，它劇烈搖晃著你的身體以至於你差點把它砸到了膝蓋。
+
+顫動過去了，但是洶湧的能量依舊存在。你手臂上寒毛直豎。在你手上的，是對一件神聖儀器的忠實重造。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​隨著艾比頓之錘開始成型，你手中的錘子和它撞擊的脆響，呈現出了熟悉的調子。你曾在夢中聽過那樣的調子。
+
+每一次撞擊，你的腦海中就浮現出一個畫面。一開始還很模糊，但是隨著錘子越來越像其原版，畫面就變得清晰了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​一段時間後，這個畫面變成了以一座環形山湖為中心的冰封的風景。無目者三五成群地在它凍結的湖面上巡邏，而這只可能就是昂德拉所描述過那個地方，「凱榮的傷疤」。
+
+當你敲打時，這些散亂的無目者停住身子並四下打量，彷彿聽到了風中的回音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​在遠處，更多的細節出現了，你可以看到其他的地標——堅忍村、矮人軍械所——於是你明白了這湖在白際山的哪裡。你必須帶著這把錘子去哪兒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

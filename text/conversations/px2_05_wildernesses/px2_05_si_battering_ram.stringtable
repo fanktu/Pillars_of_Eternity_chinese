@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_si_battering_ram</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​這些採伐的原木像是剛砍下不久，從尺寸看就來自於渡口周圍的古樹林中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​原木堆在這裡，似乎是城堡的士兵在把它們拉回城堡時留在了這裡。都是些巨大，堅固的木材，很適合建築用。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​在你面前，城堡的大門緊緊關著。你窺見弓手們在沿著瞭望塔邊走動，巡視著四周，冷風帶來燒瀝青的氣息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[使用原木對城堡發起進攻]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[暫且不動它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你滿懷激情地大步邁向前，抱緊了離你最近的原木，用力拖著。原木卻一動不動。你爬到另一個位置，想找好角度，結果差點被埋在原木堆。
+
+你決定再試試別的辦法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​每個人承擔一段重量，這樣你和你的夥伴們就能把原木拖出來了。
+
+匆忙排成一行抬著原木，你們衝向了前面的大門……</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

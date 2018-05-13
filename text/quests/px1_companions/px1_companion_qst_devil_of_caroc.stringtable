@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_companions\px1_companion_qst_devil_of_caroc</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>逃離之人</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找到哈姆克。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>密切注意卡若克的魔鬼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我在白際山遇見了一位奇特的隊友——一個附著謀殺者靈魂的魔像。在我遇見她和她的「主人」不久之後，她就提出了和我一起旅行的要求。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>卡若克的魔鬼想要找到——並殺死——名叫哈姆克的樵夫。她認為那個人要為她全家的死亡負責，但在此之前她想確認無誤。
+
+她覺得我，作為一位通魂者，應該能夠查清楚。
+
+首先，我們得找到他。堅忍村附近的人或許能告訴我們他現在的位置。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>當我提到我是一位通魂者並打算返回她所被捕獲的那個村莊之後，卡若克的魔鬼提出要和我一同旅行。
+
+我不清楚她的目的是什麼，但我會牢牢看住她的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我暫且拒絕了幫助她。然而，如果我們不巧遇到了這個哈姆克，她可能就會自己動手了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我告訴魔鬼，我會幫她找到哈姆克的位置。然而，對於找到他後我們會做什麼，我還沒有做出任何的承諾。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>她否則自己在堅忍村殺害過任何人，但我不確定她的回答是否可信。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>有人告訴我哈姆克正在城鎮西部的赤褐樹林的一片空地那工作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我窺視了哈姆克的靈魂，發現是他點燃了卡若克的魔鬼的房子。我告訴了她這件事，並且一起殺了他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>在我能讀取哈姆克的靈魂前他就死了。卡若克的魔鬼永遠不會知道他是否對她家庭的命運負責。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我窺視了哈姆克的靈魂，發現他並不願意點燃卡若克的魔鬼的房子。我決定認為他不該負最終的責任，並且告訴了她這番話。她放走了他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40001</ID>
+			<DefaultText>卡若克的魔鬼想要向摧毀她村莊的人復仇。她相信他就在堅忍村附近。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

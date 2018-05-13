@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_cv_messenger_renengild</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「你！你是瑞能吉爾德派人請來的那位。她想和你聊聊。她的房子就順著路走，在公爵的歇息隔壁。」信使指了一下，揮手驅散他臉前的煙霧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「你得和瑞能吉爾德說，我不過只是個信使。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

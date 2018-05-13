@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_si_infiltration</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>57</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​從下面看，你注意到側門邊的瞭望塔似乎沒有人。你也沒看到有敵意的面孔在柵欄邊窺視。
+
+塔頂穿過城堡牆壁。爬上它也許就能進去了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​抓鉤帶著令人不安的聲音擊中木樑。沒有出現警報聲。
+
+拖拽繩子表明鉤子抓的很緊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你可以通過門分辨出聲音是在進行閒聊。在白天明亮的光線下，營地上活動熱鬧非凡。
+
+謹慎的人可以在警報響起之前試著打開們，不過在光天化日之下這是很冒險的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​在夜晚的這個時候，寒冷來襲，營地內多數的嘈雜聲都集中在營火附近。
+
+謹慎的人可以爬過去打開門而不引起警報。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[派人翻過牆]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​誰去？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[你自己做]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​你瞥了一眼熱鬧的營地——和不遠處值勤的守衛。
+
+當你掉在地上，你的動作引起了他的注意，他轉身看你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你瞥了一眼籠罩在夜晚的昏暗中的營地——還有在不遠處值勤的守衛。
+
+片刻的觀察後發現這個人在打鼾，深深地睡著了。你匍匐前進打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[扔抓鉤上屋頂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你瞥了一眼籠罩在夜晚的昏暗中的營地——還有在不遠處值勤的守衛。
+
+片刻的觀察後發現這個人在打鼾，深深地睡著了。你匍匐前進打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​你退回到瞭望塔的陰影中，靜靜地前進。守衛粗略地看了一眼大門，然後看向了別處。
+
+你匍匐前進打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​你抓住繩子開始爬上瞭望塔。
+
+從塔上再次下降到地面是個問題。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[派遣[Slot 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[派遣[Slot 1]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[派遣[Slot 2]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[派遣[Slot 3]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[派遣[Slot 4]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[派遣[Slot 5]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[Specified 0]抓住繩子開始爬上瞭望塔。
+
+很快，[Specified 0]降落到牆的另一邊，進入了城堡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​在那[Specified 0]瞥了一眼熱鬧的營地——和在不遠處值勤的守衛。
+
+當[Specified 0]落下蹲著，這個動作引起守衛的注意，他轉身朝向[Specified 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​在那[Specified 0]能看見籠罩在夜晚的昏暗中的營地——還有守衛，在不遠處值勤。
+
+這個人在打鼾，快速睡著了。[Specified 0]匍匐前進打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​在那[Specified 0]能看見籠罩在夜晚的昏暗中的營地——還有守衛，在不遠處值勤。
+
+這個人在打鼾，快速睡著了。[Specified 0]匍匐前進打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[擠過缺口]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​你退回到瞭望塔的陰影中，但是守衛立刻發現了你。
+
+守衛在你後面大聲呼叫增援，你快速衝出去打開門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[檢查門]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​縱觀外牆，你發現2個木樁已經有點鬆動了，形成了一道缺口。
+
+雖然這個缺口對大傢伙來說太小了，你覺得你也許能擠過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​大門似乎加固了。通過外牆幾個狹小缺口，你能看到內部的支持設置。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​你爬向木樁上的缺口。
+
+經過許多的蠕動之後，你成功通過了軀幹，接著是身體的剩餘部分。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​但是你的腳步聲在安靜的夜晚格外響亮，幾秒鐘之後，你聽到守衛猛然醒來。
+
+你快速衝出去打開門，守衛在你後面大聲呼叫增援。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[Specified 0]退回到瞭望塔的陰影中，靜靜地前進。守衛粗略地看了一眼大門，然後看向了別處。
+
+[Specified 0]匍匐前進打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​[Specified 0]退回到瞭望塔的陰影中，但是太遲了。
+
+守衛呼叫增援，[Specified 0]快速衝出去打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​但是[Specified 0]腳步聲在安靜的夜晚格外響亮，幾秒鐘之後，守衛突然醒來。
+
+守衛呼叫增援，[Specified 0]快速衝出去打開大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​縱觀外牆，你在兩個木樁底下發現了缺口。雖然對人來說太小了，但小動物也許能穿過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​[對某人施放無助野獸形態法術]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​誰將經歷轉變呢？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​考慮誰來施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​[試試其他辦法]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​[你自己做]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​[你自己做]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​[派遣[Slot 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​[派遣[Slot 1]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​[派遣[Slot 2]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​[派遣[Slot 3]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​[派遣[Slot 4]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​[派遣[Slot 5]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​片刻之後，你發現你的視角在急劇轉變。大門聳立在你面前，和你相比顯得異常巨大。
+
+下面的缺口也同樣很大，你的小蹄子輕易地就能帶你過去了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​伴隨著一陣光和一縷煙，[Specified 0]消失了——取而代之的是一隻小豬。這隻豬嗅了嗅空氣，然後徑直走向木樁下的缺口，扭動著過去了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​變形沒有持續太久，你變回了自己的樣子，在雪裡不太體面地躺著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​似乎沒有人注意到門口的豬。但是沒多久，法術消褪了，使得[Specified 0]狼狽地躺在雪裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

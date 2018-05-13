@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_00_stalwart_village\px2_00_intro_dream</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>27</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​隨著你漸入夢鄉，你發現自己漂浮著，各類奇怪的夢境不斷拍擊著你。夢境如潮水般湧動，蒼白而又閃亮的塵埃不斷襲向你的雙眼。
+
+它們逐漸化作飄零的雪花以及刺骨的北風。你發現白際山的山峰在你周圍逐漸升起，你發起抖來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你看到不遠處的堅忍村，除卻些許從煙囪裡裊裊升起的煙霧外，顯得安寧而又平靜。矮人軍械所就在堅忍村上方，其陰影朝著山谷逐漸延展。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​在最上方，你聽到了深沉而又緩慢的旋律。旋律起初有如遠方的鼓聲，但隨後就變得越來越響，穿過乾燥的空氣，在山尖發出隆隆巨響。
+
+響聲越來越大，直至你感到它在你的腳底下迴盪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​那聲音越來越大，越來越快。轟隆聲在山尖迴盪，冰雪從山坡上不斷落下。
+
+但是那旋律依舊持續不斷得響著，震碎了冰的湖水就像震碎了一張水晶碟片。山間裂出了新的溝澗，舊裂口充斥著雪花和石子。山崩淹埋了堅忍村，而矮人軍械所也被震成了廢墟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​山後的暗影逐漸升起，他們是大部隊的先鋒隊。你選擇逃離。
+
+你從山腳跌跌撞撞地穿過鹿林，你能一直感受到軍隊行進的巨響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​努阿王堡在森林中升起，那翻修過的牆壁如堅實的臂膀般伸向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​努阿王堡在森林中升起，那尚在翻修的牆壁向你許諾著安全。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​努阿王堡在森林中升起。雖然牆壁破敗不堪，但它最有可能來保證你的安全。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​你在主廳，用路障保護自己，而巨響越來越近。它震顫著要塞的地基，在石塊開始震顫鬆動之際，你聽到了庭院從傳來一聲邪惡的戰吼。
+
+天花板隨即坍塌，成片的磚塊和橫樑朝你頭上砸來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你不斷踢著蓋在腿上的被褥，試著醒來。
+
+在你醒來之際，你聽到一個從未聽過的細語，你看到數百個狡詐、凝視的眼睛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[觀看並聆聽]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[前往矮人軍械所]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[前往堅忍村]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[撤離]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​你朝堡壘走去，但很快，震顫的地面使得你無法繼續前行。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​你朝村莊走去，但很快，震顫的地面使得你無法繼續前行。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你調頭離開。但是響聲越來越大，差點將你震倒，你轉過頭去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[去反抗灣尋找避難]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[在努阿王堡防護自己]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[躲在雙榆城]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​你看到格蘭法斯城的石拱和柵欄。你希望在這古代廢墟中找到避難所，但你卻發現城門口滿是士兵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「轉身，外來者！帶著你的詛咒遠離我們這神聖的土地！」他們對你舉著矛，緊盯著你。
+
+響聲越來越大，你沒有其他選擇，只能逃到其他地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​你看到了城牆，而鐵閘門卻已關上。門的另一側，守衛透過欄杆戳著長矛，不斷叫喊著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「別過來！你做得還不夠多嗎？」
+
+微風拂過，氣息中有煙霧和焦肉的味道。反抗灣的倖存者們通過破敗的窗門望著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​這裡沒有你的棲息之處。你奔跑著，只覺身後的軍隊越來越近。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「別過來！你會像摧毀堅忍村一樣摧毀我們的！」
+
+微風拂過，帶著牆後數千民眾的哭喊和惡臭。你可以感受到他們的務必恐怖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​你驚醒了，只覺全身發熱，滿身是汗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

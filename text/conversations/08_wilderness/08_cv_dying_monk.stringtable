@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_dying_monk</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>35</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「這必須交給我的教團。」武僧虛弱地抓起他的挎包，從中拿出一個信使卷軸匣。「拿著！」他喘著粗氣，把信函遞給你。
+
+「這個必須……必須帶到神樹幼苗。把這個交給我的兄弟們……他們會報答你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[打開卷軸匣]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[收起卷軸匣]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​地上的人大口喘著氣，隨著他的掙扎胸腔劇烈起伏。走近檢視，你看見他紅色的斗篷完全遮掩了傷口。他血流如注臉色蒼白。「拜託了。旅行者……」
+
+他伸出手，費力地伸向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「發生了什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「別動，讓我看看你的傷口——至少能幫你止痛。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我不會騙你，你的傷太重，我沒法幫你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[幫他從痛苦中解脫]「這會很快過去地。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「健忘——所以大意，」他低語，唇間滲出血液。「我的指頭在……在晨練的時候被割傷了。」他把滿是鮮血的手聚在面前。「那些豹猊——它們聞到了我身上的血腥味，彷彿找到一頓美餐。」
+
+武僧伸出手摀住左腿，指了指膝蓋上突出鋸齒狀的腿骨。「它們幾乎得逞。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​當你靠上前去準備幫助他時，武僧推了推你的手，以他剩餘的力氣虛弱地拒絕了你。「你是個好心人，但我必需品嘗這痛楚，讓我的靈魂做好下一個輪迴的準備。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「不！」武僧費力地舉起他的手，引起了劇烈的咳嗽。「我要品嚐這痛楚，直到最後一次呼吸！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​你輕易地剝開了卷軸匣上的封蠟。你展開卷軸匣，在精美的羊皮紙上發現一個非常正式的水印。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你貼近武僧，發現他已沒了呼吸。動也不動。你輕輕地合上了武僧的眼睛，看向你腳下神秘的包裹。木質的卷軸匣有點髒了，但還能清晰地看到卷軸匣上有五個不同的封蠟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[不管他]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「我好冷……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「求你幫……幫幫我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[檢查卷軸匣]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​卷軸匣用深色的橡木製成，形狀如同一座細塔。卷軸匣上裝飾著五個不同符號的封蠟：一朵火焰，一個展開的手掌，一盞新月，一個明亮的太陽，還有一個天平。
+
+看上去你可以輕易地剝開封蠟，打開卷軸匣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​武僧發出一聲長長的歎息，微笑著緩緩地向你點頭。
+
+「我們久仰你的大名，通魂者。我們知道你坦誠、公平地對待他人。」他的臉愈加蒼白了，露出笑容。「我需要一個值得信任的人來完成我的任務。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​那人端詳了你一會兒，忽然似有所悟。
+
+「我聽說過你！你的殘忍已經眾所周知了。看著一個陌生人死去真的令你……令你快樂嗎？如果你知道我還有尚未完成的使命是不是會更加幸災樂禍？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​強忍著疼痛，那人勉強露出一絲笑容。「我們都聽說過你！」他激動地叫喊起來，因費力而喘息起來。
+
+「我聽說過你——你的善良，你的仁慈！你能幫我嗎？」他看著他行李中一個被血浸濕了的小挎包。「我傷勢過重，已經救不了了，但你可以幫我完成使命。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​那人眼中閃過一絲認出你的表情。「你……你是通魂者！有人說你們喜歡欺騙、操縱別人……但你——」那人全身一陣痙攣，牙齒不由地咬住了嘴唇。
+
+「在這最後時刻，只有你可以托付了……請，聽我說……我正在遞送一封……」他的聲音微弱了下去，但雙眼仍然緊盯著身旁的一個小挎包。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「這只不過是一種磨難而已。忍受痛苦並從中獲取力量吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​那人臉上浮現出痛苦的笑。「我會按你說的做，兄弟，但我的傷太重了。
+
+「不行……我一直強忍著疼痛……但我的傷是致命的，我的身體已經不行了。」</DefaultText>
+			<FemaleText>​那人臉上浮現出痛苦的笑。「我會按你說的做，姐妹，但我的傷太重了。
+
+「不行……我一直強忍著疼痛……但我的傷是致命的，我的身體已經不行了。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​[幫助那人站起來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「不！」他呻吟著，委頓了下去。「別費神了。這副身體已經支離破碎，但我的靈魂將一直存在——這就行了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「告訴我你的使命。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「等等！哪兒——」他摀住了胸口，血從他的手指下的傷口中冒了出來。「你要去哪裡？我需要你的幫助！這封信必須——」
+
+血從那人口中噴出，堵住了他的口鼻，他在窒息中抽動著。沒過多久，他安靜了下來，再也不動了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「我快要——」他指著身旁的一個沾滿血的小挎包，「——完成使命了。就要把信送到了。」
+
+他緊盯著你的眼睛，「請……走完剩下的路，把信送到。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​他點點頭，「我曾無數次大難不死——但這次，我知道好不了了。我漫長的一生將在此終結……但我的靈魂已經準備好了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「別打開它！」他大叫起來，聲音嘶啞。「信只能給我的兄弟們看。要是上面的蠟封破了，他們會——」
+
+血從那人的口中噴湧而出，泉水般沿著他的脖頸流下。他的頭頹然地向後一仰，一動也不動了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​[非常、非常小心地打開信筒，盡量不損壞封蠟]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​用手指緩慢而小心地輕推著封蠟，直到封蠟脫離開信筒但又保持著完整。脫離開信筒的封蠟看上去完好無損，需要時加熱一下，將它再粘在信筒上就沒人會察覺信筒被打開過了。
+
+你拿出信筒裡的信看了起來……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​欣喜吧，探求者們。明智的用刑鬆動了線人的口風。據他說我們正在搜尋的製品目前已經被轉移到了榆樹之蔭——它可能被放在定居點入口附近的住宅中。線人說很有可能藏在地板下。我們已經為這件神聖的遺物付出了太多心血——很快我們的努力就會開花結果了。大殉道者議會等待著你們凱旋歸來。別辜負我們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​你把卷軸放進包裡然後上路了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

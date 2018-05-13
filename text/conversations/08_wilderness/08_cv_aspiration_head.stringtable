@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_aspiration_head</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​石頭腦袋一聲不吭。它的魂珀眼睛一動不動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​突然浮雕的眼睛閃過一道綠光，你聽到一個低沉瘖啞的聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「靈魂最原始的動力就是渴望。有渴望才有目標和方向，才能磨亮你手中的刀刃。
+
+「說出令你可能真正打動你靈魂的雄心吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「我會鼓勵我周圍的人，並把我的力量借給他們以實現我們共同的目標。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「我希望用我自己的力量來使敵人屈服。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我渴望韌性，以及從鬥爭中獲得力量的能力。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我的目標是成為一個比今日更加強大的我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「如你所願。」
+
+牆上有一個符號發著光。它微微躍動著光芒，在覆滿青苔的牆上若隱若現。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「肉身可以收容一個靈魂許多年，但是一具青銅容器則會收容一個靈魂許多個世代。
+
+「進入水中，選擇一個石頭容器。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「上前來，說出你的願望。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

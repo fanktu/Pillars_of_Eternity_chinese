@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_fiorm_dead_memories</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​在喧囂的瀑布下有名精靈格蘭法斯人的屍體，屍體破碎得倒在石頭上。皮膚上突著破碎的骨頭，但你同時也注意到了腐肉上齊整的深傷口。
+
+屍體每個部分都有刀傷，似乎有十來把刀劍摧殘著這具屍體。這人可能在跌落懸崖前，就已經死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你觸摸著死去精靈的額頭，看著水滴閃亮得滴下那紫色表面，你忽然從獵人殘留的精魂中感受到了一股震動。你周圍的世界開始消散……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​……你靜悄悄得走在灌木叢中。月光照亮了你的手臂，手臂在月光下顯得蒼白。但你迅速跑回北部曠野巨樹的陰影處。跟你所預料一般，你的『血兄弟』並不像你這麼敏捷。
+
+……看看他。脆弱。不警覺。他不值得共享這狩獵的榮耀。過了數個季節才遇到這樣的豹猊——它是次級豹猊的兩倍，現在在雙榆城附近的森林裡晃蕩……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​……阿桑上當了。你有點同情他，但你告訴自己，當狩獵開始時，他只會妨礙到你。在河邊，指望著我們會在豹猊喝水的時候對它展開夾擊，這樣他應該會更加安全。但這獵殺將只屬於你……
+
+……這豹猊比你想像中的要大得多。它站在瀑布上，毫不畏懼。它的巨大輪廓撕裂了夜空。傳說中的野獸。一個真正的獵人……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​……你緊握著父親的矛。在你準備投擲時，你覺得重量平衡，很是趁手。你用盡一切力氣。矛徑直飛向目標。豹猊根本沒聽到聲響。它的鮮血灑在了石塊上……但它依舊站立著，絲毫未受影響。
+
+……那野獸猛撲過來。月光照亮著它的巨大尖牙。你來不及多想，直接拔出刀刃，猛衝向那野獸……它太快了。它撕碎著你的肉體。你不斷刺著你身上的黑暗東西。但那黑暗絲毫沒有減緩。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

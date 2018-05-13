@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_cv_haddi</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​那個死人的姿勢讓你清楚地看到了他背上的劍傷。周圍噴濺的血跡還沒有化為棕色。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[讀取他的靈魂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你聽到了一聲低沉和痛苦的呻吟聲，然後回頭一看——
+
+你的頭骨感到一陣鈍痛，然後你的視野遊移。你的手臂被粗暴地鉗住了，迫使你跪倒在地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「不，你不能。」
+
+他幾乎地隨意取拿總賬本。你注意到，在他這樣做之前，埃維娜就緊張起來。但你不明白為什麼，直到他打開冊子，然後那封信滑落出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​埃維娜的呼叫聲聽起來是那麼的微弱。你必須要到她那兒去。你必須要警告埃斯卡。
+
+但你的腿不聽使喚。你無法呼吸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​這份記憶猶如脫下的外套一般從你身上劃走了，而你的背上的疼痛感也隨之很快地消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我們這裡可沒有值得偷的東西！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「看來埃斯卡在磨坊幹得不錯。他還寫信過來，真是愛家啊。鹿灘離這裡可是有好長一段距離。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「家書？」那個男人一邊笑著一邊拿起了信。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「夠了，塞維斯汀。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​埃維娜的聲音切入你遲鈍的腦海。你抬頭看到一個全副武裝的人坐在桌前，你的胃因為懼怕而絞痛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「不！」
+
+埃維娜想要衝上去，但被她身後的男人抓住了胳膊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「好啦，好啦。」他把信扔在地上，冷酷的愉悅迅速被惱怒所代替。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「殺了他。」
+
+你還沒來得及聽清他說什麼，一把劍就從你的背後刺入，然後你失去了肺裡的空氣和四肢的力氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

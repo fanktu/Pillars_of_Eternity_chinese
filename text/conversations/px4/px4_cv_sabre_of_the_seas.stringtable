@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px4\px4_cv_sabre_of_the_seas</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​乍看之下彷彿是發育不良、歪歪扭扭的樹枝在從巨樹的虯根中探出。然而粗略的檢查揭示，它是一件武器的柄，而其刀刃深深地插在木頭裡面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[拿走武器]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[不去動它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​把你的手指包住握把，你對武器發力，卻發現它驚人容易地就滑動出來了。隨著你拔出它，水珠從它的尖端滴落到樹下的土表，仿若血滴。即使在鍍金谷的陰霾下，這把彎刀依然閃閃發光，其彎曲的刀身沾著水汽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

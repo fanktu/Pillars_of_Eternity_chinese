@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_noonfrost_breach_altar</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個黑冰的基座從地板上升起。長長的、如同鑽石般堅硬清澈的手指狀冰晶，抓持著祭壇。
+
+祭壇的中央有個鑿出的洞。雖然洞不過幾英吋深，但周圍的空氣不停地被它吸入。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[將銳末干德的碎片插入洞中]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​碎片正好能放入洞中。
+
+當安放到位後，祭壇周圍的寒意消散了。同樣的，面前的入口似乎變得清晰，神秘的滲液也逐漸消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

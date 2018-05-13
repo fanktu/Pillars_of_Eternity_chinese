@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_02_durgans_battery\px1_02_si_mines_door_key</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>27</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​隨著你接近大門，你注意到周邊有一圓形凹陷。它的上沿雕刻了一排複雜的外國字符。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[將石頭圓盤放入插槽]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[檢查插槽]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​起初，碟片插不進去——但轉到一定角度時，便插進去了。它嵌入其中時，你聽到卡嗒一聲。然而，什麼事也沒有發生。
+
+石頭圓盤上凸出的箭形標誌指向北方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[逆時針旋轉表盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[順時針旋轉表盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​石頭轉盤仍嵌在門框裡。凸出的箭頭標誌指向北方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​這凹陷有三指寬那麼深，牆內還有一些小石塊伸出來。有些石塊沿著縫隙自行轉動，但並未產生明顯效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向南方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向北方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​起初，什麼也沒有發生。幾秒種後，石頭圓盤進一步深入插槽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​你剛一轉身，便聽到石頭發出了微弱的摩擦聲。表盤再次朝向北方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[推動石頭圓盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​表盤轉離了你的手。它轉了一整圈之後，再度升到和圓環齊平的位置上。
+
+它停在了指向北方的箭頭上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​你聽到匡的一聲，接著是鎖鏈的碰撞聲，然後旁邊的門敞開了。道路暢通了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向東方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向西方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向北方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向南方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向東方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​表盤很容易就轉動了，但是你聽到牆後傳來震盪聲。
+
+表盤發出輕微的卡嗒聲後，停住了。箭頭指向西方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​箭頭指向南方時，你按了一下石頭圓盤。
+
+你發現表盤微微陷入了坑渠。
+
+門還是鎖著的，但你感覺已經朝正確的方向進了一步。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​箭頭指向西方時，你按了一下石頭圓盤。
+
+你發現表盤更加陷入坑渠。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​箭頭指向東方時，你按了一下石頭圓盤。
+
+表盤極輕微地陷入了坑渠。變化幾乎微不可視，但應該仍算進步。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​箭頭指向北方時，你按了一下石頭圓盤。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_cv_lafda_henchmen_spied</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>36</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「神殿的木質百葉窗緊緊地關著，從房間內傳來陣陣低音。」
+
+你沒法從這些低聲講話中摸到頭緒，但是撞開百葉窗能幫你聽得更清楚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​一把銹鐵窗栓關著窗戶。你也許可以在不被留意的情況下小心翼翼地把它鬆下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[鬆開窗栓]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[緊貼百葉窗偷聽]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你小心翼翼地開始從金屬掛鉤拉起窗栓。正拉到一半，生銹的鐵栓發出刺耳的聲音，你停了下來。
+
+你嚇壞了，側耳傾聽希望那女牧師沒聽見。他們的對話仍在繼續。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[拉開窗栓]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​誰正打算悄悄拉開窗栓？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[在窗栓上倒些油]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[你自己做]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[考慮其他辦法]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你抓住窗栓並適度使勁直到沒有聲音地拉開。
+
+你小心翼翼地拉開百葉窗直到能聽見屋裡的聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​你抓住窗栓並使勁，試著把窗栓從鐵銹中拉出來。窗栓開始發出聲響，隨著一聲刺耳的聲音，窗栓被拉開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[Specified 0]抓住窗栓並適當使勁，慢慢拉出鐵銹並不要發出一點聲音。
+
+小心翼翼地，[Specified 0]拉開窗戶直到能聽清裡面的聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[Specified 0]抓住窗栓並使勁，試圖把窗栓從鐵銹中拉開。窗栓開始發出噪音。隨著一聲尖銳的聲音，窗栓拉開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​窗戶後面的聲音戛然而止，並且你聽見有人示意大家不要出聲。接著一片寂靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​你聽見一個男人焦慮地說。
+
+「……你做什麼？指望群山來搞定？假如伊什——」
+
+他的話斷斷續續，似乎他正向整個屋子的各個方向說著話。
+
+「——假如相反，他告訴了他們。然後怎麼辦？！」</DefaultText>
+			<FemaleText>​你聽見一個男人焦慮地說。
+
+「……你做什麼？指望群山來搞定？假如伊什——」
+
+他的話斷斷續續，似乎他正向整個屋子的各個方向說著話。
+
+「——假如相反，她告訴了他們。然後怎麼辦？！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​你聽出拉芙達的聲音回答到。
+
+「他怎麼會呢？軍械所附近如此凶險，我們的承福者不會耽誤的。我期望——」
+
+那個男人打斷她。</DefaultText>
+			<FemaleText>​你聽出拉芙達的聲音回答到。
+
+「她怎麼會呢？軍械所附近如此凶險，我們的承福者不會耽誤的。我期望——」
+
+那個男人打斷她。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「你總是期望！瞧瞧這把我們帶到了什麼地方！一個快死的村子。食人魔都打到牆邊來了！伊什特利還沒回來，而我現在只好替他——」
+
+他的聲音低了下來，剩下的話聽不清。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​等一下，拉芙達回答說。
+
+「你以為我想這樣啊？我又不能先知先覺！」
+
+隨後是片刻的停頓，氣氛越發緊張，直到女牧師的聲音再次打破沉默。
+
+「我們不能再等他了。我們要盡快地收網這最後一筆。在那之後，我們再決定。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​男人用沙啞的嗓音回復，幾乎聽不清。你只抓住了最後幾個字。
+
+「……在那赤褐樹林池塘……我會去。」
+
+他們的交流似乎結束了。你謹慎地從昂德拉的神殿窗戶邊離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​你抓住窗栓並倒上一些油，試著拉開窗栓直到它無聲地被拉開。
+
+你小心翼翼地拉開窗戶直到能聽清窗裡面的話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​你用耳朵緊貼著粗木窗傾聽。神殿中談話聲時高時低。
+
+想聽請他們說些什麼實在是太難了，但你覺得也許能發現點什麼，假如你繼續聽下去的話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​[繼續通過關閉的窗戶傾聽]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​你十分專注地解讀你聽到的聲音。這些低聲的震動慢慢地變得連貫起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​你盡力去聽，可是沒聽到什麼合理的內容。你現在只好打開窗戶了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​拉芙達和她的隨從之間的談話已經沒什麼可聽的了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​你聽見一個男人焦慮地說。
+
+「……太危險了！誰還會……」
+
+他的話斷斷續續，似乎他正向整個屋子的各個方向說著話。
+
+「……關於我們在這兒的所作所為？然後怎麼辦？！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​男人用沙啞的嗓音回復，幾乎聽不清。你只聽清了最後幾個字。
+
+「……我會去。」
+
+他們的交流似乎結束了。你謹慎地從昂德拉的神殿窗戶邊離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​一把銹鐵窗栓關著窗戶。你也許可以在不被留意的情況下小心翼翼地把它鬆下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\08_wilderness\08_tsk_sealed_missive</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>密封的信函</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>投遞信函。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我在榆樹之濱偶然碰到了一位被一群豹猊圍攻的武僧。臨終時，他交給我一封密封的信函，囑托我代表他將信函交給他教團的兄弟們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我必須將死去武僧的信函交給他教團的兄弟們。他們應該是在神樹幼苗——雙榆城裡的一家旅店。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我讀了武僧的信函。裡面寫著：
+
+欣喜吧，探求者們。明智的用刑鬆動了線人的口風。據他說我們正在搜尋的製品目前已經被轉移到了榆樹之蔭——它可能被放在定居點入口附近的住宅中。線人說很有可能藏在地板下。我們已經為這件神聖的遺物付出了太多心血——很快我們的努力就會開花結果了。大殉道者議會等待著你們凱旋歸來。別辜負我們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我沒有動過封印，而把信交給了武僧們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我把信件交給了武僧們，但他們發現封印有拆封過的痕跡後就開始圍攻我。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>完成此任務所必需的決定性人物已經死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我把信件交給了武僧們。我成功地讀到了裡面的內容，而沒有破壞外面的封印。武僧們一點也沒有發覺……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我將武僧的死訊告訴了他的兄弟們，但並沒提到關於他給我信的事，我把信函私自留了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我把信函交給了武僧們。雖然我讀了那封信，但我成功地說服武僧們相信，拆信的人不是我。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

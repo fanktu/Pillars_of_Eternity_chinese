@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_cv_owynna_spirit</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​飄蕩在房間中的靈魂像是被什麼人所遺忘在這裡的。
+
+略帶害羞和孤獨，這個精魂給人的感覺很熟悉。你認出它是在這裡工作的女傭的靈魂，隨著深入她的記憶，你發現了更多的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你找到了矮人軍械所的記憶——城垛、大炮、以及走私的武器在礦車上嘎啦嘎啦作響時的鏗鏘音樂。
+
+隨著你的深入，你發現了一組詩句，如同一首熟悉的副歌在這個精魂中循環穿梭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[深入靈魂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你提交頌詞給了記憶，然後離開了精魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「你看上去在努力保守著什麼秘密。」她冰冷的手指搭在你的肩膀上。她黑色的眼睛打量著你。</DefaultText>
+			<FemaleText>​「你看上去在努力保守著什麼秘密。」她冰冷的手指搭在你的肩膀上。她黑色的眼睛打量著你。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「小心，她看你的眼光跟伊圖馬克看你的寵物豬的眼光一模一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「小心，她看你的眼光跟伊圖馬克看你的寵物貓的眼光一模一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「她腦袋裡全是問題……以及解決方法……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「啊，天氣好像變熱了！」他尷尬地大笑起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「夠了。」葩萊吉娜拍了拍魔鬼的肩膀，猶如母親安撫自己的孩子一樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「這不算秘密。頂多只是個他不想公開的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「看來我不是唯一知道不該信任你這種人的人，通魂者。你要是聰明的話，就最好別相信她。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「她看你的眼光就跟母獅看我的眼光一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「要是大家都能守口如瓶就好了……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

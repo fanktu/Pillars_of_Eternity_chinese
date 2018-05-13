@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_02_durgans_battery\px1_02_bs_ogre_party</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「這臭味！死了之後更糟糕。把他們內臟掏出來然後——」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「後面！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「貝熱甘說過這個人。別管他。」</DefaultText>
+			<FemaleText>​「貝熱甘說過這個人。別管她。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「粉碎他！」</DefaultText>
+			<FemaleText>​「粉碎她！」</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>

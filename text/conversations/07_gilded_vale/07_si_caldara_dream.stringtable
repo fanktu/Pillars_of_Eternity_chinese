@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_si_caldara_dream</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你這一覺睡得不好，不安而發燒，竊竊私語的聲音襲擾著你，令人窒息和焦慮。
+
+你睜開雙眼，『覺醒』了，然後發現自己在鍍金谷的一個絞刑架前面，上面的繩子吱吱作響，聲音越來越大，直到震耳欲聾。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​掛在上面的是一個老的矮人女人，她的臉就像一個腐爛的水果一樣早已失去了生機。她的頭無力地垂向一邊。你看著她的時候，她在你腦海中變得越來越大，直到充滿你的整個視野。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你被驚醒了，你還能聞到那個矮人女人散發出的難聞的氣味。一顆顆巨大的汗珠從你的臉上滴下來，你從頭到腳都在出汗。
+
+你記得那個女人。你記得當你和治安官說話的時候，你看過她的臉。他稱呼她靈魂學者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​她的頭突然猛地抬了起來，眼睛張開，眼神空洞，裡面是一片虛無，令你感到反胃。她的嘴慢慢地裂開了，伴隨著一股腐爛的味道，她吐出一個詞：「通魂者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​雖然你覺得有點噁心，但是你有一種強烈的衝動，想要再去見她一面，哪怕最後僅僅確認她是否真的已經死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_eder_looters</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>23</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「那些彩面者不可能一直守著這地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「休息一下。我們明天早晨第一件事就是進去。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「這廢墟已經有主了，朋友。走你的路。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「看他的護身符，帕格。」他指向艾迭爾。
+
+「誒歐瑟斯人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「沒必要動怒，小伙子們。我們只是路過。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「遺贈的唯一原因，就是公爵沒有把你們這些人揪出來殺掉。」
+
+他緊握著自己的彎刀。
+
+「不過，我和帕格已經不再參和大清洗了，對吧，帕格？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​艾迭爾一陣憤怒。他張口說了什麼之後又止住了。鄒著的眉頭馬上變成了禮貌的微笑。
+
+「事實是他們從來都沒找到屍體。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「那又如何？一個無神庇佑的狗屎。眼下就有一個該死的屍體崇拜者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「做女紅嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「接著說你的笑話吧。沒有人會替你報仇，哪怕是你的神明。以瑪格嵐之名，我們會給你一個痛快。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「這和神沒有任何關係。只有無知。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「當你幹壞事的時候，你通常都會向自己的神發誓嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「瑪格嵐鍾愛堅毅，而不是殺戮。清洗或者處決不是瑪格嵐的工作。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「諸神定然希望我們能和平相處。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​那個人回過頭，發出一陣刺耳的笑聲。
+
+「女神會把和平賜予戰爭中的哪一方？
+
+「都不會，朋友。只有沐浴在敵人的鮮血中才完成我們的女神試煉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​杜蘭斯冷笑到。「不淘汰弱小，那麼火焰還算什麼？嗯？它們*全都*是她的傑作。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「反正，它是為了誰，並不重要。鄉下更適合大清洗。
+
+「我們興許就在這兒開始一場新的大清洗。」
+
+他拿起了他的武器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「你愚蠢的比喻和虛構的教條並不能取代我們已經信奉了千年的聖典智慧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「別熄滅火焰，要相信它，因為只有通過她的智慧才具有審判的權威。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​杜蘭斯吼叫著，但是聽不清他說的話。他在地上吐痰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「好主意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「那是個扭曲的解釋。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「沒有神會原諒這種行徑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_cv_captain_ogne</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>31</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「你對時機的感覺真是不可思議，[Player Name]大人。這傢伙找了你一整天。」</DefaultText>
+			<FemaleText>​「你對時機的感覺真是不可思議，[Player Name]女士。這傢伙找了你一整天。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「可以打擾一下嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「那就是我。非常受亡者的歡迎。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「你怎麼能這麼肯定？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「就把它當作是個肉瘤吧。」奧格內的嘴角抽動著，極力想要擺出一副笑臉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「這麼說可能會讓你有些失望，不過在堅忍村，有門道的羽精並不多。要查起來並不困難。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「那些當地人看到你時擺出的那副陰沉的表情，真是想不注意到都難。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「無論這個實驗體到底是誰，反正她有關於你的詳細描述。當你經過這裡的時候，半個鎮子的人都已經開始議論紛紛了。這算是給她幫了大忙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「這個女人在鎮上四處打聽你的去向。用的並不是啥禮貌的方式。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「是啊……」奧格內迷惑地看了你一眼，然後聳了聳肩。
+
+「我不知道具體的傳言到底是什麼，不過看來她已經給你弄出了不小的動靜。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「看來他們並不是唯一你想甩掉的對象。」
+
+奧格內用靴子戳了戳旁邊的屍體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「當我們正巧碰上她的時候，她表現的很焦慮，還差點讓羅伊蘭腦袋搬家。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我從來都沒有見過她。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「應付刺客是我的家常便飯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「哈。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「抱歉給你帶來了麻煩。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「不關我的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「我也不知道你到底知道多少。不過，我建議你看看她攜帶的東西，說不定你還能想起點什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「啊，這沒什麼。只是把羅伊蘭嚇得夠嗆。」奧格內指了指屍體。
+
+「我建議你看看她攜帶的東西，說不定你還能想起點什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​奧格內看上去有些失望。
+
+「……那，我建議你看看她攜帶的東西，說不定你還能想起點什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「沒別的了麼？」奧格內聳了聳肩。
+
+「我只是覺得應該給你提個醒。看來有什麼人和你有過節。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「這我能打保票。唔，我建議你看看她攜帶的東西，說不定你還能想起點什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「一切都還好嗎？還在躲避刺客的追殺？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「從這裡到艾爾·格蘭法斯之間有沒有什麼沼澤？有廢墟的那種。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[離開]「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​奧格內眨了一下眼。「這我說不太清楚。
+
+「如果你沿著河朝努阿王堡的方向走，你確實能經過一大片沼澤。除此之外，我就沒什麼情報了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​幾個城鎮守衛列隊站在一個散亂的屍體旁。其中一個在你走上前去的時候扭頭朝你看，並對你點了一下頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「這感覺有點熟悉。」艾洛斯緩慢地將頭轉想你，並向你示意了一下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​瑪娜哈抬起了一條眉毛。「你應該早點說……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​莎加妮斜眼看了一眼屍體。「看上去要比上次的大。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「太業餘了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

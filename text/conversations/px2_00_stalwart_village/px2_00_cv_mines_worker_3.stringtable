@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_00_stalwart_village\px2_00_cv_mines_worker_3</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>50</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​隨著突然的痙攣，她的姿勢改變了。她向前弓著背，兩條胳膊晃蕩著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「兄弟姐妹們！泰爾奈特就在這裡。」
+
+她轉向你，但是眼神十分空洞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​希瀾的聲音變得不自然，好像她在念台詞一般。但是你還感覺到了更多的東西。
+
+這裡還有其他東西存在，那東西牢牢地束縛著她的精魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「把他帶走。直到我們得到想要的東西之前，把他給我關好。」
+
+她身後的構裝體如同一人地同時轉過身來，它們爪子般的手指蓄勢待發。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[跟隨她的凝視]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你還好嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[退開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[搜索希瀾心靈中的外來存在]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「不要再靠近了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你花了片刻看了看自己的身後。除了石筍和蜘蛛網，你什麼也沒看到。
+
+當你回頭時，那個女人很明顯更加靠近你了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「泰爾奈特？你在說誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你花了片刻看了看自己的身後。你沒有看到什麼值得注意的東西，你的夥伴以一頭霧水。
+
+當你回頭時，那個女人很明顯更加靠近你了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​那個東西為了重新獲得控制權，加強了控制，你感覺自己的意識逐漸衰退。儘管盡了最大努力，你還是失去了意識。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「能聽到我的聲音嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「你為什麼要找我？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「我的腦子還在嗡嗡作響，但是至少我已經恢復了意識。拿去。這個是我留給你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「我們一直在找你。我們知道你做了什麼。」
+
+她蹣跚地向前移動，步履沉重，就像她隨時都會被自己的體重壓垮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​你謹慎地後退了幾步。隨著你的後退，她也慢慢地在靠近。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​構裝體向你衝來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​當你展開自己的靈能師感官來探知希瀾精魂周圍細微生命能量的咆哮時，時間似乎都減慢了。
+
+你有種被觀察的感覺，一種被十幾個滿懷敵意的眼睛盯住的感覺。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​她如若無骨般趴在地上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「把他帶走。直到我們得到想要的東西之前，把他給我關好。」
+
+她身後的構裝體合為了一體，它們爪子般的手指蓄勢待發。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[走向前]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​你謹慎地向前走了幾步，讓你離她之間的距離觸手可及。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​[把希瀾打暈]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[攻擊]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​你一拳正中希瀾的頭部，她的骨架扭曲了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​你的拳頭滑過希瀾的太陽穴，嚇了她一跳，但是沒有重創她。希瀾大睜著雙眼，猛地向前衝來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​構裝體向你衝來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「把他帶走。直到我們得到想要的東西之前，把他給我關好。」
+
+她身後的構裝體合為了一體，它們爪子般的手指蓄勢待發。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​那個東西為了重新獲得控制權，加強了控制，你感覺自己的意識逐漸衰退。你撕扯著它，當你被推開時，你切斷了敵人的連接。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​當你展開自己的靈能師感官來探知希瀾精魂周圍細微生命能量的咆哮時，時間似乎都減慢了。
+
+你有種被觀察的感覺，一種被十幾個滿懷敵意的眼睛盯住的感覺。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「我想這是我欠你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「再次感謝你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​希瀾似乎很冷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「嘿，你好。只要稍等一會兒。」
+
+她轉向附近的構裝體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「退下！」
+
+構裝體立刻停了下來，一瘸一拐地回到自己那邊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「好了。那麼，我能為你做些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「你控制了這些構裝體？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「沒錯。是非常可靠的工人，考慮到它們不吃飯、不睡覺，而且不會發瘋也不會殺死自己的同事。」
+
+她得意地笑著。「反正，沒有那些通常的礦工那麼經常。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「我正在為伊絲梅調查礦工的失蹤事件。你能回答我的一些問題嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「應該吧。不確定我會幫上多大忙。是特瑞克發現伽梅爾的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「你認為伽梅爾應該為此負責嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「你有注意到其他礦工古怪的行為嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「考慮到他咬了一口薩梅斯，確實看起來像是那樣。」
+
+她扮了個鬼臉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「從沒想過伽梅爾會像那樣怒氣沖沖。但是有時候，人們是會變得有點奇怪。就像，當，呃……是誰……？」
+
+她皺眉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「在最好的時候，採礦也是個艱難的工作。所以我喜歡使用構裝體。我認為這些地道只是剛開始逐漸適合人來開採。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「哈。你知道的，我的記憶最近老是出問題。我開始覺得特瑞克正在根據他自己的氣體理論進行著什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​[離開]「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「如果你還有更多的話，記得來……」
+
+希瀾似乎不再盯著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

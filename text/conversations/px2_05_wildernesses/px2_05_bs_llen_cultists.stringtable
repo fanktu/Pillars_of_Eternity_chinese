@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_bs_llen_cultists</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「幹掉他！」</DefaultText>
+			<FemaleText>​「幹掉她！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「入侵者！你別想再前進一步！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「阻止他！」</DefaultText>
+			<FemaleText>​「阻止她！」</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>

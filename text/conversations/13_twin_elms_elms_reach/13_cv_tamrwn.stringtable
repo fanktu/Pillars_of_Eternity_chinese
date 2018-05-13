@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\13_twin_elms_elms_reach\13_cv_tamrwn</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>21</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​儘管閉著眼靜靜地站著，你面前的這個男人始終把腦袋朝向你的位置，似乎在跟隨著你的移動。
+
+「向你致敬。願你在金叢度過充實的時光。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「還有你，凋魂羽精。」那個人說著話，向希拉維亞斯鞠了一躬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「如果你們需要幫助，」他說著話，眼睛仍然閉著，「就去找布萊昭——她會為你們排憂解難。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​希拉維亞斯驚訝地張大眼睛，完好的那只耳朵直立起來。「你到底是怎麼——」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​男人的眼睛仍然閉著，邊笑邊說：「寧靜會滋養善於接納的心靈。」
+
+他睜開眼睛，棕色的瞳孔中已經初顯陰翳症狀。
+
+「我睜開眼睛，看到的是你的外表。而當我用心去看時，」說到這個，他又重新閉上眼睛，「我看到了凋魂豹猊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你能向我講講金叢嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我們是博物學家，哲學家，草藥師，也是教師。金叢榆賢者知道真正的智慧來自於對自然之理的研究——我們在努力教育其他人自我探尋世界。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[讓希拉維亞斯說話]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我的朋友在尋求關於他變身的更多信息——再給我們講講吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「我不知道你是怎麼感覺到的，但關於豹猊的事你說對了。
+
+「你對這種野獸有什麼瞭解？為什麼我僅僅因為能變成它的樣子就會遭到放逐？有解藥嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​陶姆冉微微一笑，眼睛仍然緊閉著。「我知道伽拉宛常把這種野獸用作試練。許多魂君都曾經過凋魂豹猊的試練——那些被打敗的人都被剝奪了靈魂，永生永世失落其中。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「那麼……我的族人是正確的了？」希拉維亞斯看起來垂頭喪氣的，身形萎靡，目光垂在地上。「你是說我擁有如此可怕的力量嗎？這一定是某種——」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「如果你的變身是只蜜蜂，你就應該整天釀蜜嗎？如果是隻鳥，就該整天築巢嗎？」
+
+陶姆冉又一次睜開眼睛，上下打量了一下希拉維亞斯，然後有些畏縮地重新閉上眼睛。
+
+「我是在說你變身的動物為世人所知的行為。看起來你很渴望立刻做出自己的結論。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「我通常不會建議別人去和染血沙地的長老會說話但是……鑒於你的情況，也許自然倫理會對你有所瞭解。」
+
+他閉著眼轉過身去，指向西北方。「讀一下染血沙地的德魯伊們在石板上刻下的話。有很多答案去追尋，以及更多的問題——但你必須自己去探索。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「這些石頭上都寫了什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「你還能和我們說點什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「我們走吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「大部分都是徹徹底底的廢話，關於犧牲的……『祭品』，」他說到最後一個詞停頓了一下，平靜的面容微微有些變化。
+
+「不過……這些教條中間也有一點伽拉宛的智慧。你的朋友會理解的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「只有相信伽拉宛……還有瓦爾——他們都會以各自困難重重的方式祝福你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我非常感謝你試圖為我鼓勁，」希拉維亞斯嘟囔道，「可惜毫無幫助。」
+
+希拉維亞斯歎了口氣，用食指掏著耳朵的剩餘部分。「但他有一點說對了……我應該相信瓦爾在染血沙地為我準備了一些東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

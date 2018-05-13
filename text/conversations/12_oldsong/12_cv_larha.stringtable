@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_larha</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>38</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「這裡永遠歡迎你，朋友。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​她快速而麻利地用石頭敲擊著一隻燧石製的矛頭。
+
+「說出你的來意，然後離開吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「近來有別的外來者來過嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「你在這做什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「格蘭費倫。他們自稱是銳末干德的信徒。說實話，其實就是劫掠者和褻瀆者的別名。」
+
+她拿起閃閃發光的矛尖衝門晃了晃。「他們消失在正午之霜的門後面，如今我們的湖結冰了，越來越冷。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我找到了阿爾娃。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​她如釋重負般長出了一口氣。「你這可是為尖牙和我做了一件……大好事。」
+
+菈爾哈又深深吸了一口氣。「我誤解你了，外來者。我並不真正瞭解你。請容我送上一件禮物，表達我對你的敬意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​她用力攥緊了矛尖。鮮血順著她的手掌流下。
+
+「信任一個外來者令我深深自責。」她指向你來的方向，紅色的血滴濺落在沙土上。「走吧。再也不要回來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「格蘭費倫。他們自稱是銳末干德的信徒。說實話，其實就是劫掠者和褻瀆者的別名。」
+
+她拿起閃閃發光的矛尖衝門晃了晃。「他們消失在正午之霜的門後面，如今我們的湖結冰了，越來越冷。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「你有什麼東西出售嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「我的貨物武裝起我尖牙的同胞們，我的雙手訓練他們戰鬥、捕獵、追蹤。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「都是最好的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​她深深地吸了口氣。「你親眼看見她的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「她是正午之霜裡的一個囚徒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「我把她從正午之霜中放了出來。她只是在享受新鮮空氣，會回來的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我試圖把她從正午之霜放出來，但逃出過程中她死掉了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​她緩緩點了點頭。「跟我猜想的一樣。我很感激你救了她，但這麼冷，她活不了多久的。魂君因我們的魯莽而責罰我們時，是不允許別人插手的。」
+
+她挪開了目光。「我不習慣向外來者乞求幫助，但如果你有辦法救阿爾娃的話，我將不勝感激。所有的尖牙也都會感激你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「他們的血可能會凍結在血管裡……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​一個女羽精站在齊腳踝深的沙子裡，磨著一隻矛頭。
+
+「你一定是蓓素爾的那個新外來者。說實話，當我聽說她又放進一個人時，差點就跑到六君通道去和人談論一番。」她用燧石矛頭指著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​一個女羽精站在齊腳踝深的沙子裡，磨著一隻矛頭。
+
+「你一定是蓓素爾的那個新外來者。說實話，當我聽說她又放進一個人時，差點就跑到六君通道去和人談論一番。」她用燧石矛頭指著你。
+
+她抬起的手慢慢放下了。「但我的同胞們說你人不錯。並不像那些來自寒冷地帶的、害雪盲的流浪者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「你來這裡有什麼事嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「我的貨物武裝起我尖牙的同胞們，我的雙手訓練他們戰鬥、捕獵、追蹤。
+
+「還有潛行。」她掃了阿爾娃一眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​阿爾娃歎了口氣。「我聽你的話，好姐妹……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「跟我說說關於巨口的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「一個充滿了野獸和危險的古老地方。作為慧犬的信徒，我們在這兒召集並訓練獵手、武士和保衛築者們遺跡的保衛者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​她用磨刀石來回磨著矛尖。「我們信奉行動勝過語言，我們中的很多人，相對語言交流來說，他們更喜歡用流血的方式交流。
+
+「還是要謝謝你，在你介入野獸的事後緊張的局勢緩和多了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「巨口裡一片混亂，自從兩隻野獸陷入僵局之後更混亂了。」她搖搖頭。「但戴桑拒絕插手，很多傢伙迫不及待盼著問題通過流血解決。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​一個女羽精站在齊腳踝深的沙子裡，磨著一隻矛頭。
+
+「又一個來自寒冷地帶的流浪者？」她用燧石矛頭指著你。「也許蓓素爾天真又心軟，但你別想愚弄我，外來者。我一直在盯著你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​她用腳在沙地上刨著。「可是蓓素爾太膽怯了，她甚至說服其他魂君我們必須尊重那些外來者和他們的傳統。而不顧他們罪惡的雙手曾做過什麼。」
+
+她抬起頭，慢慢回頭看向入口處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「我想你不會就此罷休的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「蓓素爾正在以自己的方式保護著雙榆城。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「聽起來你應該自己處理這些事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「說好話也無濟於事。你們這些外來者滿嘴都是這些。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「我派了一個姐妹，我最優秀的斥候之一，去尋找蒼精靈墮落的證據。我確信一旦阿爾娃親眼看到了在正午之霜的褻瀆行為，魂君不會放任不管的。但她至今未歸。」
+
+她轉移了目光。「現在，我為她的命運承擔責任。但如果派尖牙尋找她的話，我就不得不公開違抗魂君的命令了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​她點點頭。「沒有哪個外來者能理解這些。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「我可以去找阿爾娃。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​她看了你一眼，未作表態。「我不敢奢望——因為降臨在正午之霜的災難似乎不是人力所能為的。但這世上令我感到快樂的事莫過於能再見到她。」她看了眼沙地，眉頭皺了起來。「我需要你全力提供幫助。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

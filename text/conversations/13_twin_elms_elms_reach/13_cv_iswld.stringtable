@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\13_twin_elms_elms_reach\13_cv_iswld</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>21</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「沒錯，儘管這是為了過於自負的野心家們的安全和先祖的平靜。維奧德有辦法否定那些無價值的東西。
+
+「然而，蓓素爾已經傳來消息說你需要一位特殊聽眾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「我祝賀你，外來者——你完成了一次鮮有人能成功的旅行。
+
+「蓓素爾會渴望聽你講述你的見聞。如果她的懷疑是正確的，那麼先祖們的誡言不僅對你，而是對艾爾·格蘭法斯的未來都具有重要徵兆。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「根據儀式記載，我已經準備好了雪帽菇。但是要小心。」她豎起一根手指。「儘管一部分旅行會出現在你的腦海中，你在維奧德面對的危險仍可能危及你的生命。
+
+「你可以隨時選擇開始旅行，但只有在你和先祖交談或放棄嘗試後才會結束。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「我準備好開始了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我必須走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「願你在旅途中得到啟迪。」她從長袍中掏出一個沾滿油漬的皮袋。她打開它後，你聞到了一股濃重的香味。樹林開始緩緩旋轉，最終沉入了黑暗。
+
+當你重新恢復意識後，你發現自己在一片不認識的森林中。你腳下的地面十分堅硬，而且你不認為空中瀰漫的潮氣是你的想像。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「你是在尋求我們草藥師的智慧，還是只在單純享受我們『整個世界』的光榮？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「誰領導著你們？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「向我講講金叢吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我們是榆賢者——德魯伊，哲學家，也是自然之學生。我們聚集在這裡分享我們的知識和慶典。」
+
+她指向樹林入口附近另一位女精靈。「許多旅行者到我們這裡尋找藥膏和治療。布萊昭對於自然的製藥之法有著獨一無二的見解。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「大榆賢者艾蓉娜領導著我們。她有時會旅行前往榆樹之濱恢復力量，然而——事實上她在那裡擁有一群親近的追隨者。
+
+「艾蓉娜是我們之中一棵強大的榆樹——她已經見證了幾代人的成長。沒有誰能像她一樣如此瞭解這個世界，我們也很幸運能擁有她的智慧為我們答疑解惑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我想再問點別的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​她低下頭。「這並不明確。艾蓉娜的去世讓我們群龍無首，儘管現在的領導和她一樣仁慈。」
+
+她看向聚集在樹叢的人們。「我們中的大部分都變成了榆賢者，這樣我們就不會被奴役而聽憑神明的任性了。有些人質疑提升其他人地位的意義所在，就像我們對艾蓉娜做的一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「那好吧。等你準備好就回來告訴我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​一位有著溫和的綠色眼睛的精靈點頭致意。「歡迎來到金叢，旅行者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「你們相信什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「我們相信知識蘊藏在對自然世界最誠摯的探索之中。」
+
+她歪歪頭。「我們並不像有些人說的一樣和眾神作對。我們只是相信我們找到了一條比奉獻更加光明，更加平和的道路。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「艾蓉娜去世之後榆賢者們要做什麼呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「我想瞭解更多關於艾蓉娜的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​她的眼睛明亮起來。「哎呀，你一定要親自見見她！她既睿智又善良，並且從一開始就領導著我們。不僅如此，她還在我們之中漫步，無私奉獻著自己。」
+
+她的目光轉向那宏偉而扭曲的榆樹。「所以我們很多人才如此珍惜她。她在我們之中所做的事是眾神從來沒有做過的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「金叢歡迎一切。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_delem</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>95</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「你好，外來者，」羽精用吟唱一般的聲音向你問候。
+
+「我人稱『代勒姆』，是古曲區的吟唱者。我相信你一定很享受這片神聖之所的美麗。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​在你接近時，代勒姆清了清喉嚨。「又見面了，我的朋友。恐怕今天我沒有新的聖歌唱給你聽了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「你好，朋友！鳥抓的怎麼樣了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「小鳥在天空，歡快的歌唱；沒鳥在手中，我就沒歌唱……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「唱吧，海蕾婭，唱起那溫暖的春風！
+
+「毀掉正午之霜，就不會再有冰了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你是定居藝人嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「你能向我講講這地方嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我會幫你抓些鳥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「我用歌唱為古曲區的拜訪者帶來快樂，但很抱歉……人們越來越少了。銳末干德神殿前的寒風驅散了人們。現在沒有人會聽我歌唱……我的音樂已經失去了意義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「但我知道該怎麼辦——如何讓我的歌重新得到溫暖和激情，對抗銳末干德的永世寒冷！」
+
+羽精微微一笑，做出一個抓取的動作。「我只需要一點罕見的會唱歌的鳥！我可以吃掉它們，吸收它們的音樂能量。有了這些能量在我的靈魂中，我便能唱出把歡樂的人群帶回來的歌曲。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「古曲區是個神聖之地，也是許多築者的傑作所在地。伽拉宛巨口、海蕾婭的神殿、還有銳末干德的神殿——正午之霜——都在這裡。」
+
+他上下打量你，微微一笑。「古曲區來了訪客真是稀罕事。不管你為什麼而來，都應為能親眼看到這地方而心懷感激。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「你要吃掉這些鳴鳥？我不認為這會有效果……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「抱歉，不感興趣。再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​代勒姆的眼睛愉悅地張大了。「太好了！」他一邊大喊一邊鼓掌。
+
+「為了我的歌曲爐火純青，我需要一隻提亞姆，這種鳥一般出沒在雙榆城——它們都在高大的樹上築巢，不過有些已經被馴服了。我還需要一隻碎片羽鳥。碎片羽鳥一般會在有魂珀的地方築巢——這最符合它們的自然偽裝。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「那麼我抓到了這隻鳥……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「我和昂雯說了，他告訴我你因為迷信而在找這些鳴鳥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「真的？！」代勒姆搓搓手，期待地舔舔嘴唇。「給我看看！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「這小傢伙在爐曲區被當成寵物來養。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我在高處的一塊凸起石頭上找到了這只雲詠鳥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我這有只碎片羽鳥——在一些魂珀柱旁找到的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​他看了鳥片刻，然後迅速折斷了它的脖子。
+
+「並不是很難嘛！」他一邊笑著一邊把鳥放進了嘴裡。他咀嚼了有一分多鐘，中間有停下來從嘴裡的一團血肉模糊中吐出鳥嘴和腿骨頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​他拿走了鳥，輕撫著它的尾羽。「這曾是某人的寵物？」
+
+他看著手裡脆弱的小傢伙皺起眉頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​他拿走了鳥，輕撫著它的翅膀。「豐足之得！我還記得第一次聽到碎片羽鳥那清脆的旋律……」
+
+他用拳頭包住整隻鳥，放到嘴邊然後停下來。「我猜我應該……整只吞下去？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「了不起的發現！」代勒姆從你手中接過小鳥，放到耳邊聽著它鳴叫。「真活躍！太可愛了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「什麼？昂雯這麼說過？」代勒姆生氣地緊緊抱起雙臂。「但是其他那些吟唱者們都和我這麼說！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​代勒姆咂咂嘴唇，豎起一根血淋淋的食指。「這是第三個！我能感覺到了——我的肺裡充滿了暖意，快要包不住了！」
+
+他清清嗓子，然後唱出了三個不和諧的音符。
+
+「唔，我必須先磨練一下我新開發出的音樂之大能。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​代勒姆咳出一根羽毛，露出痛苦的表情，然後雙手使勁一拍，想把鳥的內臟嚥下去。
+
+「你還逮到了別的什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「我和倫西談過了。她說吃鳴鳥只是一種迷信——這不能幫助你歌唱。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「哦，還有最重要的一點，如果我想唱高音的話，還需要一隻雲詠鳥。那些小傢伙只能在最高的山峰上找到。
+
+「非常感謝，外來者。幫我找來這些鳥，我就能像海蕾婭自己一樣歌唱了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「沒人能取悅，沒有人群能激勵，沒有毛茸茸的少女之吻來點亮我的音樂之火……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「……為了換來過去的美好重現，我有什麼不能奉獻的呢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​羽精慌亂地盯著你，然後轉轉眼睛開始教育你。「吃掉動物的肌肉會讓你……更強，對吧？如果你吃掉綠色的莖幹，你不就具有了它們辛辣的氣味——即使是你喝下很多水也一樣？」
+
+他微微一笑，對他的論證很滿意。「正如一個人被烤乾了就沒法流汗，我的靈魂得不到滋養就沒法歌唱。這都是最基本的，你父母沒教過你食物鏈的循環嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「不用多解釋了，我會幫忙的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「你還是自說自話去吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「再說一遍你需要什麼鳥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「還在找那些稀有的鳥？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​代勒姆點點頭，歎了口氣。「的確，我的聲音很疲倦，我的心靈需要靈感。那些最好的帶著韻律的小鳥靈魂將是一劑良藥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「為了我的歌曲爐火純青，我需要一隻提亞姆，一隻碎片羽鳥和一隻雲詠鳥。
+
+「提亞姆是一種雙榆城熱門的籠養鳥。碎片羽鳥在有魂珀的地方出沒，而雲詠鳥只在高山上築巢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「等等，你現在在預測你的計劃了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「是的。他的名字是鳥嘴先生，而他的主人倫西十分喜愛他。也許在你咬開他的小腦殼時就能品嚐到她有多麼愛他了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「它的主人沒那麼愛它，因為它現在就在你手裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「不，你都要給它寫首情詩了。趕緊吃了它吧！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「如果你是想要我幫忙，你不應該吃鳥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「或者你可以，嗯，放它走？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​[盯著他]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「不能讓它從我的手心裡溜走，」他沉思著，然後把鳥高高舉過頭頂，再狠狠摔在地上。
+
+他撿起還在抽搐的鳥，撕成兩半，迅速咀嚼吞了下去。
+
+「有點澀，而且太鹹了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「是呀，太可愛了，適合吃掉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「趕緊過去吧……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「是首可愛的鳥鳴聲吧？我猜它在你肚子裡沒法再發出這種聲音了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​代勒姆狠狠擠著小鳥，把它的頭放進了嘴裡，然後一口就讓它沒有了聲息。
+
+經過少許的咀嚼和避免羽毛掉出嘴外後，代勒姆將鳴鳥嚥了下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「胡說！」代勒姆不相信地搖了搖頭。「我知道有人成功過！吟唱者大師們用這種方法修復嗓音已經……已經很久了！像她那種熟悉民間傳說的女人想必知道我說的是經過實踐檢驗的真理！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​「她確實是個睿智的女人……那麼你為何如何急切地否認她的觀點？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​「我認為你只是一廂情願。有這種旁門左道肯定要比練習歌唱輕鬆得多。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​「讓我問問你，鷂鷹唱歌怎麼樣？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​「我說的都是她告訴我的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「我敢說和你說這些的吟唱者也夢想著有一條成功的捷徑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​「你真的在意昂雯說的話嗎？自己做決定吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​他皺眉看著你，身體變得僵硬了。「唔，我想她這麼說只是對鳥於心不忍。
+
+「另外，鳴鳥是老年吟唱者才吃的——為什麼要篡改傳統？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​「我當然在意，」代勒姆說道，身體僵硬起來。
+
+「我也很尊敬他的智慧，但是……我想我更相信我的音樂導師對我說的。我很感覺你告訴我昂雯說的話，但我要繼續我的計劃。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​代勒姆皺起眉頭但向你點點頭，身形萎靡下去。「也許是當局者迷吧。」
+
+他發出一聲長歎，聳聳肩。「謝謝你讓我明白過來……我一開始的問題真是太愚蠢了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「嗯……它們可以叫得很響，但我不會把那叫做音樂……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「另外，它們最喜歡吃的就是鳴鳥。所以如果你的信仰是正確的……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​「你是說我應該吃只鷂鷹！等等……我明白了……」
+
+代勒姆皺起眉頭，身體放鬆下來。「不過也許鷂鷹沒有靈魂，所以……」
+
+他聳聳肩，滿臉漲紅。「你是對的……這太傻了……我只是太希求創造和激情，以至於走上了錯誤的道路。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​「唔，我也一樣想看你練唱歌啊，不光是想看——」
+
+代勒姆陷入了沉默，怯怯地看著你。「我吃了些鳥肉，所以我唱得好一些了？我估計這話聽起來的確像是一廂情願。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​「謝謝你，我的朋友。我不需要什麼稀罕的鳴禽，我只是需要從內心裡找到一些靈感。」
+
+他苦笑著向你鞠了一躬。「請原諒，我不能再耽誤時間了，我必須寫一首新的歌曲！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​代勒姆伸長手臂舉著那隻鳥，那鳥就嘰嘰咯咯地叫著。
+
+「願海蕾婭寬恕我……這樣做感覺不太對勁。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​「放了那隻鳥吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​「聽聽它的叫聲——你難道不想身體裡有這樣的音樂？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​代勒姆振臂一揮，放飛了鳥兒，然後微笑著看它在空中飛翔。
+
+「狩獵結束了，」他苦笑著咕噥道。「我十分抱歉，打發你去狂追了一番，沒想到最後卻把獵物釋放了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​他嘬起唇吹著口哨，蹩腳地模仿著鳴禽發出的動聽曲調。
+
+「謝謝你，我的朋友。我現在充滿了新歌的靈感……不過如果要模擬出這樣美妙的音樂，我還需要大量的練習！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​「但是你費了那麼多工夫去找這隻鳥？還有它的聲音！哪個吟唱者不希望能那樣歌唱啊！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​「光是聽它的鳴叫就能激發靈感，你難道沒有嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​「我能從你的臉上看出來……你也許有膽量殺了那隻鳥，但你事後一定會後悔的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​「謝謝你，外來者——你給一個卑微的藝術家帶來了靈感，而當我的新歌擁抱微風的時候，古曲區的所有人都會感激你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​「還沒有，我很快就會帶著他們回來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​「跟我一起來，親愛的，這是這個季節的第一次狩獵！
+
+「要是我們能捉到一對麻雀，我會親吻你那美好的……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​「臀部！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​「海蕾婭，海蕾婭——你的啟發稍縱即逝。你為何給我留下了……嗯……留下了……起勁地吃？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>​「傻，太傻了，真是太傻了……加油啊代勒姆，你還能表現得更好的！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​「你難道感覺不到嗎，我的朋友！正午之霜撤退了！一定是我的音樂起作用了！我還要再次謝謝你找到了那些偉大的鳥！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​代勒姆打了個嗝，用手摸著肚子。「不好意思，裡面好像還有鳥喙在打架。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​「高高地，自由地翱翔吧，在雲朵中沒有煩惱。
+
+「從高山到大海，所有的歡樂都被允許。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​「親愛的，同我一起，握住我的翅膀！
+
+「我們將在樹上築巢，做愛直到你叫出來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​「你能意識到這聽起來有多荒謬吧——吃鳥肉來得到它們的音樂？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>​「是的，不過……這就是自古以來吟唱者得到悅耳歌喉的方法。我又是什麼人物，難道還想逃避傳統嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>​代勒姆皺眉看著你。「很顯然……這不像是它從我的心裡歌唱。我會吸收它的本性——這音樂會成為我的一部分。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​「那如果你錯了呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>​「趕緊殺了它了事吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>​「如果我錯了？」代勒姆看了你半天，然後聳了聳肩。「那麼在我之前的無數格蘭法斯吟唱者也錯了。我估計和我一樣錯了的人有很多。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​「愚蠢。你吃野豬肉和雞肉的次數多得數不清了，對吧？但是你既沒有長獠牙也沒有長翅膀。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>​「你有點同情心好不好。你想通過刻苦練習獲得音樂名望，還是靠殺死毫無反抗能力的動物？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>​代勒姆看著手裡的鳥，發出了一聲長長的歎息。
+
+「我想你是對的。單單聽這隻鳥的鳴叫，並且和它這麼接近，就已經給我足夠的靈感了。我應該放它去繼續歌唱。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>​代勒姆張開了手掌，小鳥飛上了天空。
+
+「好吧，我就把我的胃口留著給正確的禽類吧。你如果逮到什麼別的，記得告訴我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

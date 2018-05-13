@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_02_durgans_battery\px2_02_cv_abydon_tower_dream</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>21</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你轉動轉盤，一股蒸汽朝你臉襲來。
+
+你往後跌倒在地，旋轉著靠向旁邊的煙霧和火焰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你發現腳下是堅實地面，雖然你周圍全是煙霧和熱汽。你咳嗽著，拍打著酸煙，不讓其靠近臉部。
+
+你逐漸適應了這煙氣。你看到遠處跳動的火焰。每一束火光都給予了你溫暖，你試著細看這地方，只感覺這裡似曾相識。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​這裡黑暗，閃著高溫的微光。你看到每一根骨頭、肌腱、肌肉，和諧地在那古銅色的軀體下工作。這手的主人隱藏在煙霧之後，但手本身圍繞著堅實如樹幹的桿子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​它以完美的弧度揮動回去。伴著又一聲深沉的巨響，你看到眼前一大塊金屬撞擊在地，落下閃亮的火花和精魂的光亮。
+
+你發現你所看的是一柄巨大的錘子。其頂部閃著光熱和精魂，上面的紫色光澤已逐步褪去，因為錘子上的靈魂能量已轉入下方的金屬中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​如湖冰般光滑、寬闊的鋼鐵上有著孤獨的身影。
+
+那身影是一個無比巨大的捏塑怪，有著扭曲的軀體和鍛造的金屬。他手中握著帶刺棍棒，他的頭部如楔子般，粗大、沒有眼睛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你感受到臉上的溫暖，隨之醒來。你靠著嗡嗡作響的鍋爐，推動熱汽通過塔樓。
+
+但在鍋爐和管道流出的蒸汽之中，你聞到了白皚鍛爐的煙氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你逐步朝它走去，忽然，一個巨大物體砸倒在你面前。你聽到金屬衝擊的聲音，隨即便往後跳，空氣中震動著深沉的響聲。
+
+在站穩之後，你看到了一隻巨大的手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​隨著再次舉起錘子，你想要看看下面藏了什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​你曾在鐵連枷的營寨看過這樣的生物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你曾在隕月修道院和鐵連枷的營寨看過這樣的生物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​它張開了自己的嘴巴發出悲鳴。這種絕望的噪音讓你想起了新生兒的恐懼和困惑。
+
+空氣衝向了你的背。你抬頭看到了錘子，它的頂部再次閃耀著精魂，飛速衝向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你認出它是跟你在隕月修道院時看到戰錘的是一樣。
+
+一把相同的而現在你只握住一部分的錘子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[跟隨桿子]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[跟隨手臂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​你試圖跟隨手臂到達主人處，但是熱量和煙霧淹沒了你。你轉過身。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​繼續向前看看在桿子的另一端有什麼——以及是什麼引起了嘹亮的音樂，這時手再次舉起。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[檢查你的周圍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[仔細查看錘子]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[進一步審視這件作品]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​這是一大塊黑鐵，跟無光的夜一樣黑而且你甚至可以通過它的光澤看到自己的倒影。
+
+它本身就是件藝術作品，一種詮釋了簡單但完美的設計。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​通過濃厚的煙霧你能夠看到的，只有被跳動的火焰照亮的鑲嵌在石頭上的龍頭。
+
+這是白皚鍛爐。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_durance_silence_questions</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「繼續騷擾我的話，我可能會延長每個問題的間隔時間。現在問夠問題了——讓這條路帶我們到下一處營火。」
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「你是瓦爾的僕人嗎？讓他留著自己的神秘和問題吧——至少直到下次我們需要休息之前。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「瓦爾的眼睛畫在你的皮膚上嗎？這世上的秘密比問題多，而即使答案的大軍也安撫不了你。即使士兵也需要讓他們的思想安分——就像他們的牧師所做的一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「道不同不相和謀，通魂者，留著你的問題改天再問吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「好像你吞下了牛虻的巢一樣。保持沉默吧，生生廢話，免得你到下一處篝火前就把自己累垮了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

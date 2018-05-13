@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_cwineth</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>59</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個身穿滿是灰塵的皮衣的苗條女人用目光盯著你。「這一帶能看見一個來自更……文明的地方的人，真好。」她黑色的頭髮凌亂，捲曲。雖然她五官精緻，但是那雙下巴卻讓她看上去像個男孩。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​奎妮絲藏在高高的灌木叢裡。小樹枝從她的頭頂上伸出來。她的身上到處都是大塊乾燥的泥巴，從皮革護腿一直到腰都有。「別說話。低調點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「快點。探險隊會在北部曠野安營紮寨，就在朝聖者通道的廢墟旁邊。祝你好運。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「朋友……你回來是要重新考慮我的提議嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「你需要什麼樣的幫助？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我很忙，或許下次吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我的朋友吸引了一些……不希望的注意。」奎妮絲向兩邊看了看，搜尋不請自來的聽眾。
+
+「格蘭法斯的斥候……不是普通的本地狂熱的暴徒，而是『尖牙』！」她停頓了一下，讓名字停在了空中。「尖牙極其野蠻、殘忍——到處製造事端。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我會幫助你警告探險隊的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​奎妮絲那帶著手套的手半插在凌亂的頭髮裡，用狐疑的眼神看著你走過來。「你做到了！」她笑了，露出兩個酒窩。
+
+她長舒了一口氣，向你擺著手。「我們會在福地傳頌你的事跡的。我保證，所有人都會知道你為我們做的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「沒有你的幫助，我的朋友早就死了。求你了，請幫助我救救他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我想向你學習。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我更喜歡錢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「不需要什麼報酬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​奎妮絲熱情地點點頭，「我就希望你這麼說。」她摘下手套，把他們放在後面的口袋裡。
+
+「當你花在廢墟的時間和我一樣長的時候，你首先要學習如何突襲……而且是不帶預兆的突襲。」
+
+她手持破甲劍，劍鋒和地面平行。「關鍵是要迅速移動。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「只有傻子才做無用功，」她眨了下眼。
+
+她數出一堆硬幣。「我希望我有足夠的錢來表達我的感激之情，但是這應該足夠了。」
+
+拿著那個，她點了下頭離開了。「再次謝謝你，我的朋友，我們不會忘記你今天為我們所做的一切。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​奎妮絲睜大了雙眼。「如果……你是——？」她搖了搖頭，笑了，露出兩個酒窩。
+
+「在你的慷慨大方面前，我是多麼卑微啊，但是我也付出了代價。如果你改變了注意，來反抗灣的探險大廳和我見面。」
+
+她深深地鞠了一躬。「直到那時之前，我的朋友，祝你保重。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「我非常直接地瞭解了格蘭法斯人在好客上的很多不足。」她帶著手套的手放在繫在臀部的破甲劍的劍柄上。
+
+「我可以原諒對外來者的敵意，但是那些節制的酒館和兌水的酒……不可原諒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「我希望我沒有看上去太心急，但是我需要去幫助我的朋友，而你看上去正合適這個工作。」她害羞地笑了，露出一個小酒窩。
+
+「也就是說，你不是格蘭法斯人……這使你成為了我在這個混亂的地方最親近的人。」她朝你拋了個媚眼。「盟友嘛，就是互相幫助對方，不是嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「你是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「跟我講講你的探險經歷。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「至於說為什麼我需要你的幫忙，」她在講這話的時候笑的更開懷了，「我需要有個人去警告探險隊，麻煩就要來了……而且如果真的到了那一天，我還需要某個人來戰鬥。」
+
+她把手放在破甲劍的劍柄上。「順利的話，我們能在尖牙之前找到我們的朋友。但是如果不順利的話，尖牙想要樹立自己的名聲，這有可能需要流血。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「我希望我沒有看上去太心急，但是我聽說過你。」她害羞地笑了，露出一個小酒窩。「你在十二人眾之中很有名……這讓我們成為了盟友。」她朝你拋了個媚眼。「盟友嗎，總是互相幫助對方，不是嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「我喜歡想像我們正在執行一個開荒的任務。」奎妮絲狡猾的笑了笑。「據說我們的敵人在黑樹之戰之後從艾爾·格蘭法斯快速撤退之時，留下了大量值錢的東西。
+
+「所以我覺得我們只是在搜集我們的祖先遺留下來的東西。我猜格蘭法斯人在這一點上也會認同我的，」她點頭微笑著，露出一個酒窩。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​那個女人拍著護腿上的泥土，對你行了一個隆重的屈膝禮。「我把我的外交禮節落在哪裡了？」她自嘲的笑著。「我是奎妮絲，很高興見到你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​她挑了一下眉毛，臉上堆著得意地笑。「暫且來說，我只是又一個關心自己事情的外來者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​奎妮絲笑了，露出一個明顯的酒窩。「好極了！我知道我可以依賴你。」
+
+她傾斜了一下身體，悄悄地說。「假設尖牙還沒有找到他們，我的朋友現在應該已經在或者接近北部曠野的朝聖者通道了。計劃是在通往海蕾婭神殿的一條小路旁紮營。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「找到我的兄弟，警告他們尖牙要來了，幫助他們走出森林。我要一個人先出去看看是否能將尖牙引入歧途並給我們爭取些時間。」
+
+她把它的破甲劍稍微從劍鞘裡拔出了一些，露出一個笑容。「如果諸神在朝我們笑，我們不用兵戎相見。假如事情變成那樣，我很高興你是我們這一邊的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「我的探險隊從反抗灣出發，直接往東面走，進入格蘭法斯的土地。當我們到達了巴爾，我們國家之間的天然邊境的時候，我離開了一會兒。
+
+「計劃是當主力團隊搜尋目標區域的時候，由我來盯著格蘭法斯人。一連幾天，我們避開了他們。」她帶著皮革手套的手指摩擦著，在髒髒的手套表面留下了痕跡。「但是尖牙聰明的發現了我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「去看看。」她指著山峰。「我的朋友在那裡。在山尖後面。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「有很多在營地裡打鬥過的跡象。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「這裡怎麼回事？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「尖牙是怎麼到這兒來的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「我看看我能為你做什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​奎妮絲點點頭，她用牙齒咬著下嘴唇。「我不夠及時。充斥災禍的尖牙族……願瑪格嵐把他們都燒死。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「尖牙們一定是聞到了氣味，迅速的衝了過來。」她開始用帶著手套的手摸著頭髮，然後停住了。壓力把黏在她黑色卷髮上的一截小樹枝壓斷了。「我的一些朋友還活著，但是尖牙包圍著他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​奎妮絲看著自己的雙腳，慢慢地搖著頭。「我開闢了一條作為誘導的小路，生起了假的營火，清除了我能找到的所有足跡……這並沒有拖延很長時間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​奎尼斯點點頭。「或許你可以在尖牙周圍開闢另外一條道路——一定要開闢另外一條去山頂的路。」
+
+她擦去了眉頭上的汗，她的手套被弄髒了。「你的穿著不像我們的人……或許你可以嘗試去和尖牙聊聊？他們或許不會察覺你是我們的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「探險隊……」奎妮絲將手重新放在重劍劍柄上。「或者隊裡的僅剩人員，已經躲在了懸崖上的廢墟內。尖牙一定在玩弄著他們，或者打算在下次進攻前，讓他們先忍饑挨餓。我們得採取行動，不然他們就死了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「這邊！快點！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​她抓著她的下巴縫，仔細地打量著你。「但是，你理應得到比讚美更好的東西。錢財？武器？」她搓著手指套。「如果你對這些實物不感興趣，我願意將我的技藝傳授給你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「幹我這一行，需要我獲得盡可能多的武器。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​奎妮絲微笑著點了點頭，在背包裡不斷翻尋著。「我們的尋寶之旅也不是一無所獲。」她一邊掏出帆布包，一邊說道：「我們在路上找到了一些遺物，我覺得你應該用得到這東西。」
+
+她眨了下眼，隨後轉身離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​艾斯馬看著奎妮絲消失在樹叢中。他轉頭看著你。「我準備好了……」他打開手裡的吊墜，將其繫在了脖子上。「至少我的一些人活著離開了艾爾·格蘭法斯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「你的朋友做了什麼事，吸引到了尖牙的注意？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「你為什麼沒跟你的朋友在一起？你為什麼不親自去提醒他們？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​問及此問題時，她的神態變得僵硬。「正輪到我去遠處巡邏。在我返回營地的途中，我發現了尖牙。我知道跟大部隊輪會將敵人徑直引向探險隊。我瞭解這片森林，我知道該如何保持安靜……但我不想拿朋友們的性命開玩笑。尖牙可是狩獵專家，萬一他們發現了我，我的朋友們都會有危險。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「涉足艾爾·格蘭法斯已經冒犯了部落。我不知道他們是如何發現我們的——我懷疑是新來的斥候沒隱藏好，暴露了蹤跡。當我發現尖牙時，他們正沿著探險隊前幾天所走的道路進行追蹤。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​「如果他們發現我在提醒我的朋友，我們就會被包圍、抓獲。」
+
+奎妮絲將頭傾向一側，笑著指了下你。「但是，如果他們發現了我和你之類的援軍……至少我們可以嚇跑他們，或者有機會取勝。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「你的朋友在非法入侵。按當地習俗，他們就是罪犯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​奎妮絲皺了下眉，朝你眨了數眼。「我並不同情那些彩面者和他們野蠻的法律。這點請你原諒。我們所做的也並非高尚之事，這點我並不否定。但我只是不相信，非法入侵是一種必須處以死刑的罪行。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​「但時間緊——」她將戴著指套的手指放在嘴上，阻止了自己說下去。
+
+「我瞭解你的顧慮，但我希望你能重新考慮。」她朝你點了下頭，隨後轉過身去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​她緊抓著你的手。「求你幫幫忙……有著太多朋友需要我去安葬。」
+
+奎妮絲鬆開手，隨後蹲入灌木叢，和之融為一體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​她向你演示了若干個側重於踏地無聲、把握呼吸的步法練習。
+
+「當你準備好出擊時，將全身的所有力量都集中於最後一步！」她一邊演示著無聲而迅捷的突刺，一邊大喊著，以強調這點。
+
+你按她所教的方法做著，她看了後，滿意得點了點頭。「我覺得你已經掌握要領了。能教你新東西，我感到很榮幸。」她行了個半屈膝禮，隨後轉身離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​她邊看著遠處，邊笑了下。「不知道還會不會再見到艾斯馬，但他的犧牲拯救了整只探險隊。沒有你的幫助，我們根本不可能協商成功。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「我明白如果我們想遵守這一協議，艾斯瑪必須成為你的犯人。這安排雖然很奇怪，卻能拯救整只探險隊。」
+
+她聳了下肩，朝你神秘地笑了下。「另外，我確定你的監獄比尖牙處理犯人的監獄要更好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​奎尼斯邊懶散地捻弄著一綹頭髮，邊衝你笑了笑。「終於決定好想要什麼獎勵了？是什麼呢？——錢財，武器，還是訓練？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​「等下，我馬上就回來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​奎妮絲聳了聳肩。「不著急……」她譏諷得說道。「當你做好決定之時，我會在這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​「我在北部曠野的英雄！」奎妮絲唱到。「多虧了你，探險隊才能安然回家！謝謝你，[Player Name]，我們不會忘記你的恩情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

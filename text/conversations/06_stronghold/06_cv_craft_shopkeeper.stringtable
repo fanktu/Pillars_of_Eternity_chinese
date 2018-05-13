@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_craft_shopkeeper</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「貴安，大人！我的貨物有你感興趣的嗎？我提供補給品。我敢肯定像你這種勇敢的冒險家會覺得這裡有不少東西能派上用場的。」</DefaultText>
+			<FemaleText>​「貴安，女士！我的貨物有你感興趣的嗎？我提供補給品。我敢肯定像你這種勇敢的冒險家會覺得這裡有不少東西能派上用場的。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「我看看你有什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你需要補給品嗎，大人？做足準備才是王道。」</DefaultText>
+			<FemaleText>​「你需要補給品嗎，女士？做足準備才是王道。」</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>

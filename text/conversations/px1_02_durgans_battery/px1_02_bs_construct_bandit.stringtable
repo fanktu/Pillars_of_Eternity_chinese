@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_02_durgans_battery\px1_02_bs_construct_bandit</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>34</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「哈！要錢還是要命，朋友！」
+
+從這個沒有思想的機器裡發出一聲細小的聲音。它的內部的卡卡聲中不時的還伴有一股股火花。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[舉起你的雙手]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「可以打擾一下嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「你肯定是在開玩笑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「迷路了，是嗎？這些路是要通行費的。500銅幣，否則我就給你開一雙新的鼻孔來通氣兒！」
+
+構裝體的手臂在兩側抽搐著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我沒有開玩笑！這些路是要通行費的，朋友。500銅幣，否則我就給你開一雙新的鼻孔來通氣兒！」
+
+構裝體的手臂抽搐著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我們沒在『路』上。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「你能做什麼呢？踢我一腳？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我們沒有那麼多的銅幣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「那你真是迷路了！告訴你吧——付錢，我就給你指去木材之鄉的路。這買賣不錯，不是嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[給構裝體500銅幣]「拜託，不要傷害我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「你現在是在牢房裡。看看你周圍。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「這位居然是一名哲學家？我們所有人都被關在我們自己的邪惡的牢籠裡？我可不吃這套！」
+
+這聲音聽著有些發狂，現在，你聽見了構裝體發出的金屬的抱怨聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我是來幫你的。你自由了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「但是你是個構裝體啊！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「什麼？那算是侮辱我嗎？我來給你說個『概念』，要是你不肯交錢的話！」
+
+一股微弱的不詳的光芒從生物的底架上出現了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「自由？你在說什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「……真的？好吧，那是，當然。我還以為你會看出緣由來！交出來，你就可以上路了！」
+
+構裝體向你舉起一支手，要拿它的獎賞，結果銅幣散落了一地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「告訴你遇到的每個人——『剃刀指』艾爾琳是個說到做到的女人！」
+
+構裝體發出歡快的笑聲，蹣跚地走到牢房後面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「門就在那裡。自由吧！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[攻擊]「我沒那個時間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「啊！別打臉！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我自由了！沒有牢房可以關住我！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「我可以買所有我想要的！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「嘿，你胡——你說的對啊！它完全是大敞的！」
+
+這生物蹣跚著向前一步。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「那麼，你要倒大霉了！我可不能讓你免費過去，否則別人就會說我軟弱了。」
+
+構裝體突然傾側向一旁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「哈。那、那真奇怪。我發誓我拿著我的刀的。我一直都……擅長用刀。」她的聲音幾乎是恐慌的聲音。
+
+「我的……手呢？我不……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「我在哪？發生了什麼？！」
+
+猛地一聲粗糙的金屬聲音響起，構裝體放射出猛烈的脈衝，衝向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​構裝體放射出兇猛的亮光。
+
+「哈！永別了，陌生人！我自由了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「等你倒下並嘴啃泥的時候，你就會後悔開這個玩笑！」
+
+構裝體突然傾側向一旁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「看看你自己。你就是個破機器。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「你……不得不說，你侮辱人的方式真是特別！
+
+「即便如此，你還是會後悔的！總不能讓別人說我是個軟蛋吧，對不對？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​構裝體突然胳膊叉腰，傾側向一旁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「整整500銅子兒！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

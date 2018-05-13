@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_sky_dragon</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>27</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​當你到達山頂時，一陣狂風吹過。你聽到象帆在風中發出的聲音，然後天空被暫時遮蔽了。一隻巨龍落在了你的面前，腳下的大地都震動了。
+
+它昂首展翅，擋住了你的路。它的頸項、它的背、以及它背上的脊，都長滿了瑰麗的羽毛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「你在這裡養育幼崽嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[攻擊]「如果我殺了你們兩個就不用費事了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​巨龍慢慢合攏雙翅，小心地注視著你。它發出呼嚕呼嚕的聲音，伏了下來。
+
+「那好吧。去吧，再次謝謝你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​龍吼叫時噴出的熱量烤炙著你的臉頰。它憤激地抖動著渾身的鱗甲和羽毛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「歹徒侵入了我的巢穴。想對我的孩子圖謀不軌。」它噴出一股帶著硫磺味兒的氣息。「我要拿你餵我的孩子。」
+
+龍的身後，一隻小小的虯龍蜷伏在神殿的一角。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「這裡是一位女神的神殿，不是你的孵育所。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我來是要讓你離開，將這裡還給海蕾婭的信徒們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​野獸嗥叫起來，鼻孔噴出怒火。「我會為保護我剩下的孩子戰鬥到死。不過，死的那個恐怕是你，小東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「說實話，海蕾婭是母性之神。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「你應該到別的地方再找個窩。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​從巨龍的喉嚨裡傳出一陣低沉的隆隆聲，它豎起了長滿羽毛的冠。「她還是天空之神和鳥類之神。」從它的牙齒間冒出縷縷煙氣。「我的同族也都知道她。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「那樣的話你更應該尊敬她的神殿了，離開吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「這就是你來的原因？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​它那長滿羽毛的尾巴輕輕拂動著。「我來這裡為了撫養我剩下的孩子。我們龍類需要生存空間。對幼龍來說沒有多少安全的地方了。」
+
+巨龍用分叉的舌舔了下它那短劍大小的一排牙齒。在它的兩顆牙齒之間塞著一大塊肉。
+
+「這個教訓是以我其他同胞的命換來的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​龍警惕的目光掃過你，停留在虯龍身上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​血從巨龍的鼻孔中冒出。它病了似地咳嗽著，噴出黑色的煙氣。「拜託。」它說話的時候發出嘶嘶的聲音。「你已經贏了。容我在死之前用最後的力氣把我的孩子帶走吧。給我的孩子一個活下去的機會。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「那樣的話你們就留下吧。在這裡養育你的後代將給海蕾婭帶來榮耀。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「你和你的幼崽留在這裡的話會吃掉很多人。你們必須離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「那好吧。走吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「我不會讓你那樣做的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​噴著煙，巨龍握緊它的幼崽，展開了破損的翅膀。它斜向上彈了出去，迅速滑過樹林的上空，消失在遠處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​巨龍絕望地咆哮著，再次發動攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[攻擊]「我不得不殺掉你們兩個，這太糟了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「小心點，通魂者。她快崩潰了……不是因為飢餓，而是因為恐懼。
+
+「沒有比一個保護幼子的母親更危險的了……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​哀傷之母的目光是溫暖、讚許的。「是的，你總是對什麼都充滿了驚奇……缺乏洞察力。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​它衝你發出嘶嘶的聲音，雖然這聲音並不是任何一種語言，但你很清楚這野獸的意思。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

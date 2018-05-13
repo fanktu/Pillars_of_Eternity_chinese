@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_memory_raider</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一位精靈男人轉過身面對你。他的臉頰，他的前臂，和他長而尖的耳朵軟骨都塗滿了靛藍和藍色的顏料。在那雜草般的亂髮下，他不懷好意地笑了笑。
+
+「差不多了。戴和海祖爾昨晚偵察過村子了。他們正在集結隊伍其餘的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「什麼隊伍？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[什麼也不說]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​他的幽靈質的拳頭揚起，穿過你的肩膀。「別擔心，人人都記得這次出擊是你的主意。在你鼓動了氏族其他人後，智者們也不得不順應形勢。
+
+「沒人希望傳言說，外來者褻瀆我們的廢墟時，九爪氏族懦弱得不敢和氏族剩下的人站在一起。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我明白了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「智者們？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​他露出笑容時，臉上的顏料條紋隨著扭動。「你可能不喜歡他們，但他們畢竟是長輩。暫時是。」他的嘴唇中露出一顆爛掉的灰牙。
+
+「真聰明，先得到社群的支持。然後等你找上智者們時，他們別無選擇，只能支持我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「毫無疑問，你將來也會加入他們的行列。只要今晚別被農民的草叉砍到。」他笑著說。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​幽靈般的戰士給你一種意味深長而貪婪的眼神。當目光在你身上爬行時，他半透明的眼睛閃耀著。「部落需要更多像你這樣的首領。重視行動更勝言辭的女人。」
+
+他想伸手摸你的臉頰，但中途停止了，他張開的手指顫顫巍巍，猶如全身襲來一陣疑惑的顫抖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​他轉而將手放到一側，從他的腰帶中抽出一把帶缺口的劍。「你說得對。外來者第一次來時我們太軟弱。導致現在他們羞辱我們。
+
+「我們不會再軟弱了。而且入侵者會吸取教訓，永遠不敢再打擾我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我們要奇襲那些農民。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

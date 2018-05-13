@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_rowan</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>38</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​羅萬交叉著雙臂，當他觀察著這些聚集的抗議者的時候，他嘴角緊繃。他看上去迫不及待要發動一次戰鬥。
+
+他打量著你。「新來的，是吧？你選了個有趣的時候來反抗灣呢。所有的難民湧入邊境，結果發現這裡遺贈的情況也沒多好。
+
+「都是因為靈魂學者們，願瑪格嵐燒光他們，而他們像老鼠一樣在這個城市裡築巢。不過，你記住我的話吧，我們十二人眾會阻止它的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​羅萬的額頭因為整天暴露在太陽底下被曬黑了。「歡迎回來。在鎮子裡迷路沒？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「你在這做什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​他舉手示意憤怒的喋喋不休的人群。「努力想讓百姓們看到理由。我們正處在一場危機當中，而公爵不但沒有清除城市裡的邪惡力量，反而給和了靈魂學者危險的自由權。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「和我說說十二人眾的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​他拍著他的胸脯。「我們是一個民間組織，想讓反抗灣脫離靈魂學者的危險影響以及支持他們的貴族的暴政。
+
+「我們還認為自己算是民兵之類的吧，考慮到如今的熔煉騎士團無非是一群洋洋自得的培訓班貴族。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「關於靈魂學你知道些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「這是對精魂的操作和研究，而任何神志正常的人都會說它是神的範疇。鹿眾人至少意識到要禁止它，那是你唯一能說他們好的地方了。
+
+「它不像靈能師所做的魔法、吟唱或者靈魂閱讀。它從古老的英格維斯時期就已經存在，所以你能看見靈魂學者們擺弄老舊的英格維斯製品。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我想更加瞭解反抗灣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「現在，我們是接收貿易和訪客的一個主要港口。但是我們——起碼，我們中的一些人——依然堅持開拓進取的精神；這個精神在一個半世紀以前給我們贏得了自由。
+
+「這個城市分成了五大城區：銅板巷、最初之火、昂德拉福地、蕨堡區，還有傳承山。」他用長繭的手指一個個數著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「和我說說銅板巷吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「和我說說蕨堡區吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「和我說說最初之火吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「和我說說昂德拉福地吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「和我說說傳承山吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「算了。讓我們說說其他事吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你想知道什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「這裡是銅板巷。」他在路上拍打著磨損的靴子。「它主要是個貿易區，但你也可以往北直接進入探險大廳，在那兒你可以加入到荒野的徒步跋涉。那也是我和我的十二人眾的烈士同伴們和其他熱心市民們見面的地方。」
+
+他指著西北方一個高大的，圓頂的建築。「那就是揭秘堂。神秘的地方，那有鹿林最大的圖書館。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​他喉嚨中發出了一絲厭惡的聲音。「沒有航行回到鹿眾的貴族們（住在那裡）。那兒的大多數家族的血統能追溯到舊帝國的時代。
+
+「除了許多許多過氣的貴族，你還有哈哲特宅邸，韋伯夫人和他的間諜掌控著它；還有蕨堡區療養院，城市裡最主要的靈魂學污水池。」他朝地上吐了口痰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「那是革命開始地方。這就是名字的來歷。如今政治家和皮條客橫行，但是總有一天我們會把它奪回來的。
+
+「你能在那兒找到公爵宮、維利亞大使館和熔煉堡。」他搖了搖頭。「熔煉騎士是反抗灣最初的自由戰士，但是現在他們現在就像高傲的孔雀，眼裡只有花哨的頭銜，大搖大擺。
+
+「那還有一個古老的媉蒂卡神殿。我們為她保留得可好了。」他眨眨眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「取這個名字是因為這原本是一片濕地，在帝國時期乾涸了。現在，這裡是個烏煙瘴氣的地方，這裡住著水手、老百姓，還有一些暴徒，但是這也是個有趣的地方，如果你知道去哪兒的話。」
+
+他眨眨眼，用手肘頂頂你。「當你在那兒，就去尋找一個叫『鹹桅桿』的地方吧。除此之外，那裡主要是倉庫和廢棄的民居。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​他發抖。「這裡過去是城市裡有聲望的地區之一。革命的英雄們在那兒上面畫圈佔地，旁邊緊鄰著一座古老的英格維斯高塔和城市公墓。有著反抗灣最好的景色。而在這些日子裡，吸引著（比有身份地位者）更有錢的類型（的人）。許多靈魂學的贊助者。」他吐了口痰。
+
+他掃視了一眼人群，降低了他的聲音。「你沒聽說過，但是幾個月前發生了一些事情。當局把它封閉起來，並封鎖了消息，但你記住我說的，這都是靈魂學引起的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「靈魂學者給我們帶來的神的憤怒！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「而公爵和他的馬屁精熔煉騎士什麼作為也沒有。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「我們怎麼能讓這些暴行繼續下去？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「不！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「打倒靈魂學！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「懷德溫的遺贈是個警告。傳承山是另一個。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「把話傳出去！只要齊心協力，我們就會把靈魂學的禍害趕出城市！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​他做出了一個淘氣的眼神。「是哦，我打賭在強大古老的鹿眾，他們不會在課上講，這殖民地大敗了哈哲特的『侍女團』，對吧？
+
+「這是鹿林自由偏王州的首都。我們開始時只是一個鹿眾殖民地的首府，但是在150年前我們把『軟弱權杖』從這裡踢走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「這是鹿林自由偏王州的首都。我們開始時只是一個鹿眾殖民地的首府，但是在150年前我們把『軟弱權杖』從這裡踢走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​他搖了搖頭。「可問題是，對於那些神器的用途，靈魂學者連一半都弄不清。他們也不承認。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​他的眼睛閃閃發光。「而我們一直想要擴張。更多人用我們的方式看待事情，對我們的國家局勢就更好。
+
+「如果你有任何興趣想聽更多，隨時可以來『艾德邁斯巢穴』——探險大廳——做客。那裡有很多自由的思想家，讓你看透貴族們和靈魂學者們要想你相信的鬼話。那裡甚至還有一些有償工作給有幹勁的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「十二人眾啊，倒像是個民兵組織。但除了訓練。還有紀律。還有榮譽準則。（基本上不剩下啥了……）」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​卡納用拳頭捂著，不起眼地咳嗽一聲。「半真半假的說法。但他是個充滿熱情的表演者，這點我得承認。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​卡納大笑。「實際上很怪異。如果更多的人進去就不太會這樣了。也許我們應該去拜訪以下，[Player Name]，看看揭示了什麼奧秘。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「我們的……朋友至少有一件事說對了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

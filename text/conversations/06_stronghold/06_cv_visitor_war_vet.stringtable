@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_visitor_war_vet</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>32</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「大人。我也不想打擾你，但是……我有件私事真的需要你幫忙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「此事……說來話長。我叫奧黛娜。我跟我的大部分同胞一樣，參和過聖人戰爭。我只是服從命令，不過因緣際會，我逐漸打出了名聲。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「那好吧。說來聽聽吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[離開]「現在不行。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你聚集起你的隊友們，然後示意請願者走上前來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我做過的事……讓我常常不得安眠。我可一點也不想要這些關注。我只想一個人靜靜。求求你，你是唯一能幫我的人了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「聽起來你需要些休息。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「過去的你，無可逃避。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「也許我這裡的某位同伴可以幫助你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我當前無法幫助你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「你的意思是前往深山野林？我在反抗灣是不得安寧的，因為我的大部分鄰居都加入了十二人眾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「沒那麼簡單。我根本沒有選擇。每一天，我總是會想起我做過的事。那些我直到現在依然不確定是否正確的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「是麼？你是指？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「艾迭爾也經歷過戰爭洗禮。也許他可以勸導你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「瑪娜哈是個很好的聆聽者。她可以幫你減輕下壓力。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[給她5000銅幣]「在鹿林以外的地方比較少人認識你。這些金錢足以讓你移居他鄉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「我會通知十二人眾，叫他們別再騷擾你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「原來如此。那麼談談別的吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「我沒有多少被人過度關注的經歷，但是也許我們會有共同的話題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我本身也參和過數場戰鬥。沒經歷過的人是無法體會的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「真的？太好了。只要一點點時間就夠了，我確定。謝謝你，大人！」</DefaultText>
+			<FemaleText>​「真的？太好了。只要一點點時間就夠了，我確定。謝謝你，女士！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「那是……哇。我都不知道該如何道謝你了！我馬上去收拾行裝出城。太感謝你了，大人！」</DefaultText>
+			<FemaleText>​「那是……哇。我都不知道該如何道謝你了！我馬上去收拾行裝出城。太感謝你了，女士！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「太好了……這應該會有效。謝謝你，[Player Name]大人。你不知道這對我有多重要。」</DefaultText>
+			<FemaleText>​「太好了……這應該會有效。謝謝你，[Player Name]女士。你不知道這對我有多重要。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「你有什麼好主意嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「歡迎你逗留在這裡，直到你想要回去為止。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「真的嗎？非常感謝你，[Player Name]大人！你是個好人。」
+
+奧黛娜滿臉欣喜地鞠了鞠躬。</DefaultText>
+			<FemaleText>​「真的嗎？非常感謝你，[Player Name]大人！你是個好人。」
+
+奧黛娜滿臉欣喜地鞠了鞠躬。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「你很生氣人們讚揚崇拜你？你真是個不懂感恩的懦夫。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「也許吧。我想這個答案應該足夠了。謝謝你抽空搭理我，大人。」
+
+奧黛娜的目無表情沒有透露出任何生氣或者不滿。她簡略地躬了躬身，轉身離開。</DefaultText>
+			<FemaleText>​「也許吧。我想這個答案應該足夠了。謝謝你抽空搭理我，女士。」
+
+奧黛娜的目無表情沒有透露出任何生氣或者不滿。她簡略地躬了躬身，轉身離開。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「咬緊牙關挺過去。你不是一個人在戰鬥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「我……」奧黛娜歎息。「是呀，你說得對。謝謝你抽空，[Player Name]大人。」
+
+她躬了躬身，轉身離開。</DefaultText>
+			<FemaleText>​「我……」奧黛娜歎息。「是呀，你說得對。謝謝你抽空，[Player Name]女士。」
+
+她躬了躬身，轉身離開。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「大家稱呼我為英雄。我經過任何地方，都獲得無數的握手和讚美。十二人眾把我當成代言人之類的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「有空嗎？希望跟你談一談。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

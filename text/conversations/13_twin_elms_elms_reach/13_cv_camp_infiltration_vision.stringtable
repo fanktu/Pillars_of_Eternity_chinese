@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\13_twin_elms_elms_reach\13_cv_camp_infiltration_vision</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>45</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「別動。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​幽魂士兵把短劍指向了你的胸口。「你出現在了一個錯誤的城市……審判官。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「你以為你在這裡，自己的老家，不會被認出來嗎？我親眼看過你的審判。我看到過你燒死過善良的人。我認識了許久的人。」
+
+他扼住了你的喉嚨，你感覺呼吸困難，你分不清這是現實還是幻覺。「你應該向他們懺悔。」他舉起了劍，距離你的眼睛不過一尺之遙。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「蘇洛斯，你在*幹什麼*？」
+
+那個士兵受到了驚嚇，立刻鬆開了手轉向了說話的人，那是一個穿著簡單羊毛外衣的女人，比蘇洛斯低了一個頭，但其氣勢卻壓倒了他。你之前看到過這個女人，但是是在很遠的地方外，她那時滿是鮮血和燒傷，被固定在鐵輪之上。而此刻，她的臉上只有關切。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「如果他是個刺客卻蠢到在白天靠近士兵的話，那我還有什麼好怕的呢？我想聽聽這個人有什麼話說。」
+
+她盯著他看，直到他不敢再看著她。他悻悻地轉過了身，斜視著你，握著劍的手變得慘白。</DefaultText>
+			<FemaleText>​「如果她是個刺客卻蠢到在白天靠近士兵的話，那我還有什麼好怕的呢？我想聽聽這個人有什麼話說。」
+
+她盯著他看，直到他不敢再看著她。他悻悻地轉過了身，斜視著你，握著劍的手變得慘白。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「你為什麼會在這裡，審判官？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「我……認識你嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​依歐瓦拉看到你第一眼的時候，眼睛睜得很大。「我的親哥哥，回家來了！我從來沒有想像過這一天的到來。」</DefaultText>
+			<FemaleText>​伊奧瓦拉看到你第一眼的時候，眼睛睜得很大。「我的親姐姐，回家來了！我從來沒有想像過這一天的到來。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​依歐瓦拉看到你第一眼的時候，眼睛睜得很大。「這定然是我的幻覺。我沒想到還能再看到你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我本沒有資格期待它。Not&#160;the&#160;way&#160;we&#160;left&#160;things.」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[說謊]「我只不過是想再看看你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[說謊]「我是來盡我所能地幫助你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[說謊]「我醒悟了，相信你所教導的是真的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[說謊]「我以宗教法庭所犯下的罪惡沉重得讓我無法接受。我希望幫你結束它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「大審判官賽奧斯·伊克斯·阿坎儂派我來這裡監視你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[說謊]「我希望我們能夠重新開始。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「一個會有幫助的審判官。有意思的說法。如果你們都能那麼有幫助就好了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「我……本希望能是別的理由。但是你來了，而這本身已經很不錯了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「我意識到那對於你的意義並不只是那些，但是我無法責怪一個跟從自己意願的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「你應該意識到了嗎，當你的大審判官讓你皈依的時候，他的意思是讓你去教導別人皈依？
+
+「撇開困惑不談，看到真相能夠經受住多少動搖，是令人高興的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「老學生回來找我……這感覺實在是太特別了。我在傳授了那麼多錯誤的知識之後，看來還是做過了一些好事吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我在過去傳授給你的知識中犯了很多錯誤。我希望你能給我一個展示自己改過自新的機會。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「不管怎樣，老朋友能回來總是好的。這比你想像得要更孤單，把你的朋友變成跟隨者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​依歐瓦拉好奇地看著你。「這真是個驚喜。我好久沒有見到老朋友了。尤其是你……我從來沒想到過。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「不管你為了什麼理由，這麼多年來我都一直想念著你。在我身邊都是陌生人的時刻，現在你來這兒了，這真是一個美妙的禮物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「不過畢竟血濃於水，很少有比親情更強的關係了。所以我堅信我們終有一天會團聚的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「在聽到賽奧斯宣佈了一場宗教審判時，我本以為我可能會永遠失去你了。能看到我們的家人沒有那麼輕易地被分開，真是個巨大的安慰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「除非有什麼簡單的辦法能做到，而大審判官連讓他自己皈依都做不到。但是你來到這裡，也許意味著，我們之間沒有我本以為的那麼遙遠。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「在那之後發生了好多事情。宗教法庭……」
+
+她失神地垂下頭，恍惚了很久。
+
+「我覺得現在那都不重要了。畢竟，你來了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「為了我，你冒了極大的風險。我本來絕不會讓任何人為了我這麼做的，尤其是這個人的安危對我來說如此重要。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「看到你為我想的這麼周全，我很……驚訝。你知道的，我從沒這麼期望過你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「你是從哪兒來的，審判官？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「實際上就在這附近吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「是這樣嗎？我這幾天見過不少了。我的大批追隨者從別的城市和王國湧來。這群士兵們大多是從別的村莊召集過來的。
+
+「我很歡迎那些在平和時期十分瞭解克雷圖姆的人加入我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​她更用力地看著你。「我*的確*記得你。那是幾年前了，當時我還是一名傳教士。在這一切發生之前。」她搖了搖頭。
+
+「現在想想那段日子，真是不堪回首，對吧？What&#160;I&#160;wouldn't&#160;give.」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「我很少一部分追隨者是來自這些地方的。士兵們大多數是從鄉下應招來的。能有十分瞭解克雷圖姆的成員，是件好事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「我很歡迎在我們營地裡留下，作為我的客人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​沒安靜多久，那個士兵走近依歐瓦拉，把手放在她肩上，把她轉向一邊。他的聲音沉著但絲毫不掩飾。
+
+「依歐瓦拉女士，我求您了。這是一名審判官啊！這是要取你性命的一次鋌而走險。它唯一能夠成功的方式，就是你允許它成功啊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​她平靜優雅地把他的手從自己的身上移開。「這人是一個傳教士，和我之前一樣。教授了錯誤的東西，像我之前一樣。
+
+「如果我對一個男人的理智沒有信心，不認為在他知道真相後可以講道理，那我們還有什麼希望？」</DefaultText>
+			<FemaleText>​她平靜優雅地把他的手從自己的身上移開。「這人是一個傳教士，和我之前一樣。教授了錯誤的東西，像我之前一樣。
+
+「如果我對一個女人的理智沒有信心，不認為在她知道真相後可以講道理，那我們還有什麼希望？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「我們這裡有很多前任傳教士。他們對我們十分忠誠、給我們很大幫助。很多人肯為我們赴死。對他們這群人，我們不應拒之門外。
+
+「而如果宗教法庭想要我的命的話，儘管來拿吧。但是他們和我一樣清楚，我的事業不會因為我的死亡就隨之毀滅。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​依歐瓦拉眼都沒眨一下。「那邊就這麼孤注一擲嗎？我從來都不清楚呢。（似乎是暗示，『我』不覺得是這樣。）
+
+「希望你的下一項任務會更刺激吧。聽我傳道授業，對於一個間諜來說一定無聊透頂。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​依歐瓦拉把你召喚向她身後的某處。「來吧。我們有許多事情需要談談。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「這是宗教法庭派來的刺客，夫人。正膽大妄為地侵入我們的營地。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「夫人，他都*承認*自己是間諜了！」</DefaultText>
+			<FemaleText>​「夫人，她都*承認*自己是間諜了！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「那他就構不成什麼威脅了，你覺得呢？
+
+「我沒什麼可隱瞞的。我只看到了一個機會，一個勸說某人來幫助我們的機會。」</DefaultText>
+			<FemaleText>​「那她就構不成什麼威脅了，你覺得呢？
+
+「我沒什麼可隱瞞的。我只看到了一個機會，一個勸說某人來幫助我們的機會。」</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>

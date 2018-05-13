@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_cv_qexetl</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個穿著堅硬皮衣的年輕人正盯著你。他臉上皺紋滿佈，儘管這個地區陽光並不充足但他依舊被曬得很黑，當你接近他時，他抽搐了一下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​當你走出去後，神殿沉重的木門砰的一聲在你身後關上了。你聽另一邊有人的聲音。
+
+聽起來牧師們在激烈的爭論什麼。你知道他們正在談論你，但是你也知道門太厚以至於聽不到後面的話了，或許你可以在附近其他地方試試。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「……不敢相信！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「……你怎麼能？！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「……都是你的過錯！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「……不能再待下去了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​當你走向結冰的池塘時，一個身影從薄霧中出現。他跪在冰面上的一個洞旁，拿起了一個大箱子，然後毫不猶豫地把箱子扔到了水裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​這個人環顧了下四周。你看到了一張你以前見過的臉。他是凱謝圖，拉芙達的侍僧之一，他用罩子罩住了頭，肩膀上還扛著一個皮袋。
+
+他頭也不回的向堅忍村走去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我跟你沒什麼可說的。有什麼事就去跟拉芙達談吧。」他轉過身去，擤了擤鼻涕。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「別來打擾我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「Cah&#160;llah!&#160;Cah&#160;lla!」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

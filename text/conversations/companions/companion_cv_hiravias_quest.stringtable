@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_hiravias_quest</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>70</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​希拉維亞斯簡單看了一下格蘭法斯文字，清了清喉嚨，大聲讀起來。
+
+「不正是水對植物做了犧牲嗎？而植物對牲畜犧牲？牲畜又對人犧牲？
+
+「當弱小靈魂犧牲自己獻給強大靈魂，我們整個家族就會變得更強。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​他緊鎖眉頭看著你。「我想我懂它的觀點了——我們都要不斷地殺戮、進食以生存。這聽上去更像是在說染血沙地的儀式——我想知道這和我有什麼關係，或者根本就毫無關聯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「你戴著瓦爾眼罩——我以為你應該喜歡神秘信息。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​希拉維亞斯微笑著盯著你。「想得沒錯。瓦爾想讓我看到這些所以……它對我有什麼用？」
+
+他的聲音漸漸低沉，臉色蒼白。「我是弱小靈魂嗎？被趕出我的部落，犧牲自己讓強大的靈魂更強？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我不知道，只是聽起來他們在試圖為他們的殺人行為辯護。
+
+「來吧，讓我們看看其他石碑說了什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​他咬緊了嘴唇，沉默了一會兒。
+
+「那麼其他石碑說到了豹猊審判——重新統一。另一個說要將因為年齡而分裂的靈魂結合起來。
+
+「我……應該用我的力量來犧牲他人或……犧牲自己嗎？兩個聽起來都不怎麼樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「你有沒有考慮過，那頭凋魂豹猊或許是伽拉宛讓你變得強大的犧牲品？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​他的那只好耳朵變得僵硬了，而他壞掉的耳朵在抽動和顫抖。
+
+「我沒有想到，但……我贏得了戰鬥。如果伽拉宛真的對我不滿意，我不能想像我會活著離開試煉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我們已經讀過這銘文——讓我們試試另一個。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「每一代，」希拉維亞斯讀著格蘭法斯文本，「魂君在審判中必須站在凋魂野獸面前。」
+
+希拉維亞斯不自在地咳嗽，繼續說道，「聰明的人會忍受並傳遞他們的力量。弱者將被吃掉——他們的靈魂被撕成碎片並永無輪迴——以此淘汰掉弱者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「嗯……我想也許我的部落說我的靈體形態是某種靈體威脅，這件事並不完全是錯的。我希望聽到一個不同的答案，但……」
+
+希拉維亞斯聳聳肩，手臂垂了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「但是得問一下——你披著凋魂豹猊的皮毛走動時，摧毀了多少靈魂？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「我所知道的？沒有，」他說著，臉色因為堅決而發紅。
+
+「我明白你說的——我只是披著凋魂豹猊的皮毛——這不是我控制的，也和我是誰沒關係。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​他發出一聲長長的歎息，放鬆下來。
+
+「多年來，我一直告訴自己我的部落對我不公平……我猜他們並不是完全錯誤的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「感慨時間到此為止吧，」他說，捋平一縷發旋的頭髮。「我需要知道更多，讓我們來看看其他石碑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「其他石碑提到埋葬島，另一個說靈魂隨著時間的推移分裂，並且會犧牲一些籌碼……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「也就是說瓦爾會把你帶到需要的地方？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你可以這麼說，」希拉維亞斯微笑著說。
+
+「所以，我族是正確的——凋魂豹猊是某種靈魂被毀滅的野獸，但我只是暫借這個生物的外表，而不是其存在本身。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「我懷疑我能否改變他們的主意，這不像我想發展一些新德魯伊同伴，在這些……犧牲的工匠之中。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「那麼現在怎麼辦？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我想去埋葬島——石碑中提到了這個名字，它暗示可能會有其他凋魂豹猊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「我不想聽到凋魂豹猊是這種可怕的怪物，但我感謝瓦爾讓我看到這些石碑。真相很有價值，特別是痛苦來臨的時候。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「你想和一隻凋魂豹猊重新匹配？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「不完全是。比起我們上次爭鬥時，我更加老練和睿智，但是……我真的不能承受失去眼睛或耳朵。我剛用完多餘的器官。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「如果我們去了埋葬島，我想探索一下那片區域。石碑上顯示許多人已經被那野獸謀殺——對不起，審判了。」
+
+他清了清喉嚨，給你一個緊張的微笑。「不是想再次看到它，但瓦爾和伽拉宛似乎堅持要引領我們去那裡。所以，當你準備好後，讓我們去這個埋葬島吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「你認為你注定要揮霍別人的靈魂？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「這想法一直困擾著我。也許吞噬靈魂就像做愛——我遇見對的人，接下來交給本能，第二天早上我就感到又羞恥又沾沾自喜。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「現在呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「你在重新考慮對伽拉宛賜予你天賦的看法嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​希拉維亞斯的臉搖來搖去。「唔……是……也不是。」
+
+他攥緊拳頭，發出長長的歎息。「是呀，這要考慮很多東西。如果你後退一步，伽拉宛一定會嘲笑我研究進展的緩慢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「我不覺得這些知識會改變我部落的想法。在見過世上其他德魯伊的某些做法之後，我寧願繼續做一個流浪者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「真理已經為你揭示，你卻在抱怨得到的答案？瓦爾會為你感到羞恥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​希拉維亞斯的目光閃爍了幾次。「有兩件事。第一：別用瓦爾來教訓我。第二：你一點沒錯。」
+
+他的手拽著束腰外衣，整理了一下姿勢。「我應該為學習的行為而激動，而不是懷疑自己的期望——瓦爾肯定會這麼想。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「是不是伽拉宛測試過你而你通過了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「這……」希拉維亞斯完整的那只耳朵立起來，微笑掃過他的臉。「說得有道理。我怎麼沒想到呢？」
+
+他雙手撫過眼睛附近的傷疤，姿勢裡充溢著緊張的想法。
+
+「也許我把這件事都想錯了。我的意思是……我遭遇了一隻凋魂豹猊而倖存下來——很多魂君都做不到。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「你似乎因為有這樣一隻傳奇野獸作為靈體而悲傷啊。別告訴我你從不希望有這樣的力量。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​他皺起眉頭，用一隻獨眼盯著你看。「如果不會被排斥的話，我真希望變形成一堆黃鼠狼糞便！」
+
+他的怒氣漸漸消退，盯著你看了很久，試圖組織好他的語言。
+
+「你說的……沒錯。我確實向伽拉宛祈禱成為一個更好的獵人……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「像靈魂會分裂一樣，」希拉維亞斯用戲劇性的腔調讀著石碑上的格蘭法斯符文，「生命來自同一個源頭。
+
+「最純正的力量來自於犧牲碎片而將力量歸還給母之石。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「嗯……『生命來自同一個源頭』聽起來很熟悉——我受到的教育說，有時候在死亡和重生之間，靈魂會完美地分裂成兩份——創造出兩個獨立發展的靈魂。
+
+「聽起來很奇怪，但考慮到人口是怎麼每代增長的，它就很有道理了。這一類的過程的發生，算是一種數學上的必要性吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「謝謝你的靈魂學課——但你認為這和你有關係嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「我想……」希拉維亞斯停下來繼續讀石碑，嘴裡默默地念著格蘭法斯文字。
+
+「唔，我想我們所有人——我們大多數人的靈魂，已經活了很多代，並且分裂成了許多片。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「我只是想到自己是某種『碎片』，而命運就是成為上層者的食料，我為此而恐懼顫抖。」
+
+希拉維亞斯睜大眼睛盯著你看，沉默了幾分鐘。
+
+「我猜擔心不會對我有什麼好處——讓我們繼續讀其他石碑吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​希拉維亞斯若有所思地看著你。
+
+「這裡有塊石碑談到了豹猊會撲殺弱小的魂君——另一塊則說這種野獸能使一切完整。
+
+「我是寓言中的母親石還是碎片呢？瓦爾一定在享受我的困惑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「也許凋魂豹猊在這種靈魂的生命循環中扮演了重要角色。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「對不起，先生，我不會吞食你的靈魂，我只是在自然過程中扮演一個重要角色，」希拉維亞斯的眼球在滾動。「我明白你是什麼意思，但這不會讓我感覺更好。
+
+「糞便中的真菌也在自然定律中扮演了重要角色——這不會讓我因為變身成一坨糞便而興奮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「所以為什麼瓦爾帶你找到這塊石碑？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​希拉維亞斯撓撓耳朵，目光盯在地上。「如果那個德魯伊真的想讓我看到這塊石碑……如果瓦爾真的在指引我對知識的追……
+
+「世上還有人和我有相同的『過去的靈魂』嗎？那又怎樣？可能大多數人都是如此。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​希拉維亞斯清了清喉嚨，讀著石碑上的格蘭法斯文字：「在埋葬島上，兩人第一次見面，也是他們所做的最後一件事。多彩的野獸將他倆撕裂為碎片。他們在死亡之後重又合二為一、重新完整了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​他緊張地看著你，笑著說。「可愛的故事——那兩個傢伙在這吞噬靈魂的生物肚子裡又『相見』了。也許有一天我會吃兩個最普通的鹿林伐木工人，他們的靈魂會永遠在我的腸子裡縈繞，討論著啤酒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「也許意思是凋魂豹猊並不會真正吞噬靈魂。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「這可能是真的，」希拉維亞斯咕噥著，「但我想我不知道。我從來沒有——至少沒有印象——吞噬過任何人的靈魂……也許這招我還不會吧。我真幸運！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「不過，儘管這塊石碑這麼說，我還是很難相信我的變形和傷害別人是為了讓他們『重新完整』。
+
+「我想看看其他石碑，聽聽它們怎麼說。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「我的意思是，你再聽聽別的石碑怎麼說……關於豹猊對魂君的審判以及重新統一弱小靈魂什麼的……」
+
+希拉維亞斯雙臂抱在懷裡，若有所思地看著你。
+
+「好吧，那個德魯伊是正確的，我確實需要閱讀這些石碑……可我還是很困惑，真糟糕。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「何必如此輕率？聽起來像伽拉宛給了你一種令人難以置信的力量。是你尋求他的幫助，而不是他主動來到你身邊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「是的……」他盯著你良久。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​希拉維亞斯雙手托腮盯了你更久。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「好吧好吧——你說得對。我想我太糾結細節了，事實上我向伽拉宛請願後已經成功地掌握變身……像我請求的一樣。」
+
+希拉維亞斯撫過受傷的耳朵和眼睛之間的傷疤。「我想做一個更好的獵人……最好的那個。也許這裡會有一些東西講述如何克制慾望。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​「我現在知道伽拉宛為了一個很好的理由而派遣他的使者暴打我——它不是嚴格意義上的惡意。我有點希望吞噬靈魂的說法只是傳言……好吧……」
+
+他緊張地笑笑，聳了聳肩。「也許我會見到伽拉宛所希望我獵殺的獵物……或者發現我才是獵物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​希拉維亞斯大口喘著氣，他的一隻完好的眼睛緊盯著煞斯登的屍體。血和汗水從他的皮毛滴下，他來回踱著步，彷彿期待著屍體會自己站起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​「很有趣，我想。瓦爾告訴我伽拉宛回答了我的祈禱——他讓我成為了我希望的偉大獵人。這些傷不是一種懲罰，只是一個非常、非常艱難的考驗。」
+
+希拉維亞斯低頭看著煞斯登的屍體，笑了起來。「而我認為瓦爾剛剛已經讓我看到，如果我任由我生命的這個側面吞噬自己，我將來會成為什麼樣子。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​希拉維亞斯慢慢點頭微笑。「了不起，」他停頓了很久之後說道。
+
+他在煞斯登左右走了幾步，步伐驕傲而放鬆。「我忍受伽拉宛的試煉，被結果所征服。現在我唯一遺憾的是多年來我居然把這整件事看成一種詛咒。毫無疑問，排斥只是另一種伽拉宛迫使我更強的方式。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​「你感覺如何？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​「我們完事了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​希拉維亞斯點點頭。「是的，我已經受夠了伽拉宛的考驗和試煉。即使我是最好的披有凋魂豹猊皮毛之人，又有什麼意義呢？我的心並不像過去一樣在狩獵上了。」
+
+他看著煞斯登殘缺不全的身體，搖了搖頭。「這幾乎是一種恥辱，因為我是一個相當令人驚奇而謙遜的獵人。但你問題的答案是：沒錯，到此為止了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「差不多，」他說著，跪在煞斯登的身體前，低下了頭，靜靜地吟唱。
+
+你幾乎聽不出他的莊嚴話語：「感謝汝，伽拉宛，感謝你指導我們的狩獵：現在我們因為弱者的肉體而更加強壯。」
+
+他站起來，整整他的束腰外衣，微笑點頭。「我認為這樣就可以了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​[檢查煞斯登的屍體]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​你的眼睛放鬆下來，視力向著無形的嗡嗡聲而調整後，你看到一個紅橙黃三色的樹葉旋轉堆。植物的氣旋四散飛舞，樹葉漂移向未知部分。
+
+隨著煞斯登的精魂逐漸從視野中消失，你看到少數秋葉圍著希拉維亞斯，而他的靈魂發出更加奪目的橙色幽影。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​當他要走開時，他突然調轉雙腳並喃喃自語：「在禿鷹到來之前……」
+
+他走到煞斯登的屍體前，用手在其嘴中用盡全力地撕扯。肌腱和軟骨隨著噴發的血液分崩離析，直到最後，下頜骨被完全扯下來了。
+
+「我覺得應該拿走一份紀念品，」他說著，一邊臉紅微笑一邊檢查他的浸滿鮮血的獎盃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​最後他的身體放鬆，看著你微笑。「看起來他選錯了對象。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

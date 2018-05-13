@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\01_defiance_bay_coppleane\01_qst_two_story</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>22</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>雙重情節的任務</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>把計劃告訴某個人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>取回艾布瑞肯·鐸門耐爾的筆記。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>把筆記還給艾布瑞肯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>偷取白際山之心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>偷取白際山之心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>把白際山之心給艾布瑞肯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我得知了一個偷竊蕨堡區的貴族雷蒙特領主的計劃，還找到了一個詳細描述該計劃的信件。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我偶然間發現了一處竊賊的藏匿處，無意中挫敗了他們。他們的筆記裡列出了對他們闖入雷蒙特領主的府邸並偷取白際山之心的指示。
+
+這信件可能會引起雷蒙特領主或那個名字前綴為「AD」的人的興趣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>艾布瑞肯·鐸門耐爾雇了一群小偷以闖進雷蒙特領主的府邸。不幸的是，他們有一封信件把這起犯罪和他聯繫起來。
+
+他告訴我他們在銅板巷有一個藏身處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我從小偷的手裡得到了艾布瑞肯的筆記。他希望我把這個帶給他。
+
+如果我告訴雷蒙特領主這個偷竊白際山之心的計劃，他或許會獎賞我的坦誠。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我歸還了那個記錄艾布瑞肯·鐸門耐爾搶劫計劃的信件。現在，他派我去偷白際山之心。艾布瑞肯堅信寶石就在二樓的某個地方；有一個窗戶，我可以從街上通過那裡進去。他想要避免所有的殺戮。
+
+白際山之心會被賣給熔煉騎士或者十二人眾。那兩派都想用寶石來換取和白際艾塔波的友誼。而鐸門耐爾家族絕不希望他們任何一方獲得如此強大的盟友。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>鐸門耐爾罪惡帝國的繼承人艾布瑞肯·鐸門耐爾對於我殺了他的手下和強盜感到很不高興。他給我下了最後通牒：把白際山之心偷來，要不然就去面對鐸門耐爾家族的憤怒吧。
+
+我同意去偷寶石。艾布瑞肯堅信它在二樓的某個地方；有一個窗戶，我可以從街上通過那裡進去。
+
+白際山之心可能會賣給熔煉騎士或者十二人眾。那兩派都想用寶石來換取和白際艾塔波的友誼。鐸門耐爾家族絕不希望他們任何一方獲得如此強大的盟友。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我已經在雷蒙特領主那裡偷來了白際山之心。為了兌現我和艾布瑞肯的承諾，我必須到蕨堡區把寶石給他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我已經在雷蒙特領主的府邸那裡偷來了白際山之心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我告訴了雷蒙特領主偷取他寶石——白際山之心的計劃，就在他的家裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>在我把信件交給艾布瑞肯·鐸門耐爾之後準備離開時，他不是很高興。我至少把針對雷蒙特領主的計劃完成了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我把白際山之心給了艾布瑞肯·鐸門耐爾。作為回報，艾布瑞肯保證會向他的父親——蓋德馬·鐸門耐爾替我美言幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我把寶石給了熔煉騎士，那樣他們就可以和白際山的矮人結盟了。艾布瑞肯對此肯定很不開心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我把寶石給了十二人眾，那樣他們就可以和白際山的矮人結盟了。艾布瑞肯對此肯定很不開心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我已經殺了艾布瑞肯·鐸門耐爾。他不會再需要白際山之心了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30007</ID>
+			<DefaultText>雷蒙特領主和艾布瑞肯·鐸門耐爾都死了，就沒有人會知道偷盜雷蒙特領主的計劃了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

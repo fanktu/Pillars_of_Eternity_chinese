@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_03_abbey\px2_03_si_skel_hand_swing</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>24</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​（空曠的環境中）只有裂隙的不祥低吼聲在打攪你思考。你考慮著你的選擇。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[仔細查看區域]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[扔出抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[用繩子蕩過峽谷]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​考慮到溝壑的跨度和骷髏手的位置，你相信只要抓鉤放置得當，你就能夠到達另一邊。
+
+雖然抓鉤的定位可能會很棘手，不過風力不算很強，倒不至於危及你攀爬繩索通過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​中指的目標很大，不過它正好位於風力中央，繩子和鉤隨時可能被吹掉。
+
+不管誰扔出抓鉤，手指必須十分靈活。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​你在思索拋擲難度的時候，風力暫時減緩，變成了稍稍可怕的低語而已。
+
+誰來扔出鉤子呢？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​你緊緊抓住繩子，然後蕩過峽谷。雖然風力很大，而且不斷傳來咯吱咯吱的聲音，你還是安全到達了另一邊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你站在裂隙邊緣。在抓鉤和位置恰巧的骷髏巨手的幫助下，你通過了它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[你來扔抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[讓[Slot 0]扔抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[讓[Slot 1]扔抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[讓[Slot 2]扔抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[讓[Slot 3]扔抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[讓[Slot 4]扔抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[讓[Slot 5]扔抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你拋擲的時機很完美地在混沌的風從裂縫中迸發出來的間隙。抓鉤在猛烈的空氣中切出一條奇怪的路徑，帶著繩索劃出一道奇特螺旋的軌跡。
+
+儘管線路奇怪，抓鉤最終（像船一樣）停靠在了中指上，它的繩索也安全地纏繞住了這根冰的骨頭。
+
+你拽了兩下，確信它不會脫落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​你小心地甩動著抓鉤，想等大風停歇時再放出繩子。在較為寧靜的片刻，你把抓鉤晃到身後，接著發力扔了出去。
+
+你還沒來得及鬆手，縫隙裡爆發出一陣強風。你趕緊退後，結果把抓鉤扔偏了。它撞倒了骨頭上，發出刺耳的聲音，因為呼嘯聲太大，你勉強才能聽到。
+
+你迅速收回繩子，把抓鉤從下方深處拉了回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[Specified 0]拋擲的時機很完美地在混沌的風從裂縫中迸發出來的間隙。抓鉤在猛烈的空氣中切出一條奇怪的路徑，帶著繩索劃出一道奇特螺旋的軌跡。
+
+儘管線路奇怪，抓鉤最終（像船一樣）停靠在了中指上，它的繩索也安全地纏繞住了這根冰的骨頭。
+
+[Specified 0]拽了兩下，確信它不會脫落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[Specified 0]小心地甩動著抓鉤，想等大風停歇時再放出繩子。在較為寧靜的片刻，[Specified 0]把抓鉤晃到身後，接著發力扔了出去。
+
+[Specified 0]還沒來得及鬆手，縫隙裡爆發出一陣強風。[Specified 0]趕緊退後，結果把抓鉤扔偏了。它撞倒了骨頭上，發出刺耳的聲音，因為呼嘯聲太大，勉強才能聽到。
+
+[Specified 0]迅速收回繩子，把抓鉤從下方深處拉了回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​你站在懸崖邊，缺口旁邊的那座山上正是修道院坐落的地方。風聲從缺口深處傳來，就像悲哀的哭泣聲一樣，從懸崖邊一直傳到最深處。
+
+一隻巨大的骷髏手被霧淞包圍了幾百年，奇怪地懸掛在缺口。手指張開的樣子似乎十分痛苦，冰塊還是受害者死亡時的樣子，可是肉體卻早就腐爛了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​你回到了懸崖邊，那兒有個缺口，可以直接通到山腰。
+
+深淵的風不停向你吹來，懸崖上海掛著一隻巨大的冰骷髏手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

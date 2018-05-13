@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_bounties\px1_03_tsk_boss_odhl</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：蘭瑞克</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在赤褐樹林殺死蘭瑞克並帶回他的頭顱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把蘭瑞克的頭顱帶回堅忍村並帶給忒爾多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>蘭瑞克，舊丹瑞德狩獵屋的首領，被懸賞殺死。表面上他和他的隊伍只是以狩獵動物和怪物為日常運動，私底下卻殘暴成癮，隨處肆意濫殺無辜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>有人在赤褐樹林看到過蘭瑞克和舊丹瑞德狩獵屋的剩餘成員。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>忒爾多會很高興聽到蘭瑞克已死的消息。把蘭瑞克的頭顱帶給堅忍村的忒爾多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我把蘭瑞克的頭顱帶給了忒爾多並領取了懸賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

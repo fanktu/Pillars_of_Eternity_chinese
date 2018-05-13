@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_cv_wyla</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>41</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​判官的視線在你身上一略而過，接著回到了訓練場內的見習員們身上。
+
+「如果你想說巡邏的事，我的見習員們已經到極限了。我被夾在湧入的難民和傳承山的爛攤子當中，實在是連一個小隊都再也抽不出來了。」
+
+停頓了一下之後，她再次看了你一遍。「抱歉，你還有別的事嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「傳承山出什麼事了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​她壓低了聲音。「你該問的是，那裡還有什麼事兒沒出。整個城區都是走來走去的、吃人的屍體。兩個月前，我在那裡損失了一個最好的指揮官，緊接著我們就封鎖了那裡。然而，這已經是第二批輪換的守衛失蹤了。
+
+「都用不著我的士兵談論這些……失蹤事件，這堡壘各處關於那地方的謠言就夠多的了。」她搖晃著腦袋。「我想盡快放棄那片城區，但萬一這些怪物找到出路……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我可以調查下。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​她退後一步，打量著你。「那麼你就是我的見習員們一直在談論的那個人。
+
+「如果你能提供幫助，我不會拒絕的。當然不會拒絕有著像您這樣……功績的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​她靜靜地看著見習員。「我不能再像這樣損失更多士兵了。尤其在當前難民湧入城市，十二人眾抗議的情況下。
+
+「一般來說，我會說這是我們內部的事務，但是我現在雇不起一支探險隊。我也肯定負擔不起讓熔煉堡遭遇一場信念危機的責任。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「我允許你進入傳承山。我會捎信給門口的警衛。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​她退後一步，打量著你。「那麼你就是我的見習員們一直在談論的人。
+
+「如果你能提供幫助，我不會拒絕的。就我聽說的樣子，你在把活兒辦成方面頗有一手。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​她退後一步，打量著你。「聽完我告訴你的事之後，你還想去傳承山？我可是在那兒損失了訓練有素的士兵呢。為什麼我還要放人進去？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「如果人們失蹤了，總得有人弄清楚出了什麼事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「如果你這麼著急送死，我不會攔你的。」她靜靜地看著見習員。「如果你們能以某種方式阻止這個……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「你又不會失去什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「你那些『訓練有素』的騎士對我來說算個屁。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「看起來你需要幫忙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「讓我試試有什麼壞處？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「和我說說傳承山吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「曾經是反抗灣最有聲望的城區之一，但是幾個月以前，居民們全都變瘋了。開始互相吃人……並且吃掉別的亂闖亂撞進了這個城區的任何倒霉東西。我從沒見過這樣的情況。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「現在，每個在那裡站過崗的見習員——起碼，每一個得以回來了的——都談到墳墓的惡臭和難以形容的恐怖呻吟。」
+
+她豎起一根戴著手甲的手指。「至於原因和方式，則是留給靈魂學者的問題。我封鎖了這個地區，希望把那裡不管發生的什麼事都封在裡面。似乎起作用。目前來說。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「你在這裡幹什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「我負責掌管堡壘的見習員。我負責他們的訓練和巡邏任務。」她對著訓練室裡的人點點頭。「他們是優秀的戰士，他們一直都能很快的適應新挑戰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「動作快點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「你之前說過傳承山出了什麼問題？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「傳承山有什麼消息嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「你的守衛被一個叫蕾拉的女人的靈體魅惑了。我已經除掉了她。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​她疲憊的眼睛瞪得圓圓的。「聖火在上，你找到她了？我失蹤的指揮官？」
+
+她長歎一口氣，呆望著地板磚。「她死了還能從墳墓中呼喚守護者？這沒道理啊。但在那個受詛咒的地區沒什麼是有道理的。
+
+「中了她魔法的士兵們怎麼了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「你是說在他們走出了那座墓室之後？到了早上，他們也許有很多事都不會再記得了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「他們活的好好的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「他們都活下來了？」她的不相信融化成了喜悅。「今晚堡壘裡會有很多慶典，我確定。
+
+「感謝你的幫助。你給我留下了和答案一樣多的問題，但至少我知道我的部隊，還有蕾拉指揮官，發生了什麼事。
+
+「請接受我的這份謝禮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「你們騎士很勇敢，但並不是他們所有人都得以回來了。我很抱歉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「我沒能救下他們所有人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「但是，看到有人從被遺棄的地區回來，這能給我的戰士帶來勇氣。
+
+「感謝你的幫助。你給我留下了和答案一樣多的問題，但至少我知道我的部隊，還有蕾拉指揮官，發生了什麼事。
+
+「請接受我的這份謝禮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「你所有的騎士都死了。下次再對他們（原文如此，但應該指其他的和未來的騎士們）好好加強訓練吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「他們沒能活下來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「我明白了。不管怎樣，感謝你的幫助。你給我留下了和答案一樣多的問題，但至少我知道我的部隊，還有蕾拉指揮官，發生了什麼事。
+
+「請接受我的這份謝禮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「我還是會調查它的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「一旦有什麼發現馬上向我報告。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​她微笑著。「我能為你做些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「我們需要對付傳承山。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「如果沒有別的事，我要回到我的崗位上去了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​「我不太明白。這些蠢腦袋真的打算接管整個城市的巡邏嗎？」
+
+她的目光很空洞。「那甚至不是一場戰鬥。而是場屠殺。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

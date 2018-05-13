@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_glanfathan_palisade_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>29</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​勇士慢悠悠走過來，他瞥了眼你的裝備後仔細地打量了你一番。條紋裝飾下隱約可見懷疑的嘲笑。
+
+「又是燃燒城來的難民……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「艾爾·格蘭法斯的六大部落歡迎你來到雙榆城。你面前的是爐曲區。你可以自由探索，但別隨便進其他街區。那裡不允許外來者進入。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「關於雙榆城你能告訴我些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「為何禁止進入雙榆城剩餘的街區？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「我會記住你的話的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「站住！外來者」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「神聖之城分成了四個區，爐曲區——公共生活的街區；古曲區——我們神殿的遺址；榆樹之蔭——葉精和德魯伊的家；以及埋葬島，那裡是城市裡最神聖的地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「雙榆城是座神聖的城市，建造在第一批護石者和築者相遇的地方。它坐落於築者的偉跡旁，這裡是艾爾·格蘭法斯內唯一允許外來者進入的神聖之地。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我沒聽說過護石者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「築者是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「六大部落的長者。」他將劍尖指向身後的一個長棚屋。「上樓進入六君通道。我們的魂君們在那裡集會。指引羅盤的魂君蓓素爾能告訴你更多。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「你所知的他們是英格維斯人。對我們來說，他們是築者，我們至今守護的神聖之地的築者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我想知道爐曲區的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「哪個神殿在古曲區？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「跟我說說榆樹之蔭。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「你知道埋葬島的事嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「這裡是爐曲區。格蘭法斯人和外來者聚集的地方。六君通道也在那裡，我們部落首領魂君會面的地方。」
+
+他指向街區另一端的大型、圓形建築。「那條路通往市場。管住你的錢包——格蘭法斯人對講價都很在行。如果你需要住宿，沿著東面的圍欄走。在那你會找到通往神樹幼苗的路。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「築者在這裡擺滿了石頭，是我們魂君休息的地方。據說某些魂君的靈魂依舊縈繞在此。
+
+「那條路通過古曲區。這是雙榆城最神聖的地方了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「關於這座城我只需知道這麼多。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「那裡有正午之霜，是奉獻給銳末干德的。不久前從冰封的南國來的一群蒼精靈在看管著它。
+
+「還有『鳥巢』——海蕾婭的神殿，以及伽拉宛巨口——侍奉著狩捕之神的野獸們的巢。通往埋葬島的路也在那邊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「那裡是群星之塔，僅存的築者高塔中依舊完好無損的一個。兩顆參天雙榆樹纏繞著它——甚至萬能的眾神也保護著築者的傑作。現在兩位葉精姐妹住在那裡。
+
+「武士大廳矗立在街區的另一端。傳言稱三牙豹猊的魂君西莫克現在住在那裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「你還想聽什麼嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「然而，外來者對這裡的石頭沒表現出應有的尊重。」
+
+他的話觸發了你的回憶。你看到了一個完美的魂珀立方的影像。不過很快影像就消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我的通魂者朋友，」希拉維亞斯在你身後說道，「陪你去榆樹之蔭見那些德魯伊是我的榮幸——雖然我謹防著享有殘忍獻祭聲譽的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「你還有其他關於雙榆城的問題嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「任何部落的首領都能給你進入城市的許可。今天只有魂君蓓素爾在六君通道，她自己也煩著呢。」他扭頭看著街區中間的長棚屋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「榆樹之蔭也是德魯伊們守護勇士大廳的地方。金叢榆賢者和染血沙地的自然倫理。很多人對自然倫理的殘忍獻祭不寒而慄，但大榆賢者艾蓉娜有獨特的強大之處。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「這座城市在所有格蘭法斯人眼裡是神聖的，因為這裡是先祖第一次遇見築者的地方。這次命中注定的見面使世代的流浪者在築者的遺跡之間有了一個永久的家園。
+
+「當築者要求我們在這定居時，他們提供了住在他們建築之間的獨特權利。這是艾爾·格蘭法斯唯一允許如此的地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「你最好別長期逗留。據說暴動已經結束，反抗灣的大門又一次開啟了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

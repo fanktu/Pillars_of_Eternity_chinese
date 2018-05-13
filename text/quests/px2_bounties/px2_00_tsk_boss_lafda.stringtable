@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px2_bounties\px2_00_tsk_boss_lafda</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：拉芙達</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺了拉芙達並帶回她的頭顱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>將拉芙達的頭帶給堅忍村的阿莎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在冒充昂德拉的牧師後，拉芙達和她的盜賊團伙逃離了堅忍村的村子。村民在懸賞拉芙達的頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>拉芙達和她的盜賊團伙已經流竄至白際山。他們在昂德拉福地被發現，也許在搜尋離開鹿林的道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我已經打敗拉芙達和她的盜賊團伙。阿莎，在堅忍村的村子裡，將會很高興看到事實的證明的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我將拉芙達的頭帶給了堅忍村的阿莎，她很感激我讓這些小偷接受了正義的制裁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

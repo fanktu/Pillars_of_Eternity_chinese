@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_cv_teanlecg_dice_game</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>26</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「是的，這裡。放下錢幣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[付50銅幣]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]「事實上，我改變主意了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「由於你是新手，我讓你先來。」提安雷傑笑著說。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[投骰子]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你投骰子……
+
+[DozensGame_LastPlayerRollNums]
+
+[DozensGame_LastPlayerRollDesc]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你投骰子……
+
+[DozensGame_LastPlayerRollNums]
+
+[DozensGame_LastPlayerRollDesc]！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「到你了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​提安雷傑投骰子……
+
+[DozensGame_LastOpponentRollNums]
+
+[DozensGame_LastOpponentRollDesc]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​提安雷傑投骰子……
+
+[DozensGame_LastOpponentRollNums]
+
+[DozensGame_LastOpponentRollDesc]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「該死！到你了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「哈。我的[DozensGame_OpponentFinalDesc]戰勝了你的[DozensGame_PlayerFinalDesc]。看上去我贏了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「看來我們打平了。再來一遍。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「真的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「就是這樣，現在……你先來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「即使這種情況……那麼，繼續吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​提安雷傑探出身子去拿骰子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[離開]「我放棄。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​提安雷傑聳聳肩，笑了笑。
+
+「可恥。如果你冷了就回來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「我的錢幣都沒了。」
+
+提安雷傑拉長了臉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「我應該知道的——你看上去就是個幸運的傢伙。繼續吧，到別處去賺錢。」</DefaultText>
+			<FemaleText>​「我應該知道的——你看上去就是個幸運的傢伙。繼續吧，到別處去賺錢。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​提安雷傑發著牢騷，拿起了自己的骰子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「這一局是我贏了！別太難過，朋友。你總是能再次嘗試的。」
+
+提安雷傑伸出手去拿走自己贏得的錢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「啊。唔，如果你回來了，我會在這裡等你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「哈！幹得不錯。這一局是你贏了。獎勵也是（你的了）。給你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「別太得意。我下次會打敗你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

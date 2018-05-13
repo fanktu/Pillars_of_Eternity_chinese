@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_bs_gv_inn_server</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「我只負責送菜。你應該同櫃檯那邊的帕莎談談。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「我可不允許你取代我。我不斷的努力才有了這份工作。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「抱歉，先生。現在沒空。」</DefaultText>
+			<FemaleText>​「抱歉，女士。現在沒空。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「必須在這裡爭執、鬥毆嗎？我可是得清理的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「你剛來這鎮子？像你這樣的人似乎還不錯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

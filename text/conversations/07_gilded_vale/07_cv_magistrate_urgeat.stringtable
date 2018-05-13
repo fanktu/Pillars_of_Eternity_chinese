@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_cv_magistrate_urgeat</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>90</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​有人朝你走來，他的皮膚就像他身後的村莊一樣，缺乏生機而灰暗。
+
+他下凹的、毫無生氣的雙眼打量著你。「你一定是新來的定居者吧。」他的聲音乾巴、嘶啞。「歡迎來到鍍金谷。
+
+「你會很高興知道，我們最近剛好有一些空缺正等人填補。」他看了看身邊的扭曲而沒有葉子的那棵樹。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「我還在等著拉德裡克子嗣的降生。在那事完了之後，我才能處理你的問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​厄傑特皺著眉。「我還是沒辦法幫你在這找到居住地。拉德裡克的兒子是個空嬰。這事使得情況變得更加糟糕。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「對於誒歐瑟斯神殿裡參拜者這事，沃爾坦說謊了。我在裡面找到了他們的屍骨。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​治安官厄傑特輕蔑地看了你一眼。「這就意味著，你自己去過那神殿了。」他用細長的手指抓了抓下巴。「情況並不理想，但現在知道了，總比在它被改成貝拉斯的神殿之後才知道要好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「然而，不能饒過沃爾坦。他的欺瞞鬧出了人命，而且還會摧毀拉德裡克領主所做的努力。必須處置他。」他轉身對著那樹。
+
+「謝謝你的幫助。這是我的小小心意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「他已經被處置了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「然而，不能饒過沃爾坦。他的欺瞞鬧出了人命，而且還會摧毀拉德裡克領主所做的努力。必須處置他。」他轉身對著那樹。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「你為我們省了大麻煩。我們對此表示感激，請務必收下。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「陌生人，我警告你。在鍍金谷，我們對於那些異端、騙子和包庇者有著特殊的招待地方。」他走到一旁，而頭更進一步地側向那棵變形的樹。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​他的目光又回到你身上。「當然，我們首先得做些詢問。為了使我們這城鎮免受懷德溫的遺贈的影響，無比尊貴的拉德裡克七世領主已經費盡心思了。」
+
+他透過半月形的眼鏡打量著你，抓了抓下巴。「你生下過空嬰嗎？」</DefaultText>
+			<FemaleText>​他的目光又回到你身上。「當然，我們首先得做些詢問。為了使我們這城鎮免於懷德溫的遺贈的影響，無比尊貴的拉德裡克七世領主已經費盡心思了。」
+
+他透過半月形的眼鏡打量著你，抓了抓下巴。「你生下過空嬰嗎？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你在說些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「那是個相當隱私的問題……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「管好你自己的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「不。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[拒絕回答]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「然而也是個重要的問題。
+
+「從我們村莊消除這場天災，這事已被拉德裡克領主視為是重中之重。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「爵爺的妻子懷有身孕，隨時都可能出生。沒有他的允許，我沒法幫你找到永久居所。這事得等到孩子出生之後。」他叉著手。「在拉德裡克的要塞鐘聲響起、示意孩子出生之後，我們再繼續面談吧。
+
+「在這期間，你可以暫時住在西南側的旅店。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​厄傑特瞪眼看著你。「你！是你替那愚蠢叛徒殺了拉德裡克領主。」他吸了口氣。「你肯定能理解吧，我現在完全管不了你的居住請求了……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「如果還有其他問題，儘管問吧。讓鍍金谷的所有人都瞭解我們的規矩，是很重要的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​他瞇著雙眼。「你……百分百確定嗎？
+
+「從我們村莊消除這場天災，被拉德裡克領主視為是重中之重。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「當然是指沒有靈魂的新生兒。從我們村莊消除這場天災，被拉德裡克領主視為是重中之重。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​他挺了挺胸。「這村莊的安康是我的工作。如果你想在我們中間生活的話，你最好習慣這個想法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「那樣的粗魯態度在鍍金谷可行不通。從我們村莊消除這場天災，被拉德裡克領主視為是重中之重。對他來說，沒有回答就相當於是默認供罪。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「跟我說說拉德裡克領主。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「你之前提到了『空嬰』和『懷德溫的遺贈』……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「在我到這之前，我看到廢墟處有人在舉行奇怪的儀式。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「我想進一步瞭解鍍金谷。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「他是自鹿眾時期就守護著這些土地的貴族的後裔。在革命期間，拉德裡克二世是鹿林獨立的早期支持者。而當下這位領主的父親，則在聖人戰爭中亡故了。
+
+「在戰爭結束後不久，鹿林就開始出現了空嬰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「聖人戰爭？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「我明白了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「拉德裡克領主的法令有時可能很嚴格，但他也為我們考慮。」他點了點頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「在我們這一年代裡，最為惡名昭彰的狂人的例子。十五年前，雷亞德賽熱斯的人們認定，他們的活的聖人，懷德溫，是神明誒歐瑟斯的化身。」厄傑特皺了皺緊縮的鼻子。
+
+「這所謂的聖人自認為肩負著解放鹿林的責任，（把人們）從對其他不合格的諸神的效忠下解放出來。但就我所知，從來沒有哪支軍隊是為了當地百姓的利益而去征服那片土地的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「那戰爭持續了一年，而你能猜到，那一年對在鹿林的誒歐瑟斯崇拜有著什麼影響。拉德裡克領主的祖先一直是誒歐瑟斯人（信徒），但在他的父親為保護我們免受狂信者傷害而死亡之後，他親自確保關閉了鎮裡的誒歐瑟斯神殿。」他指著樹旁的廢墟牆壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​他搖了搖頭。「沒反應但會喘氣的可憐東西——勉強活著，但不算真正活著。有人說空嬰是種病。有人說那是神明的懲罰。」
+
+他舉著空空的雙手。「事實上，沒人知道。但在『聖人戰爭』之後，空嬰就開始蔓延，於是『懷德溫的遺贈』這個名稱就流傳起來，紀念那個褻瀆的、污穢的冒牌者。」他的聲音由於諷刺而顫抖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「我們是位於邊境的村莊，鹿林的許多定居點也是一樣。自從殖民時代它被建立後，鍍金谷就沒發展多少。而在最近的15年裡，我們的人口進一步減少了。」他看著衰敗的屋子和殘破的柵欄。
+
+「因此我們在招募新的定居者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「鍍金谷的人口為什麼在減少？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「那邊的樹……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「關於鍍金谷就談那麼多。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「當然是因為懷德溫的遺贈。許多女人最近都很難生出健康的孩子。在幾年以前，拉德裡克領主下令，在鍍金谷不允許存在空嬰的母親。」他的嘴收緊成一條線。「爵爺很迅速地處理了反對者們。
+
+「也許很殘酷，但是如果它能清除我們的詛咒，難道不值得嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「拉德裡克領主主動承擔起清除鍍金谷詛咒的責任。他的手段很嚴格但是很有必要。
+
+「由於他的妻子懷孕了，他特別小心注意不讓受到詛咒的人進入村莊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「拉德裡克領主主動承擔起清除鍍金谷詛咒的責任。他的手段很嚴格但是很有必要。
+
+「不幸的是，這可能還不夠，如果那些鐘聲算是一種表示的話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​厄傑特甚至不看他的肩膀。「是的。並不是所有人都接受了保護村莊的必要方法。自從拉德裡克領主流放了空嬰母親，一些人開始拿起武器反對他。
+
+「而當他尋找對策的時候，他被騙子和投機者所困擾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「我們請靈能師、法師和靈魂學者到城裡來，他們拿著大人的錢，承諾會結束詛咒。最終，拉德裡克領主決定對這些從我們悲劇中獲利的人殺雞儆猴。」
+
+他指著一個矮人女人的身體。「最近的是一個來自維利亞共和國的靈魂學者，她聲稱知道我們都沒見過的一些技術。
+
+「而到現在，我們已經見過一切了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​他仔細打量著你。「你可要小心在哪兒提起它。入侵英格維斯廢墟是非法的，更不用說很危險。
+
+「你可能看到了有人在嘗試某種新的儀式來安撫神明。這些日子裡，人們會嘗試一切。貝拉斯是仁慈的，我們也如此。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「或許是吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「我不這麼認為。正當他們完成的時候，出現了噬魂風暴。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「隨著你的探索，你會越來越瞭解這個鎮子，我敢保證。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「就像我說的，最好離那些地方遠點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​他用袖子擦乾淨眼鏡。「如果你曾經那麼靠近噬魂風暴，你就不會站在這裡了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​「跟我說說這棵樹後面的廢墟。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​「那是誒歐瑟斯神殿剩下的部分。」他的嘴唇撅起。「在聖人戰爭之後，拉德裡克領主禁止了對已死之神的崇拜。這已經被遺棄了幾乎15年之久，但是有計劃將它奉獻給貝拉斯，生命和死亡之神。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​「自從從噬魂風暴死裡逃生後，我一直覺得很奇怪。鎮子裡有誰能幫忙嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​治安官皺起眉頭。「不清楚你有……什麼問題，但這聽起來像是靈魂學者的事。但是，鍍金谷唯一的靈魂學者已經不能說話了。」他指著掛在樹上的屍體。
+
+他嘲笑道。「你應該感到幸運。在她辜負了拉德裡克領主之後，我們確保她無法再靠欺騙別人來得到好處了。一個錯誤的對策往往還不如沒有對策。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「但是如果你想找到魁怪的一瓶尿液或者死掉的魂珀的石子擦拭你的額頭，歡迎檢查她的口袋。當你在挖屎的時候，一點點屍臭就算不上什麼了。
+
+「不過，我的建議是，為你逃過一劫感到滿足吧，並且別再多想了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​「我要報告一起謀殺案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​治安官挑起了眉毛。「正如你的義務。發生什麼事了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​「一個叫儂頓的男人殺死了他的朋友，珀利，就在野外。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「我看見了受害者的最後一刻。我目睹了罪行發生。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「的確是一種殘忍而懦弱的行為……如果這真的發生過的話。你有什麼證據嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​「親眼所見？」厄傑特歎氣。「在這一帶我們不接受如此輕率的指控。下次你想開這種玩笑的話，我建議你考慮下風險。」他直直地看著這棵樹。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「我會找到證據的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​厄傑特慢慢地點點頭。「這些指控很嚴重啊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​艾洛斯冷哼一聲。「確實。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​「『被遺棄』，是因為某個好領主決定推倒它，因為他害怕它的神，哪怕在其死了之後。
+
+「但是貝拉斯是個不錯的選擇，我喜歡。貝拉斯相信輪迴。我樂意認為神殿發生的一切在某一天也會得到償還。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​厄傑特慢慢地點點頭。「別靠近——」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​厄傑特看向東方，他的表情讓人讀不透。他慢慢地眨眨眼，將注意力放回你身上。「看來你來的不是時候。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​「三下鐘聲響起，只能表示，一位拉德裡克（家族成員）死了。恐怕拉德裡克的繼承人沒了——或者是個空嬰，而那也一樣算是沒了。」
+
+他的臉上出現了特殊的痙攣，嘴角也奇怪地出現苦笑。「你應該小心地走動。局勢已經發生了很大的變化。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​「發生了什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​「這會影響大人給新移民的政策嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​他聳聳瘦骨嶙峋的肩。「等信使們到來的時候，我就會知道更多細節了。也許是分娩出了什麼岔子吧。但這跟你無關。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​「你什麼意思？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​「你來到這裡時，恰好是我們哀悼的時刻。遺贈已經牢牢紮在了鍍金谷的心臟上。在貝拉斯的注視下，我們救贖自己所需要的努力必須再次加倍了。」他對你投來堅定的目光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​「不要威脅我，小傢伙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>​他冷漠地搖了搖頭。「這不是威脅。只是警告。拉德裡克不會容忍任何人威脅他的家族，或者生活在他土地上的人。悲傷可不會使他變得溫順。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​「現在我不能確定任何事。我建議你休息一下——旅店……或者馬廄，我才不管呢。之後來找我。我很快就會知道更多的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​「我收到了證實，拉德裡克領主的後代沒有……順利出生。
+
+「我的大人頒布了對所有新居民的禁令，直到他確定清除了村莊裡的誒歐瑟斯人或者其他任何帶來詛咒的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​「如果你能盡快離開鎮子那是最好的了。我建議你回到你的老家。這裡沒有屬於你地方。
+
+「你可以待在旅店直到你能做出必要的安排。但我不建議待太久。我希望拉德裡克領主能盡最大努力淨化這個地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​「太荒唐了！我遠道而來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>​「那麼你繼續前進也應該沒有問題咯。
+
+「相信我，當拉德裡克領主的人從要塞裡派遣出來，你們最好別留在這裡。他們會尋找是誰可能給我們帶來了遺贈——誰的出現可能污染了他妻子的子宮。他們會消滅所有的可能性。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>​「拉德裡克領主主動承擔起清除鍍金谷詛咒的責任。他的手段很嚴格但是很有必要。
+
+「不幸的是，這似乎不足以保護他的後代。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​「你們這樣歡迎人嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>​「我已經感覺在家一樣了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>​「你們瘋了嗎？怪不得這地方看起來空了一半。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>​你聽到的唯一的答案只是樹上蒼蠅的嗡嗡聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​「我也許會重新考慮你的大人所提供的待遇……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>​「胡說。對這些尊敬大人法令的人來說，鍍金谷是個非常合適的村莊。除此之外……」他打量著你。「如今你在鹿林不會找到找到更好待遇的地方了。而你看來好像需要一次重新開始。」
+
+他四處看著這個鎮子，他的臉上是裝模作樣的莊重的滿足感。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>​他眨著眼睛。「我忘記了你們外國人在家鄉沒有這樣的詛咒。空嬰在鹿林出現差不多有15年了。」他壓低聲音小聲說著。「出生的孩子們沒有靈魂。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

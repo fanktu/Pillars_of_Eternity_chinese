@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_doemenel_thug</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一群目光不善的暴徒向你靠了過來。挺奇怪的，考慮到你現在的位置前不著村後不著店。
+
+「蓋德馬·鐸門耐爾表示問候，」其中一個人說道。「並且向你的家人表示哀悼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「哀悼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「真奇怪。我還想對你們的家人說同樣的話呢。」[攻擊]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​這群人的頭目抽出一把刀，那刀因為過度使用而已經黯淡缺口了。
+
+「鐸門耐爾如果想跟你做筆交易，你就得接受。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_bs_ambient_battery_complete</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「告訴你了白皚鍛爐就在那裡！現在，你欠我——」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「噓，看！那就是找到它的那個人！」</DefaultText>
+			<FemaleText>​「噓，看！那就是找到它的那個人！」</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>

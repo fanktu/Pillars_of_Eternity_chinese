@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_stormcaller</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你拿著弓箭的時候，它震動著，發出一陣奇怪而又熟悉的能量。你在包裡找到了一支銀箭，這是你從一隻受傷的狼身上找到的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你把弓和箭合在一起的時候，箭突然對齊到相應位置。你聽到卡擦一聲，弓的末尾出現一束白色的光。
+
+你把箭拉回來的時候，感受到了十分強烈的阻力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你拿著箭的時候，它震動著，發出一陣奇怪而又熟悉的能量。你在包裡找到了一支弓，是在矮人軍械所附近的塔樓中發現的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

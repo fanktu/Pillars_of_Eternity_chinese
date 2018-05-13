@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_05_wildernesses\px2_05_cv_eyeless_vision_fort</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​在最後一個捏塑怪倒下後，精魂的浪潮席捲了太虛。
+
+這片浪潮也將你吞沒，你因此進入了無目者的記憶中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​這些大塊頭生物包圍著你，在昏暗中，它們肌腱外包的骨架發出疙瘩響和嘎吱聲。他們金屬般的體味和麝香的汗臭瀰漫在空氣中。
+
+你所矗立的洞穴——反正，它看起來很像是洞穴——閃耀著一種黯淡的環境光。金屬的閃光隨著無目者而移動和攪動。它們剁著腳，發出刺耳的吼叫，如金屬一般的聲音。它們不安寧的能量刺痛著你的頸後。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你不由地想知道你的周圍到底有多少無目者。你猜測可能有幾十個……或許更多。這個大廳深不見底，也不知其位於何處。
+
+你在前方看到了一縷光線。那裡可能就是出口。
+
+不過，這幻景已經開始消退。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[繼續向大廳深處探索]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[調查那處光芒]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你在無目者中穿行，朝著那逐漸消退的幻景移動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​你在無目者中穿行，朝著那逐漸消退的幻景移動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​那個光芒在黑暗的山洞中顯得極為耀眼。你向它衝去，不過它隨即消失，只在你的眼中留下了一片盲區。
+
+你無法確定身在何處，但你能感到一陣陰風從缺口中吹過，你的臉頰上感到了一股濕氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你面前的洞穴變得寬敞起來。洞穴之中到處都是無目者所發出的碰撞聲的回音。你爬上一塊凸起的發光水晶，並環顧那些笨重的生物。
+
+這裡何止有幾十個。這裡有幾百個。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​幻景結束了，你又回到了那冰冷而血腥的城堡之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​在迴盪的隆隆聲中，你聽到了一個熟悉的聲音。
+
+這就是你夢中聽到的那個打擊聲。毀滅之軍的先驅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_cv_sparfel</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​作為嚮導之一的斯帕費爾從樹林裡走了出來，昏暗的月光下他的身影異常模糊。他不再拿著自己的弓，氣喘吁吁地朝你走過來，他蹣跚的步伐略微有些怪異。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​卡莉莎皺了皺眉。「斯帕費爾？你沒事吧？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​斯帕費爾的腳趾撞到一塊岩石，然後他向前癱倒在地，一支箭的羽毛箭桿像敵軍的旗幟一樣，插在他的肩膀上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你蹲伏在河岸邊，將你的水袋浸在冷水中的同時卡莉莎在附近等待，保持警戒。當你起身時，你注意到她的銳利目光聚集在樹林處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你蹲伏在河岸邊，並將你的水袋浸在冷水中。當你起身時，你的眼角餘光注意到樹林處有人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\14_burial_isle\14_cv_wael</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>50</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​洞穴裡的陰影突然變長，吞噬了你。當你的眼睛適應了黑暗，你發現你自己正在另一個幻景的中心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「是不是……？一定是了！」希拉維亞斯高興地驚叫著。「瓦爾！」他尖聲說，「但是我從來沒想到他會親自現身！」
+
+希拉維亞斯的臉激動得發紅，他完好的那隻眼睛裡充滿著快樂。「真是難以置信！就連他的形態也都是瞬息萬變、不可知曉……太神奇了……」他的下巴大張，然後他說的話變成了含糊不清的、低聲的胡言亂語。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「莫非是它？我從沒想到我能夠……親眼看到！」隨著希拉維亞斯仔細查看這變化不定的存在，他臉色變得刷白。
+
+「哪怕你當面看著瓦爾，你也無法確定。」他對著那人低下了頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「似乎是，全視而不可見之神……只救贖他所選中之人。」卡納用警覺而又入迷地打量著那人。「時不時地，我以為我的頭號大敵是這位神秘之神，但是……如果連問題都沒有的話，我們就無法尋求答案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​那人從男性變成了女性，從羽精變成了海裔，它的骨骼伸長，它的毛皮縮回了它的血肉中。唯一沒有變化的細節就是它那張光滑的、沒有眼睛的臉。
+
+一些嗖嗖飛過的東西從迷霧中出現，環繞著那人，等到它們形成一朵旋雲，你才意識到，那些東西是眼睛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「既然要打一場更光榮的戰鬥，那就需要更強大的獵物。獵人佩戴著鹿角製品和一串尖牙做成的項鏈，這些是用來紀念自己捕獲到這些野獸的記憶：追蹤獵物，穿越荒野，最後將其捕獲。」
+
+瓦爾把雙手疊在一起，用羽精滿是尖牙的嘴巴對著你笑。「即使是諸神，也需要新鮮的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「不過，新降的雪覆蓋足跡，而海浪沖刷沙灘上的腳印並改變地形。這是全新的旅途和未知的探索。」
+
+瓦爾把雙手疊在一起，用羽精滿是尖牙的嘴巴對著你笑。「即使是諸神，也需要新鮮的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「一首這個世界所熟知並且厭倦了的歌。一段被不斷重複的旋律。倒不如改成臨時興起的韻律、逐漸展開的詠唱。聽眾們會專注地坐著，而正當他們以為自己把握了曲調的時候，它又會改變。」
+
+瓦爾把雙手疊在一起，用羽精滿是尖牙的嘴巴對著你笑。「即使是諸神，也需要新鮮的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「活過了無數的歲月，每個古老的存在都對新生者漠不關心。重要的永遠不是那最後一次不甘心嚥氣的終結，而是通往它的那麼多時光。」
+
+瓦爾把雙手疊在一起，用羽精滿是尖牙的嘴巴對著你笑。「即使是諸神，也需要新鮮的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「但是那些靈魂會怎麼樣呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​那些雲破裂了，接著大雨將瓦爾的容貌洗刷得乾乾淨淨。他那空白的臉再次變成了某種你從未見過的東西的外形。
+
+「不要把靈魂們的命運拱手讓給某個神來選擇。你已經找到了它們——現在把它們撒播到萬物的存在中吧；讓它們的歸宿，不管是神還是凡人，都無從得知。就讓它們再次迷失吧。新的謎題，新的答案。」
+
+在他身後，突然降臨的大雨在峽谷中沖刷出了幾個新的山洞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「再會吧，瓦爾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「你說我不應該讓神來決定它們的命運，但是現在你卻好像在要求我那麼做。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「算是吧。但是總有些事情是必須要做的，而把它們從其他陰謀的操控中拋出來，是最真誠而恰當的作為。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​那不斷變幻的臉笑了。「那個詞是用來表示結局的，而這只不過是一個十字路口。即使是我，也不知道你會選擇什麼。」新山洞中的陰影融化了，擴散到整個場景，把你覆蓋在黑暗之中。
+
+等到光再一次出現時，幻景消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你解開了一個謎題，通魂者。一個你曾經失去，然後又在數代人的人生中（重新）發現的謎題。而跟隨著它到其終點，只會把你帶回到起點。」
+
+那些眼睛，在環繞著神的同時，保持注視著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「你在說些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「有話直說。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「又一個讓我猜謎語的神。太好了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​瓦爾笑了笑，它從一個形態變幻到另一個形態，一陣奇怪聲音的隨之而升降調子。「在你的敵人隱匿起來的時候，你在尋找、在搜索……而你對你過去的答案的探索，只不過是把你引向另一個謎題，然後又一個更龐大的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​瓦爾笑了笑，它從一個形態變幻到另一個形態，一陣奇怪聲音的隨之而升降調子。「從你幾乎就要實現的目的中，卻要抽出其意義？你對你過去的答案的探索，已經把你引向另一個謎題，然後又一個更龐大的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「那意味著你必須驅散她所尋求之物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「我是來阻止媉蒂卡對力量平衡的改變的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「我現在的目標是處理那些被賽奧斯困住的靈魂。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「這些謎題對我一點也不重要。我只想保住我自己靈魂的不會被『解開』。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​從精靈變成（狹義的）人類，瓦爾向那一大群眼睛伸出了正在變黑的雙手。「一個由靈魂組成的星雲，盲目而又充滿可能性。媉蒂卡的問題的答案和你的問題的開始——你要對它們做什麼呢？」
+
+雷雲在頭頂形成，投下覆蓋整個峽谷的運動著的陰影。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「貝拉斯想要它們回到輪迴。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「根據海蕾婭的說法，可以把它們重新復原進空嬰體內。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「我從伽拉宛、瑪格嵐、還有艾比頓得知，我可以用它們來強化鹿林裡的其他靈魂。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「銳末干德、昂德拉、還有斯卡恩會讓我分解它們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「我估計你也有什麼想法吧……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「是的，但是你要對它們做什麼呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「然而雖然你已經找到了這個目標，你的敵人追尋的卻是另一個目標。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「問題的形式已經為追尋者準備好了答案，通魂者。這一邊，你在尋求修理你的過去，而另一邊，媉蒂卡則在尋求恢復（力量以贏得）她的未來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「沒有人知道。它們可能流落在神或凡人的國度中的任何地方，或完整、或分割。再次發現它們，並繪製出它們穿越太虛的路線軌跡，會是一個新的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​瓦爾笑了笑，它從一個形態變幻到另一個形態，一陣奇怪聲音的隨之而升降調子。「你對你過去的答案的探索，已經把你引向另一個謎題，然後又一個更龐大的謎題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「我以前到過這裡嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「那又會服務於什麼目的呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「沒有目的，通魂者！而那就是目的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​你被迷霧所包圍。你腳下的地面感覺變得有彈性起來——你想像到，一旦你走出一步，你身後的土地就會完全抹去你走過的足跡。
+
+彷彿在暗示著什麼，你前面的迷霧正好散開了足夠的距離，讓你可以往前走幾步。你於是這樣做了，而迷霧在你身後合攏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​你按照這個模式，一步一步地，往前走了幾分鐘，沒有看到除了地面以外的任何東西。終於，光線穿過了陰霾，你發現你自己面對著一個峽谷的牆壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​葩萊吉娜的頭猛烈地扭向一邊，她的眼睛發現了一些很難發現的威脅。她把她的手放到她臉上羽毛被剪短的那一邊。一些羽毛從空中飄落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​艾迭爾的腦袋突然一動，好像有什麼東西從他的面前飛過。
+
+「那是什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​杜蘭斯的腦袋動了動，好像有一隻蚊子飛進了他的耳朵一樣。他用他的法杖隨意地在空中揮舞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​有什麼東西從你面前飛過。就當你轉身，你又發現了一些動靜。在迷霧外面有什麼飛過，小小的圓圓的。你認為你又看到了一個。又一個。它們在你的視野中若隱若現，讓人心裡癢癢的。
+
+你轉過身，面朝峽谷的牆壁。陽光沿著峽谷空隙照射下來，而乍一看像是岩石人臉的東西其實是山洞的洞口。一個人走了出來，其容貌在你的眼前不斷變幻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「你能夠理解謎題的價值，通魂者。一卷被掩埋的卷軸、一個被隱藏的真相。這些就是我的『道』。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「你棲息在答案和問題之間的那一小塊狹小的空間中，擁抱著沒有答案的謎題。你單純地要求得到問題（本身）的榮耀。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「你的過去就是個謎。你把它深深地埋藏起來，並用每一條新的路線（人生、輩子）重新發明你自己。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「你是一個矛盾的生物。殘忍和善良，理性和狂熱，輪流交替。你的本性被力量和念頭所圍攻，沒有人可以預見會發生什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「你的指尖探索著真相所編織的布。你生來就是為了揭曉答案，然而你所過之處留下的那些問題，會比你的那些發現都還要長久。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

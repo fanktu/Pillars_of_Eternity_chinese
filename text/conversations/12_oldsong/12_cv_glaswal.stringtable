@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_glaswal</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>58</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​當你靠近平台時，溫度驟然下降了。似乎有什麼吸取了空氣中全部熱量，使你吸入的每一口空氣都冰冷徹骨。
+
+你看到一條堅冰覆蓋的門庭。在它前面是一個精靈的身影，他的雙臂大張著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​格拉斯瓦爾衝向霜辟缺口，被凍結的堅冰激怒了。「不！你都做了什麼？」
+
+他轉向你，咆哮聲從他白色的雙唇中發出。「我們要讓你為此吃苦頭，[Player Race]。即使死亡也無法阻止我們這樣做。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「願你的神賜予你平安。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「願你的神賜予你平安。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「銳末干德派我來關閉霜辟缺口。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「白茫虛空？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[攻擊]「不想死的話你最好離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​他睜大了紅色的眼睛。「再把我們困在這裡上百個輪迴嗎？」
+
+他搖搖頭，目光又充滿了倦怠。「我們不能再這樣下去了。我們要找到進入白茫虛空的辦法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[把發光的冰晶給他]「我有件東西，也許它能幫你穿過裂口。如果你放了阿爾娃，這件東西就是你的了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[把發光的冰晶給他]「銳末干德給我這塊冰晶關閉裂口。也許你能用它穿過裂口。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​他掃了眼堅冰覆蓋的門庭。「霜辟缺口是我們和白茫虛空之間屏障上的薄弱點。就像凍結的湖面上最薄的地方。
+
+「我們從白茫極地來就是為了找到它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「你要打開裂口嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「那樣我們就可以安心死去了。永遠。我們已經經歷過比凡人多的多的輪迴了。」
+
+他搖搖頭。「從最早轉生起我們就一直是銳末干德的忠實信徒。他是死亡之神。但既然是死亡之神，為什麼要強迫我們一次次重生呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「跟我談談有關你們的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我們稱自己為格蘭費倫。這裡人都叫我們蒼精靈。我們來自白茫極地，那裡是誒歐拉最南邊的一塊冰河大陸。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「你不能對抗神的意志。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[攻擊]「好吧。你想找死麼？這事兒我能幫你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「我們對她沒有惡意。一旦我們離開這個地方，會放她走的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​他露出笑容，但眼裡並沒有笑意。「你覺得因為銳末干德在夢裡跟你說過話，所以你就能來這裡告訴我們他的意志嗎？從神殿建立起，我們就已經跟從他——並為他受苦了。現在，我們正在爭取他答應過的最終解脫。別跟我長篇大論地談我對神的責任。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「如果銳末干德希望你的靈魂能進入白茫虛空，那他又為何這樣做？我不想裝著懂他的意志，你最好也不要。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​蒼精靈轉過臉來看著你，優雅的面孔上寫滿了倦怠。他用掌根擦了擦紅色的眼，你發現他的小指皺縮成了黑黑的一段殘根。
+
+「天啊，我很難集中注意力。」他歎了口氣。「你不該來這裡，旅行者。如果我氏族的其他人發現你鬼鬼祟祟的，就不會像我這樣仁慈了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​莎加妮點點頭。「他們是遊牧民族。吃苦耐勞的人。一些遊牧部落偶爾會在納西塔克南部度過幾個月。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「幾個月前，我們在自己的土地上接待了一個通魂者，付錢請她說出我們靈魂的起源。我們想深入瞭解自己的精魂，並考慮在時日已盡後，銳末干德將如何分解和散播我們。」
+
+他低下了頭，毫無血色的雙唇閉緊了。「而我們所瞭解到的，超出了我們的心理準備。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「我們島上的兄弟部落經常和蒼精靈做交易。他們在那些冰的荒地上已經居住了一萬二千年了。我想他們一定已安於現狀不思改變了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「我想那個通魂者也很意外。她解釋說這麼多世紀以來，我們中的每個人都反覆重新轉生回氏族。一代代地重生，每一代開始都跟我們剛來到白茫極地時一個樣。我們都和我們的神所許諾的恩惠無緣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「我們寧可死。我們要求銳末干德將我們的靈魂播撒到太虛中，這樣，也許有些靈魂能到白茫虛空裡去。」
+
+他看著自己的雙手，還有那根被凍壞的指頭。「我法力不夠，還不能找到穿過霜辟缺口的方法，但肯定是有辦法的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​艾洛斯閉緊了薄薄的、毫無血色的雙唇。他的眼中閃過一絲憂鬱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「他怎能認定這些生命是無價值的呢？」希拉維亞斯在你身後大聲說出他所想的。
+
+「也可能銳末干德已經做出了回答，只是他們當局者迷而已。我想當人專注於等待回答時，需要有頓悟。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​格拉斯瓦爾走向那條冰封的路，讓寒流席捲過全身。「如果能穿越霜辟缺口，就能直接進入到白茫虛空。這種死亡，對我們拖欠已久。我們所需要的就是找到穿過裂口的方法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​希拉維亞斯莊重地看著格拉斯瓦爾，然後又轉眼看著你。「那狂怒的聲音聽起來非常熟悉——為什麼探求者之神會僅僅因為問了一個問題而懲罰我？
+
+「不過……我希望能給他平和，就像瓦爾給我的那樣。神的行為方式對我們來說是無法理解的——說他們有動機那是用人類的行為方式揣測他們。對待他們最好是接受並前進而不是徒勞地悲歎，困在一個地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「這兒發生什麼了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「那麼，我要走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「我們在向銳末干德祈禱。這是我們唯一的辦法了。」他轉向凍結的拱門。「請吧。我必須集中注意力。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​格拉斯瓦爾雙手捧著晶體，他的臉被冷冷的光照亮了。「來自寒冬之獸本人的信物。」
+
+他雙手握住了凍結的水晶。「你給了我們幾個世紀以來求之不得的禮物。謝謝你。」
+
+他召集來其餘的蒼精靈，他們聚集在霜辟缺口之前。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「我們願意再經歷上百個輪迴的勞苦嗎？就為了一個甚至沒打算給我們任何解釋的神？」
+
+他長長地歎了口氣，氣氛陰沉下來。「這麼多世代以來，我們一直忠誠於銳末干德，現在我們依然如此，我們仍在尋求他的仁慈。對那些不朽者來說，這些世代不過是一眨眼的事，雖然對我們並非如此。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​他看著他的同胞那些憔悴、疲憊的面孔。「如果回到白茫極地是銳末干德的意志，那我們就回去。也許會有一天他將獎勵我們的忍耐。」
+
+他們轉身離去了，慢吞吞地穿過正午之霜那滑溜溜的大廳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​他用手捋了下整潔的鬍鬚，那節凍壞的黑色小指和他雪白的毛髮形成鮮明對比。「又一次了。我必須集中精神。請離開。安靜點，如果你不介意的話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「我們氏族長途跋涉才來到這裡，如果被其他人發現你的話，他們會對你不客氣的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「那個晚上，我們開始覺醒。回憶起了過去那些輪迴中的事——宿怨、死去的激情、纏結的記憶。我們驚覺不過是度過了上千次毫無意義的輪迴，從沒一絲會得到銳末干德救贖的跡象。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​「銳末干德的領域。那裡所有的東西都像暴風雪中的雪片一樣混雜在一起。它就像一個空前巨大的混沌漩渦，即使寒冬之獸本人也無法搞清楚那裡的無窮多的精魂粒子的運動軌跡。
+
+「靈魂在經過連續的重生之後將被分解掉，成為白茫虛空的一部分。那是一個萬物均能找到完美的統一和自由的地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「銳末干德，賜予我們道路吧……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​蒼精靈轉向你，優雅的面孔上寫滿了倦怠。他用掌根擦了擦紅色的眼，你發現他的小指皺縮成了黑黑的一段殘根。
+
+「天啊，集中注意力真是件難事。」他眨眨眼。「你……你不是我們中的一員。其他人發現你這樣鬼鬼祟祟的，才不會上你的當。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「放了俘虜，阿爾娃。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​格拉斯瓦爾用力扯了扯鬍鬚。「她會把尖牙帶來的。還不能放她走。在我們做完事之前不會放她走的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​「作為聖娥爾佳的持盾者，我曾起誓要避免衝突，而不是引發衝突。阿爾娃現在一定明白，殺了你也解決不了任何問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​「你得到友善旅團的幫助了吧，否則走不了這麼遠。報答他們吧，讓我來護送她到安全的地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「算了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「那就走吧。請。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​「她不像你我那樣有齊全的裝備，她會被凍死在這裡的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「相信我，只要她在這兒，他們肯定會來的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​蒼精靈目不轉睛地盯著你。「我明白你的意思。我將看著氏族的其他人送你——和那些格蘭法斯人安靜地離去。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​蒼精靈轉過臉來看著你，優雅的面孔上寫滿了倦怠。他用掌根擦了擦紅色的眼，你發現他的小指皺縮成了黑黑的一段殘根。
+
+他看著你周圍的血腥現場。「你都做了什麼？完全沒必要的屠殺，我……」他回頭看看冰牆。「請讓我完成我們來這兒要做的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​蒼精靈轉過臉來看著你，優雅的面孔上寫滿了倦怠。他用掌根擦了擦紅色的眼，你發現他的小指皺縮成了黑黑的一段殘根。「你在這裡做什麼？你不是……」
+
+他看著你周圍的血腥現場。「你都做了什麼？完全沒必要的屠殺，我……」他回頭看看冰牆。「請讓我完成我們來這兒要做的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​他睜大了紅色的眼睛。「你是有憐憫之心的人。你忍心看著我們被困在這裡再經受上百次的無意義的輪迴嗎？」
+
+他搖搖頭，目光又充滿了倦怠。「我們不能再這樣下去了。我們要找到進入白茫虛空的辦法。」</DefaultText>
+			<FemaleText>​他睜大了紅色的眼睛。「你是有憐憫之心的人。你忍心看著我們被困在這裡再經受上百次的無意義的輪迴嗎？」
+
+他搖搖頭，目光又充滿了倦怠。「我們不能再這樣下去了。我們要找到進入白茫虛空的辦法。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​他睜大了紅色的眼睛。「即使像你這樣無情的人，也不會忍心再把我們困在這裡經受上百個無意義的輪迴。」
+
+他搖搖頭，目光又充滿了倦怠。「我們不能再這樣下去了。我們要找到進入白茫虛空的辦法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​他睜大了紅色的眼睛。「再把我們困在這裡一百個輪迴嗎？即使像你這樣冷漠的人也能體會到這種無意義重複存在的極度痛苦。」
+
+他搖搖頭，目光又充滿了倦怠。「我們不能再這樣下去了。我們要找到進入白茫虛空的辦法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​他露出笑容，但眼裡並沒有笑意。「你覺得因為銳末干德在夢裡跟你說過話，所以你就能來這裡告訴我們他的意志嗎？或者用你優雅的言辭給予我們信心？從神殿建立起，我們就已經跟從他——並為他受苦了。現在，我們正在爭取他答應過的最終解脫。別跟我長篇大論地談我對神的責任。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​「在某種程度上，這種白茫虛空也是納爾帕茲卡所尋求的。但對我們來說，這是頭腦的一個階段。
+
+「這些精靈缺乏想像力。在遺忘中是無法找到自由的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

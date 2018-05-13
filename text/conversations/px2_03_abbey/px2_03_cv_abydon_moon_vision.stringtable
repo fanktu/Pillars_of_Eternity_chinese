@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_03_abbey\px2_03_cv_abydon_moon_vision</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>17</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你的觸摸讓金屬碎片發出橙色的光芒。你的手和胳膊溫度驟升，如此高溫裹著你，你感覺像要融化一樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​熱量散發向你周圍的世界，從橙色變成黃色，再變成白色。地面、天空、你身邊的所有一切，都熔成一團，在你身下開始成形，就好像在一個隱形的模具裡。
+
+你和這碎片是最後熔化的東西。熔池裡加入了你，完成了一個巨大錘子的形狀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​金屬很快冷卻，就像之前變熱一樣快。一雙戴著皮質手套的巨手握著把柄，將錘子向後掄，越過一個猶如山頂般寬闊而斑駁的肩膀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​使用者揮舞並舉起錘子，而你向上飛舞，在上方的沒有空氣的黑暗之中，彷彿過了幾個世紀。當你旋轉的時候，你瞄到一塊如月亮般巨大的石頭。它很近，離這個世界太近了……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​衝擊力將巨錘和石頭粉碎。石頭改變方向向外飛去，但是前端的一部分裂開開始掉落，裂縫處出現很多碎片。
+
+數十萬的碎片向所有方向射出，它們就像雨水充斥整個大氣，帶著濃煙和火光。
+
+在下方，陸地和海洋還很遙遠，但是在逐漸在升高。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[看陸地]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[看海洋]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​最大的碎片，長度如一座城市，像個火焰巨繭一般快速墜下。由於火，它在慢慢縮小，但是不會及時（在落地之前）燒盡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​它無聲地落在遠方的海洋裡，掀起滔天巨浪，散開的水波，就像布料起了褶子。
+
+然後，響起穿破雲霄的巨響。轟如雷鳴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​當你飛速落下的時候，地面越來越清晰。你在一塊巨石中，跟著其他更小些的碎片一起掉落，你四周全都是熱量和爆炸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​在你下方，銀裝素裹的山巒上升著，山上四處點綴著一座座由石頭和魂珀建成的城市。衝擊將會是毀滅性的打擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​已經可以看見你所在的石頭碎片所投下的影子，每一秒都在變大。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​當你離撞擊地面只剩片刻的時候，一個巨大的身形猛衝到你的路線上。
+
+最後你能聽到的，像是有一個隆隆巨響的衝擊聲，但是並非如此。那其實是一聲如釋重負、氣喘吁吁的輕笑。你聽到三個字：
+
+「做到了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​在一排排透明岩石中，有一個巨大的金屬碎片突出來。
+
+看起來似乎能撬鬆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[拉出金屬碎片]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​一切歸於黑暗。
+
+你睜開眼睛。你將金屬巨錘的碎片拔了出來，拿在手中。摸上去很溫暖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

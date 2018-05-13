@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_cv_bracelet</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>21</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你把手伸進木桶，發現一個手鐲。精魂的濃厚光暈緊緊包著它，記憶鮮活。
+
+你不由自主被吸引進去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​在記憶中，你來到了魚鋪。地面上打掃得很乾淨，但是木板上還是散發著濃濃的魚腥味。
+
+一位男子在角落中蹲著，腦袋下墜似乎是睡著了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​你走過去，他睜開迷糊的眼睛，抬頭看著你。啊，原來是格林戴。他一臉稚氣，但臉色蠟黃，而且頭髮凌亂。
+
+你對你兄弟的放蕩生活感到怒其不爭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「阿達。」他的聲音很微弱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「已經過了午夜。」你的喉嚨乾澀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​格林戴擦了擦鼻子，然後檢查手背上的血和粉末的凝結。他聳了聳肩。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你手指握緊一個的厚實的紡織物——那是你父親最珍貴的一件羊毛披風。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​他撿起披風，表情一點也不感到驚奇。
+
+他用布擦了擦鼻子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我會告訴他們。辛內休德村長、鄰居、所有的人。」你一字一句地說。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「告訴他們什麼？」他呢喃道，一邊吸著鼻涕。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「你不會的。」出乎你的意料，他穩當地站起了身子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我會。」你邊說邊走近他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​你倒下了，注視著他睜大的雙眼，接著旋轉著的天花板進入你的視野。
+
+這就是格林戴，總是不務正業、到處惹禍、自私自利。而你為了幫這個無可藥救的人卻要忍受一個星期的頭痛。不過在你的記憶中，他依然是你的寶貝弟弟，在雪地上跑來跑去跌倒又爬起，並且你在滑倒，而你身後卻有一張桌子。這桌子，不對，不是記憶的雪地裡——</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​記憶突然終止，你回到了現實，心臟砰砰直跳，手心全是冷汗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你偷錢！你以為我沒發現魚鋪總是丟失錢財？還有塔娜『丟失』的金爵幣？」你輕聲說道，害怕被其他人聽見，而你說的話火著你的喉嚨。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​格林戴看著你。「沒有，那不是……」他擦著通紅的雙眼。
+
+你的雙眼開始發熱並模糊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「堅忍村可以接受你的懶散，但卻不可能容忍你偷竊。」
+
+你觸摸著你的手鐲——這是你母親的禮物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「給我走。去雷亞德賽熱斯，或者反抗灣，或者他媽的艾爾·格蘭法斯，隨你的便。」
+
+你把它丟向地板上蜷縮著的忘恩負義者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​你怒髮衝冠，感覺手足無力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「幹活時你總是消失無蹤。而每當有商隊進鎮子時，你總會有足夠的錢去買幾袋子波紋海綿。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「要是父母還活著，我是不會讓他們為你蒙羞的，但現在我不會容忍你繼續這樣下去。」你生氣地對他怒吼——生氣他把你置於這個處境，生氣他懷疑你的決心，生氣他沒能看出——
+
+你很接近他，足以聞到他酸臭的呼氣。這時他把你推開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

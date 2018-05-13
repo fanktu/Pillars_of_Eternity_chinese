@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_eder_arc</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>86</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「十二人眾。」他搖了搖頭，露出苦澀的微笑。
+
+「可以確定當神錘爆炸時你不會看到，他們有任何一個是站在那座橋的一百里之內的。
+
+「也真可惜。因為那樣的話（如果他們站在那座橋附近），世上會少一些這幫傢伙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「為什麼他們自稱『十二人眾』？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「神錘？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你為什麼敵視十二人眾？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「他們曾是十二個鹿林人，站在哈爾告特堡壘外面等待懷德溫過橋。他們必須設法拖住他足夠久，直到『神錘』引爆，這就是他們做的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「他們給炸死懷德溫的那顆炸彈所起的名字。別的就不清楚了。
+
+「對能殺死一個活生生的神的任何東西，我想你總得起個名字吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「啊，沒什麼認真的理由。反正，我對烏合之眾總是沒有什麼不反感的。
+
+「十二人眾，他們喜歡把事情掌握在自己的手中。有時會很噁心。我們在鍍金谷沒有見到他們，但這裡可是他們的老巢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「他們選這個名字，這樣他們就可以做自己想做的事情，並且覺得它是對的。跟任何榮譽或犧牲都沒有關係。
+
+「他們也喜歡向瑪格嵐祈求，當他們特別想要感覺自己正確的時候。不過嘛，我不認為這幫人會給她留下多好的印象。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我肯定如果他們再用她的名義，那她就會想要把他們都燒了，但眾神很可能有規矩不讓這類事情發生吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「世上肯定還有很多其他團體是比激勵他們（成立其團體）的人物更勝一籌的吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「人們躲藏在象徵的後面，這樣他們就無法被質疑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「瑪格嵐定然有更配得上的追隨者吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「真可惜。我倒挺樂意看到那樣的事發生。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「公爵是一個通情達理的人。或許我們在反抗灣的時候，可以讓公爵強迫人們用符合真實自我的名稱來稱呼自己。
+
+「想像一下，假如他們稱自己為『大嘴巴的羊羔巴子』，那麼就不會有這麼多的成員了吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「定然，我只是沒法立即想出這樣的人。
+
+「我不該那樣說的。（現在我想出了）有一群誒歐瑟斯人，『夜市』。他們仍然在以他們的神之名做好事。在大清洗中幫助很多人去了安全的地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「讓我們繼續。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「好主意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「證明眾神是公正的。我倒也願意付出以換來一點這個。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「就我看來，她似乎吸引了各種各樣的人。我確定，比她所希望的還多。好戰者，火焰崇拜者。
+
+「但她的確做得比那更好。我們往前線開拔時，許多的好士兵們向她禱告。只好推測認為，那些人是她更樂意對話的對象吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「就我看來，她似乎吸引了各種各樣的人。我確定，比她所希望的還多。好戰者，火焰崇拜者。」他的眼睛在杜蘭斯身上停留了片刻。
+
+「但她的確做得比那更好。我們往前線開拔時，許多的好士兵們向她禱告。只好推測認為，那些人是她更樂意對話的對象吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「在熔煉堡這個地方看到艾比頓的聖壇，挺奇怪的。或許在它被灰塵鋪滿之前確實有過更多用處吧。
+
+「據我理解，熔煉騎士這些日子裡只尊崇貴族之道了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我認識一些在戰後被騎士團所招募的戰士。他們告訴了我一些有關的事情。
+
+「他們把這些年輕孩子們召到那兒，並且向他們講述了鍛造、革命和傳統。講述了『魔像神』，就好像他在他的鍛爐中創造了熔煉騎士以贏得鹿林的獨立似的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「於是他們加入了，而結果卻發現，那些騎士們關心的只是：什麼時候我們才能得到真正的騎士身份？什麼時候我們才能拿到我們的頭銜和我們的封地？
+
+「他們的大法官想要成為一名伯爵。說這是艾比頓的意志。他有一座城堡和一支軍隊。你會好奇，他還會等待多久，然後發起一場對此（伯爵地位）的戰爭，並宣稱是艾比頓告訴他那麼做的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「看起來仍然有些成員把他們的理想看得很重的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「誰知道呢，或許*真的是*艾比頓告訴他這麼做的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「他們看起來不都是壞蛋。他們在反抗灣維護著秩序。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「而貴族們會回答說，他們的眾神告訴他們，他們才是唯一真正的貴族。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「你會在老的騎士們，他們中的一些人，的身上看到它。他們受過不同的教育。
+
+「我同情他們，眼看著自己周圍的一切緩慢地消逝，但無所作為，因為錯誤的人處於領導位置。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「可惜他們沒有更好的人來領導他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「這不是第一次神明激勵他的追隨者把事情搞得一團糟了。
+
+「這讓你好奇，是否我們最好別再聽他們的了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「我認為，有些好的東西的內核，還是在的。有些好人想要做正確的事情。
+
+「麻煩在於，他們正在遠離它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「這些神所帶來的麻煩就是，不管你的主意有多愚蠢，依然有人支持你。
+
+「我們把他們中的一些炸飛了，或許是個正確的主意。藏在幕後的他們就更少了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「隨你怎麼談論鹿林人。但他們還沒有遇到什麼不能解決的問題，只要殺掉幾個替罪羊就可以了。」他嘴角浮現出空洞的微笑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「你為這些人而戰，因為你看到了有些東西值得守護。你所信任的某個人也看到了，所以它們更加值得守護了。
+
+「然後，你回過頭來，而他們做出了這種事，而那個曾讓你想要幫助他們的人，卻已經不在了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「他們正在做那些他們以為神想要他們做的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「缺乏引導的人們總是這麼令人失望。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「但你也不是真的為他們所有人在戰鬥吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「嘿。那麼，只是我喜歡的那些人？或許吧。或許吧。
+
+「如果你能選擇就好了。告訴那些小人，如果你死了，那並不是為了（保護）他們的狗命。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「嘿。在附近的人可不是。他們是地徹頭徹尾習以為常了。
+
+「十五年前他們想要殺掉所有誒歐瑟斯人。然後『遺贈』發生了，於是他們擔憂這是否是那些清洗所帶來的後果。那麼他們怎麼來修復呢？更多清洗。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「他們出於好意，這很好，但他們最好的猜想（對神意的解讀）又是怎麼成了有組織的謀殺的呢？
+
+「不過，這麼說起來，或許他們只是學了懷德溫的榜樣吧。早在鹿林想到這個主意之前，他就在清洗他的自己人了。只不過，他搞清洗的原因是因為他們還不夠誒歐瑟斯（形容詞）。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「從來沒想過我回到了家鄉竟然不受歡迎。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「Doesn't&#160;that&#160;just&#160;beat&#160;all?&#160;於是我處在了這種局面裡，無時無刻不在思考，這些可怕的事情究竟是人的錯誤還是神的。但最後發現這兩者可能是一回事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「他們很容易被遺忘，因為他們不得不秘密工作。你也可以感謝像十二人眾那樣的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「如果十五年前雷亞德賽熱斯人得知他們的神是從某處的鍛爐或是燒窯出來，我很好奇事情會變得多麼不同啊。我們還會爆發戰爭嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「人們當時在挨餓。他們遲早都會叛亂的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「對我們永遠不會知曉的事情，就不要胡思亂想了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「就是他們的神讓他們相信他們是正確的。我懷疑如果他們得知神也會犯錯，是否還會戰鬥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「我看得出來叛亂還在繼續。但我不知道他們居然會入侵。」
+
+他看向地面，懷抱著的雙手手指不安的敲打著他的身體。當他重新開始說話時，似乎有一半是說給他自己聽的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​他的目光依舊向下，但又向著遠方。「當沃登加入戰爭時，我們，呃——」
+
+艾迭爾的話音停止了。他緩慢的呼出一口氣。「我們打了一架。就像兄弟之間（一向）會的那樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「因為什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「因為他離開我們去參戰。」
+
+艾迭爾抬頭看向你。「他心意已決。但我的父母警告過他。他們說你能得到一個（和舊國家的）邊界上路路相連的新的國家，但你只能得到一位神，你（現在）的神。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「我麼，我不知道誰才是正確的。只是我不想他離開。」
+
+艾迭爾咬了咬嘴唇。「無論是家庭還是神祇，這方面都一樣：你只擁有一個。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「我對他說了很多惡毒的話，只是想改變他的主意。他一點也沒有聽進去。讓我更生氣的是，他竟然還是那麼冷靜。
+
+「他說我也應該和他一起去，但他能夠理解我不去的原因。我告訴他說遲早有一天他要面對他的神，為他所做下的事情承擔後果。他說他會記得這點的。然後他就走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​艾迭爾沉默了一小會兒。
+
+「等我冷靜下來時，已經過去幾個月了。某一天早晨我突然開竅了，因為我的兄弟總是比我更清楚時局，如果他是這麼堅決的要去做他想做的事情，或許我應該和他一起去。就在那天早上我打包了我的東西也走上了同一條路。
+
+「當然我所不知道的是，他已經改變了主意。那時候，他早已死在那個戰場上了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​「你認為他走向了懷德溫的原因，是你對他說過的話嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「那麼如果你當時和他一起離開，你就會得知為什麼他會改變主意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​「」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​「我突然想到一點：你生活在鍍金谷這種地方，實在沒有別的多少事情可做，所以即使你不想要再想的事情，還是會想咯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​「我希望不是這樣。我希望他去那裡是因為他認為這麼做是正確的。但看起來他不打算讓我知道真實情況。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「如果我當時和他一起離開，那麼現在我倆都會死吧，所以我不知道為什麼我還有必要想著這事兒。但至少我去過那裡了。
+
+「我一度從鹿林和雷亞德賽熱斯的角度想這件事，但並非如此。不完全是。讓我糾結的，並不是我為鹿林而戰。而是我沒有和他並肩戰鬥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「如果我當時和他一起離開，那麼現在我倆都會死吧，所以我不知道為什麼我還有必要想著這事兒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​他的手指在下頜上反覆摩挲著。「在他離開的那天，他要我信任他。他說如果我和他一起走，他會保證我們在正確的道路上。而他值得。他值得我的信任。」
+
+（估計言下之意是，艾迭爾後悔自己仍然沒有給出信任吧。）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「我終於找到了我自己的道路，而它不是我兄弟的，也不是我的神的。不知道這條路是否正確。但我無法容忍懷德溫對他的人民所做的事情，不管他是不是神。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​[離開]「我們上路吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​「我從不後悔。懷德溫也好，誒歐瑟斯也好……自從我們聽說這些事後這都無所謂了。我一直想要找這些問題的答案……」他搖搖頭。
+
+「我想我只是懷念我的兄弟了。」他輕輕的微笑了一下，當他呼吸時，聽起來他似乎放下了什麼重擔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​「嘿。我們還需要理順一件破事兒。快來吧。我還欠你一個人情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​他斜視著瞟著周圍。「一個人去雷亞德賽熱斯的路程是很漫長的。我想我本會樂意和他一起共度這段旅程……就算知道了結局也在所不辭。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​「賽奧斯，這人看起來從很久以前就開始揪著你的靈魂不放了。
+
+「你從他那裡得到你需要的了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​「我得到了一個老問題的答案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​「我得到了正義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​「我不再需要那些東西了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​艾迭爾露齒一笑。「那些可來之不易啊。
+
+「但或許這是最好的結果。迫使你尋找你自己的立足點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​「在這種時候，並不是所有人可以那麼說。特別是在這個時候，眾神利用這個世界來解決他們自己的問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​艾迭爾撇了撇嘴。「感覺好多了吧？確實對它夠擔心的了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​「比大多數人更有資格說這話。這個國家仍然充滿著這種人們，當他們受到驚嚇，就會非常危險。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​「最好就此打住，還是辦正事兒吧，[Player Name]。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>​艾迭爾露齒一笑。「那些可來之不易啊。
+
+「我同情那些依然在尋找自我的人們。很容易理解，能有某個人可以依賴並提供答案，對他們而言有怎樣的意義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​「在這種時候，並不是所有人可以那麼說。特別是在這個國家裡，人們認為眾神已經拋棄了他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​「你會感到好過一點。好。這真是太好了。」
+
+他抬頭看著機器。「你已經明白你將要做什麼了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​「是的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​「還沒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​「世上有許多的人認為他們被神拋棄了。沒有什麼比這個更能給人恐懼的了。對此我敢打包票。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​「假如我有那種力量——我知道沒有——但假如我有，我會把他們每一個靈魂都送回他們原本該在的地方。這樣，他們就會重新拾取信仰，相信他們以往相信的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​「假如我有那種力量——我知道沒有——但假如我有，我會找到一個辦法給他們面對這些的勇氣。不是因為他們認為某個神正在照看他們，而是因為他們內心裡就有勇氣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​「在你經歷了這些事情以後，我想你應該有自己的主意了。
+
+「最好讓它變成現實。」他眨了眨眼睛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​「我不知道……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

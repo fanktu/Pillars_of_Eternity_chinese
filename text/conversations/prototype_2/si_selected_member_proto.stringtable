@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\si_selected_member_proto</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>48</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​撞擊聲沿著牆壁從地板到天花板響了起來。一小陣狂風穿了過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[向前推牆]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你用盡力氣推動，裂紋開始蔓延。最終，你感覺古老的磚石開始坍塌。牆體崩潰，在前方露出黑暗圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你花幾分鐘鑿掉石頭。最後輕輕一拍，石頭開始變化，然後跌落，清理出一條溝壑足以讓我們穿過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[使用錘子和鑿子弱化牆壁]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​誰來推動牆壁？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[Slot 0]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[Slot 1]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[Slot 2]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[Slot 3]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[Slot 4]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[Slot 5]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[Slot 1]{if Male &amp; Might > 16}使出他全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[Slot 1]，{if Female &amp; Might > 16}使出她全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[Slot 1]{if Male &amp; Might < 16}使出他全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[Slot 1]{if Female &amp; Might < 16}使出她全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[Slot 2]{if Male &amp; Might > 16}使出他全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[Slot 2]，{if Female &amp; Might > 16}使出她全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[Slot 2]{if Male &amp; Might < 16}使出他全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[Slot 2]{if Female &amp; Might < 16}使出她全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[Slot 3]{if Male &amp; Might > 16}使出他全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​[Slot 3]，{if Female &amp; Might > 16}使出她全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[Slot 3]{if Male &amp; Might < 16}使出他全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​[Slot 3]{if Female &amp; Might < 16}使出她全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[Slot 4]{if Male &amp; Might > 16}使出他全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[Slot 4]，{if Female &amp; Might > 16}使出她全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[Slot 4]{if Male &amp; Might < 16}使出他全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​[Slot 4]{if Female &amp; Might < 16}使出她全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[Slot 5]{if Male &amp; Might > 16}使出他全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​[Slot 5]，{if Female &amp; Might > 16}使出她全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[Slot 5]{if Male &amp; Might < 16}使出他全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[Slot 5]{if Female &amp; Might < 16}使出她全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​[Slot 0]{if Male &amp; Might > 16}使出他全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​[Slot 0]，{if Female &amp; Might > 16}使出她全身力氣推開，裂紋開始蔓延。牆體倒塌，前方露出一個黑暗的，圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​[Slot 0]{if Male &amp; Might < 16}使出他全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​[Slot 0]{if Female &amp; Might < 16}使出她全身的力氣，但是沒有推動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​你用盡力氣推動，裂紋開始蔓延。最終，你感覺古老的磚石開始坍塌。牆體崩潰，在前方露出黑暗圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​你用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​你用盡力氣推動，裂紋開始蔓延。最終，你感覺古老的磚石開始坍塌。牆體崩潰，在前方露出黑暗圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​你用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​你用盡力氣推動，裂紋開始蔓延。最終，你感覺古老的磚石開始坍塌。牆體崩潰，在前方露出黑暗圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​你用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​你用盡力氣推動，裂紋開始蔓延。最終，你感覺古老的磚石開始坍塌。牆體崩潰，在前方露出黑暗圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​你用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​你用盡力氣推動，裂紋開始蔓延。最終，你感覺古老的磚石開始坍塌。牆體崩潰，在前方露出黑暗圓形的房間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​你用盡全力向前推牆，但是沒有什麼動靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\cyclopedia</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>335</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>地點</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>鹿灘鎮</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>角色</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>樣點位置</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>啞元文本是純粹仿製的印刷行業文本。啞元文本從十六世紀左右就是此工業的標準文本，當時一名未知的印刷匠製出了一種典型的印刷手段。它不僅沿用至今，還演變為電氣化印刷。隨著拉圖激光印字系統的發行，其在20世紀60年代十分流行，包括連最近的桌面印刷軟件如AldusPageMaker等都包括了啞元文本的版本。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>學識</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>鐵匠騎士</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>丹瑞德街</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>十二人眾</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>自然倫理</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>尖牙</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>鐸門耐爾家族</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>鹿林</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>鹿眾帝國</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>艾爾·格蘭法斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>熔煉騎士</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>艾德邁斯·哈哲特</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>埃德朗·哈哲特</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>可汗雷傑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>聖懷德溫: 農夫成神</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>聖人戰爭: 從開端至神錘</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>誒歐拉眾月</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>靈魂學</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>活化之地的真實故事</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>日曆</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>鹿眾的習俗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>格蘭法斯的習俗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>納西塔克詩集</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>格蘭法斯詩集</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>斯卡恩教派聖典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>瑪格嵐聖典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>貝拉斯聖典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>媉蒂卡聖典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>誒歐瑟斯聖典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>鹿林鬧劇</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>雷亞德賽熱斯的寓言劇</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>維利亞的悲劇</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>潘德格拉姆的生平和發現</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>亡焰群島眾獸</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>白茫極地</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>巨大西部牡鹿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>甲蟲雖然沒有一個人那麼大，但卻也足夠令大多數的旅客不寒而慄了。這些大的驚人的蟲子總是能夠使遊客印象深刻、屁滾尿流，同時也加強了鹿林在人們心目中「稍稍開化的窮鄉僻壤」的印象。鹿林（以及艾爾·格蘭法斯）周圍廣闊的原野給了甲蟲富裕的空間進行繁殖。其中進化最成功的甲蟲物種，已經不僅用周圍的環境來偽裝自己，而且身上甚至會長出一些類似木頭、石頭和魂珀的常見的堅硬耐寒的礦物。這些甲蟲的四肢和甲殼也曾在格蘭法斯部落風靡一時，人們用這些堅硬的東西打造護盾以及兵器。
+
+儘管外表看起來簡單，但常見的甲蟲都有著某種潛在的複雜性。當甲蟲在選擇進化甲殼的材料時，有一定程度的目的性，簡直沾了幾分藝術感。木甲蟲常常會在甲殼上挖出令人捉摸不透的小洞。通過向這些臨時形成的小洞中吹氣，它們就可以演奏出各種奇特的音樂來吸引配偶。石甲蟲更喜歡使用簡陋的象牙或者牛角，這樣他們就可以更好的保護自己、攻擊獵物。而人們對魂珀甲蟲卻知之甚少，唯一知道的就是它們難以被殺死。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>幽魂是那些死後未能正常地從屍體中分離出來的靈魂。這種情況常常在受到重創或者暴斃時發生。不同於不能和物理世界互動的靈魂，幽魂（就像是暗影和血母一樣）是可以和物理世界接觸的。他們會無差別地攻擊生物。
+
+幽魂可能會從失魂落魄的人類，比如那些暴力犯罪或者神經不正常的人，顯現出來。所有人都有可能在合適的情形下變成幽魂，但是對幽魂——還有它們和精神類疾病的關聯——的恐懼會導致在許多社群中人們對（幽魂的）易感人群避之不及。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>食人魔是皮糙肉厚的大型生物，通常有10至12英尺高。他們的肌肉十分發達，喜歡用獵物的毛皮裝飾自己。棍棒，斧頭和釘錘是他們最喜歡用的武器。
+
+食人魔的智力和「文明」種族相差不多（經常還不止如此），但它們對外的過分敵意使其種族數量始終維持在較低水平。除了智力之外，他們不穩定的脾氣也讓他們沒辦法專注足夠久、創造出有文化價值的東西。他們大部分過著半遊牧的生活，居住在野外，很少遇到其他人。他們只有在交配時節才會聚集起來，這時他們人口減少的數量和增加的數量大致相當。有更加「和平」性情的食人魔特別不喜歡接觸。
+
+食人魔在很偶然的場合會共同工作，而且一般會服從於同一位主母。食人魔主母比一般的食人魔個頭更大，不過對同類的敵意更小。當食人魔們結隊在一起時，他們通常對其他人型產生巨大的威脅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>當靈魂受到重創，且無法進入輪迴時，暗影便產生了。由於這些靈魂受到了損壞，它們會汲取其他生物的精魂以試圖進行自我修復。竊取的精魂越多，它們就越強大。隨著它們吞噬精魂，它們拾取屍體物質的碎片，於是就逐漸有了模糊不清但可見的肉身。幸運的是，暗影通常只能從其他活物的靈魂提取一點點的精魂而已。它們主要是靠朽妖之類的生物所排出的靈魂來獲取他們夢寐以求的精魂。
+
+當人睡著時，他們的靈魂和身體會相對的不是那麼緊密，這時暗影就會汲取他們的靈能了。這就是令人筋疲力竭的噩夢的來源。假如整個鎮子的人突然開始做噩夢，那很可能就是因為有一隻十分強大的暗影跑來安家了。
+
+由於暗影汲取靈能，所以對於依靠靈視來看東西的生物來說，它們是透明的。這使人們開始試驗將它們附到護甲或其他物體上，這樣對於某些生物來說它們就能起到隱身的效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>幼小的龍以虯龍的形態開始其生命週期，然而它們之中的大部分也只能活到這個階段。虯龍十分聰明和狡猾，普遍具有高度智慧。一頭虯龍必須有足夠的空間和資源以成為亞龍（進而最終成為巨龍）。假如它們生活的地方已經有亞龍或者巨龍的話，它們就不會成長。它們必須要尋找一個沒有同類的地方生存。
+
+由於進一步成長的機會比較小，虯龍大多會抱團求生。它們大膽且極具攻擊性——為食物和領土而激烈地競爭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>東陲的所有巨型的、有攻擊性的蜘蛛都有著嚇人的形狀、顏色和大小。這些蜘蛛遠比它們的小型同族來得猛，它們最喜歡捕獵人類和動物。即便是裡面最脆弱的矛蜘蛛也足以在人類大意時將其殺死。儘管矛蜘蛛沒有毒性，然而它矛一般的四肢卻是各種獵物的噩夢。
+
+比矛蜘蛛更致命的還有象牙吐絲者和寡婦製造者，這兩者都有著十分致命的毒液。象牙吐絲者還擁有向獵物噴射蛛網減慢其速度的技能。寡婦製造者並不會織網，然而它們的劇毒的毒液卻可以輕鬆地彌補這一缺陷。
+
+在艾爾·格蘭法斯的偏遠地區，人們少有地能見到傳說中的水晶吞噬者，這種生物巨大強力，能夠釋放出一些魔法，法師認為這種施法能力是來源於魂珀和附魔寶石。除了能夠在一個範圍內釋放知名的水晶尖刺之外，它們的毒液也能夠使受害者的血肉臨時變成石頭。隨後，水晶吞噬者可以迅速地將其殺死。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>潛伏怪其實是由幾種不同的食蟲植物和真菌為了捕捉共同的獵物合體而成。它們合體後高達數十英尺，身上儘是各種籐、葉、根和土。這麼多的獨立的生物體共存，使它們難以被徹底消滅，一般最好還是是將其產生運動的部分切成數段，或者一把火把整個群落都點著。
+
+人們對潛伏怪是怎麼形成的依然知之甚少，不過有人推測特定的食肉植物跑到了同一個宿主身上，比如潮濕孢子的空洞（似乎指的是被掏空了）的受害者，然後足夠強大時變得具有行動能力。這個理論得到了許多潛伏怪的驗證，當人們把它切開時，可以在裡面發現和根和孢子相纏的骨頭殘渣。
+
+潛伏怪躲避開闊的視野，而會在樹叢或草叢中一動不動地等待以埋伏獵物，因而臭名昭著。它們看起來還有一點初步的智慧，至少懂得儲藏食物。人們時而能夠見到潛伏怪將多個失去意識的獵物包裹在籐蔓中，留著以後再吃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>獅子曾經在艾爾·格蘭法斯平原東部和南部尤為常見，直到東陲的移民人數上升後，這些大貓就被迫搬離到了相對安全的格蘭法斯和鹿林之間的區域。除了它們巨大的力量以外，這些獅子的吼功也是一絕，他們所發出的震天動地的吼聲令恐懼深入每一個聽到的人心中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>「鹿行於林，狼必從之。」這句鹿眾人的諺語經常會只說半句，用以描述在東陲早期定居者危險的處境。這也要追溯到鹿眾人（字面意思為「鹿之人」）和他們四條腿的天敵頗有淵源的聯繫，這些天敵在鹿林和在鹿眾帝國一樣多。
+
+狼以他們的速度和卓越的充滿破壞力的捕獵能力聞名。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>這些長著巨大的、五彩繽紛的菌蓋的蘑菇幾乎和海裔一樣高大。它們巨大的重量僅由底部的幾個根莖所支撐。
+
+潮濕孢子是一種十分特殊的菌類，因為它們喜歡以其他生物的靈魂為食。它們往往沿著森林地面移動，尋找著無力反抗的疲憊不堪的旅行者。一旦它們發現了一個合適的宿主，它們就會纏到他身上汲取他體內的養分，同時吸收其精魂。一旦潮濕孢子發現了宿主，它們就會變的十分具有侵略性，並且用帶有毒性和倒刺的根部發起猛烈的攻擊。
+
+潮濕孢子會最先吞噬宿主靈魂中腐敗分裂的部分，然後會一直吞噬，直到宿主只剩下一副空殼。這種獵食習慣使得潮濕孢子的菌肉對經驗豐富的藥水師進行靈魂淨化尤為的有幫助。值得注意的是，這種治療方式很容易導致健忘，甚至是精神分裂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>孢仔是潮濕孢子的幼生形態。和成熟體相比，這些人形的孢仔更加的具有移動性，卻也更加的脆弱。它們從潮濕孢子上被產下，通過強大的移動性尋求滋養。正如潮濕孢子一樣，孢仔靠食用腐爛的有機物和精魂為生，而且必須吃到一定的數量才會變成潮濕孢子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>這些瘦長的巨人通常有人類高度的兩倍。它們渾身惡臭，長滿膿包和真菌。它們手腳上的巨爪可以輕鬆地將一個人撕成兩半。好幾條捲曲的捲鬚從頭部鬆散的垂了下來，它們的胃部都是鋸齒狀的鋒利牙齒。魁怪的臉很長，下巴很長，鼻子很長，頭頂上的亂糟糟地長著幾根真菌感染的頭髮。它們從不使用過武器、工具或者是衣服。
+
+看著一個魁怪，你很難分辨它們到底是已經和苔蘚、蘚沼和黴菌共生了，還是被寄生了。魁怪潮濕的身體為這些菌類提供了良好的生存環境。它們為魁怪提供了偽裝掩護，以及對一些元素的抗性，它們所產生的酶也在食物匱乏時期可以提供有限的營養。
+
+因為他們和這些植物共生，所以魁怪一般會住在樹林茂密的地區。它們在一些長著地衣和真菌的潮濕的地下環境中也會出現。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>蛛人以一種極其稀少、具有天生的靈能師能力的危險生物。它們大部分都是人形的，比人高了一點點，但是卻長著帶有毒牙的蜘蛛頭。和蜘蛛一樣，它們也有織網的能力。相對於織網，他們更喜歡用這種能力來編製複雜精緻的長袍。
+
+雄性和雌性的蛛人截然不同。儘管有時會用尖牙近距離的攻擊敵人，但它們主要是像靈能師一樣的施法者和心智操縱者。蛛人的精神力讓它們可以用意念溝通。和許多群居的昆蟲一樣，它們也有著明確的社會分工，比如說斥候和守衛。
+
+儘管蛛人有著極高的智慧和力量，但由於繁殖率低下，蛛人的族群並不能成為一個主要的族群。這種低下的繁殖率可能和它們對其他種族高度的敵視有關，但同時它們也以對自己族類的無私而聞名。它們願意誓死捍衛自己的巢穴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>這些無定形的雲蘊含著戰鬥狂暴的能量漩渦。數十個人形的東西在漩渦內忽隱忽現。面孔十分痛苦地無聲尖叫著，雙手拚命地在空氣中抓著什麼。
+
+噬魂風暴是一種已知的天災，經常會創造出喪魂。假如靈魂被從體內分離出來，並被夾在風暴的中心，他們就會和任何一種其他元素被混成一團。它們是純粹的混亂和困惑，而消滅它們則是對被困其中的靈魂的一種仁慈。
+
+創造喪魂的實驗給靈魂學者們帶來了很臭的名聲。有人認為這很危險的，而且是不人道的，也有人認為他們不擇手段喪心病狂。喪魂的製造使許多人將靈魂學者當成了批評的目標。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>朽葉妖，更通暢的稱呼為『朽妖』，是一種樹屋或者魂珀被破壞了之後的葉精。它們長得和葉精一樣醜，細長而憔悴，擁有冷色調的皮膚。它們的頭髮像枯草一般，黑呼呼，粘糊糊的，長著扭曲的五官和鋒利的牙齒。和葉精不同的是，它們並沒有被光塵所包圍，也十分喜歡用它們的長爪子供給長途跋涉的不幸的旅人。朽妖用它們所殺的動物的頭骨、表皮和皮毛裝飾自己。
+
+和嘗試著保持森林的健康的葉精類似的是，它們會盡力破壞森林，這就使它們成了不共戴天的敵人。它們身上的腐物使它們在攻擊時帶有毒性，卻也使它們的身體變得十分虛弱，對於穿刺等攻擊的抗性十分低下。
+
+由於它們已經不能夠再從健康的森林中汲取精魂了，所以它們不得不從森林中的動植物身上汲取養分。這使得它們天生和具有類似捕食手段的暗影成為了盟友。
+
+它們對所有的生物都充滿了敵意，但是遊俠和德魯伊是他們最常見的敵人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>葉精是一種伴生在古老（往往已石化）的樹或者魂珀紀念物上的格蘭法斯的森林妖精。似乎它們中的大多數有著精靈外觀的身體，但它們的皮膚是由木頭組成的，頭髮很長，而且很像植物（魂珀精貌似擁有魂珀皮膚）。葉精的身體周圍飄著發光的小顆粒。雖然它們長得像人，但卻不穿衣服，也沒有性器官。葉精是完全的魔法生物，它們不用物理武器攻擊。它們的媚術通過串聯魔法而施放出來，會令攻擊者停止攻擊，或者自我了斷。
+
+這些生物會從環境中獲取精魂。除了可以通過摧毀它們的物理軀體殺死它們之外，它們的生存也依賴於其環境的健康。它們對其他生物並沒有惡意，但會兇猛地保衛自己的領地。因此，葉精和魂珀精（「由魂珀而生」）的個體，根據它們的生活條件，以及探險家、冒險者的善惡，敵意可多可少。它們是大規模開發的天然障礙。艾爾·格蘭法斯的鄉下部落常會和他們和平相處，但要是拓展或開發城鎮就會受到敵對葉精的圍攻。有些人類也反對摧毀葉精的棲息地。鎮子居住者普遍支持這種想法，並認為他們的靈體會轉世到其他森林或回到人類之中。
+
+葉精對遊俠和德魯伊一貫是友好的。它們跟樹木的精神連接，大大加深了人們對遊俠和其動物夥伴之間連接的理解，雖然並沒有產生決定性的聯繫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>發育成熟的巨龍非常龐大，即使在休息時都比人類的大部分建築都要高。而當它們用後腿站立時，則能輕鬆達到兩倍的高度。
+
+巨龍已經到達了它們生命週期的成熟階段。像亞龍一樣，它們已經適應了環境，但甚至更加徹底。它們的顏色、紋飾、甚至身體結構，都能反映出它們所選中的領地，以及它們所能承受的攻擊和防禦。因為它們已經擁有自己的領地，並且很少會面對其他巨龍或亞龍的威脅，所以它們天性都比較保守，很少會招惹不必要的麻煩。
+
+只有巨龍才能交配。一般只有這種情況下，一條龍才會離開它的領地，去尋找它的同類。到達巨龍階段之後，這些生物會呈現為一個性別。然而，如果周圍的『龍口』過於偏向一方的話，龍的個體也可以轉變性別。鑒於這一族的生物過於罕見，這項能力對其種族的延續至關重要。
+
+巨龍的智商要高於大部分生物，但是它們獨來獨往的天性妨礙了它們和其他種族有效地互動交流。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>亞龍是龍族生命週期的中間階段。它們從虯龍發展而來，但是還未到達（也許永遠都不會到達）巨龍階段。亞龍會帶有侵略性地保護領地，並盡可能地試圖拓展它。亞龍一般對其他同類抱有敵意，因為它們之間會競爭資源。
+
+它們的顏色表明了它們的領地。比如，一條沼澤中的亞龍會有綠棕黑的漸變色，還會有開閉的隔膜，扁平的鼻子和外擴的鼻孔。除了所有的亞龍都能噴火之外，它們還會有許多帶有其他元素的吐息攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>德魯伊相信在連接到自然世界時，精魂是最強大和和諧的。大部分生命都有活了數十乃至上百次輪迴的靈魂（或部分靈魂），它們已經和自然世界有了連接。學習和練習變身就是要回到前世中去，體驗動物王國的靈魂先祖們掌握的力量和技能（如果沒有實體記憶）。德魯伊還相信變身能使一個人通過和前世「校準」而找到更加強大和平衡的精魂。這一練習能避免德魯伊認為是非正常強迫式完全覺醒帶來的創傷。
+
+熟練的德魯伊可以學習多種變身形態，他們認為每種形態都代表著一層獨特的體驗，讓練習者的精魂更加平衡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>遊俠通常會將和其具有強大自然親和力的動物作為夥伴。遊俠和動物夥伴間的靈魂綁定程度之深，以至於二者會分享精力、健康，甚至同生共死。據說遊俠會將自己和最能體現自身的動物綁定在一起。一旦綁定之後，二者便永不分離。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>由於矛蜘蛛的速度和獨特的攻擊方式，只有非常勇敢（或愚蠢）的男女劍士，尤其是尖牙的成員，才會和它們戰鬥作為對打練習。到今天，只有狂野而粗獷的見習武士才會遵守這項傳統。矛蜘蛛也被稱作最大膽的蜘蛛獵手之一，因其並不依賴蛛網，而是靠其帶有倒刺的蛛腿捕捉獵物。而結果就是這種生物的活動範圍比其他蜘蛛距離巢穴都要遠。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>豹猊是大型貓科食肉動物。幼年豹猊一般獨來獨往，但成年豹猊則會結群出動，保衛領地，捕殺獵物，以及照顧幼仔。這些大傢伙具有高度侵略性和適應性，而且分佈非常廣泛，從炎熱的平原到寒冷的凍土地帶。人類的定居者將它們驅逐出了反抗灣的大部分領地。結果是，它們在艾爾·格蘭法斯更加常見了。作為致命的捕食者，它們是伽拉宛的追隨者顯著的戰利品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>泥菌是一種可移動的食肉性黴菌，一般在陰暗潮濕，人煙稀少的地方繁殖。泥菌在生長過程中會以周圍的細菌，真菌和小昆蟲為食。當它們長到一隻狗的大小後，它們會逐漸尋找更大的獵物，包括人類。
+
+像所有的活體生命一樣，它們也有著某種精魂，但它們的智商低下和神經質系統讓它們充滿了無腦的侵略性，並很難阻止。它們的粘度和機動性使它們能發出令人驚訝的敏捷攻擊，並且還能「噴出」酸性酶，破壞肉體和護甲。這種生物中的一些更加危險的變異體是疾病的攜帶者，因而和它們的任何對抗都是十分危險的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>血母是暴力而困惑的靈體，它們不能或不願意前往冥幕外。更具體地說，它們都是死於悲劇或創傷環境下的女人的靈體，因而有了「血母」的名字，其意為「血之母」。血母（原有的）作為被拋棄的情人形象在近年來已經改變，這都是懷德溫的遺贈逐漸廣為人知的緣故。有如此多的空嬰產生，同時伴隨著血母的急劇增加，因此許多人認為這些靈體屬於分娩中死去的母親們。事實上，血母的顯現同樣多地來自於在暴力罪行和事故中死亡的女性，或者那些過著尤其暴力的生活的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>在鹿林的城市中，鬼火被認為是神話的象徵，並且常出現在老太太的故事之中。最有名的故事之一講到鬼火是迷失孩子們的靈體，向著來生徘徊。在鄉下，真正接觸過鬼火的人都把這些故事當成笑話來聽。
+
+鬼火常出沒在遺棄的廢墟或其他被遺忘的地方。它們常被認為是種好奇的生物，因其經常會短暫跟隨旅行者們。鬼火一般很平靜，但一旦會激怒就會充滿侵略性，並且察覺到受威脅時就會帶有敵意地保護自身領地。因此，鬼火常被形容為靈體世界的雜草——很微小，能迅速再生，並且大量存在時幾乎是不可阻止的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>宿靈機一開始被創造來守衛皇家墓穴。它們最初的創造者將最強大的戰士和僕人的靈魂綁結在一起使其成為複雜的結構，並根據佔據其中的靈魂等級而使用了多種多樣的材料。隨著此技術的廣泛傳播，強大的靈魂學者也開始使用手邊的一切武器和材料創造自己的宿靈機作為私人護衛。
+
+只有帶著強大的奉獻精神以保護其主的忠誠靈魂，才能被製作為宿靈機。儘管這種創造儀式仍可用在並非自願的對象身上，參和的靈魂本身缺乏決心的話可能會導致變為邪物，並會立刻試圖以暴力手段摧毀自身，而且在此過程中往往會產生連帶損害。哪怕成功的作品對於懷疑的念頭也是脆弱的，因而大部分宿靈機製造者們都極其小心不讓這些懷疑有機會出現。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>初歿妖是名義上已死、但仍有靈魂能量維持的的屍體，向其腐化踏出的不可逆的第一步。在這一階段，它們喪失了部分記憶和心智能力，但其仍有自我意識，能認識到自身的衰退。
+
+永不滿足的飢餓和明顯的腐化讓初歿妖比起噬魂鬼更加魯莽好鬥，即使它們被迫尋找隱蔽的環境，以避免引來文明社群的注意和怒火。
+
+一些噬魂鬼對這一階段的懼怕，勝過對隨後的階段，因為它們知道（等到後續階段）它們（反而）會保留足夠的機能來全面體驗其自身的墮落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>噬魂鬼是生命被非正常地延長了的人型生物。儘管他們還有大部分正常的人類外表，但他們只要大吃幾頓就會退化為無腦怪物，而對此他們很清楚。雖然噬魂鬼還保留著人格和記憶，這份病態的知識或許會以許多方式顯現出來。有些會謹慎地隱遁起來，避免任何削弱或殺死他們的威脅，而其他人則成了外向的享樂主義者，尋找著世界留給他們的一切消遣。每一名噬魂鬼（除非被殺）遲早都將屈服於腐化。
+
+噬魂鬼需要鮮活的精魂以存活下去，而人類的血能提供最豐富最直接的資源，因此大部分人群都會躲開他們。而結果則是噬魂鬼要想參和社會就只能活在社會的邊緣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>和宿靈機一樣，血肉構裝體也是靈魂學者們用捕捉的靈魂創造加強的。和宿靈機不同，它們不依靠靈魂的意志和忠誠。因此，血肉構裝體不會有懷疑，但只能聽懂簡單的指令。它們的壽命也比宿靈機短上許多。宿靈機靈魂中的能量和信念可以維持它數十年，而血肉構裝體的物理形態會逐漸枯萎，最終身體將會無法對靈魂能量作出回應。反對靈魂學，特別是靈魂構裝體的人，把這看作是靈魂對不恰當軀體的排異反應，並且也證明血肉構裝體是一種邪物。
+
+即使在靈魂學者中間，血肉構裝體的製作也是充滿爭議的。有的人將其看作是「靈魂切除術」，並相信靈魂應當被放去往生，而不是成為軀體的沒有思想的燃料。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>對其普遍的認識是，歿妖仍有足夠的狡猾來成為危險的獵人和敵手，但因其快速的退化所以不必過於擔心。像初歿妖一樣，歿妖也要尋找隱秘的環境，儘管有一些被吸引到墓地以尋找容易獲得的血肉。死人的肉能解決歿妖的部分飢餓，但無法滿足其對精魂的需求。定居墓場也許實際上會加速歿妖的腐化，因為這減少了它們尋找食物的動力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>比起相對來說還算有智慧的歿妖，屍妖這種不死生物已經退化得更加不堪。屍妖只保有本能的飢餓，但並沒有可靠地滿足（飢餓）的意志或智慧。它們會被吸引到任何能找到屍體或將死者的環境。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>骷髏不再需要肉體或精魂，但它們殺戮的渴望經歷了數個腐化階段後仍然保存了下來。因此，它們會攻擊一切靠近的生物，但不會在其死後試圖進食。驅動它們的精魂是最基本的等級，因為骷髏已經喪失了所有意志，智慧，和人格。如果沒有被殺死，骷髏最終會變成塵埃，或者其精魂會最終蒸發到太虛裡。
+
+骷髏專家是武士，法師或其他冒險者的遺骸。它們大體上和其他骷髏相近，但更擅長戰鬥，並且還保留著生前的基本技能。
+
+死亡守衛是這些骷髏的變異形態，它們強大，熟練而富有智慧。當噬魂鬼想避免逐漸腐化時，他們可以通過一種冒險，昂貴而極度痛苦的方法將組織和骨骼分離開來，留下一具有著完美意識的骷髏。這樣的話，精魂不會在肉體中腐化，而是會存留在更加堅硬的骨骼之中。既然新創造的死亡守衛不需要任何物質存活，並且不會再腐化，它們的「生命」只有到被殺死時才會終止。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>根據懷德溫的遺贈，絕望的家庭們都去找靈魂學者尋求幫助。將迷失的靈體轉變進存活的身體中是不可能的（基本上如此），因為此類移植最終都會導致靈體的覺醒。靈體會想起前世，而沒有新生小孩的記憶。
+
+儘管他們對這種匆忙做過警告，靈魂學者們被壓力所迫，還是弄出了一個應急之策: 如果將動物的靈體放入失去靈體的小孩身體中，這個孩子也許會獲得意識、本能，還有意志。據說因為動物的靈體比起人類擁有更少的性格和記憶，孩子或許可以隨著時間獲得自己的新的靈體，並覆蓋掉弱小的動物靈體的印跡——於是孩子就會變得健康起來。移植療法在鹿林廣受使用，數萬名受折磨的孩子接受了這一方法的治療。
+
+這些孩子確實好像重獲了意識和意志，在一段時間內這些被「拯救」的孩子一度被認為已經痊癒。然而隨著年齡的增長，被拯救者愈發變得和其他孩子不同。他們對社會規範表現出極少的理解和關心，並且行為詭異。成為青少年後，這些不同逐漸顯現在身體變化中，使其成為了完全不同的一個物種——這些孩子變為了狂童。
+
+第一個起變化的是一名孤兒。隨著年齡的增長，她長出了怪物般的尖牙，並有著兇猛的食性。儘管她的家人盡力想掩蓋她的情況，她最終還是將他們屠殺在了床上，並逃向了野外。其他被拯救的孩子不久也跟隨其步伐，大量破碎的家庭被迫目睹他們的孩子成為了貪婪掠食的野獸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>蝠魔是大型哺乳動物，居住在幾乎完全黑暗的山洞之中。因此，它們的視力低下，只靠聽覺追蹤並捕殺獵物。它們耳朵上的突出和毛髮讓它們能感知到空氣的流動，這也是在地下瞭解方向的關鍵。它們用尖叫和卡嗒聲交流，並以回聲的方式發音。它們是群居生物，會一起築巢並撫養幼仔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>蜥人是近似羽精大小的爬行類類人生物。它們用死掉敵人的骨頭裝飾自己——大部分是敵對部落的蜥人的。它們也很喜歡大片羽毛，並將其掛在自己的服裝上。蜥人的膚色在淺綠色到棕色之間。它們伸長的口鼻部（因而無法說話）和過分好鬥的態度，成為其和世界其他文明種族之間交流的障礙。它們居住在隱秘的部落領地，並會無情地攻擊任何蠢到穿過其範圍的傢伙。
+
+蜥人將巨龍作為神明敬畏，並將自己的部落建在這些強大生物的巢穴附近。一般一個小部落不會隨意遷移，除非其找到了一條亞龍或巨龍敬拜。一旦一個部落尊崇一條巨龍，其將會不惜一切代價守護它。在十分常見的精心策劃的儀式中，巨龍會吃掉蜥人祭品。隨著巨龍年齡和體形的增長，祭品的數量也在逐漸增多，甚至一次就需要數百蜥人的生命。蜥人部落的力量和威望直接和其巨龍的年齡相關。最強大的部落一般都有上百年，乃至上千年。這些大型部落的武士和薩滿都會塗抹自己的身體以看起來像它們的龍神。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>命中</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>命中關係到幾乎每次攻擊。它影響攻擊有多大可能擊中目標。
+
+命中主要取決於角色的職業和等級，但也受到感知、天賦和其他激活中的效果，比如法術或物品，的影響。
+
+當進行攻擊時，命中和目標的相對防禦值作比較，從而決定攻擊檢定如何被調整。
+
+如果命中高於目標的防禦值，這次攻擊很可能擊中或暴擊，而不太可能擦傷或失手。
+
+任何不使用武器作為攻擊的技能或天賦，則根據角色的等級獲得少量命中加成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>偏斜</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>抵禦直接碰觸類的攻擊和效果、比如武器攻擊、單體能力和需要接觸到目標才能起作用的法術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>堅韌</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>抵禦對角色肉體系統的攻擊和效果、比如麻痺、虛弱、眩暈、疾病和石化等效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>反射</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>抵禦考驗角色身手敏捷的攻擊和效果、比如失明、定身、擊倒、蹣跚和休克等效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>意志</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>抵禦對角色心靈系統的攻擊和效果、比如魅惑、恐懼、驚嚇、支配和迷惑等效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>失明</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>命中降低25，感知降低4，移動速度降低2，反射和偏斜都降低20。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>魅惑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>為魅惑者戰鬥，速度、命中和所有防禦都降低25。
+
+魅惑是唯一的，意味著角色一次只能有一個被魅惑對象。新魅惑的目標將替代任何之前魅惑的目標。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>迷惑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>行為混亂。
+
+每6秒隨機正常、發呆、亂跑或攻擊其隊友。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>休克</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>命中降低10，敏捷、感知和智力都降低2，回復速度降低15%。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>支配</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>為支配者戰鬥，覆蓋魅惑效果。
+
+支配是唯一的，意味著角色一次只能有一個支配對象。新支配的目標將會替代任何之前支配的目標。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>夾擊</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>偏斜降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>驚嚇</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>敏捷和決心都降低2，命中降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>蹣跚</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>敏捷降低2，反射降低20，移動速度降低1.5。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>麻痺</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>無法行動，敏捷變為0，反射和偏斜都降低40。覆蓋定身、眩暈和擊倒效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>石化</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>無法行動，脆弱。覆蓋定身、眩暈、麻痺和擊倒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>擊倒</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>無法行動，敏捷降低2，反射和偏斜都降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>疾病</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>所有屬性都降低1，堅韌和意志都降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>定身</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>無法移動，敏捷降低2，命中降低5，反射和偏斜降低20。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>眩暈</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>無法行動，敏捷、智力和感知都降低4，偏斜和反射都降低30。覆蓋定身和擊倒效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>恐懼</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>敏捷和決心都降低4，命中降低20。覆蓋驚嚇效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>虛弱</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>威力和體質都降低2，移動速度降低1，堅韌和意志都20。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>肋骨挫傷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>肋骨損傷的角色的強韌防禦值和體質會受到減值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>腦震盪</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>強烈的震盪會使角色的智力和意志抵禦值都受到減值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>手腕扭傷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>手腕扭傷會使偏斜和命中收到減值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>眼睛浮腫</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>角色的眼球腫脹會使命中和感知收到減值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>腳踝扭傷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>扭傷腳踝會降低反射和敏捷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>膝蓋扭傷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>扭傷膝蓋的角色的移動速度和敏捷會受到減值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>肩膀扭傷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>扭傷肩膀會使速度和威力收到減值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>暴傷倍率</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>當攻擊檢定超過100時，角色將造成暴傷。默認的爆傷倍率是1.5，該倍率繼續受附魔、攻擊源和減值等三種類型影響。
+
+附魔加成來自裝備和增益效果，這類加成是互相覆蓋取最高值。
+
+攻擊源指的是發動該暴擊的基礎部分，比如武器、能力或法術，改部分暴傷倍率來自角色天賦、被動、攻擊源本身比如武器屬性，這類加成互相疊加並和杜根強化、附魔加成繼續線性疊加。
+		
+暴傷倍率減值無論來源總是互相疊加，當存在很多減值時，暴傷甚至會比普通傷害更低。
+
+負面效果不受暴傷倍率影響，暴擊時總是提高50%的持續時間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>擦傷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>擦傷是任何攻擊檢定在16到50之間的攻擊。擦傷會使傷害和持續時間降低50%。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>擊中</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>擊中是任何攻擊檢定在51到100之間的攻擊。當一次攻擊擊中之後，它會造成標準傷害和標準持續時間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>防禦</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>永恆之柱中有四種防禦。每種分別被用來抵禦一種不同類型的攻擊檢定。
+
+-偏斜用來抵禦大多數直接武器攻擊，或者是類似於武器攻擊的攻擊。
+
+-堅韌可以讓角色對抗物理力量，或者那些可以作用於他們的身體內部（例如通過毒藥）的攻擊。
+
+-反射可以防禦諸如火球和閃電球之類的物理型區域效果攻擊。
+
+-意志則對抗幾乎所有的心智型攻擊。
+
+所有防禦都隨角色提高而成長、通常戰士類職業偏斜要遠高於法師類職業。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>負面效果</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>負面效果是一些明確的狀態效果集合，可以在一個角色身上施加、暫緩或者被驅散。雖然有些效果有明確的覆蓋或者獨佔規則，但大多數效果都可以同時存在。
+
+當一種法術被作用在一個目標之上，法術本身及其從屬能力和負面效果都被彙集到一個由該法術製造的逐步結算容器裡。
+
+當這些逐步結算容器內的效果被施加的時候，如果已經有相同版本的一個效果已經在發揮作用了（例如將群體祝福施加在某個已經被施加了群體祝福的人之上），新的版本則會替代舊的版本。
+
+不論一個目標身上被施加了多少效果，總的來說，只有最強的加成和最嚴重的減值才會發生作用。
+
+有些生物對以一種或多種效果免疫。如果這樣的話，這些效果就不能被施加到這些生物身上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>被動</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>當角色獲得被動能力或天賦時，便自動加成到屬性上。例如，一個擁有「額外反射」技能的角色，在獲得技能的同時便獲得了反射加成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>主動</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>主動的天賦或者能力，必須由角色主動選擇使用。例如，有「擊倒」能力的戰士，必須從行動欄中選擇「擊倒」圖標並選擇一個目標以使用該能力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>攻擊檢定</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>所有傷害都會將攻擊者的命中和四種防禦之一進行比較: 偏斜、堅韌、反射或意志。同時隨機產生一個1到100之間的數字並加到命中和防禦的差值上，這個數字將決定攻擊的結果。
+小於16=失手
+16到50=擦傷
+51到100=擊中
+大於99=暴擊
+
+在攻擊和防禦均等的情況下，多數攻擊最後會變成擊中或者擦傷。當命中高於防禦時，更易造成暴擊。當防禦高於命中時，更易造成失手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>失手</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>失手是任何攻擊檢定等於或者小於15的攻擊。失手不造成傷害，也不會帶來任何狀態效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>減免</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>減免被直擊從來襲的傷害中減少掉，但最多只會被降低到10%，這時將造成保底傷害。
+				
+注意對於附加傷害，無論該傷害附加百分比是多少，都是對抗25%的對應類型減免。</DefaultText>
+      <FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>專注</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>角色的專注決定了他們在戰鬥中如何打斷他們的法術或者是攻擊。每一點的決心都會提高角色的專注，並對抗攻擊者的打斷評級。像攻擊檢定一樣，打斷使用一種隨機序列來判決該打斷是否成功。如果專注優於打斷評級，打斷有可能不會發生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>耐力</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>耐力用來對抗沒有被減免所吸收的剩餘傷害，並能在戰鬥後迅速自動回復。當角色耐力耗盡時，將被擊倒在地，隊友可以使用復活能力將其拉起來。
+
+在戰鬥中可以使用大量的能力和法術來恢復耐力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>生命</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>生命用來對抗沒有被減免所吸收的剩餘傷害，並且無法在戰鬥後恢復。當角色生命耗盡時，他將直接死亡，或者瀕死。
+
+戰鬥中可以使用偽造生命魔法或藥水來恢復生命。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>瀕死</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>戰鬥中生命耗盡的角色將直接死亡或瀕死、取決於遊戲設定，瀕死的角色在戰鬥結束後會重新站起來並恢復1點生命，但會遭受所有的防禦和命中的巨大減值。如果他們再次被擊中耗盡生命，就會直接被殺死。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>受傷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>受傷是一種長期的負面效果。「長期」意味著他們會持續到角色得到休息為止。受傷的典型來源是劇情互動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>偵察</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>偵察模式有兩種用途: 隱匿和搜索。
+
+在面對難纏的敵人時，隱匿可以使你避開他們或者獲得戰術上的優勢。
+
+搜索使你能夠偵測陷阱和隱藏的物體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>儲物箱</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>儲物箱可存儲所有沒被放入角色個人物品欄的玩家的額外物品。儲物箱也存儲特殊的物品，像製造所用的材料和任務物品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>打斷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>打斷決定了一次攻擊有多大可能性會延遲對手當前的或下一次的行動。
+
+擲骰機制使用攻擊者的打斷並將其和目標的專注作比較。系統進行一次1到100的擲骰，再加上打斷的值。如果其結果高於專注，那麼目標將會播放被擊中的反應的動畫，並延遲其當前的行動。
+
+延遲的時間取決於其武器或者攻擊所列出的打斷的強度。如果打斷髮生在一個已經在遭受更長時間的打斷的角色上，那麼新的打斷無效。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>按遭遇補滿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>「按遭遇補滿」型能力在每次戰鬥中能夠被使用的次數是固定的。
+
+例如，按遭遇補滿使用數為3的能力，可以在每次戰鬥中使用3次。在戰鬥的最後，可用次數會再次充滿，直到下次遭遇。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>按休息補滿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>「按休息補滿」型能力能夠被使用的次數是固定的。
+
+例如，按休息補滿使用數為3的能力，只能使用3次。要想重新獲得可用次數，角色必須休息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>模式</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>模式能力指的是在激活後能夠不斷產生效果的一種能力。例如，聖武士的專注光環只要處於激活狀態，就能給周圍的所有人賦予加成。
+
+模式能力通常是分組的，任何情況下同組別只能同時激活一種能力。這些分組反映在能力在行動欄的排布上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>死亡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>在特定的難度設置中，如果一個角色的生命為0，他/她會倒下，而且要麼瀕死，要麼會被殺死（如果已瀕死）。一個死亡的角色就真的死了，不能再被挽救回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>毒素</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>毒素的效果可以是一系列的狀態效果或者是負面效果，一般來自某種生物的攻擊，但也往往會來自某個法術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>疾病</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>疾病會帶來一系列的狀態效果或者是負面效果。疾病效果一般來自法術，但也往往會來自於某種生物的攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>速度</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>速度決定了所有行動的快慢，這些行動包括移動、攻擊或施法前搖、裝填和回復。
+
+移動速度受靈活移動天賦、額外移速天賦和防具上的速度附魔影響。
+
+攻擊或施法前搖只取決於武器和法術本身，通常高傷害武器和高級法術擁有更長的前搖動作，打斷效果生效在這一過程。
+
+裝填速度受快速裝填天賦和防具上的快速裝填附魔影響，裝填過程不會被打斷，但可以自行中斷進行其他動作。
+
+在攻擊或施法後，絕大多數情況角色需要讀條進行回復，回復速度受幾乎所有天賦、裝備附魔或法術效果影響，裝備重型護甲會極大降低回復速度。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>要塞</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>要塞，人稱努阿王堡，是儲藏、休息、組織、隊伍管理和投資的行動基地。要塞需要先被升級，它的很多特性才可以得以使用。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>次生防禦</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>次生防禦作用在第二階段的攻擊中，例如，匕首上的毒藥。在這個例子中，第一階段的攻擊（揮舞匕首）瞄準一種防禦（偏斜），並且只有在第一階段攻擊擊中之後才會發動毒藥攻擊。如果攻擊擊中，這時會檢查次生防禦（在這個例子裡，是堅韌對抗毒藥）來決定效果。如果初始的攻擊失手了，次生防禦不會被啟動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>傷害類型</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>永恆之柱中有八種不同類型的傷害，包括冰、火、電、酸、揮砍、穿刺、鈍擊和純粹。傷害的類型用來對抗目標的該類型減免，通常生物或者護甲可能對某種類型的傷害有極強的抵禦能力，但是卻很難抵禦另一種傷害。
+
+擁有多種傷害類型的武器、能力和法術在造成傷害按以下規則時: 
+計算減免，總使用目標更低的減免
+計算加成，總使用第一種傷害類型</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>打斷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>羚羊常見於東陲。雖然殖民活動和由此導致的狩獵導致它們的數量在減少，它們在鹿林的淺草區依然很活躍。羚羊生性溫和，但是有時可以見到它們作為可怕的動物夥伴和遊俠同行。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>鹿林有適中數量的熊，不過它們大多數都生活在遠離人類聚居的區域。貴族們有時候會狩獵熊來作為休閒活動，但大多數殖民者、老派人士和格蘭法斯人只是單純地避開它們而已。東陲的森林裡有各種獵物，捕獵它們遠比對付一隻憤怒的熊更輕鬆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>在大部分殖民者聚居區，野豬被看做是一種討厭和危險的動物。野豬極具進攻性又無所畏懼，它們殺死了許多人類、精靈小孩以及成年的羽精。對任何旅行者和探險家而言，成群的野豬都是個威脅。他們極難被制伏，但是對商人和附魔師來說，它們的獠牙是極具價值的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>死亡守衛極其罕見，是基於一名極其堅定拒絕離開物理世界而前往異界的死者而創造的。聖武士一般是這種變異體最常見的原形，但牧師和其他卓越的狂信徒常常也會遭受同樣的命運。死亡守衛會佔據他們之前的身體，但是使靈魂留在現實世界的能量，會迅速吞噬肉體、最終只剩下骨架。死亡守衛常常會因其狀態而發瘋。它們是可怕的敵人，會將恐懼傳播給任何擋路的人。它們和異界的有限連接，使其能召喚可怕的火球、召喚暗影、甚至用一個詞語便能抹殺活人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>切下——減免</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>切下——當攻擊擊中任何傷害時，首先它會被目標的傷害臨界值所降低，接著會被減免進一步降低。
+
+減免是對來襲的傷害進行減免的百分數，如果一次擊中釋放出高強度的傷害，這種能力就會顯得更加珍貴。就像傷害臨界值一樣，減免不能降低超過初始來襲總量的20%。當到達最低值時，你將會在進攻線上的作戰記錄上收到「保底傷害」提醒。
+
+需要注意，許多護甲和生物擁有不同的減免值和傷害臨界值來應對不同類型的傷害。較低的減免值只能抵抗較低程度的傷害，使得目標更易受該種類型的攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>接敵數</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>使用近戰武器的角色接近敵人時將強制對方和自己對恃，而接敵數就是能觸發對恃的最大敵人數量。
+
+通過天賦和裝備的加成，戰士最高能和五名敵人形成對恃，基於AI系統的弱點，對恃中的敵人通常不會選擇移動去攻擊戰士的後排隊友。
+
+當目標角色被強制對恃後，主動脫離將遭受藉機攻擊，但如果閃避了藉機攻擊，短時間將免疫對恃。
+
+另外停止類負面效果比如麻痺、眩暈、石化、擊倒也會直接讓目標角色脫離對恃而不受藉機攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>夾擊</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>當圍攻數量超過被圍攻者的接敵數，就會形成夾擊，被夾擊的目標不但承受夾擊負面，還會被遊蕩者能力背刺。
+				
+注意，有許多能力會使夾擊規則出現例外，比如野蠻人的一夫當關、遊俠的獵手心意相連、以及靈能師的敵影重重。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>疊加</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>疊加規定了加成和減值如何累計。簡單來說，遊戲中有四種不同的加成: 被動、武器、主動/模式、以及裝備。
+
+所有來自被動和武器的加成和減值會疊加。
+
+主動和模式加成（比如來自能力和消耗品）只會採用對數值加成和減值的最大值。比如，一項法師法術賦予+3至偏斜，而一位聖武士的光環會賦予+5，那麼主動/模式的加成就是+5。如果此法術同時也為威力賦予加成，其效果將會保留，直至更高級的威力加成將其覆蓋。
+
+裝備加成也採用對數值加成和減值的最大值。這包括所有用於角色的物品，不過武器除外。裝備是獨立於主動/模式的一個分類。每個分類的加成和減值的最大值將被加到一起。
+
+負面效果(如眩暈、擊倒）也被認為是主動效果。如果一項負面效果被釋放到已有此效果的角色身上，且如果新的持續時間時間更長，那麼將會替代已有的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>疲憊</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>疲憊代表角色進行活動時身體和心理上的損耗。
+
+最通常的情況是當角色被擊倒後，作為一種傷殘而產生疲憊，不過一些劇情互動如果特別費勁，那麼也會導致疲憊。
+
+疲憊會經歷數個階段，一開始只有極小的減值，但會逐漸變得十分嚴重。
+
+休息是解除疲憊的最好方法，此外一些消耗品也能解除疲憊。
+
+（另外，角色的運動能力會自動降低所有活動造成的疲憊累積。）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>露營物資</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>露營物資是在野外和地牢中休息的必須物品。此物品代表一系列物品，包括安營、準備食物、包紮傷口或者其他休息恢復的物品。許多商品都會出售野營物資，但偶爾也會在箱子裡或敵人身上找到它。遊戲的難度等級將限定你一次能攜帶的野營物資最大數。低等級難度允許你攜帶更多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>工具</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>213</ID>
+			<DefaultText>你在東陲的旅行中會找到各種各樣的專門工具。像槓桿和抓鉤就可用於某些劇情互動。這些物品不需要裝備，但在使用後會從物品欄中移除。
+
+撬鎖器是一種用來撬鎖的特殊工具。如果角色的器械技能足夠高，在撬鎖時將不再需要撬鎖器（也不會消耗）。然而，對於有挑戰的開鎖，你可能會需要數根撬鎖器才能成功。和其他工具一樣，撬鎖器不會出現在單個角色的物品欄中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText>全武器攻擊</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>能力說明中如果包含「全武器攻擊」或「主武器攻擊」的字樣，代表這些能力發動時傷害是基於持有的主副手武器或者只有基於主手武器。
+
+				而基於武器的能力還能繼承武器上觸發效果，比如勁弩必然自帶的暴擊觸發擊倒，使用這些能力造成暴擊同樣會觸發擊倒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>216</ID>
+			<DefaultText>主武器攻擊</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>217</ID>
+			<DefaultText>艾比頓</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>218</ID>
+			<DefaultText>魔像、機器、工業、力量、希望和抱負之神。最喜歡勞動階級。據說「魔像神」曾和其他眾神一樣擁有人類的形態，但之後被殺死，只能將自己重塑於一尊魔像之中。對他的死亡眾說紛紜，但都不明確。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>219</ID>
+			<DefaultText>貝拉斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>220</ID>
+			<DefaultText>死亡、輪迴、門庭、壽終和無可逃避之神。作為生死輪迴的守護者，貝拉斯據說會尋找並帶走那些超脫輪迴的生命。根據民間傳說，貝拉斯一般會以蒼白騎士或接引者（兩者都是骸骨人物）的形態出現，以挑戰或欺騙的方式引導人們走向死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>221</ID>
+			<DefaultText>誒歐瑟斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>222</ID>
+			<DefaultText>重生、救贖、黎明、春天和光明之神。傳統形像是一個擎著蠟燭，帶著銀色王冠的男人。據說其在聖人戰爭中佔據了雷亞德賽熱斯農民懷德溫的軀體，並在戰爭結束後和懷德溫一同被毀滅了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>223</ID>
+			<DefaultText>伽拉宛</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>224</ID>
+			<DefaultText>狩獵、刺殺、追捕、野性和捕食之神。有時會幻化成穿著毛皮大衣的獵人或是一條巨大的獵犬。伽拉宛喜歡讓強者存活，而淘汰掉弱者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>225</ID>
+			<DefaultText>海蕾婭</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>226</ID>
+			<DefaultText>天空、母性、創造、鳥類、歌曲、發明、語言和藝術之女神。不清楚其身體形態，但據說能變成各種鳥類的樣子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>227</ID>
+			<DefaultText>瑪格嵐</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>228</ID>
+			<DefaultText>戰爭、火焰、變形、淨化、消耗和審判之女神。也是鹿林的庇護女神。據說她祝福了神錘炸彈，使其摧毀了懷德溫，可能還有誒歐瑟斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>229</ID>
+			<DefaultText>昂德拉</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>230</ID>
+			<DefaultText>海洋、遺忘、失落、無情和哀悼之女神。據說曾愛上月亮，並試圖將其拉近，而導致了災難性的後果。人們把希望遺忘的事物的代表物帶去她的神殿，而她的牧師將這些代表物投進海中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>231</ID>
+			<DefaultText>銳末干德</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>232</ID>
+			<DefaultText>熵、寒冷、冬天、厄運、饑荒和天災之神。顯現為一頭巨大的白化的原牛，在一片暴風雪中移動，而跟隨著銳末干德腳步的則是死亡和分解。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>233</ID>
+			<DefaultText>斯卡恩</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>234</ID>
+			<DefaultText>反抗、叛亂、秘憎、陰謀、怨恨和嫉妒之神。常被描繪成帶有傷疤的醜陋奴隸，並為被征服者和窮困者所敬拜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>235</ID>
+			<DefaultText>瓦爾</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>236</ID>
+			<DefaultText>秘密、啟示、幻覺、密碼、模糊、感知、夢境和幻景之神。瓦爾本身便是一個謎，沒有固定形態和性別。它的追隨者們致力於創造和解讀謎團。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>237</ID>
+			<DefaultText>媉蒂卡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>238</ID>
+			<DefaultText>正義、法律、誓言、承諾、統治、復仇、記憶和階級之女神。被形容為一位老年貴婦，頭上戴著破損的皇冠。據說曾統治過其他諸神，但已經被推翻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>239</ID>
+			<DefaultText>鹿眾帝國</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>240</ID>
+			<DefaultText>四百年前人類和精靈王國合併的產物，由一位初帝或煌後所統治。鹿林和雷亞德賽熱斯都起源於鹿眾帝國的殖民地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>241</ID>
+			<DefaultText>鹿林</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>242</ID>
+			<DefaultText>由鹿眾帝國的移民建立的殖民地國家。在一系列和鹿眾帝國的衝突之後，這片土地在埃歷2672年得以獨立，現在由一位公爵治理，後者又由其下伯爵領的七位伯爵選舉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>243</ID>
+			<DefaultText>艾爾·格蘭法斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>244</ID>
+			<DefaultText>這片領地在巴爾河東南部的森林，由一群被稱為格蘭法斯人的本地土著建立，並由六個最強部落組成的議會共同治理。艾爾·格蘭法斯有著眾多英格維斯遺物，格蘭法斯人對其視若珍寶。這些遺物成為了和鹿林殖民者的一系列衝突的中心，後者常常侵犯格蘭法斯領地，並試圖掠奪遺跡中的遺物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>245</ID>
+			<DefaultText>英格維斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>246</ID>
+			<DefaultText>一個兩千年前就已滅絕的文明。他們的人口中心位於今天的艾爾·格蘭法斯和鹿灘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>247</ID>
+			<DefaultText>雷亞德賽熱斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>248</ID>
+			<DefaultText>鹿林的北方鄰國。雷亞德賽熱斯這個國家深深扎根於其對誒歐瑟斯的信仰——這份熱情在聖人戰爭中佔有主導地位，甚至是在誒歐瑟斯表面上死亡之後仍有留存。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>249</ID>
+			<DefaultText>維利亞共和國</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>250</ID>
+			<DefaultText>商業大國，之前是更大、更古老的國家，舊維利亞，的一個殖民地。共和國在鹿林和艾爾·格蘭法斯的南方，被一位公爵所統治，其由「寶座議會」所選舉出，這個議會由14名公爵組成，其中包括五位最傑出者，即「大公爵」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>251</ID>
+			<DefaultText>魂珀</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>252</ID>
+			<DefaultText>一種殼狀的有機材料。對於工匠們而言，它易於塑形；對於靈魂學者，它有獨特的能力，可以吸入、容納和導化靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>253</ID>
+			<DefaultText>靈魂學</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>254</ID>
+			<DefaultText>操縱靈魂的科學。這片領域才產生不久，卻充滿爭議。其在鹿眾等國已被禁止，但在鹿林和維利亞共和國卻仍可繼續開展。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>255</ID>
+			<DefaultText>覺醒的靈魂</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>256</ID>
+			<DefaultText>一般情況下，人們不會想起自己前世的生活。然而，具有覺醒靈魂的人，其前世的記憶和人格會在這一世出現。和一般記憶相同，覺醒常常是由於看到當前的某些事物而回想起從前的經歷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>257</ID>
+			<DefaultText>貝拉斯之輪</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>258</ID>
+			<DefaultText>也被稱為「生死之輪」或更簡短的「轉輪」，是一種比喻性的概念，用於描述靈魂在死亡時離開身體，通過魂珀柱離開這個世界，並在新的軀體中重生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>259</ID>
+			<DefaultText>噬魂風暴</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>260</ID>
+			<DefaultText>艾爾·格蘭法斯當地野外的一種風暴。被捲入風暴的人會被剝離靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>261</ID>
+			<DefaultText>精魂</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>262</ID>
+			<DefaultText>靈魂們由精魂所形成。作為一種資源，這種靈魂物質深受靈魂學者的珍視，因其實驗經常必須用到它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>263</ID>
+			<DefaultText>空嬰</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>264</ID>
+			<DefaultText>生下來卻沒有靈魂的幼兒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>265</ID>
+			<DefaultText>迷失靈魂</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>266</ID>
+			<DefaultText>死亡之後，靈魂會尋找進入魂珀柱的道路，以重新回到誒歐拉世界的生死輪迴之中。有些時候，靈魂沒有找到這些柱子，或者被拒絕進入。這些靈魂被稱為「迷失靈魂」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>267</ID>
+			<DefaultText>大清洗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>268</ID>
+			<DefaultText>聖人戰爭結束不久，鹿林的暴民，特別是在鄉村區域，四處搜索並殺死誒歐瑟斯的追隨者。起點是寒曉鎮，據說（在戰爭初期，在邊境上）該鎮未做抵抗就放懷德溫部隊通過。暴民在光天化日之下對誒歐瑟斯人進行了追捕、折磨和屠殺。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>269</ID>
+			<DefaultText>聖人戰爭</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>270</ID>
+			<DefaultText>一開始是雷亞德賽熱斯的農民起義，其領袖是一個名叫懷德溫的農民，其自稱是誒歐瑟斯在凡世的容器。在推翻雷亞德賽熱斯政權後，懷德溫又開始侵略鄰近的鹿林，並被打敗——被一種名為「神錘炸彈」的武器摧毀了。從此誒歐瑟斯便杳無音訊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>271</ID>
+			<DefaultText>殘酷救贖</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>272</ID>
+			<DefaultText>靈魂學者在懷德溫的遺贈期間試圖減少空嬰死亡的一次嘗試，將動物的靈魂轉入空嬰的身體中，希望他們能自我痊癒。這次實驗的失敗成了一場災難，並導致了狂童的誕生，被稱為「殘酷救贖」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>273</ID>
+			<DefaultText>懷德溫的遺贈</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>274</ID>
+			<DefaultText>一個起源未知而廣泛傳播的災禍，使鹿林的嬰兒在出生時就失去了靈魂。取這個名字是因為它的起源和聖人戰爭中的聖懷德溫之死大略上是同時發生的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>275</ID>
+			<DefaultText>通魂者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>276</ID>
+			<DefaultText>非常罕見的一種人，先天或後天地具有看到靈魂的能力，有時甚至能閱讀它們或和之交流。關於通魂者的天賦獲取有許多形形色色的記載，而比起遇到一名貨真價實的通魂者，某人偽稱自己是則更常見得多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>277</ID>
+			<DefaultText>狂童</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>278</ID>
+			<DefaultText>通過靈魂學而把空嬰變成動物靈魂的軀殼。這些孩子遲早都會變得凶狂而殘暴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>279</ID>
+			<DefaultText>神祇</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>280</ID>
+			<DefaultText>地點</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>281</ID>
+			<DefaultText>見聞</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>282</ID>
+			<DefaultText>其他</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>283</ID>
+			<DefaultText>快速儲物</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>284</ID>
+			<DefaultText>持續時間</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>285</ID>
+			<DefaultText>治療</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>286</ID>
+			<DefaultText>行動隊列</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>287</ID>
+			<DefaultText>按住shift鍵時點擊容器中的物品將會直接將其移動到您的儲物箱中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>288</ID>
+			<DefaultText>持續時間決定了所有持續傷害、負面和增益的持續時間。負面效果暴擊時持續時間將提高50%。
+
+所有持續傷害的持續時間提高並不增加總傷害，實際上傷害效率反而是降低了。但另一方方面也可以從對帶持續傷害目標傷害加強的增益中提高傷害效率。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>289</ID>
+			<DefaultText>治療指的是恢復耐力的效果，恢復的數額取決於威力，裝備的治療附魔（比如聖勃拉吉亞之淚）和目標裝備的受治療附魔（比如法爾瓦諾的護符）。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>290</ID>
+			<DefaultText>按shift然後點擊一系列行為或者路徑點將會使角色按照順序完成這些動作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>291</ID>
+			<DefaultText>作用範圍</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>292</ID>
+			<DefaultText>作用範圍決定了所有法術、技能和光環的覆蓋區域大小。通常包括中心的紅色區域和外圍的黃色區域。
+
+紅色為全誤傷性區域，傷害和負面將對區域中所有目標生效。
+
+黃色會智能識別不會誤傷，傷害和負面總是對敵人而去，而治療和增益則只會對盟友生效。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>293</ID>
+			<DefaultText>覆蓋</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>294</ID>
+			<DefaultText>賦予能力</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>295</ID>
+			<DefaultText>具有賦予能力屬性的物品，在裝備時可以用來施放能力或法術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>296</ID>
+			<DefaultText>受暴擊觸發</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>297</ID>
+			<DefaultText>裝備帶有受暴擊觸發屬性的物品的角色在戰鬥中被暴擊時會自動觸發列出的能力或法術。
+
+受暴擊觸發在每次遭遇中不會觸發多於2次。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>298</ID>
+			<DefaultText>暴擊觸發</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>299</ID>
+			<DefaultText>有暴擊觸發屬性的武器會在持有者對敵人造成暴擊時，觸發列出的能力或法術。
+
+暴擊觸發每次遭遇只能觸發1次。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>300</ID>
+			<DefaultText>牡鹿在鹿眾和格蘭法斯文明中一直是不可或缺的一部分。它們因其角、皮和肉而被獵殺，又因其力量和速度而被敬拜。母鹿和小鹿對獵人和旅行者而言不成問題，但鹿林的成年公鹿具有十分強的侵略性。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>301</ID>
+			<DefaultText>六肢魚怪是地盤意識很強的四條胳膊的兩棲生物。雖然它們擁有厚實的皮膚，可以抵擋白際山的嚴寒，它們還是更喜歡溫泉。六肢魚怪是群居型的魔怪，使用簡陋的武器，但天生具有法力。它們在山中尤其危險，風暴和降雪會湮沒其行跡，令旅行者難以察覺。它們可以長期待在冰下，經常突襲漁民。
+
+六肢魚怪紅鰭是一個統治地位的、成熟的六肢魚怪。公的母的都有可能。化為紅鰭的六肢魚怪擁有紅棕色皮膚，頭頂生出骨狀結構。它們並非一個族群中最年長的成員，卻是最有攻擊性的，通常負責保衛巢穴。六肢魚怪紅鰭失去地位後，頭頂的骨狀結構會脫落，皮膚則變回藍色、綠色或紫色。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>302</ID>
+			<DefaultText>矮人軍械所的矮人的命運，在兩個世紀以來，仍是學者心中的謎。鮮為人知的是，矮人指揮使中間曾產生巨大分歧，而導致族群分裂。他們鎖上了軍械所大門，然後再也沒有出來過。
+
+這些骷髏都是矮人的身材，所配武器都曾是上等材質，看似傳說中的杜根鋼。不同於大部分骷髏，它們組織有序、陣型整齊。它們作戰時技藝精湛、富有紀律，並配有強大武器，作為敵人是非常難啃的硬骨頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>303</ID>
+			<DefaultText>類似幽魂，怨靈是在特別暴力的生活或死亡之後繼續留在人間的靈體。雖然它們遍佈誒歐拉，不過在白際山的小路上——到處是食人魔、六肢魚怪、強盜和奴隸販子——它們的增加速度尤其驚人。
+
+怨靈以精魂為食，會攻擊附近的人類或魔怪。雖然他們的攻擊好似是無意識的，其實它們足夠聰明，懂得將敵人拆散，以便逐個擊破。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>304</ID>
+			<DefaultText>海妖據信是精魂的顯靈，由其以前的主人所產生的強烈想念或慾望而聚集形成。她們經常和大海及昂德拉聯繫在一起，許多海妖的故事都和導航失誤有關，人們認為是那是由其不可抗拒的呼喚聲所導致的。然而，只要滿足條件，海妖隨處可見，她們的呼喚聲也並沒有那麼危險，更危險的是其尖叫。
+
+不論棄讓出精魂的人原本是什麼身份，她們幾乎總會化作誘人的女性外形，原因不明，據說這是昂德拉的喜好。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>305</ID>
+			<DefaultText>怨靈是負面情緒中最持久的一種。憎恨通常會隨時間而淡化。悲傷也會逐漸獲得接受。但是由殘忍行為、不公待遇甚至煩心所引發的義憤卻會干擾靈體，直至死亡。
+
+惡毒的靈體亦是如此，他們無非是仇恨本能的混合物，見人便會攻擊，只有受害者遭罪或死亡以後，他們才會滿足。「惡毒的靈體」還是一種家釀酒的名稱，流行於北鹿林的郊區。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>306</ID>
+			<DefaultText>矮人軍械所沉淪之際，發生了最後一戰。還活著的最好的工匠們使用了最好的材料和最英勇的靈魂，在白皚鍛爐創造出了守衛。然而，軍械所還是陷落了。
+
+利用金屬、石頭、其他材料製造人工生靈的企圖早於當代的靈魂學，但是科學的進步已令構裝體由錯誤百出的自動裝置，變成了有一定感覺的生靈，並且近些年頗為常見。功能異常不那麼常見了，但使用——而且往往來源可疑的——靈魂似乎也造成了發病期的嚴重暴力。
+
+由於構裝體是由金屬打造的，人們以為它們不過是行走的盔甲套裝，但這其實是誤解。構裝體很少是空殼——它們大多是由固體材料製成，或充滿定制的裝置機關以輔助運動。更不易察覺、但對於其創造者則非常明顯的是，構裝體基本上在形狀和功能上都很像人類，但極少有任何近似人類的性格，因為製造他們最主要的動機就是陪伴人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>307</ID>
+			<DefaultText>歿妖的死亡過程若被法師的儀式阻斷，他便成了半歿妖。成功將歿妖化為半歿妖的法師數量非常有限，因為儀式複雜，而且據說所需原料非常難找。智者認為，這儀式是治療不死的第一步。
+
+不論這項儀式背後有何道理，半歿妖強大、聰明得可怕。雖然他們的身體已經不朽，對於生肉的渴望卻是永在的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>308</ID>
+			<DefaultText>巫妖數量稀少，令人畏懼。他們是神秘法術的大師，揭開了延命的途徑，而不用面對噬魂鬼或其他軀殼的心智劣化過程。沒有可靠記錄記載了如何成為巫妖，少數成功之人也不願分享他們的方法。不過，據說過程既艱難又痛苦。有關法術的史料記載，多是警示性的故事，講述野心勃勃的法師有意獲得永生，結果卻只是撕碎了自己的身體。
+
+巫妖雖然也會腐朽，但他們的心智功能卻會留存，這也是把他們和軀殼們區分開的特徵的一部分。他們將自己的精魂封存於符匣，後者普遍的形態是小瓶或者護身符，被帶在身上或放在身邊近處。然而，知名巫妖很少透露符匣的性質或位置，因此相關理論僅僅是推測。
+
+人們相信，大多數巫妖都是強大的法師，但這只是普遍看法，而非事實準則。有一個巫妖活了將近一千年，她是貝拉斯的女牧師，靠她自己的熱情奉獻而維持。據傳，靈魂學者使用類似概念做實驗，但由於這一行當臭名昭著，誰也不願承認。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>309</ID>
+			<DefaultText>眾所周知，靈魂學者、死靈法師及其他無良術士利用同類身體做實驗，正是他們製造了各種構裝體和軀殼。有些是為了研究，有些只是取樂。
+
+虛空查看者是充滿精魂的頭骨。最初有關虛空查看者的記錄來自舊維利亞，當地一個如今臭名昭著的死靈法師創造了它們，以作為宮廷的解悶消遣。自那以後，它們便被用作巡邏員、守衛、服務員。他們體型小，易於製造、操控。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>310</ID>
+			<DefaultText>法師已對構裝體實驗了幾個世紀，但是將精魂從活體抽出並轉移至別的東西，不論是石頭、金屬還是骨頭，都非常困難。主要多虧了靈魂學，隨著這一課題的研究群體已經增長，於是方法也進步了。
+
+但是，將完整的、包含人格、記憶和智力的靈魂轉移，仍然非常困難。反抗灣蕨堡區療養院的埃瑟爾默爾院長就是少數的成功者。支持者認為，完善這一記憶能夠延長人類壽命，無需墮落成噬魂鬼、歿妖或其他食肉軀殼。反對者則認為，充斥著靈魂學所的金屬怪物仍然非常恐怖。
+
+據估計，每完成一個真正有感覺的構裝體，都有數十或數百殘破的靈魂被困在完成了一半的身體中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>311</ID>
+			<DefaultText>骷髏雖然骨骼裸露在外，容易受到打擊，但仍是令人生畏的頑強武士。裝備雖然能夠保護他們，但是各種武器還是會消耗他們的骨骼。為了阻止這一問題，已有許多解決辦法，包括為骨骼包上套子或樹脂。難點在於，既要保護骨骼，又不能影響其移動。一旦完成這一任務，便能製造無比強大且持久的骷髏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>312</ID>
+			<DefaultText>飛劍和飛行掃帚永遠是預備的戰法師和過量勞動的學徒們的夢想。但是，儘管很多法師能夠升起日常物體，在戰鬥的緊張中，很少人能操控它們飄在半空。但，假若法術、武術皆全的施法者能夠一次操縱數十種武器，他確實會變得非常強大。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>313</ID>
+			<DefaultText>免疫</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>314</ID>
+			<DefaultText>免疫在任何情況下生效，如果傷害包括多種類型和效果，免疫將直接作用於其中對應的部分，其餘部分包括傷害和效果則正常繼續生效。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>315</ID>
+			<DefaultText>靈魂綁定裝備是獨一無二的道具，而且只能和一個角色的靈魂進行綁定。一旦綁定，就只能由被綁定的角色來使用，除非綁定遭到破壞。另外，綁定者如果達到了武器描述中的各種要求，還能增加裝備的能力。
+
+大多數靈魂綁定裝備只能和特定職業的人綁定。然而，不論種類為何，靈魂綁定裝備總會適用於角色已經擁有的任何武器專攻的天賦和能力。例如，某個戰士擁有「武器專攻（惡棍）」，他在使用靈魂綁定裝備時也能獲得加成，即便他揮舞的是巨劍或魔棒。對於擁有多種天賦的情況，例如: 同時擁有「武器專攻（惡棍）」和「武器專攻（農民）」，正面效果則不會疊加。
+
+一旦靈魂綁定遭到破壞，武器曾經隨著時間而獲得的能力都會失去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>316</ID>
+			<DefaultText>白際山</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>317</ID>
+			<DefaultText>這是帕格閏人的一系列失陷了的領土。在東陲最早期的殖民時代，矮人們在這裡定居。
+
+最著名的定居點，矮人軍械所，因為高質量的青銅藝術品和無和倫比的鋼鐵武器、盾牌和護甲而久負盛名。幾十年之後，白際山上的多個定居點，不是被不計其數的掠襲者洗劫，就是因為年久失修而崩塌。矮人軍械所的要塞顯然也被拋棄，封鎖了兩個世紀之久，標記著白際山的非正式的終結。
+
+在東陲流通著的銅製和鋼製的精品上，依然可以看到白際山的紋章。對山脈的象徵是很明顯的，但頂端的連環則寓意著帕格閏的眾多殖民地關係親密無間。黃色的底色，在金屬製品上不常見，它表示白際山最初是因銅器而聞名天下的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>318</ID>
+			<DefaultText>捏塑怪</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>319</ID>
+			<DefaultText>「捏塑怪」是誒歐拉最大的生物之一。它們大多住在偏遠、多岩石的地區，經常獨自或以一小群為單位生活或狩獵。雖然有許多不同種類，不過他們大多充滿攻擊性，且隱居遁世。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>320</ID>
+			<DefaultText>概率觸發</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>321</ID>
+			<DefaultText>帶有概率觸發屬性的武器有概率會觸發列出的能力或者法術，通常在擊中或暴擊時觸發。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>322</ID>
+			<DefaultText>受到擾亂負面效果的目標，防禦力降低6點，對恃目標數降低1。對於大多數角色來說，受到分心意味著他們無法通過對恃來阻礙敵人移動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>323</ID>
+			<DefaultText>昏迷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>324</ID>
+			<DefaultText>無法行動，敏捷降為0，反射和偏斜都40。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>325</ID>
+			<DefaultText>凍傷會降低角色的冰減免和堅韌。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>326</ID>
+			<DefaultText>嚴重火會降低角色的火減免和敏捷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>327</ID>
+			<DefaultText>嚴重傷口會降低角色所受到的治療。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>328</ID>
+			<DefaultText>系統電會降低角色的電減免和眩暈、擊倒的抗性。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>329</ID>
+			<DefaultText>奇異病症</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>330</ID>
+			<DefaultText>這是你在希蘭特·裡斯廢墟附近感染的疾病。它的特點是並發寒冷和強烈閃爍的溫暖，還有氣喘。車隊長奧德馬，把它當作一種常見疾病——腐敗病菌，但是仍然有一些奇怪之處。除了這些症狀，它不像是你曾有過的任何疾病。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>331</ID>
+			<DefaultText>在誒歐拉各地的水手們，都能講述出沒在海洋深處的野獸們的故事。而其中沒有幾個能比巨海怪還可怕了。
+
+巨海怪很少到海面，而且幾乎從不留下倖存者。它們是巨大的、有觸手的野獸，能夠粉碎小型船舶，並從甲板上抓起水手。儘管它們很大，但是巨海怪柔軟靈活的身體使得它們能夠擠進狹小的空間，搜索獵物或尋求藏身處。值得慶幸的是，相比於開放水域，它們更喜歡黑暗、寧靜的空間。
+
+他們是狡猾的獵手，而且根據傳說，是昂德拉的可怕僕人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>332</ID>
+			<DefaultText>這些無目者是古老而神秘的捏塑怪，人們對它們的瞭解更多是在神話裡。它們擁有著奇形怪狀的身材，粗糙卻功能正常的肢體。雖然依稀類似構裝體，它們的起源和目的依然未知。它們不知道飢餓和疲憊，這使得它們成為百折不撓的敵人。
+
+流行的說法裡，無目者是為昂德拉服務的，確保老舊的或危險的東西被人們遺忘。白際山的人們把他們描述成走在老路和幽靜之處的妖怪。父母會警告孩子們不要忘了他們的家務活，否則無目者會令他們也「被遺忘」，而丟失了的東西的人們，按傳統也會感謝昂德拉沒有派無目者也來找他們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>333</ID>
+			<DefaultText>類似更常見的潮濕孢子，發光孢子是生物靈魂能量吸入的巨型真菌有機體。不過，和它更具食肉性的近親不同，發光孢子似乎有某種中樞性、有意識的智力。它可以釋放強效的改變心靈的孢子和一些獵物形成並利用寄生紐帶。這些提供發光孢子和許多受害者形成連接，通過此連接能夠改變別人的意志。
+
+發光孢子由厚厚的移動性根須支撐著，也能夠利用它的捲鬚，作為緊夾的附肢或者有力的棍棒，進行直接攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>334</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>335</ID>
+			<DefaultText>地面</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>336</ID>
+			<DefaultText>任何標記「地面」的攻擊要麼直接影響地面，要麼在緊挨著地面的上方創造危險。像倒油或纏足根須這些法術都歸類為地面攻擊。一些生物，特別是飛行怪物和靈體，對地面攻擊是免疫的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>337</ID>
+			<DefaultText>儘管表面上和穴居蝠魔很像，寒蝠魔出沒在更冷的地區，而且通常在更高的海拔。它們擁有相當好的視力，但仍然是最有效的當作拾荒者或伏擊獵手。儘管寒蝠魔前肢下面揮動的皮膚在全年齡段都完全退化，年輕的寒蝠魔有功能齊全的翅膀。這些翅膀起初能支持它們身體的重量，但是一旦寒蝠魔成熟，它們就只能滑行一小段時間了。
+
+就像它們無毛的表親，寒蝠魔是群居的，一起築巢和撫養後代。他們緊密結合的團體是以為了生存於惡劣的氣候中為紐帶的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>338</ID>
+			<DefaultText>巨大敵對的蜘蛛以各種可怕的形狀，顏色和大小出現在東陲。這些大塊頭比它們的小型親屬更具進攻性，積極尋找著親屬和動物獵物。
+
+月亮蜘蛛因為和其他個體形成共生關係而臭名昭著，它們是聰明的物種，積極尋找能延長自身生存的盟友。作為回報，它們釋放出光環治療恢復盟友。我們假設這個光環是由微小粒子和月亮蜘蛛毒液組成的，據稱是強力的興奮劑。但是只有很少的蜘蛛樣本被捕捉進行研究，而能活過創傷的學者就更少了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>339</ID>
+			<DefaultText>戰狗是戰場上的常見景象，但是它們在鹿林和雷亞德賽熱斯之間的戰鬥中並沒有特別重要的作用。鐵連枷使用的狗來自於雷亞德賽熱斯鄉村一種大型、強壯、常見的品種，在那它們通常被用來當作守衛對抗狼和其他肉食動物。當然，連枷的戰狗則被飼養長大以對抗更加強大的對手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>340</ID>
+			<DefaultText>耐力激咒</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>341</ID>
+			<DefaultText>帶有耐力激咒屬性的物品會在使用者達到列出的耐力百分比時自動觸發相關效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>342</ID>
+			<DefaultText>泥沼蝙蝠和它們的寒蝠魔和寒蝠魔親屬有一些生理上的差異。其中最重要的是，泥沼蝙蝠似乎在成熟之後也保持著它們的幼年形態。這給予了成年泥沼蝙蝠飛行能力，但是這限制了它們能夠獨自打倒的獵物的類型。為了實現這一目的，泥沼蝙蝠配備有毒性分泌物，噴向它們的受害者。泥沼蝙蝠也會避開它們大型親屬的巨大公社族群。人們所發現的泥沼蝙蝠通常只形成小的群，並頻繁地因為食物、配偶和領土而爭吵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

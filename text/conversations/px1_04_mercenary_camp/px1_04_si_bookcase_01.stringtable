@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_04_mercenary_camp\px1_04_si_bookcase_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​書櫃的架上放滿了書本，散頁，和其他製品。很多書脊上刻畫著無法辨識的符號，更多的則是完全空白。
+
+細細搜索這團亂麻恐怕會花費幾個小時。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[搜索書櫃]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你在書架後端發現了一本寫有奇怪符號的書典。一開始沒什麼特別，但你最終注意到符號是魔法符咒，這是本魔法書。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你瀏覽過一本特別巨大的書，發現裡面夾著數張卷軸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你在書架頂層找到一本古書。由於佈滿灰塵，你差點沒發現。拂去灰塵，翻開書，你認出這本書是「埃柔喬曆法」的早期抄本。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​數小時的搜索讓你眼酸背痛。
+
+你沒再發現什麼有價值的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​其中一本特別重。你將其拉出來，發現這是本關於鑄造錢幣的書，不同分類的真正錢幣貼在書頁上。
+
+你將錢幣從書上剝下來拿走。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​你發現一本書的封面上鑲嵌著寶石。書本內容已經難以辨識，但你成功將寶石取了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​書架上到處放著彈簧，金屬線，和其他各種組件。你發現它們實際上是製作陷阱的組件。你將其組合起來拿走。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​你搜索數個沒有標記的藥草和干真菌的罐子。你發現其中一個裝滿了卡勞之心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

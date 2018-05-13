@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_02_durgans_battery\px1_02_cv_forge_globe</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>20</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​這個鍍金球儀做工十分精緻。金色的山峰在如鏡面一樣平整的海上升起，細小的河流在被刻大陸之中，就好像它們是被剃刀刻出來的一樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​這個鍍金球儀做工十分精緻。金色的山峰在如鏡面一樣平整的海上升起，細小的河流在被刻大陸之中，就好像它們是被剃刀刻出來的一樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​三顆無暇的藍寶石標注出了勞瓦泰、舊維利亞和活化之地的位置。
+
+環繞著球儀的銅環上刻有三行重複的詞句：
+
+「銘記所有的帕格閏人——
+
+從最年長的
+
+到最年輕的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[檢查球儀]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[按下舊維利亞上的藍寶石]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[按下活化之地上的藍寶石]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[按下勞瓦泰上的藍寶石]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​圓形的藍寶石正好和你拇指差不多大。你試驗了一下，發現它下面有有個彈簧機關。
+
+以你敏銳的洞察力，你注意到，按下舊維利亞上的藍寶石會讓其他兩個升起。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​圓形的藍寶石正好和你拇指差不多大。你試驗了一下，發現它下面有有個彈簧機關。但除此之外，你沒有找到其他有用的線索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​你壓下了舊維利亞上的藍寶石。
+
+它嵌入了球儀的表面之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你壓下了舊維利亞上的藍寶石。
+
+它嵌入了兩條相互纏繞的河流之中的位置。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​你壓下了舊維利亞上的藍寶石。
+
+你聽到啪一聲，所有的藍寶石都被彈升至原先的位置。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​你壓下了活化之地上的藍寶石。
+
+它嵌入了球儀的表面之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​你壓下了活化之地上的藍寶石。
+
+它嵌入一座山峰之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​你壓下了活化之地上的藍寶石。
+
+你聽到啪一聲，所有的藍寶石都被彈升至原先的位置。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你壓下了勞瓦泰上的藍寶石。
+
+它嵌入了球儀的表面之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你壓下了勞瓦泰上的藍寶石。
+
+它嵌入了蜿蜒的海岸線之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​你壓下了勞瓦泰上的藍寶石。
+
+你聽到啪一聲，所有的藍寶石都被彈升至原先的位置。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​在所有的藍寶石都被按下之後，球儀上顯示出了亮藍色光的紋路。
+
+之後，它轉了四分之一圈。在光芒消失後，你聽到房間另一側有機關發出叮噹聲和石頭摩擦聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

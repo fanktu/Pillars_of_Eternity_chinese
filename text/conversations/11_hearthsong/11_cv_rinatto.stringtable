@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_rinatto</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>46</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「她必將付出代價！那個巫婆，她將——」
+
+維利亞商人氣得團團打轉，當看到你靠近時，他向你咆哮起來。
+
+「喂，你！你來是為了和這些野蠻人做生意嗎？看看我的下場，離開這裡另找別處吧！」他唾沫橫飛。「都是些謊話簍子！騙子！詐騙犯！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​裡納托把臉轉了過去，撓著他的脖子並變換著重心。
+
+「我現在窮困潦倒，只有一些粗劣貨色可以賣了——真是尷尬得要死。如果我能夠從阿拉茜追回我的投資，我就有足夠的資金來重新開張我的店舖了。在那之前，歡迎你瞧一瞧我庫存裡還有的東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​裡納托滿面笑容地向你展開了雙臂。「歡迎回來，我的朋友！你找回我的錢了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​裡納托看到你走來時露出了微笑，他伸出雙臂歡迎著你。「你回來了，我的朋友！」
+
+他把雙手「啪」地一聲合在了一起，熱切地搓著。「那麼……想看看我保存的精品嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「又是你，」裡納托看到你時吐了口唾沫。「我從雙榆城被踢了出來要拜*你*所賜！現在是算賬的時候了。」
+
+裡納托將手指放入口中，發出一聲尖利、婉轉的鳴叫。好幾個全副武裝的人出現在他身旁。「我雇了幾個朋友，以確保能合適地……報答你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你打算幹什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「只要讓我抓到——」裡納托的聲音停了下來，他的目光投向周圍的格蘭法斯守衛。
+
+「我現在是在野蠻人的地盤，所以只能用言語說說她——別的還能做什麼？如果敢在她本族的土地上威脅她，那我豈不成傻瓜了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我來看看你賣些什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我拿回了你的錢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「當真嗎？！」裡納托瞪大了雙眼，雙手貪婪地奪過了錢包。「好極了！我都差點已經放棄希望了！」
+
+裡納托一一數著錢幣，銅板的丁當聲使他笑逐顏開。「真是太謝謝你了，好夥計。有了這，我終於能再進新貨了！來神樹幼苗找我吧。我會為你這樣能幹的客人提供精選的物品。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​裡納托吃驚地張大了嘴，他的眼睛和你緊緊對視著。「你這個奸詐的無賴！我根本沒做那種事！」
+
+他把雙臂抱在胸前，大口喘著氣。「是什麼讓你認為格蘭法斯人會相信你的謊言會甚於我的實話？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「天啊！那個格蘭法斯老巫婆賣給我無效的草藥！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[說謊]「如果格蘭法斯人發現你參和了被竊遺物的買賣，他們會怎樣對付你？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「恐怕你滿嘴牙都會被打掉，只能用剩下的半截舌頭含糊不清地為自己辯解。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「我是一個通魂者，魂君會相信我說的任何話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「阿拉茜讓我把這個關在小籠子裡的甲蟲帶給你。她說如果你不趕緊離開雙榆城的話，就會和這個小東西一樣下場。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​裡納托看著這件禮物臉都氣白了。「恬不知恥的老巫婆！她怎麼不把那只甲蟲塞進她的臭逼裡。」
+
+裡納托邊說邊憤怒地揮動著手臂，唾沫四濺，聲音越來越大。「她和她那些畫著花臉的暴徒會為此付出代價的！」
+
+他伸手把籠子從你手中打落……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「我們走著瞧……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「哦，那你就瞧著吧。」裡納托嘲笑著說。
+
+他向著你揮動手臂，要把你趕走。「滾吧，蠢貨，我的耐心是有限度的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​當看到你走近時裡納托搖了搖頭。「又怎麼了？還想說我是一個遺物竊賊？想告就去告吧——格蘭法斯人不會相信你的話的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「沒錯，他們不會——」裡納托的嗓音顫抖了，臉變得毫無血色。「你……能跟魂君說上話？
+
+「如果你能原諒我的話，我會離開這裡……去別處做生意……」裡納托嚇得直發抖，在你的注視下驚慌地收拾起行李來。收拾完後，他一言不發地匆匆離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「我……明白你的意思。」裡納托的臉變得雪一樣白。他低下頭，避開了你的視線。
+
+「如果你能原諒我的話，我會離開這裡……去別處做生意……」裡納托嚇得直發抖，在你的注視下驚慌地收拾起行李來。收拾完後，他一言不發地匆匆離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「她以為我是傻瓜嗎？誰能受得了這個！我被阿拉茜騙了，她將為此付出代價！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「讓我看看你有什麼能耐。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[迅速抓住裡納托擊打過來的手]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「我不會那麼做……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​你快如閃電般在半空中抓住了裡納托的手，中止了他的攻擊。他徒勞地掙扎著，無法擺脫你的掌握。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​裡納托伸手打向籠子，但打在了你的前臂上。那只蟲子毫髮無無損地落在了地上。裡納托轉身面向你，滿臉怒容。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「見鬼！」維利亞商人用最大嗓門喊道。「骯髒的野獸！這座破城市終會化為灰燼！」你聽到了附近的口哨聲。「我要殺了——」裡納托話只說一半。
+
+一支滴著血的箭頭從他的喉嚨穿了出來。商人的身體抽搐著，拍打著他的手。他跪了下來，如注的血往他胸口下流淌。你抬頭看到了一個格蘭法斯弓手正在走過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[命令裡納托停下來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​你大聲制止了維利亞人的攻擊。他往後退去，似乎有點膽怯，但很快又鼓起了勇氣，兇猛地向你衝了過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「那個兩面三刀的賤人阿拉茜！她聲稱賣的是天鵝之心的花蕾，但我拿到的卻是六蒲式耳的普通家養植物！完全無效的藥草！」
+
+他抓起一把藥草扔到了地上，將那些乾枯的細枝和葉子踩得粉碎，又憤憤地踢了幾腳，一股濃烈的香氣散發開來。
+
+「我要把我的錢從那個欺騙成性的蠻婦那裡奪回來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「你親自試過了……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「阿拉茜當面是怎麼和你說的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「好吧，我……」裡納托坐立不安，他的手神經質般抹著短袍上的皺褶。「我怎能去賣連我自己都不能確定有效的藥物？我當然試了那些草藥——否則的話，想想看我賣了這些蹩腳的假貨後會出什麼事吧！」
+
+裡納托清了清喉嚨，他的聲音安靜了下來。「這些草藥沒有應有的效果。服下後唯一的作用就是嘔吐不止。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「沒有實用價值……」他快而含糊地說。「她當然爭辯了——說那些藥草都是經過合法證明的。她當然要撒謊了。這是她的家鄉，人們只願意相信她。」
+
+他朝地上吐了口唾沫。「有她那幫野蠻的暴徒在，阿拉茜不用擔心會因說謊受懲罰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「天鵝之心是什麼」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​裡納托的憤怒稍稍平息了一點，他的臉上顯出一絲侷促的笑容。「天鵝之心是長在艾爾·格蘭法斯密林裡的一種植物。」
+
+他清清嗓子，壓低了聲音。「晾乾後吃下或者沏茶喝，據說能……能，呃……增強人對生命中最大快樂的動力（性趣）。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​他歎了口氣，雙手捧住了頭。「我不能靠賣這些假貨來把錢賺回來。但我又無力對質阿拉茜。
+
+「該不會……，」他看著你，似乎在盤算著什麼，「如果你在中間調停一下，也許能幫我要回錢。當然，我會付你一筆優厚的報酬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「我想想我能做些什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​裡納托捻了撚手中的一片干葉子，皺著眉頭仔細審視著它。當你走近時，他抬眼看著你。
+
+「你好，朋友！考慮好要幫助我嗎？在這個城市沒有人願意幫我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​[無視裡納托微不足道的攻擊]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​裡納托揮拳打來，你絲毫也不避讓，他的拳頭打在你結實的身體上，發出指骨斷裂的聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

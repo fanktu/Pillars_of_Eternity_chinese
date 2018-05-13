@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_02_durgans_battery\px1_02_cv_ghost_foreman</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​這個矮人的遺體躺在地上，覆蓋著塵土和蛛網。
+
+精魂在附近漂浮，如同灰塵懸浮於陳腐的空氣中那樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[探出並觸及精魂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[搜索屍體]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​屍體的大腿邊上的塵土中，有一把鑰匙正閃閃發光。
+
+在你檢查它的時候，周圍的靈體開始躁動不安了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​雖然有點費事，不過你還是把那些懸浮的精魂收集了起來。
+
+在你努力期間，靈魂突然將你拉入了它的記憶之中。你的身體因此遭受了不小的衝擊。你的心臟也在胸膛中劇烈地跳動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​其他的帕格閏人在你的身邊衝過。不知是在撤退還是在是進攻。你正跑過一個黑暗的通道。雖然你的身體已經勞累過度，但你仍然用盡所有的力氣在奔跑。每跑一步，你的心臟就跳動得更加劇烈。
+
+重擊聲在你周圍迴響。每一下都能在你的胸腔中迴盪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​你通過了礦區並進入了主大廳中。廳內滿是在喧嘩、推搡和焦慮的矮人。即使你能到達另一側的門而不被踩踏或是被打死，人群的緊張氣氛也告訴了你，那扇門已經被鎖住了。
+
+你身後的地道中傳來尖叫聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你將希望寄托於通往下方的鍛爐的門上，不巧的是它被鎖在了工坊。在路障的另一邊。
+
+戰鬥的聲音越來越近了。
+
+你忽視了胸口越發嚴重的壓力，衝向了礦區。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​你奔向了礦區深處，漸漸迷失了方向。這些通道也不開始變得越來越狹窄。
+
+你不慎跌倒了。雖然你想努力爬起來，但你的手臂卻因為疼痛變得麻木。即使你停下腳步，你的呼吸也緩不下來。這時，你第一次感到胸膛中有一股絞痛。
+
+黑暗包圍了你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你從記憶中抽身出來，大口呼吸著空氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[拿走鑰匙]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​你把屍骨推開，拿走了鑰匙。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​就在你做這些事的同時，你聽到了恐怖和震怒的尖叫聲。矮人軍械所中的亡者們向你聚攏過來，他們亮出了不尋常的牙齒和爪子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

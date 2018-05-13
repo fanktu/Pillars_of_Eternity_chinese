@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px4\px4_cv_steward</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​管家附近的空氣中懸浮著一種味道——外國的香料和海洋的發霉鹽水的溫暖氣味。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「貴安，大人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「您聲名遠播，大大超出了本要塞的邊界。我們已經收到了來自東陲各地的信物。儘管每一個贈送者都聲稱他們的禮物具有獨一無二和非同尋常的力量，但恐怕這些物品的傳說早已失落在時間長河了。」
+
+你感受著贈和你的這些物品，每一個都空著並渴望被使用。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

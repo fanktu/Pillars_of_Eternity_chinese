@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_eder_intro</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>89</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「十七個半。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「十七個半。也可以是十八個，這要看你怎麼計算那個矮人女人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「你說啥？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「你在說什麼呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「那個矮人女人，你似乎在決定是否要把她算作一整個人。
+
+「我覺得你應該。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「掛在樹上的人。一共有十八個。反正，我上次數的時候是這樣的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「那個矮人是怎麼回事？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「你是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​他伸出自己的手，「我叫艾迭爾。
+
+「儘管對於這裡的人們來說，也可以稱作『十九號』。」
+
+他上下打量著你，笑著說。「不認為我該把你算得高過二十二多少。最多也就二十三吧。」他說道。「看上去你是喜歡捲入是非的那種類型。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「是什麼讓你覺得我會對那個矮人女人感興趣？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我在這裡吸煙，看到你盯著她。我都給自己的煙袋裡加了兩次煙葉了。你的眼睛幾乎一眨不眨。你嘴巴松得那麼厲害，我起初還以為你是一個拉德裡克（家族的人）呢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「你知道『通魂者』是什麼嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我最近戰體不舒服。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「絕不可能，我才沒流那麼多口水。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「你幹嗎關心這個？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​他快速地掃視了一下周圍，然後說，「小心點，朋友，在這裡最好別用那個詞。可能有拉德裡克的馬屁精會聽到的。
+
+「靈能師，靈魂學者，通魂者。在這裡的人看來是一回事，對拉德裡克來說尤其如此。他們總是一個勁兒地到這兒來實施他們的『治療手段』，剝削絕望的人們。而那些人沒有一個是他們所聲稱的那樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「當然了。我們都經歷過站著一動不動地盯著屍體而不眨眼的苦日子。」他眨眨眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「哈！所以你早就熟悉了。
+
+「不過，你還是得原諒我的好奇。在這裡我們更傾向於對我們的死者熟視無睹。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「你得原諒我的好奇。在這裡我們更傾向於對我們的死者熟視無睹。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「不關你的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「說的也是。如果這裡的人都能做好自己的事，就不會有樹上掛的那麼多風鈴（指屍體）了。也許我應當多多提防。
+
+「我要走了，你自己慢慢欣賞屍體吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「對一個有隱情的人來說（你這樣）算是很善交際了吧。
+
+「你會告訴我（你）在樹旁邊是怎麼回事嗎，或者我來猜猜看？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「因為見到你那有趣的表情，我懷疑你跟那個矮人*的確*有某種關係。
+
+「呵。不管怎樣，也許我終究不會成為『十九號』了。沒有冒犯你的意思。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「你認為你將要被吊死？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「這個小鎮已經跟我有很長時間的過節了。嗯，唯一曾經支持過我的傢伙……就是吊著的那個十八號。我在農場的組長。原來在戰爭中曾是我的隊長。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「什麼意思？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「喂，別責怪我，我人微言輕。我說的都是實話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「我沒介意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「別那麼肯定。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「很好。他們把這兒的人們吊死，並不是出於個人仇恨。我也只好這麼安慰自己了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「戰爭？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「你的組長為什麼被吊死？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「你的鎮子為什麼敵視你？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「如果你真是下一個要被吊死的人，那你還在這裡幹什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「聖人戰爭。我人生中唯一的一次戰爭。他們認定他是誒歐瑟斯的活化身。推翻德賽熱斯。進軍鹿林。所以我們給了他一個鹿林式的『你好』。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「什麼是鹿林式的『你好』？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「我們把他炸飛了。」他對此微微一笑。但這種笑只是在敘述這個笑話時表示它是該笑的，而並非自己真的感到愉快。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「我還有其他問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「我有時間（隨你問吧）。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​他歎口氣，搖了搖頭，眼睛一直盯著那棵樹。「這是遲早的事。如果不是因為他密謀對抗拉德裡克，那麼就是因為保護我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​他抬頭看了看樹，目光跟隨著那些搖曳屍體中的一個。「原因已經無關緊要了。
+
+「當然，在這個時代，各個鎮子並沒有絞刑，但是當拉德裡克的人到來時，他們毫無壓力地開了先河。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「幾天前，拉德裡克派人來這到裡。說是據可靠消息，鎮裡有人和寇爾什有勾結。密謀推翻拉德裡克。
+
+「說是如果那人不馬上站出來的話，他們就要把我們一個不剩地全部吊死。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「惹麻煩了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「沒人站出來。所以施維信——我的組長——站了出來，說他們要找的人是他。
+
+「而他們信了他的話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「誰是寇爾什？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「一個不滿他們做法的人。現在在逃。估計會一直逃亡直到被抓。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​他聳聳肩。「信錯了神。這就是結果。
+
+「鍍金谷曾經有很多誒歐瑟斯的信徒。而那邊的那堆亂石塊曾是他的神殿，你應該能有點概念了吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「直到有一天，有個叫懷德溫的人出現在鹿林的邊界。他自稱是誒歐瑟斯的活化身。還帶領著一支軍隊。因為這個原因，沒過多久，誒歐瑟斯就失去了很多信徒。
+
+「我的兄長沃登和我，都不相信有這種事。決不可能是誒歐瑟斯。沃登參了軍，後來我也是。但他最終沒有能夠回來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「戰爭之後，人們嚴懲誒歐瑟斯的信徒。指控他們通敵。情況嚴重惡化，尤其是在『遺贈』開始後。人們總是喜歡找替罪羊。
+
+「因為我參加過戰爭，所以我還算安全。但沒過多久，就傳來傳言說我的兄長，曾經是誒歐瑟斯的信徒。此後我就沒那麼安全了——直到有一天我的組長跑過來，告訴我說他們威脅要吊死他，就是為了捉我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​他勉強一笑。「我大部分時間都在喝酒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「說實話，我正打算逃出去。只是還沒想好該去哪兒。
+
+「幾乎沒有哪個地方不認為，『懷德溫的遺贈』是因懷德溫而開始的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「我們可以一起走。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​他聳聳肩。「那好吧。我想我可以遊覽一些風景。」
+
+他朝（滿是屍體的）那棵樹瞟了一眼。「只要你不是由你挑選景色就行。」他朝前面揚了下頭，並給你一個嘲弄的表情。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「你要往哪裡去？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「一個叫努阿王堡的地方。那裡有一個老通魂者或許能幫我的忙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​「我好像幾年前聽說過那個通魂者的事。他馴服了那個地方。人們為了各種各樣的事去找他。靈魂上的痛苦。對逝去親人的問題。
+
+「當然，在那個時候人們談到通魂者還不用心驚肉跳。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​他心不在焉地用長滿老繭的拇指撓了撓腮上的鬍子。
+
+「我也說不清跟一個陌生人走是什麼滋味——而且是一個奇怪的人。但說實話，你或許是鎮裡唯一一個不會在看到我被吊死時感到鬆口氣的人了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​「算了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​「我有種怪異的感覺，好像你在等著他們吊死我，以便跟我進行你們通魂者的那種交談。那樣的話可就太壞了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​「你說你上過戰場？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​「我們走吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​「那棵樹上有你要找的人？我可以給你做介紹。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「在找能幫助我的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「不，我不需要任何幫助。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​他對著煙斗吸了長長的一口，表示理解地點點頭。「深表同情。」
+
+他吐出煙，轉移了注意力，而觀察起身邊的村子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​他聳聳肩。「那麼，看來你最好離開，不要在這裡逗留。」
+
+他轉移了注意力，而觀察起身邊的村子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​那人大大咧咧地笑起來。「歡迎來到我們可愛的村莊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​「這樣談論你們的死者的方式，挺怪異的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​他抬頭看看樹上，長出了一口氣。「上面吊著的，差不多是半個鎮的人了。沒有什麼談論的方式是合適的吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​「我在找能幫助我的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​「我不認為我需要幫助。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​有什麼東西點亮了艾迭爾的眼睛，而他聲音也隨之變得有活力起來。「像那樣的一個男人……我有些事情要向他請教。真不明白我之前怎麼從沒想到。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​「誰是誒歐瑟斯？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​「重生和救贖之神。反正，以前是。
+
+「也許在你來自的地方，人們不這麼稱呼他。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​艾洛斯蹙起了眉。「在這裡，你們的人就是這樣找樂子的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​艾洛斯看了你一眼，聲音變低沉了。「你明白了吧，我為什麼急於離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​艾洛斯好奇地看了你一眼，什麼也沒說。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​「有個好理由，如果我曾聽過的話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​一股混合著泥土和甜香的煙的氣息，飄進你的鼻孔。你抬頭尋找煙的來源，看到一個寬寬的、稻草色頭髮的人靠在一堵長滿苔蘚的石頭牆下，正用一隻肉乎乎的手拿著煙斗吸著。
+
+他直視著你的眼睛，但表情並不咄咄逼人。他望著你，發出一陣古怪的得意地笑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>​他望了你片刻，挑起了眉毛。他笑得更得意了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​「反抗灣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​「反抗灣。我已經遠離那裡很久了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​艾迭爾的眼睛亮了，聲音也隨之變得有活力起來。「這麼說吧，他們在那邊有某個東西我想看一看，當然，前提是不太麻煩的話。某種我本就打算已久的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​「我提到關於我兄弟的傳言。關於他背叛我們、轉而效忠於懷德溫。困擾著我已經很久了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>​「沃登總是去做他認為正確的事。所以他為了鹿林挺身而出，對抗和一個自稱是我們的神的人。換我也會那樣做的。這是正確的。
+
+「（不料）聽說他（反而）死於為雷亞德賽熱斯而戰，這令我一直憂心仲仲。不是因為怕他站到了錯誤的一邊，而是擔心我站在了錯誤的一邊。雖然懷德溫的所作所為看上去似乎不對，但如果他真的是誒歐瑟斯……」他搖搖頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​「在反抗灣的宮殿裡，有一座檔案館。」那裡他們保留著所有有關聖人戰爭的記錄。那些也許能粉碎所有的傳言。
+
+「如果你要去那裡，我就和你一起走。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​「雙榆城。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​他聳聳肩。「我們在這兒已經呆得夠久了，就連一座滿是有著敵意的格蘭法斯人的小鎮都開始聽起來像是個不錯的去處了。
+
+「那好吧。我想我可以遊覽一些風景。」
+
+他朝（滿是屍體的）那棵樹瞟了一眼。「只要你不是由你挑選景色就行。」他朝前面揚了下頭，並給你一個嘲弄的表情。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

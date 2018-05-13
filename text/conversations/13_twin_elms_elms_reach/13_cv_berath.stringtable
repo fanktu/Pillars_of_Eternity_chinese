@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\13_twin_elms_elms_reach\13_cv_berath</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>162</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你跪下來向貝拉斯祈禱。即使在你眼睛閉著的時候，你也能看到道路一直延伸向未知的遠方。頭頂的星空在順時針旋轉著，消失在你左邊的地平線，而後又從右邊升起。
+
+你試著仔細辨別道路兩邊的情況，但是你的眼睛卻無法專注。有一段時間你以為你看到了一片被迷霧籠罩的草坪和一塊峽谷巖壁。有一刻你甚至看到了海浪拍擊著道路邊緣。
+
+倘若你踏入這些不斷變化的風景中，你感覺自己肯定最後只會回到路上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你做了祈禱，而後再次發現你又回到了星空下的道路上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​當你向貝拉斯祈禱之後，你發現自己又回到了路上。
+
+你眺望著遠方，看到了一個矮小而蒼白的身影在等著你。開始，你以為又是一個關於大德魯伊萊斯汀的幻景，但是後來你注意到那個身影瘦骨嶙峋的，齜牙笑著。他站在了另一扇骷髏大門前，但是路通向地下，而不是前方。
+
+他招呼你靠近。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「在影中之陽找到賽奧斯並讓靈魂回歸到輪迴中。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「我們的老朋友們，死中有生，生中有死。我們在雙體之神的國度，而這寫是它的兩個方面。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​你想起了通往克裡阿班·利拉格的大門，還有旁邊山壁上刻著的兩個石像。一個看上去是男人，另一個像女人。他們只有皮包骨，身體扭向他們之間的門庭。
+
+而這門庭卻不是你在廢墟中看到的那樣。那是個骷髏頭，張著沒有下巴的大嘴，你如果一直盯著看，就會發現它的嘴好像越來越大。
+
+兩尊石像的手臂都指向了大嘴，像是在邀請你進去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[進入骷髏頭嘴裡]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[轉身離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​你轉過身去，卻發現路的另一端是一模一樣的景象——一個沒有下巴的骷髏頭，兩邊有兩尊石像。
+
+在你看的時候，雕像把頭轉向了你。他們的手指開始慢慢彎曲，呼喚著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​道路繼續延伸，穿過骷髏頭大張的巨口，通向了另一片被星星包圍的風景。在你通過的時候，你在遠方看到了一個一模一樣的門庭。一個矮人站在它的邊上，一動不動。
+
+你轉過身往後看了看，卻只見你剛才通過的骷髏大門就在你的面前。一個女精靈在路上等待著。就像矮人一樣，她也一動不動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「這就是希洛諾，也就是我們所說的貝拉斯，的兩副面孔。」她輕微顫抖了一下，她若有所思地看著石像，羽毛泛起了漣漪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[靠近矮人]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[靠近女精靈]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「『死中有生、生中有死』。貝拉斯的最古老的兩個代表。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「嗯。這景像似曾相識。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​艾迭爾笑著搖了搖頭。「有意思。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「不要被死神的幻象給迷惑了，通魂者。貝拉斯對我們無可奈何——至少現在是這樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​葩萊吉娜惱火地歎了口氣。「夠了，通魂者。是福不是禍，是禍躲不過。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​你繼續沿著路朝他走過去。他抬頭看著你走過來，但是你不知道他是在看著你還是看穿你。他的臉光滑而又鬆弛，就好像皮膚脫離了肌肉。
+
+你繼續看著，他的臉開始發生了變化。他的眼角出現了皺紋。他的嘴開始下沉，鼻子道嘴角邊列出了一條縫。他的下頜開始萎縮，鬆弛的血肉就像生麵團一樣下垂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​你開始朝她走過去。她站得有些不自然。她太一動不動了。
+
+當你靠得足夠近的時候，你看到她的腿變成了一根纖細的樹幹，她的腳則變成了纏繞著的樹根。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​他舉起了手，捧為杯形。手上佈滿了血跡。他抬手在自己新長出皺紋的前額到頸部的位置，用血劃出了一道痕跡。隨著他將暗黑色的、粘稠的液體抹入了他的皮膚，皺紋消失了。皺褶開始退去，他的皮膚緊致得就像重生了一般。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​他抬起了頭，這次，你知道他是在看著你。他重生的臉看起來像是個面罩，光滑和平靜得讓人難以置信。而他深邃的黑眼睛就像兩個飢渴的洞穴，像是骷髏頭空洞的嘴巴一般。
+
+「來吧。向『自然倫理』做出你的犧牲吧。」
+
+他的身體擋住了道路。他朝你舉起了那只血腥的手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​[握住他的手]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​[攻擊他]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​[轉身跑開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​你抓住了他的手，但是他的皮膚滑的就像泥鰍一樣。你在抽出手臂的時候聽到了類似干帆布裂開的聲音。
+
+他的皮膚裂開了，手臂處出現了一條橫跨他整個身體的裂縫。血液噴湧而出，你甚至無法想像他的身體裡還有其他的東西。
+
+矮人的血流光了之後，像一根乾枯的樹幹一樣倒了下去。道路上的閃爍的血液中流淌著數千個靈魂的精魂。精魂蒸發了，在夜空中留下了一條閃爍的痕跡。
+
+只有現在他死了，你才可以繼續趕路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​血液在你腳邊匯聚成血泊，你抬起頭看到女精靈正在道路遠端等著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​血液在你腳邊匯聚成血泊，一個聲音在路邊迴盪著，就像是微風的呢喃一般。「讓他們返回到轉輪。」
+
+你抬頭看到了前方的骷髏頭大門。透過張開的大嘴，群星之塔的蠟燭閃爍著光亮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​你發動了攻擊，卻驚奇地發現他的身體竟然如此不堪一擊。他的皮膚裂像干帆布一樣開了，手臂處出現了一條橫跨他整個身體的裂縫。血液噴湧而出，你甚至無法想像他的身體裡還有其他的東西。
+
+矮人的血流光了之後，像一根乾枯的樹幹一樣倒了下去。道路上的閃爍的血液中流淌著數千個靈魂的精魂。精魂蒸發了，在夜空中留下了一條閃爍的痕跡。
+
+只有現在他死了，你才可以繼續趕路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​矮人抓住了想要逃跑的你。你奮力掙脫，他的手就像干帆布一樣裂開了。
+
+他的皮膚裂開了，手臂處出現了一條橫跨他整個身體的裂縫。血液噴湧而出，你甚至無法想像他的身體裡還有其他的東西。
+
+矮人的血流光了之後，像一根乾枯的樹幹一樣倒了下去。道路上的閃爍的血液中流淌著數千個靈魂的精魂。精魂蒸發了，在夜空中留下了一條閃爍的痕跡。
+
+只有現在他死了，你才可以繼續趕路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​她抬頭看著一個無形的太陽。她長長的金髮如同秋葉，你靠近了看，意識到她的頭上覆蓋滿了正不斷長出黃色葉子的捲鬚和籐蔓。每一片葉子都閃爍著整個靈魂的精魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​她快樂地朝你笑了。你看到樹葉開始緩慢地從她的頭上落到了她的根旁。它們融入到了她腳下的路中，而新的葉子幾乎手是和此同時生出。
+
+她朝你伸出了手，微笑著，根莖從她指尖中湧出。她伸出的手擋住了道路。
+
+「來吧。把你的靈魂嫁接到『金叢』上吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​[握住她的手]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​[攻擊她]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​[轉身跑開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​她的根莖纏繞住了你的手指，這樣做的結果卻是，它們變得又硬又冷。她伸出的手臂石化了，皮膚漸漸被石塊所取代，而她只能恐懼地看著。
+
+你從她手中掙脫了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​她的腳在地上紮了根，但是她卻不斷掙扎著，就好像想從她瀕死的四肢中掙脫一樣。石化到達了她的肩膀並開始像她的下身蔓延，她的身體因為痛苦而彎成了拱形。石化蔓延到了她的頸部，她像溺水一樣把頭甩向了天空。
+
+灰色覆蓋了她的臉部，她呼出的氣體也變成了石塊。
+
+現在她一動不動、了無生機，於是你可以繼續趕路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​只有她頭頂的金葉沒有受到影響，它們在你的注視下一片一片地落到了腳下的路上。隨著閃爍的精魂褪去，它們也開始萎縮。
+
+一個聲音在路邊迴盪著，就像是微風的呢喃一般。「讓他們返回到轉輪。」
+
+你抬頭看到了前方的骷髏頭大門。透過張開的大嘴，群星之塔的蠟燭閃爍著光亮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​只有她頭頂的金葉沒有受到影響，它們在你的注視下一片一片地落到了腳下的路上。隨著閃爍的精魂褪去，它們也開始萎縮。
+
+你抬頭看到了道路遠端的矮人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​她的根須在你能逃跑之前就纏繞住了你的肩膀。這樣做的結果卻是，它們變得又硬又冷。她伸出的手臂石化了，皮膚漸漸被石塊所取代，而她只能恐懼地看著。
+
+你從她手中掙脫了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​你朝她發動了攻擊，想要掙脫她的手臂。但當你觸碰到她的時候，你感覺到她的皮膚變得又硬又冷。她伸出的手臂石化了，皮膚漸漸被石塊所取代，而她只能恐懼地看著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​你感覺到你的後背有東西在摩擦。你回頭看到了大榆賢者艾蓉娜。她的身體已經完全石化了，而她頭上的金髮也開始掉落到地上。有一片葉子隨著風蹭到了你的臉上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​你開始朝她走過去。她站立的方式有些不自然。她好像太過於一動不動了。當你靠近的時候，你認出了她是你已經解決掉的大榆賢者艾蓉娜。
+
+她已經完全被石化了。她的腿變成了一根纖細的樹幹，而她的腳也像船錨一樣紮在了道路上。你記憶中的金髮已經不見了——她的頭就像冬天的樹木一樣光禿禿的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​你繼續沿著路朝他走過去。你靠近，看到他那異常平滑的臉龐，你認出了他是大德魯伊萊斯汀。當他轉身看著你的時候，他的身體像葡萄酒囊一樣裂開，血液和精魂灑到了道路上。
+
+他空殼一般的身體倒了下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​你抬頭看到了前方的骷髏頭大門。透過張開的大嘴，群星之塔的蠟燭閃爍著光亮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​你抬頭看到了道路遠端的矮人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​血液在你腳邊匯聚成血泊，你抬起頭看到前方的骷髏頭。透過張開的大嘴，群星之塔的蠟燭閃爍著光亮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​血液在你腳邊匯聚成血泊，你抬起頭看到女精靈正在道路遠端等著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​你聽到了撕裂的聲音。你回頭看到了大德魯伊萊斯汀，他的身體像葡萄酒囊一樣裂開了。血液和精魂灑到了道路上，他空殼一般的身體倒了下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​你看到了兩尊石像，矮人和女精靈，仍然在道路兩旁等待著你。他們和後方骷髏頭大門的距離都沒有縮短。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​你轉身對著蜿蜒向前的道路，看到了正在等待的精靈。在你朝她走過去的過程中，你腳下的泥土慢慢變硬，最後變成了石板。蒼白的星光搖曳著，慢慢昏暗了下去。
+
+你意識到你已經從幻景中恢復了過來並返回了群星之塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​你轉身對著蜿蜒向前的道路，看到了正在等待的精靈。在你朝她走過去的過程中，你腳下的泥土慢慢變硬，最後變成了石板。蒼白的星光搖曳著，慢慢昏暗了下去。
+
+你意識到你已經從幻景中恢復了過來並返回了群星之塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​你跪下來向貝拉斯祈禱。即使是你眼睛閉著的時候，你也能看到道路一直延伸向未知的遠方。頭頂的星空在順時針旋轉著，消失在你左邊的地平線，而後又從右邊升起。
+
+你試著仔細辨別道路兩邊的情況，但是你的眼睛卻無法專注。有一段時間你以為你看到了一片被迷霧籠罩的草坪和一塊峽谷巖壁。有一刻你甚至看到了拍擊著道路的海浪。
+
+倘若你踏入這些不斷變化的風景中，你感覺自己肯定最後只會回到路上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​你身後是一個女人，她的皮膚如牛奶般蒼白，頭髮則烏黑濃密。她穿著一件非常黑的鎧甲，似乎能夠讓星星也暗淡無光。她身後的道路蜿蜒向了一座山峰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​「那肯定是接引者。」艾洛斯的聲音非常低。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​「接引者……冥幕的守門人。我希望不是來找我們的。我現在還有事要忙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​「……還有蒼白騎士。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​「啊，蒼白騎士到了。代價會越來越大的。」卡納緊張地笑了笑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​[跟著接引者]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​[向蒼白騎士付錢]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​你往她手裡丟了一點錢，然後她握住了手裡的硬幣。你立刻感覺到錢包的重量增加了一點點。
+
+「此路之主索要極高的過路費。但是他也慷慨借出，以保證所有人可以再次踏上他的道路。」
+
+她身後的接引者笑了笑並等著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​他用那沒有嘴唇的嘴笑了笑，把你領進了骷髏的巨口裡，然後走下一段長長的樓梯。蒼白騎士在後面緊緊跟著。
+
+看來你似乎正身處一個巨大的洞穴之中。天花板越來越高，上面還覆滿了水珠。遠遠看去，閃爍的水珠看起來像一簇簇的星座。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​大德魯伊萊斯汀出現在你的下方。他和你記憶中的一模一樣，嚴厲而皮膚光滑。不過隨著他慢慢靠近，他身上鮮血和精魂的氣息越來越濃。他沉重的腳步變得越來越慢，直到完全停止。他膨脹的身軀佔滿了整條道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>​「賽奧斯為媉蒂卡困住了好成千上萬個靈魂。我必須阻止他給她至高無上的力量。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>​「為了答案。他知道我以前發生過什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>​「復仇。我靈魂受到的折磨都是拜他所賜。我會讓他付出代價的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>​「我在尋找一個解決方法。通過和他對峙，我會結束他給我所帶來的痛苦。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>​「答案是相對的，通魂者。要找到答案，你必須問對正確的問題。」
+
+蒼白騎士點了點頭。星光照耀著她凹陷的臉頰。「問題不是賽奧斯幹了什麼，而是他為誰效命。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>​蒼白騎士點了點頭。星光照耀著她凹陷的臉頰。「唯一的解決方法就是一個乾淨的石板。一個結束，以帶來一個新的開始。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>​蒼白騎士點了點頭。星光照耀著她凹陷的臉頰。「你會結果他的生命並把他送入另一世人生嗎？賽奧斯只不過是折磨你的工具。他的輪迴被另一位引導了上千年。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>​「賽奧斯為媉蒂卡效命。她想要逃離自己的宿命。不會衰弱的力量。賽奧斯已經從輪迴中移走了成千上萬個靈魂，從而用他們的精魂來給她力量。」
+
+她眼鏡中無盡的黑暗就像要把你吞噬了一般。「你必須阻止他。而你必須讓他們從新返回輪迴。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>​「把靈魂都送回輪迴，是為了什麼目的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>​「我不明白這跟我有什麼關係。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>​「為什麼媉蒂卡需要賽奧斯的幫助？而為什麼你又需要我的幫助？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>​「照顧這些靈魂是出於穩定性考慮，通魂者。是為了保持世界的自然秩序和精魂的興衰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>​「諸神通過生死循環來指引人們，但是誒歐拉是凡人的領域。我們不插手，只是稍做平衡。如果有一個人能夠改變時代潮流，那麼就會有第二個這樣的人。我們會讓這個世界偏移原本的路線。
+
+「這就是為什麼媉蒂卡要指引一個凡人去為她賣命，也是為什麼要阻止賽奧斯的必須是凡人才行的原因。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>​「賽奧斯建造了一座水壩來引流。成千上萬個人的靈魂會重新塑造你所居住的這個世界，通魂者。也會重新塑造你來世居住的世界。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>​「我現在必須趕往影中之陽了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>​「沒有凡人能夠活著下到那個坑裡。但是埋葬島上的人和我承諾過。我會把他們賜給你，他們會將你安全地送下去，並為你解決以後的麻煩。」
+
+一大群人出現在了路的另一端，他們提高了音量，踏著塵土朝你走來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>​「他們不能被變為空嬰嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>​「如果賽奧斯對這些靈魂動了手腳，也許還是摧毀他們為好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>​「循環是單調而永恆的。定然還有其他更好的解決方案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>​「媉蒂卡為什麼不能奪取這股力量？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>​「如果你知道那麼多的話，肯定是另一個神已經和你談過了。並且已經給了你一半答案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>​你知道這是一個幻景，但是你腳下的泥土感覺無比堅實，而你臉上的晚風也無比清爽。你還活著。你的腿還在支撐著你繼續前進。
+
+你前方有東西在等待著你。隨著你慢慢靠近，你看到了兩個十分眼熟的石像。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>​你知道這是一個幻景，但是你腳下的泥土感覺無比堅實，而你臉上的晚風也無比清爽。你還活著。你的腿還在支撐著你繼續前進。
+
+你斜眼看向了遠方，看到了一個矮小蒼白的人在等著你。一開始你以為那是大德魯伊萊斯汀，但是後來你注意到這個人身形及其消瘦，並且在咧嘴大笑。他站在另一扇骷髏頭大門前，但是裡面的路通向地底，而不是地平線。
+
+他呼喚著你靠近。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>​兩個相似的山洞口出現在你前方，而你跟隨接引者進入了其中一個。你站在洞口往下看，只能一個被一條路分為兩半的無盡的平原。在那時候你才突然意識到自己已經不再路上了。
+
+你沿著路走，直到前方的路消失在你下方你才意識到自己站在一個巨大骷髏頭的眼窩裡。
+
+接引者指向了道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>​道路通往山裡，你發現自己身處一個巨大的洞穴之中。天花板越來越高，上面還覆滿了水珠。遠遠看去，閃爍的水珠看起來像星系中一簇簇的星座。
+
+接引者和蒼白騎士指引你往上走入了一條刻進山洞邊緣裡的道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>​「他活了好幾百年了。我給了他死亡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>​「他活了好幾百年了。我給了他重生。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>​「他靠別人的鮮血維生。我只不過是維護了正義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>​「萊斯汀原地不動太久了。我只不過是讓他繼續上路而已。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>​「所有凡人都注定會死。我只不過是執行了諸神的旨意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>​「而每次死亡都是在新生命裡開始的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>​「這樣說來，死亡是生命的動因。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>​蒼白騎士的肉緊繃在她的頭骨上。「對於移動海洋的潮汐來說，或者對於滋潤萬物而又肅殺萬物的季節來說，無所謂正義。改變這個世界的力量無所謂美德。它們是無法避免的。只不過是它們自我永存的運動的產物罷了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>​「生命是運動著的。向前移動的。一百次的開始和結束也只不過是滄海一栗罷了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>​「一切都是注定要重生的。好讓他們的精魂獲得循環。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>​隨著萊斯汀的屍體慢慢腐爛，這過程就像大壩決堤一般。幽靈的人影們，像煙霧一般朦朧和飄渺，繼續在暢通無阻的道路上前行。有些人踉踉蹌蹌，有些人穩如泰山，但都在向前。
+
+接引者把你的注意力轉移向了另一個在道路上行進的身影。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>​這一次，你看到了大榆賢者艾蓉娜。隨著她沿路而行，她的動作變得緩慢而古怪。她的腿在每一步後都會咯咯作響，並且變得越來越長，慢慢扎根到了土壤中。她終於停了下來，一動不動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>​「它是不自然的。它無法維持自己。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>​「路上不應該有樹。我以為如果我清理了樹木，此路之主會賜給我恩惠。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>​「我受夠了這棵樹的無盡的謎語。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>​「它是個寄生蟲。雖然它的枝葉給了其他人蔭庇，但是它的樹根卻吸乾了他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>​「我喜歡砍倒東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>​「沒有什麼是自我維持的。所有東西都是從別的事物的死亡中獲取生命能量的。這就是為什麼一切都必須始終作為生死輪迴中的一部分。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>​「此路之主並不拿青睞做交易。他收取過路費後就會開放道路，僅此而已。但是在你服務於他的利益的同時，也許你自己也能夠從中獲益。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>​「你想要確定性。答案。但是每一個答案都會引出另一個問題。取尋找每一個答案就像置身於一個滿是鏡子的房間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>​「所有東西都是從別的事物的死亡中獲取生命能量的。這就是為什麼一切都必須始終作為生死輪迴中的一部分。沒有什麼生物能夠以自己形成閉環。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>​「而你身後留下的一路碎片會滋養新的生命。即使是你的毀滅欲也是生死輪迴中的另一個工具。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>​「革命的幻象？只不過是另一個輪迴的一部分，痛苦的一部分。真正的改變是有結構的。有規律的。這不過是大輪迴中的小輪迴的產物而已。一千個齒輪轉動，並按角度移動宇宙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>​艾蓉娜的身體從下方開始石化，而她頭上搖曳的葉子被風吹到了路面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>​「就像破爛不堪的東西一樣。你會把新酒和餿酒混在一起嗎？你所追尋的善，應該是給他們一個新的開始，而不是把他們束縛在這一輩子裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>​「我想我理解你想表達的意思了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>​「輪迴是無情的，但不是浪費性的。時間以及不斷的重生，最終會把靈魂碾磨成塵埃，但是在那之前，他們必須先從這個世界離開然後再回去。他們的持續的運動讓輪迴本身得以推進。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>​接引者在蒼白騎士說話的時候朝著道路以及遠方無盡的星空做了一個手勢。「我只是向你展示了宇宙的運動，通魂者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>​「人類的輪迴是一種平衡之道。諸神的輪迴也是一樣的。我們因為對凡人的偏愛而興衰，而結果是以後再度興衰。但是媉蒂卡尋求一種能讓她走出循環的力量。她會扎根不動，並成為其他人的絆腳石。」
+
+接引者默默地朝著道路做了一個手勢，那裡有一顆殘斷的樹木以及它枯萎的外皮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>​「從糾纏你的男人手中解放自己吧……那縈繞在你心頭的記憶……只要他還活著，你就不會有安寧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>​希拉維亞斯緊張地笑了，他的臉在變紅。「說得好。你在和過去一刀兩斷之前是無法獲得新生的。」
+
+他笑著用髒兮兮的手拍著你的肩膀。「賽奧斯會做出解釋的，哪怕是我們得從他口中逼出答案來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>​杜蘭斯的法杖的頂端迸發出火焰。「你最好自己回答自己的問題，騎士。你不會喜歡我逼供的手法的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>​「這只不過是我很多問題中的一個，真的，不過這畢竟是個開始。我以為賽奧斯是自拿主意的。誰在指揮著我們的那個陰險的朋友呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>​「另一個值得問的問題——我們是否需要好好修理賽奧斯一頓才能獲得我們想要的答案？」希拉維亞斯笑著問。「這個傢伙招供的概率有多大？從他口中逼供肯定會很有趣……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>​[向貝拉斯祈禱]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>​你在聖壇前跪了下來，準備背誦儀式關鍵句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>​「一切都可以被重鑄。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>​「死中有生，生中有死。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>​「生存始於內在的力量。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>​「活好生命之歌的每一個音符。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>​「鬥爭是我們的本性。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>​「我歌唱海洋的悲傷，以便忘記我自己的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>​「所有生命終結於靜止。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>​「明天，我的主人被自己的鞭子勒死。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>​「沒有問題，何來答案？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>​「當媉蒂卡奪回她的王座時，一切冤屈都將昭雪。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>​你的話剛說出口就消散了，就好像落入一片虛無之中。大廳變得死寂——然後你腳下的地面開始顫抖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>​你周圍的空氣開始波動，就好像一些感受不到的風在改變，帶來了意想不到的溫暖。你感覺到周圍一股看不到的重量，以及注視著你的目光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>​「讓他們返回輪迴，通魂者。承諾我你會，而我當賜予你跟死亡捍衛者所相稱的力量。」
+
+蒼白騎士舉起了一根指頭。「不過如果你接受了我的幫助，我就會要求你做出這個決定作為報答。我遲早總能從所有凡人那裡討回他們欠我的債。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>​「我承諾把靈魂送回到輪迴中。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>​「我得好好想想。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>​「我要先聽聽其他神明有什麼要說。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>​「那就這樣吧，通魂者。別忘了你的承諾。」
+
+接引者伸出了他瘦骨嶙峋的手並放在了你額頭上。他的觸摸讓你無法承受，你感覺到自己在膨脹。你什麼都看不見，伸出了手，卻只能摸到和自己另一隻手一模一樣的在向後伸的手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>​當你最終睜開你的眼睛的時候，你站在了群星之塔裡，充滿了貝拉斯的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>​「別耽擱太久，通魂者。賽奧斯所尋求的事是無法被反轉的，即使轉輪也無法反轉它。」
+
+接引者指向了你的身後。當你轉身後，你發現自己站在了群星之塔裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>​蒼白騎士和接引者站在你身前。
+
+「你決定了嗎，通魂者？沒有其他的神能和掌管生死的守護者相匹敵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>​蒼白騎士轉向了你。「你的祈禱和儀式讓凡人看到了諸神的旨意。你調停了倔強者，代表異鄉人做出了調解，並鼓舞了信徒。
+
+「但（要傳達的）信號並不總是清晰的。（獲取）答案並不總是輕鬆的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>​蒼白騎士點了點頭。星光照耀著她凹陷的臉頰。「通魂者，你的殘忍是了不起的。但是那又有什麼意義呢？賽奧斯只不過是折磨你的工具而已。他被另一位控制了幾千年。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>​「永遠都在尋找著理由和意義。但是答案是相對的，通魂者。要找到答案，你必須問對正確的問題。」
+
+蒼白騎士點了點頭。星光照耀著她凹陷的臉頰。「問題不是賽奧斯幹了什麼，而是他為誰效命。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>​蒼白騎士點了點頭。星光照耀著她凹陷的臉頰。「你永遠都在尋求實際而直白的答案。但唯一的解決方法就是一個乾淨的石板。一個結束，以帶來一個新的開始。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>​「即使灑下鮮血，那也是仁慈的。這樣說來，死亡是生命的動因。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>​蒼白騎士在她的頭骨旁顯得十分緊張。「你那些理想太性急了。對於移動海洋的潮汐來說是沒有正義而言的，這對滋潤萬物而又肅殺萬物的季節來說也是一樣的。改變這個世界的力量是沒有美德的。它們是無法避免的。只不過是他們自己永存的運動的產物罷了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>​「但即使是你的殘忍，也是偉大的，也是有意義的。灑下的鮮血會孕育新的生機！即使是你想要摧毀的慾望也是生死輪迴中的一個工具。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>​她伸出了一隻手。「過路費，路人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>​蒼白騎士的聲音低沉而溫柔。「你在路上碰到了一個矮人。你幹了什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>​蒼白騎士又轉向了你。「你找到了一顆活了幾百年的樹。它根深蒂固，遮天蔽日。你為什麼要把它砍掉？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>​「你追尋著另一個在轉輪的邊緣上度過了許多人生的人。他坐在命運之輪中，奉行著它的革命。在每一世人生，他都從其中被摘取出，然後又完好無損地返回。
+
+「你為什麼追獵賽奧斯？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>213</ID>
+			<DefaultText>​蒼白騎士的血肉繃緊在她的頭骨上。她點了點頭，下巴幾乎沒動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText>​蒼白騎士的血肉繃緊在她的頭骨上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>​在附近閃爍的星座中，你看到了恐怖的骷髏頭。它大張著嘴，就好像凍結在恐懼中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>216</ID>
+			<DefaultText>​你又一次站在了聖壇前，而骷髏頭星座指向了貝拉斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>217</ID>
+			<DefaultText>​札瓦轉過身不停地笑。他開始鼓掌。
+
+「哦，這真是太好了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

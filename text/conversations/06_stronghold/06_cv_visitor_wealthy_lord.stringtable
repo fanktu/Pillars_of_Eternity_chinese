@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_visitor_wealthy_lord</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>47</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「啊，你來了。我必須跟你談一件事，大人。」</DefaultText>
+			<FemaleText>​「啊，你來了。我必須跟你談一件事，女士。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「你肯定很清楚，富有的人到處都是敵人。我的城堡被小偷騷擾！我幾乎可以肯定是其他的貴族盯上了我的財富。這滿滿的都是嫉妒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「那好吧。說來聽聽吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[離開]「現在不行。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你召喚你的隊友們，然後坐上了自己的寶座。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「所以我來找你了，大人。你能幫到我嗎？」</DefaultText>
+			<FemaleText>​「所以我來找你了，女士。你能幫到我嗎？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「招兵買馬。保衛你的城堡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「我會處理這些嫉妒你的對手的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我需要先跟我的人商量商量。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我當前無法幫助你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我、我沒那麼多資源啊，我的大人。我的部隊分散在整個領地。我需要一支軍隊啊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「太好了！我能否，呃，詢問下你這樣做的目的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「當然。」
+
+西德羅克恭敬地後退出了聽力所及範圍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我肯定鐸門耐爾能夠確保西德羅克的安全。連帶他的金錢的安全。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「魔鬼，這是我們的好機會。讓他以為安全了，然後清空他的寶庫。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「他們要麼聽從我的話，要麼等著被消滅。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「這不是人多就能解決的。我會指導你如何善用你的人馬，以及安排他們在什麼地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你會獲得熔煉騎士的支持。那應該綽綽有餘應對那些盜賊了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「我會對我的領地上的每一位貴族發送信函。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「艾洛斯會處理好他們。無聲無息的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「努阿王堡領主本人的對策！您請說，我洗耳恭聽。」
+
+說話算話，西德羅克全神貫注地傾聽。</DefaultText>
+			<FemaleText>​「努阿王堡女主人本人的對策！您請說，我洗耳恭聽。」
+
+說話算話，西德羅克全神貫注地傾聽。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「謝謝你，[Player Name]大人！這樣肯定能夠搞定。我等不及想看到這些地痞夾著尾巴逃走了！」
+
+西德羅克深深鞠躬。</DefaultText>
+			<FemaleText>​「謝謝你，[Player Name]女士！這樣肯定能夠搞定。我等不及想看到這些地痞夾著尾巴逃走了！」
+
+西德羅克深深鞠躬。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「信函，大人？你覺得這樣能成嗎？」</DefaultText>
+			<FemaleText>​「信函，女士？你覺得這樣能成嗎？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「謝謝您，大人。能夠放下我肩上的重任真是太好了。願神明保佑您。」</DefaultText>
+			<FemaleText>​「謝謝您，女士。能夠放下我肩上的重任真是太好了。願神明保佑您。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「哦，大人。你明白吧，搶劫你自己的臣民，會讓你交不到朋友的。」
+
+管家輕聲地歎息道。</DefaultText>
+			<FemaleText>​「哦，女士。你明白吧，搶劫你自己的臣民，會讓你交不到朋友的。」
+
+管家輕聲地歎息道。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「我們幹嘛不現在就殺掉他？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「當然。請原諒我對你的懷疑！能有一個明智的人來統治努阿王堡對我們來說是一件好事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「仔細一想，還是算了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「你能提供什麼幫助？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「也許吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[點頭]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「唔，當然，我非常感謝你提供的幫助。」
+
+儘管有些疑慮，西德羅克還是優雅地鞠了一躬，然後離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[示意你的客人回來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「我想你們已經有過建設性的對話了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​[說謊]「我在鐸門耐爾有一些聯繫人。誰比較適合保護你的財物呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​[說謊]「卡若克的魔鬼會保護你的城堡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「謝謝你，大人！這樣肯定能夠搞定。我等不及想看到這些地痞夾著尾巴逃走了！」
+
+西德羅克深深鞠了一躬。</DefaultText>
+			<FemaleText>​「謝謝你，女士！這樣肯定能夠搞定。我等不及想看到這些地痞夾著尾巴逃走了！」
+
+西德羅克深深鞠了一躬。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「是的。我決定殺掉你然後拿走你的財物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「什麼？！你瘋了嗎！？如果這是玩笑，那就太不合適了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​[示意你的客人回來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「守衛，把他綁了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「你這個野獸！你不會有好下場的！」
+
+西德羅克想要逃跑，但你的守衛在他逃脫前控制住了他。守衛把他拖走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「我還需要好幾周才能確保我財物的安全，但那時一切就都太晚了。而我……暫時沒有辦法使用僱傭兵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「讓我想想。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「當然……」
+
+西德羅克看上去有些疑惑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「拜託了，我有一件急事要商討。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「我們不能用暴力解決問題。我相信這些貴族是能聽懂道理的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

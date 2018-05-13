@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_si_encampment_escape</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你每走一步，狂風好像都要把你捲起，你用雙手抓住風化的岩石，準備開始攀爬這個陡峭的懸崖。
+
+在用盡最後一絲力氣之前，你爬到了懸崖上的一塊凸出的石頭上面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​休丹尾隨在後，但因為傷痛和遲疑而行動緩慢。
+
+當他靠近岩石的時候，一個裝死的襲擊者猛地跑向休丹，並試圖把他從岩石上拽下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​休丹和那個虛弱的襲擊者扭打在了一起，努力擺脫他的糾纏。
+
+他們離你很近。儘管風很大，但如果你朝攻擊者扔出你手裡的武器，還是有很大的概率能命中目標的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你擊中了目標，並且讓休丹脫離了束縛。
+
+休丹大步往前，登上了岩石。然而就當他快要達到岩石頂端的時候，突然刮起一陣強風把他吹到一邊，他的一隻手懸空了……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​掙脫了襲擊者，休丹猛的一拳打暈了他，然後向你的位置跑了過來。
+
+就在他要到達岩石頂端的時候，他的身體突然間向後倒去，變得僵硬，好像是要鞠躬。他疼苦地尖叫著，就像是被人綁在火刑柱上燒一樣。
+
+他的後背出現了一縷很細的幽光，就像霧一樣從他體內出來並升了上去，然後慢慢消散到太虛裡。
+
+突然之間，尖叫停了，休丹死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​……但你跳到了一塊堅硬的岩石上面，成功地抓住了他。牢牢抓住他的一隻手，你的力氣在減退，感覺你的胳膊似乎要脫臼了。還好它堅持了足夠長的時間，讓休丹得以爬上你那塊岩石。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​風刮的呼呼作響。你感覺它在你腳下和你的胸腔內部震動，好像你的骨頭都要震碎了。
+
+每一次有狂風刮起都會讓你前面的巨石變得危險，搞不好他們會失去穩定。當你快速穿過那個古老的拱廊的時候，整個入口因為無法承受自身的重量而開始倒塌……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​風刮的呼呼作響。你感覺它在你腳下和你的胸腔內部震動，好像你的骨頭都要震碎了。
+
+每一次有狂風刮起都會讓你前面的巨石變得危險，搞不好他們會失去穩定。當你快速穿過那個古老的拱廊的時候，整個入口因為無法承受自身的重量而開始倒塌……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​風刮的呼呼作響。你感覺它在你腳下和你的胸腔內部震動，好像你的骨頭都要震碎了。
+
+每一次有狂風刮起都會讓你前面的巨石變得危險，搞不好他們會失去穩定。當你快速的穿過那個古老的拱廊的時候，整個入口因為無法承受自身的重量而開始倒塌。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​風刮的呼呼作響。你感覺它在你腳下和你的胸腔內部震動，好像你的骨頭都要震碎了。
+
+每一次有狂風刮起都會讓你前面的巨石變得危險，搞不好他們會失去穩定。當你快速的穿過那個古老的拱廊的時候，整個入口因為無法承受自身的重量而開始倒塌。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​把武器朝襲擊者扔去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​讓休丹自生自滅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​向攻擊者開火。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​朝襲擊者導化一記能量閃電。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你擊中了目標，並且讓休丹脫離了束縛。
+
+休丹大步往前，登上了岩石。然而就當他快要達到岩石頂端的時候，突然刮起一陣強風把他吹到一邊，讓他的一隻手懸空了……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​休丹和那個虛弱的襲擊者扭打在了一起，努力擺脫他的糾纏。
+
+他們離你很近。如果你朝攻擊者扔出你手裡的武器，還是有很大的概率能命中目標的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​休丹和那個虛弱的襲擊者扭打在了一起，努力擺脫他的糾纏。
+
+手裡沒有武器，你從自己所站的這個位置很難幫助休丹。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​撿起一塊石頭朝攻擊者扔去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

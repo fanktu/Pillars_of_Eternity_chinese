@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_memory_commander</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個穿著整齊護甲和士官斗篷的幽靈，正研究著一張紙。你可以透過它直接看到在他的胸甲上的公爵的和鹿眾的紋章。
+
+他似乎已經把這頁紙反覆看了好幾遍。他抬起頭來，表情難以捉摸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「告訴說說命令的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[傾聽]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「指令都是艾德邁斯·哈哲特親自下的，這意味著它們同樣可能出自公爵的意思。」他將命令紙頁捲成薄薄的卷軸。
+
+「我們要把那些棚居佬都燒出來。在鹿林放把火，這樣他們便無處可退。當他們出來時砍死，或者他們不出來，那就等他們化成灰。」他在嘴唇前吐出幽靈般的歎息，形成了一團霧氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「計劃有所變化。帶上你的小隊南下，一路向河弓進發。
+
+「帶支馬車隊和十幾桶柏油。」他聲音有些猶疑，然後搖了搖頭。他拿著紙的手垂了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​他披著鎧甲的拳頭捏緊了捲成一團的紙。「它會讓這場戰爭甚至比碎石之戰更短，懂嗎。」他看著你。「而我們只能希望它會減少未來的衝突的可能。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​他的手落到你肩膀時，你毫無感覺。「我知道這對你有個人意義。它對我們很多人都有個人意義。但你要明白——我們這樣做是為了結束這場戰爭，而不是繼續上一場。
+
+「記住，我們是要把敵人引出來，而不是比賽燒村莊。今晚貝拉斯會暫停他的工作。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「新命令，中尉。準備好你的小隊。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

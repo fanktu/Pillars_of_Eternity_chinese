@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px2_bounties\px2_00_tsk_boss_barbarian</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：瑪格嵐之忠信徒</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺死灼熱瀑布的柔德維絲並砍下她的頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>將柔德維絲的頭帶給堅忍村的阿莎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一群自稱「瑪格嵐之忠信徒」的強盜正在掠奪鹿林的各個小鎮。考慮到堅忍村近期的大量財富，他們擔心他們可能會是這群團伙的下一個目標。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>瑪格嵐之忠信徒正在向北進發，而最後一次被看到是在灼熱瀑布。他們由一個名叫柔德維絲的女人領導。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我已經打敗了瑪格嵐之忠信徒並帶回了柔德維絲的頭作為證明。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了瑪格嵐之忠信徒的懸賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

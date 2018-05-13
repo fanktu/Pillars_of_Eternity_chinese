@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_02_durgans_battery\px2_02_si_elevator</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>124</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​電梯緩慢地、顫顫巍巍地移動著。每過幾英尺就搖搖晃晃，生銹的鎖鏈像亡靈呻吟般嘎吱的響著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​搖晃中，突然停了下來，整個平台搖晃著，很不安全。一股刺鼻、金屬的氣味從絞盤傳來。
+
+你聽到了一陣刺耳的聲音。起初，你以為是絞盤發出的，但是你發現那是從上面傳來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​一個巨大的寒蝠魔從黑暗中俯衝而來。它飛快的從你面前飛過，你能感到那腥風，但是在你能再看一眼前，它又飛了回去，帶著整耳欲聾的尖嘯，尋找著你。
+
+沙沙作響的翅膀和厚重的麝香味，讓你意識到這樣的野獸不止一隻。當它們靠近時，平台不停地搖晃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[站在平台的正中央]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[分散在平台角落迎接戰鬥]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[派人修理絞盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​最大的一隻寒蝠魔朝著平台中間衝來。尖叫聲變成了嘶嘶的聲音，它將酸性濃酸噴到了平台上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[守住平台中間]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​嘎嘎作響的絞盤上冒起了濃煙。修理它是個麻煩事。
+
+而且，寒蝠魔也在平台上方盤旋著，它們的耳朵動著，那是它們在捕捉移動的聲音。
+
+誰去？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[你自己做]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[派遣[Slot 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[派遣[Slot 1]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[派遣[Slot 2]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[派遣[Slot 3]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[派遣[Slot 4]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[派遣[Slot 5]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你們分開，衝向搖晃著的平台的相反方向。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你爬向絞盤，發出響聲，腳步聲在黑暗的空間裡發出回聲。
+
+被騷動聲吸引，一隻寒蝠魔離開蝠群，然後向你迅速飛來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​低下頭，[Specified 0]向絞盤快速，無聲的移動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​小點的寒蝠魔尖嘯著越來越近，形成越來越緊湊的包圍。同時，大的蝠群往回盤旋著，準備下次進攻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​巨型蝠魔再次向中央襲來，並且噴著濃酸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[SkillCheck 0]絆倒了，而搖擺將[SkillCheck 0]搖向邊緣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​由於搖擺的電梯，你們都來到了邊緣，而你們面前就是巨型寒蝠魔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​這野獸滑翔走，消失在頭頂的黑暗之中。
+
+然而，小型寒蝠魔降落在平台向，向你們前來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[Specified 0]翻了個身，勉強抓著平台的邊緣。
+
+[Specified 0]呼救，平台向下傾斜著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「堅持住，[Specified 0]！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[什麼都不做]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​[Specified 0]尖叫著掉入了黑暗之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[衝過去抓住[Specified 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[使用野蠻衝刺衝過去救[Specified 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​來到邊緣時，剛好[Specified 0]的手指滑落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​[使用苦修者之徑，衝去救[Specified 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​你抓住了[Specified 0]的手，將同伴拉回安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​野獸向平台中央衝來，噴著酸液。大多數都落在了瓦片上，冒著泡，滋滋作響，但是[Slot 0]被酸液擊中了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​這野獸滑翔走，消失在頭頂的黑暗之中。
+
+然而，小型寒蝠魔降落在平台向，向你們前來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​你看了看自己的立足點，又看了下平台中央，那兒巨型蝠魔已經著陸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​你頭低著，快速無聲的衝向絞盤。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​你來到絞盤處，開始處理裡面卡住、生銹的齒輪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​但是當你全力向後拉著。
+
+寒蝠魔尖叫著從你旁邊飛過，回到蝠群。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​嘶嘶的叫著，蝠魔在飛回蝠群前向你臉上吐了口酸液。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​不一會，你清理了堵塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​問題並不像你想的那麼簡單。你從複雜交錯的金屬中發現了方法，但是你還需要時間才能修好。
+
+而頭頂的寒蝠魔變得越發大膽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​[繼續修絞盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​[準備防禦寒蝠魔的進攻]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​你將注意力轉向猛撲而來的野獸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​問題似乎比想像的複雜。你不確定修理這複雜的問題需要多少時間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​你衝向控制桿。
+
+這時，巨型寒蝠魔俯衝而下，將酸液吐向平台。沒擊中你，但是後方某處傳來痛苦的尖叫聲。
+
+你猛拉控制桿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​不一會，你清理了堵塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​然而一些蝠魔轉向了絞盤，它們的耳朵捕捉到了叮噹的聲音。
+
+還不清楚修理好需要多久。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​最大的一隻寒蝠魔朝著平台中間衝來。尖叫聲變成了嘶嘶的聲音，它將酸性濃酸噴到了平台上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​鎖鏈嘎嘎，叮噹作響，平台開始移動。寒蝠魔散開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​小點的蝠魔尖嘯著越來越近，形成越來越緊湊的包圍。同時，大的蝠群往回盤旋著，準備下次進攻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​當電梯重新運作，寒蝠魔受驚，退到了黑暗之中。
+
+平台從塔裡升起，一股冷風吹在臉上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​[繼續修絞盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​[準備防禦寒蝠魔的進攻]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​你將注意力轉向猛撲而來的野獸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​[站在平台的正中央]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​一隻寒蝠魔離開蝠群，向你俯衝而來，用它的鈍頭撞向你的肩膀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​不一會，你清理了堵塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​你繼續修理絞盤，但越來越感覺是無用功。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​[Specified 0]爬向絞盤，發出噪聲，腳步聲在黑暗的空間裡發出回聲。
+
+被騷動聲吸引，一隻寒蝠魔離開蝠群，然後向[Specified 0]迅速飛來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​[Specified 0]來到絞盤處，開始處理裡面卡住、生銹的齒輪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​不一會，[Specified 0]清理了堵塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​問題並不像[Specified 0]想的那麼簡單。[Specified 0]從複雜交錯的金屬中發現了方法，但是你還需要時間才能修好。
+
+而頭頂的寒蝠魔更加的大膽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​不幸的是，問題看起來越來越複雜。還不清楚多久——甚至是否——[Specified 0]能修好絞盤。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​但是[Specified 0]使出吃奶的力氣，身子向後仰。
+
+寒蝠魔尖叫著從[Specified 0]邊飛過，回到蝠群。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​嘶嘶的叫著，蝠魔在飛回蝠群前向[Specified 0]臉上吐了口酸液。[Specified 0]痛苦的尖叫著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​[繼續修絞盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​[準備防禦寒蝠魔的進攻]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​[Specified 0]回到隊伍一起防禦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​[Specified 0]衝向控制桿。
+
+就在那時，巨型寒蝠魔俯衝而下，吐著酸液。沒擊中[Specified 0]，但是擊中你，剩餘的酸液也噴到了平台上。
+
+[Specified 0]猛拉控制桿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​當電梯重新運作，蝠魔受驚，退到了黑暗之中。
+
+平台從塔裡升起，一股冷風吹在臉上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​最大的一隻寒蝠魔朝著平台中間衝來。尖叫聲變成了嘶嘶的聲音，它將酸性濃酸噴到了平台上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​小點的蝠魔尖嘯著越來越近，形成越來越緊湊的包圍。同時，大的蝠群往回盤旋著，準備下次進攻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​不一會，[Specified 0]清理了堵塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​然而一些蝠魔轉向了絞盤，它們的耳朵捕捉到了叮噹的聲音。
+
+還不清楚修理好需要多久。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​[繼續修絞盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​[準備防禦寒蝠魔的進攻]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​[Specified 0]回到隊伍一起防禦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​[站在平台的正中央]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​一隻寒蝠魔離開蝠群，向你垂直俯衝而來，用它不鋒利的頭撞向[Specified 0]的肩膀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​不一會，[Specified 0]清理了堵塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>​[Specified 0]繼續修理絞盤，但越來越感覺是無用功。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​[修理絞盤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​[SkillCheck 1]絆倒了，而搖擺將[SkillCheck 1]搖向邊緣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​[將繩子扔向[Specified 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​[Specified 0]抓住繩子，爬向安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​[Slot 0]剛到邊緣，[Specified 0]的手指就滑落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>​[Slot 0]抓住[Specified 0]的手，將[Specified 0]拉回安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​[Slot 1]剛到邊緣，[Specified 0]的手指就滑落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​[Slot 2]剛到邊緣，[Specified 0]的手指就滑落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>​[Slot 3]剛到邊緣，[Specified 0]的手指就滑落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>​[Slot 4]剛到邊緣，[Specified 0]的手指就滑落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>​[Slot 5]剛到邊緣，[Specified 0]的手指就滑落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>​[Slot 1]抓住[Specified 0]的手，將[Specified 0]拉回安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>​[Slot 2]抓住[Specified 0]的手，將[Specified 0]拉回安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>​[Slot 3]抓住[Specified 0]的手，將[Specified 0]拉回安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>​[Slot 4]抓住[Specified 0]的手，將[Specified 0]拉回安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>​[Slot 5]抓住[Specified 0]的手，將[Specified 0]拉回安全點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>​野獸向平台中央衝來，噴著酸液。大多數都落在了瓦片上，冒著泡，滋滋作響，但是你在酸液中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>​巨型寒蝠魔再次向中央襲來，並且噴著濃酸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>​巨型蝠魔再次向中央襲來，並且噴著濃酸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>​[派出某人去幫助[Specified 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>​誰去？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>​[派遣[Slot 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>​[派遣[Slot 1]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>​[派遣[Slot 2]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>​[派遣[Slot 3]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>​[派遣[Slot 4]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>​[派遣[Slot 5]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>​[Slot 0]衝向電梯的另一端，但是[Specified 0]搖搖欲墜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>​[Slot 1]衝向電梯的另一端，但是[Specified 0]搖搖欲墜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>​[Slot 2]衝向電梯的另一端，但是[Specified 0]搖搖欲墜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>​[Slot 3]衝向電梯的另一端，但是[Specified 0]搖搖欲墜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>​[Slot 4]衝向電梯的另一端，但是[Specified 0]搖搖欲墜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>​[Slot 5]衝向電梯的另一端，但是[Specified 0]搖搖欲墜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>​你燙傷了。你自己的尖叫聲在耳邊盤旋，而且也聞到了肉體燃燒的味道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>​你聽到了尖叫聲和肉體燃燒的味道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>​你燙傷了。你自己的尖叫聲在耳邊盤旋，而且也聞到了肉體燃燒的味道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>​濺到你時，你痛苦的嗥叫著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>​你聽到更多痛苦的嗥叫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>​濺到你時，你痛苦的嗥叫著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>​最大的一隻寒蝠魔朝著平台中間衝來。尖叫聲變成了嘶嘶的聲音，它將酸性濃酸噴到了平台上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>​最大的一隻蝠魔朝著平台中間衝來。尖叫聲變成了嘶嘶的聲音，它將酸性濃酸噴到了平台上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

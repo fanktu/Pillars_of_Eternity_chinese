@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_bridge_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​守衛打量了你一眼。「我猜，你剛來鹿灘吧。我猜你在路上該不會看到一名年輕的精靈貴婦吧。我現在只能在這個鬼地方枯等，等我其餘的夥伴找到那個女人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「沒見過。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「她是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「別擋路。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「跟這個該死的村子裡的其他人一樣。」他歎了歎氣。「也許你可以和旅店裡的哈羅德領主談談。他會對你的幫助表示感激。另外，比起對我們，民眾會對你更願意開口，透露有關他女兒的消息。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「艾莉絲小姐。」他咬了咬嘴唇。「她失蹤了。她是內斯特·哈羅德領主的女兒。」他歎了口氣。「也許你可以和旅店裡的哈羅德領主談談。他會對你的幫助表示感激。另外，比起對我們，民眾會對你更自在地透露有關他女兒的消息。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​他搖了搖頭，缺乏幽默感地笑著。「登格勒，你跟那旅館老闆一樣有用。你肯定能融入這迷人的小垃圾堆。讓野獸來終結你這爛命吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「如果你找到了艾莉絲小姐，請盡快護送她到龍生旅店。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​守衛看著你，長舒了一口氣。「真巧啊。在這個窮鄉僻壤枯等，結果見到了反抗灣的捍衛者。貝拉斯之輪帶來了好運。」
+
+他的舉止越加嚴肅。「也許你能幫忙。你該不會在路途上看到過一名年輕的精靈貴婦吧。在我們找到她之前，我和我的其餘夥伴都要在這討厭的地方乾等著。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​守衛打量著你。「真巧啊。在這個窮鄉僻壤枯等，結果發現一名善良護旅者。貝拉斯之輪今天真是仁慈。」
+
+他的舉止越加嚴肅。「也許你能幫忙。你該不會在路途上看到過一名年輕的精靈貴婦吧。在我們找到她之前，我和我的其餘夥伴都要在這討厭地方乾等著。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

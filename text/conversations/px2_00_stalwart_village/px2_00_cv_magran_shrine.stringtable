@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_00_stalwart_village\px2_00_cv_magran_shrine</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​被灰塵覆蓋的瑪格嵐聖壇就在你的面前，木頭燒焦的氣味仍然音縈繞在空氣之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[把瑪莎的鍛錘放在聖壇之上]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你周圍的溫度開始上升，不一會兒你就覺得好像站在一個打開的鍛爐前面一樣。瑪莎的錘子開始發出紅光和熱。
+
+突然，聖壇周圍的土地爆發出一列列的有生命的火焰——火喪魂。在天空中，有翅膀的形狀們俯衝向你，從它們大張的下顎中拖出煙霧的軌跡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「火焰生物，退散！瑪格嵐的忠誠侍從在命令你們！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[戰鬥]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​火焰喪魂迅速化為一團灰燼，地上除了一些燒焦的痕跡外什麼也沒留下。然而，亞龍繼續著它們的攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

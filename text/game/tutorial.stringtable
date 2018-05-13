@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\tutorial</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>49</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>歡迎來到《永恆之柱》！如果這是你第一次來到誒歐拉的世界，你可以看看這些窗口，熟悉下工具和界面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你的隊伍由你的角色和五名額外的同伴或冒險者組成。車隊在格蘭法斯廢墟外紮營期間，奧德馬已委派卡莉莎來幫助你。卡莉莎是名戰士，這個職業擅長近戰防禦。用她的能力來彌補你的吧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>要選擇隊伍成員，可以點擊其選擇圈、頭像、或按下和隊伍位置相對應的數字鍵，從左往右依次類推。如要選擇多名隊員，點擊屏幕任意地方並拖曳鼠標，直到圈住你想要包括的所有隊員。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>要移動選中的角色，右鍵點擊屏幕上任意一處地方。所有選定的角色就會按照陣型前往相應的位置。如果看到帶有斜槓的紅色圓圈，表示你無法進入地圖上的該部分。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>你在世界中遭遇的大多數人都是中立或友好的。你可以點擊其選擇圈來和他們互動。許多人物只會向你問好並繼續自己的事情，但有些人會觸發進一步的對話。和商人休丹交談，可以打開販賣裝備的商店。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>你可以在商店出售物品來獲得銅幣，或使用銅幣從商店購買物品。商人會你那裡低價收購商品。如果你出售了物品，你可以看到它會以更高的價格出現在商店的物品欄中。商店的物品欄會定期刷新。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>對話會涉及你和另一個角色，有時還有其他人比如旁觀者或同伴都可能插話。你的選擇將改變故事的發展，並為你的角色逐漸構建聲望。世界中的人們會瞭解你的聲望——好的或壞的——並會相應地作出回應。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>角色的屬性、技能、職業、種族、文化和性別等，都可能為你開啟對話的選項。這些選項並不一定優於其他反應，但給你提供了更加廣泛的選擇。人們對你選擇的回應，取決於他們的個性和態度。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>探索是《永恆之柱》的關鍵所在。在你穿過東陲的旅程中，打開區域地圖，就能看到哪些地方你已涉足，而哪些地方有待探索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>當你接受任務後，你的日誌將更新相關的信息。如果你不知道該幹什麼，那就打開日誌看看吧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>《永恆之柱》的戰鬥採用了可暫停式實時系統。因為你經常需要管理多名角色，所以有必要暫停遊戲、下達命令、恢復實時遊戲並觀看命令生效。
+
+選項菜單中還包含了多種特定條件下的自動暫停選項（例如：戰鬥開始）。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>遊戲中的全部角色，不論敵友，都有四種主要防禦形式：偏斜、堅韌、反射、意志。這些防禦基於角色的屬性、等級、道具以及其他效果。
+
+當發生攻擊時，命中將和該攻擊適用的一種防禦進行比較。如果命中低於目標防禦，則攻擊的檢定遭受減值，於是更有可能造成此次攻擊失手。如果命中高於目標防禦，則此次攻擊有更大可能造成暴擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>所有造成傷害的攻擊都必須計算目標的減免。敵人的DR會減少其承受的指定類型的傷害，直到下降為傷害下限百分比。
+
+如果你很難對敵人造成傷害，嘗試切換不同傷害類型的武器或攻擊。大多數敵人善於抵禦一到兩種攻擊，而容易受到另外幾種攻擊類型的傷害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>有時候武器或法術很不適合穿透敵人的減免。在攻擊擊中時，除了留下一個小小的百分比，DR會清除所有來襲的傷害。當這種情況發生時，你會聽到你的角色在抱怨。重視它，查明被抵擋住的傷害類型，並切換到不同傷害類型的武器或法術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>你打出了一個暴擊！相比於普通的擊中，暴擊能夠造成更為理想的效果，其往往出現在攻擊命中高於目標防禦的時候。出現暴擊時攻擊將造成額外的傷害，並且造成的負面效果的持續時間也將會延長。
+
+相反，擦傷比擊中差，造成的傷害將降低，並且持續時間縮短。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>你現在攻擊的敵人有至少一種防禦遠高於角色攻擊的命中。當防禦顯著高於命中時，攻擊很難擊中，而且不可能打出暴擊。努力提高攻擊者的命中，或使用針對不同防禦的法術或能力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>當一個隊員受到傷害時，會失去生命和耐力。其頭像會逐漸被紅色覆蓋，而頭像左邊的生命條會逐漸減少。當頭像完全變紅後，角色將被擊倒。
+
+戰鬥中使用藥水和法術可以回復角色的耐力，但生命只能通過休息來恢復。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>哎喲！當隊伍成員耐力減少到0時，將被擊倒。這意味著他們將無法繼續戰鬥，但只要你獲勝，他們將在戰鬥結束後再生耐力。但生命無法再生。留意角色頭像的左邊，防止其瀕死或死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>在《永恆之柱》中許多法術和能力可使用的次數都是有限的。
+
+在每場戰鬥中可使用多次的能力（Per&#160;Encounter&#160;=&#160;按遭遇補滿）將在戰鬥後恢復其可用次數。
+
+在每次休息後可使用多次的能力（Per&#160;Rest&#160;=&#160;按休息補滿）只有當你在旅店休息或使用露營物資時才會恢復其可用次數。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>你發現了一些露營物資。你可以使用這些在野外或地牢區域中休息，完全恢復你的所有角色的能力和生命。
+
+簡單難度允許攜帶更多的露營物資，但困難難度會有嚴重限制。如果你的露營物資完全耗盡，想辦法找個旅店。大部分旅店都有便宜的房間可住。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>旅店允許角色不用露營物資也能休息。通常會有便宜房間，但是如果你錢多，也可以考慮更昂貴的選擇。它們提供的加成會持續很長時間並影響整個隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>啊哦。當一個人物的生命條開始閃爍紅色，說明他們可能很快就會瀕死或死亡。在旅店休息或使用露營物資以完全恢復生命。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>如果生命降到0，這個角色將立即終止行動。根據你的難度設置，角色將瀕死或死亡。瀕死的角色將遭受嚴厲的戰鬥減值，如果他們承受任何額外傷害會立刻死亡。在《永恆之柱》中，死亡的結果是無法改變的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>東陲是一個危險的地方，充滿了潛伏的敵人和小心隱藏起來的秘密。啟用【偵察】模式來隱匿地移動並且搜索隱藏的物體，比如陷阱和密門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>偵察模式既可用於隱匿，也可用來查找隱藏的物體，比如陷阱和秘密箱子。
+
+在偵查模式中，當被人察覺到時，角色的選擇圈會慢慢變黃。當圓圈填滿黃色時，目標將會起疑並前去調查，同時選擇圈開始變紅。如果圓圈完全變成紅色，你的角色將會被發現。
+
+角色找到隱藏物體的能力基於其器械技能。器械技能越高，就能找到更遠距離之外的物體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>朝某個角色加速移動，其也會更快的發現你。如果你自己觸碰了某個角色的選擇圈，你會立即被發現。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>你學到一個新的法術！記得在使用法術前要將法術加入魔法書。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>你找到了一本新的魔法書！魔法書通常包含你可能不知道的法術。花費一點小成本，你就可以從描述面板學習這些法術。你也可以將魔法書填滿不同的法術。將它們放在你的快速道具欄使用，但是要注意：切換魔法書時幾秒內將暫時不能施法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>法師可以學習數量驚人的法術，但是他們的魔法書容量是有限的。在任何情況下，魔法書對每一級別的法術分別只能包含4個。
+
+在右側面板點擊法術從魔法書中刪除它。
+
+在左側面板點擊法術將其增加到空欄位。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>吟唱者戰鬥的大部分時間都在進行吟唱。吟唱是一段具有魔力的禱語，能提供不同的效果。不同禱語的效果可以相互疊加。當吟唱至結尾禱語時，將重新從頭開始。禱語的恰當排列可以形成威力巨大的被動效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>點選吟唱，在左側面板點擊禱語將添加到所選的吟唱。如果你想刪除一段禱語，在吟唱中點擊它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>選擇一名角色行動欄中的武器圖標，可切換武器組合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>當選定多名隊伍成員時，行動欄將會隱藏。要查看角色個人的選項，則應只選定那個角色。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>當一個角色被從隊伍中遣散，他/她要麼會回到鍍金谷的黑獵犬旅店，要麼會回到你的要塞，如果你已經得到了它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>你的角色已獲得足夠的經驗升至下一級。點擊頭像上的圖標以升級。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>在升級完一個角色後，你可能會想要查看一下該角色的數值。打開角色信息窗口以更加詳盡地查看其屬性、技能、能力及天賦等。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>幾乎要塞的所有管理情況都會出現在這個界面中。作為努阿王堡一個新的通魂者，你的靈魂和一位管家的靈魂連接了起來，她不間斷地照看你的土地。在哪怕很遠的地方，她都能感知你的意志並執行你的命令。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>兩個數值會影響在要塞裡發生的各種類型的事件：威望和安全。
+
+威望表示你的要塞在鹿林的知名度。較高的威望意味著努阿王堡較為受人尊重，會導致更有益的事件。
+
+安全表示努阿王堡的對外防禦度，以及內部的治安。高安全可以改善盜賊對稅收的減少、防止綁架事件、以及抵禦外敵入侵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>升級要塞需要花費時間和金錢。每次升級均可增加要塞的安全和威望，還可增加如休息獎勵，免費的原材料，或者新的商店等等。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>隨時間的推移，要塞內會陸續出現各種事件。威望越高，越有可能發生正面事件。高的安全也是很重要的，能防止盜竊和綁架。當你有同伴和冒險者不在隊伍中時，你可以打發他們去冒險，那是獲得經驗的好機會。來訪者可影響到要塞的安全和威望。有一些有限的時期，某些事件中可出現稀有物品用來出售。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>在遇到不幸的襲擊事件時，傭兵可幫助保衛要塞免遭昂貴的連帶損害。傭兵們需要支付薪水來維護，但這些成本能抵消掉要塞的潛在損害。傭兵也會影響到要塞的安全和威望——有時會是負面的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>通過隊伍管理界面，你可以看到你那些不在隊伍中的夥伴在做什麼。如果你委派他們去探險，你可以看到他們完成任務需要花掉的時間。將同伴或冒險者從其尚在進行的任務中召回，將完全失去本可在完成任務後獲得的獎勵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>你在「性格」聲望維度上有一個品階。這些聲望就代表人們對你個人品質的看法。即使看似糟糕的名聲也會有人喜歡，而和善的名聲也會有人不待見。
+
+在《永恆之柱》，沒有什麼性格天然就是好的或壞的，但是如果你的主要角色是牧師或聖武士，那麼你一定要注意：不要使其性格和其神祇和教團所喜好的性格不符。僅對主要角色來說，其性格會影響到牧師的「信仰之光」以及聖武士的「信仰之甲」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>你贏得了聲望！聲望可以通過參和東陲的幫派或團體來獲得，而且聲望會影響到該群體成員對你的看法。在某些情況下，你所在群體的朋友及敵人也會對你的從屬關係做出反應。幫助一個群體會增加你在該群體積極的聲望。對群體造成損害會增加你的消極聲望。如果你以同樣的方式幫助或損害了某個群體，你的聲望有可能毀譽參半。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>你的其中一名角色捲入了近戰對恃。當角色加入戰鬥時，他們會立刻停止行動。如果再次行動的話，會引發那些攻擊他的敵人使出藉機攻擊。你的角色也會在敵人使用近戰武器攻擊他們的同時自動和敵人交戰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>你的其中一名角色已經疲憊。
+
+疲憊代表角色進行活動時身體和心理上的損耗。
+
+最通常的情況是當角色被擊倒後，作為一種傷殘而產生疲憊，不過一些劇情互動如果特別費勁，那麼也會導致疲憊。
+
+疲憊會經歷數個階段，一開始只有極小的減值，但會逐漸變得十分嚴重。
+
+休息是解除疲憊的最好方法，此外一些消耗品也能解除疲憊。
+
+（另外，角色的運動能力會自動降低所有活動造成的疲憊累積。）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>你的要塞可以使用了！你可以在任何時候通過城堡圖標來管理你的要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>使用Tab鍵高亮周圍環境中的可互動物體。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>現在白皚鍛爐可供使用了。它擁有精煉杜根鋼錠的獨特能力。一個精煉鐵錠需要消耗多個鐵錠。
+
+精煉之後，這些鐵錠可以隨時在附魔製作窗口裡用來把武器、盾牌和護甲增強為杜根鋼的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

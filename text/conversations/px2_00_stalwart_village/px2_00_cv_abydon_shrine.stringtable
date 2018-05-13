@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_00_stalwart_village\px2_00_cv_abydon_shrine</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​艾比頓的聖壇就在你們前面，聞起來有金屬和油的氣息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[祝福瑪莎的鍛錘]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​你把瑪莎的鍛錘放在聖壇的基座上。起初的片刻，什麼也沒有發生，然後你聽到遠處錘子敲擊鐵砧的迴響——數十，成百，然後上千，齊聲迴響。
+
+瑪莎的鍛錘突然閃耀出光芒，然後錘打聲的合奏漸漸消散。你拿回了錘子，而儘管它的外表沒有發生改變，但不知怎麼地，它感覺上變重了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

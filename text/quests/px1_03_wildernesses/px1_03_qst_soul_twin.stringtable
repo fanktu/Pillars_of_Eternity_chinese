@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_03_wildernesses\px1_03_qst_soul_twin</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>他的另一半</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>發現伊伽德的死因。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>找到你幻景中的那個青年。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>（標題為"His&#160;Better&#160;Half"。一般"Better&#160;Half"指人生伴侶，表示補完了自己。只不過，"better"在這個任務中還有額外一層的對應關係。）
+
+伊伽德來到白際山尋找他的靈魂雙胞胎，但有人在孤僻的山道中殺害了他。我在堅忍村西方的荒野中找到了他最後一縷靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我找到了一位前往白際山尋找他靈魂雙胞胎的年輕鹿林人的屍體。
+
+不管殺害他的人是誰，都幾乎沒有留下什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>當我殺死這條龍時，我看見了轉瞬即逝的幻景，一個青年在山間跋涉。
+
+如果他還在這的話，他也許能解釋這意味著什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我在溫泉旁邊的六肢魚怪巢穴中找到了伊伽德的日記。一定是這個生物拿走了它，但我沒有看到過關於伊伽德的其他痕跡。
+
+日記中提到了位於一個瀑布之後的山洞。我在那裡或許能夠找到答案。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我發現了通向北方的蹤跡。我或許在那裡——能夠找伊伽德的蹤跡——或是殺害他的人的線索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我發現伊伽德是被他的靈魂雙胞胎——一條龍殺害的。我殺了那條龍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我發現伊伽德是被他的靈魂雙胞胎——一條龍殺害的。我切斷了龍和其靈魂雙胞胎之間的聯繫，而它也同意讓我安然無恙地離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我發現伊伽德是被他的靈魂雙胞胎——我之前面對的高山巨龍——殺死的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40001</ID>
+			<DefaultText>我在瀑布後面的山洞中和一條龍進行了激戰。當那頭野獸死去之後，我感受到了一股精魂迸發而出。我不清楚那到底代表著什麼，但也許其中還包含著更多的秘密。
+
+或許在我探索這片區域之後能揭露剩餘的秘密。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

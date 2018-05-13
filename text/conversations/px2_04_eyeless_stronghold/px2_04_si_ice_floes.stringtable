@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_04_eyeless_stronghold\px2_04_si_ice_floes</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>26</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一組浮冰分隔著兩片更大的冰原。這些浮冰不斷攪動著水並互相碰撞，發出不規則的卡嚓聲。
+
+儘管它們的位置不穩定，浮冰們卻足夠緊密（所有它們所佔據的空間不大），以至於你有可能跳過這段距離。
+
+不過，任何缺乏優雅和平衡的人，都很有可能從冰上滑下、掉進冰冷的水裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[跳過浮冰]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​通過仔細的思考和謹慎的動作，你安全到達了對岸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[吟唱禱語「凜冬之霜，自足下生長」]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[Slot 0]安全地跨過兩塊浮冰，但第三塊在腳下旋轉起來。冰轉得意外地迅猛，把[Slot 0]甩進湖裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[Slot 1]安全地跨過兩塊浮冰，但第三塊在腳下旋轉起來。冰轉得意外地迅猛，把[Slot 1]甩進湖裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[Slot 2]安全地跨過兩塊浮冰，但第三塊在腳下旋轉起來。冰轉得意外地迅猛，把[Slot 2]甩進湖裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[對浮冰施展冬之風法術]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​隨著你施法，浮冰之間的水結晶成了堅固、清澈的冰之晶格。
+
+鑒於浮冰的大小，不大可能保持整個距離穩定很長時間。事實上，你已經可以聽到幾塊較大的浮冰卡吱作響，就要失去其臨時的停泊狀態了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​在你跨越時，你的體重導致一些浮冰危險地破裂並移位，但魔法尚且控制住了浮冰，你沒有掉入水中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[Slot 3]安全地跨過兩塊浮冰，但第三塊在腳下旋轉起來。冰轉得意外地迅猛，把[Slot 3]甩進湖裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​先前用來凍結浮冰之間的水的冰系魔法已經消失。移著位的浮冰海峽現在和你剛到達時那樣危險。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[Slot 4]安全地跨過兩塊浮冰，但第三塊在腳下旋轉起來。冰轉得意外地迅猛，把[Slot 4]甩進湖裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[Slot 0]劃著水到冰原的邊緣，爬了起來，渾身濕透，發著抖，再次加入隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​你安全的跨過兩塊浮冰，但一旦你的體重壓上去，第三塊浮冰就在腳下旋轉。
+
+冰旋轉得出奇的迅猛，把你的腳甩進湖裡。你身體的其餘部分也跟著掉下。
+
+你勉強避免被另一塊冰壓碎，但卻因此暫時被湖水淹沒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​手指立即麻木了，你努力游到遠處的冰原的邊緣。渾身濕透，發著抖，你把自己拖出水面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[Slot 5]安全地跨過兩塊浮冰，但第三塊在腳下旋轉起來。冰轉得意外地迅猛，把[Slot 5]甩進湖裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​雖然頂著嚴寒，你的身體足夠強壯，能承受麻木的影響。你很快游到遠處的冰原的邊緣，並爬了出來。雖然冷空氣咬著你濕漉漉的皮膚，你無所謂地把冰碴子抖了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​雖然頂著嚴寒，[Slot 0]的身體足夠強壯，能承受麻木的影響，並迅速游到遠處的冰原的邊緣重新加入你們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​雖然頂著嚴寒，[Slot 0]的身體足夠強壯，能承受麻木的影響，並迅速游到遠處的冰原的邊緣重新加入你們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​雖然頂著嚴寒，你的身體足夠強壯，能承受麻木的影響。你很快游到遠處的冰原的邊緣，並爬了出來。雖然冷空氣咬著你濕漉漉的皮膚，你無所謂地把冰碴子抖了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[對浮冰施展冰霜衝擊]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​雖然頂著嚴寒，你的身體足夠強壯，能承受麻木的影響。你很快游到遠處的冰原的邊緣，並爬了出來。雖然冷空氣咬著你濕漉漉的皮膚，你無所謂地把冰碴子抖了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​雖然頂著嚴寒，你的身體足夠強壯，能承受麻木的影響。你很快游到遠處的冰原的邊緣，並爬了出來。雖然冷空氣咬著你濕漉漉的皮膚，你無所謂地把冰碴子抖了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​雖然頂著嚴寒，[Slot 0]的身體足夠強壯，能承受麻木的影響，並迅速游到遠處的冰原的邊緣重新加入你們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_00_stalwart_village\px1_00_cv_taena</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>109</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「但你是新的冒險者。瑞能吉爾德最後的志願者。」
+
+她擺著腿斜視著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[查看她的靈魂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「我想問你一些事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​你感覺到她的精魂嗡嗡作響。她的靈魂中潛伏著另一個人格。
+
+那沉睡記憶的輪廓非常尖銳。破爛。當你找到它時，它使勁抓住了你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「醒來吧，芝諾薇，不要忘記盛宴大廳的戰鬥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​一陣顫抖劃過塔娜的臉，然後她皺巴巴的皮膚又變得鬆弛起來。一陣咳嗽過後，她慢慢地恢復了意識。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​塔娜瀕死的意識承受不住了。它枯萎並消失了，同時芝諾薇卻完全控制了塔娜的身體，並發起了攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「說話大聲點。我的耳朵沒有以前那麼好使了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「你說了什麼嗎，親愛的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「跟我說說你自己。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「礦山工作感覺怎麼樣？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「就這樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「我？我曾是礦場的監工。幾十年前礦賣不出去的時候，我們只好關了它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「速度好比是一個喝醉食人魔，但它畢竟還在增加。」她笑著說。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「確實有很多工作要做。」她把手輕快地叉在一起。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「他們走了？那些混賬蠻子終於離開了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​她突然笑道。「真是個烈性子，她跟我說了！我打賭你會狠狠調教礦場裡的那些無業遊民的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「她說你不會聽人胡言亂語。我打賭你會狠狠調教礦場裡的那些無業遊民的。」她對你點了點頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「據說你在反抗彎過得不錯，很多人都不認為你會勞煩來這裡幫我們。」她盯著你，舌頭伸了出來，露出一排不整齊的牙齒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​你站在黑暗的宴會廳裡。桌子和凳子都被堆積起來，頂著遠處的門。
+
+你知道這還不夠。
+
+你的礦道員工中的幾十個矮人和你站在一起等待著，他們顫抖的手中拿著鐵鍬和鐵鎬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​一個人轉過來對你說。「芝諾薇，拜託。如果我們現在就離開，我們還能躲進路障後面。我們在這裡做不了什麼。」
+
+他是正確的，你聽到其他人也在小聲嘟囔著互相討論。
+
+不過武裝監管人馬如恩命令你守住這裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​眾人討論的聲音越來越大，你覺察到了兵變的意味。你從不允許屬下反抗你的命令，這次也不會。
+
+所以，你舉起鐵鎬把它砸在了那個人的腦袋上。他倒下了，其他人安靜了下來。刺鼻的氣味從他的身體裡散發出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「我們要戰鬥到底。誰有不同意見的，我們可以現在就見個分曉。」你的聲音是嘶啞的，是怒吼出來的，沒有人移動半分。他們把眼神都移動到閃爍的火把上。
+
+有些東西在撞擊著大門。其他人舉起了自己的武器——鎬、鏟子、還有幾把劍——但他們都不敢退縮。你的太陽穴劇烈地跳動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​你從塔娜的靈魂退出來，但你覺得芝諾薇的憤怒和意志佔據著你的身體。她的精魂呼嘯著，衝向一個看不到的敵人。
+
+芝諾薇非常強大，但也很危險。她的憤怒讓她回想到了以前的記憶。
+
+你覺得其他人也應該能被你喚醒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​然而塔娜並沒有意識到這一切，她看著你，非常疑惑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「這是什麼，陌生人？你覺得一個帕格閏人會這麼輕易就背叛自己的人民嗎？」
+
+她的手握著一把想像中的武器。芝諾薇的精魂陷入了一種好戰狂熱，就像你從她在矮人軍械所的記憶中看到的那種。她很危險。
+
+在芝諾薇下面，塔娜的被壓制的意識在掙扎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「那個名字……它帶著死亡的記憶。戰爭。狂怒。血的味道。
+
+「你想用它做什麼？」
+
+她的眼睛變得異常明亮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「我需要進入矮人軍械所。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「我沒有惡意，芝諾薇。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「你不會背叛矮人軍械所的——你非常忠誠。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「你很早以前就死了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​[說謊]「你在礦井下的日子損傷了你的視力嗎？我和你一起戰鬥過。我記得你殺掉了那個懦夫。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「你的人民幾百年前就滅亡了。沒有什麼可以背叛的了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​她眨眨眼睛。「原諒我，我沒認出你。」
+
+她的狂怒消退了，而疑惑滲漏進入它（靈魂）的位置。你對它的輪廓（女性身體的線條）進行了著力點的測試。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​芝諾薇的憤怒是一片濃重的大霧，讓塔娜消退的意識快窒息了。
+
+芝諾薇本人已經被壓制了，然後她迫使塔娜瞇起眼睛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「那麼你不是佐爾坦的來訪商人或伊格贊德魯的異國狂熱者了。你是我們中的一員。」
+
+儘管芝諾薇通過這個老女人在說話，你能感到塔娜的意識正在恢復並變得穩定。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「撒謊！武裝監管人馬如恩一定會把你扔進白皚鍛爐。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「看看周圍。如果我在撒謊，你會被困在這裡，這個老女人的身體裡嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「你誤會了。冷靜。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​芝諾薇終於壓制了塔娜，通過老女人的嘴發出大叫。
+
+在那一瞬間，芝諾薇的精神擴張了，讓你看到了她一生的記憶和經歷，甚至讓你看到了一部分矮人軍械所中的頌詞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「你會搶走我們的鋼鐵並讓我們流血而死！我——」
+
+她彎下腰，咳嗽並抽搐著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「我知道那個刻有鐵砧和雉堞之牆的浮雕的大門。聽上去熟悉嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​[說謊]「我們這樣的虔誠的帕格閏人必須保護矮人軍械所，不讓它被佐爾坦和伊格贊德魯的無謀而破壞。讓我們共享頌詞，作為我們目標一致的見證。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「一個陌生人會知道軍械所的鍍金大廳嗎？或者艾比頓，所有勞動之人的恩主，的聖壇嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​她眨眨眼睛。「你聽上去認識我。」
+
+她的狂怒消退了，而疑惑滲漏進入它（靈魂）的位置。你對它的輪廓（女性身體的線條）進行了著力點的測試。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​她的眼睛張開，然後背誦了一些有韻律的吟誦詞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「矮人之錘啊，振得響亮！願鐵砧之深樂迴盪。
+
+「軍械所的圍牆保衛我們，把劫掠和魔怪阻擋。
+
+「鍛爐見證對艾比頓信徒的辛勤勞動，而火焰把礦石照亮。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​她點點頭。
+
+「那麼讓我們共享我們的連接之語吧，兄弟。」</DefaultText>
+			<FemaleText>​她同意的點點頭。
+
+「還有讓我們來分享我們共同的命令，妹妹。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「我還沒能進到矮人軍械所裡——這就是為什麼我需要你的幫助。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「武裝監管人馬如恩警告過我們，外來者非常貪婪。你需要待在矮人軍械所外面，而我——」
+
+她緊閉雙眼顫慄著。她的憤怒像潮水一樣漲起來，不過你可能有辦法讓她冷靜下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​塔娜的意識正在浮現出來，不過芝諾薇更加強大，她的憤怒和慌亂暫時消退了。
+
+你意識到這兩部分靈魂像液體一樣是流動的，至少在那一瞬間是如此。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​芝諾薇從塔娜那裡奪取了控制權——你感覺到那個老女人的個性幾乎被芝諾薇完全壓制了。
+
+塔娜的意識正在退去，但依然有可能再次顯現出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「幾十年都沒有感覺到如此清醒了。得問問哈斐瑞克在酒裡放了什麼。」她笑道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​她深呼一口氣，眼瞼落了下來。在老女人的身體裡，芝諾薇和塔娜的個性和記憶正在互相戰鬥著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​[壓制芝諾薇的精魂，讓塔娜掌控身體]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​[壓制塔娜的精魂，讓芝諾薇掌控身體]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​[什麼都不做]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​芝諾薇抓住機會控制了塔娜的身體。她抬頭看著你，你從她的憤怒凝視中看到，她依然還迷失在遙遠的暴力的記憶中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​她歎了一口氣，驅散了過去的憤怒和傷痛。
+
+當她轉過頭看著你時，她的眼睛中閃爍著新的能量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​「我打盹了？我的天，我做了一個奇怪的夢……」
+
+她搖了搖頭，把手放了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「還有這麼多要做的工作！抱歉，但我得檢查一下那些礦工——看看進度如何，想要打通那該死的豎井估計還得一年。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​「告訴我密碼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​她看上去很懷疑，但她的嘴唇似乎自己在動，吟唱出一些話語。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​「塔娜，聽著我的聲音！這是你的身體，你的靈魂。別讓芝諾薇奪走它。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​[進入塔娜的靈魂，壓制芝諾薇的意識]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​塔娜的靈魂成為了記憶和個性的戰場，進入她的靈魂讓你覺得非常痛苦。你的肌肉變得極度勞累和酸痛，你的身體上出現了很多傷口。
+
+但你堅持了下來，把塔娜的意識拉到了表面，強行壓制了芝諾薇的憤怒和暴力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​當你張開雙眼，你發現你的身體並沒有受傷，也沒有掙扎的痕跡。
+
+除了你眼前的這個女人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「那麼說來聽聽吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​「但我依然記著很多礦井生意的事情，我得多招募一些人來挖出入口。」
+
+她摸了摸自己的頭，發現頭髮已經變得很薄。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​「我一直在向鹽之少女（昂德拉）祈禱，希望在他們完成工作以前，我不會忘記太多。」她眨眨眼睛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​「繼續幹活。設法多投入一些。」她的眼睛富有神韻地眨著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​「礦井還處於關閉狀態，堅忍村裡沒有多少有經驗的礦工。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​「我讓他們非常努力地工作，但似乎很多人都不得要領。如果運氣好，我們應該很快就能開工。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​「堅忍村以前是一個礦井小鎮？發生什麼了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​「我們這個鎮子是在殖民時期由鹿眾人建立的。我們的採礦業在整個帝國都是非常有名的。」她點點頭，她的頭移動的方式看上去就像生銹了一樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​她皺起眉頭。「然後叛亂發生了，鹿林人意識到他們並不關心維護山地的道路開銷。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​「看到生意蕭條之後，我們放棄了。我們的價格無法和共和國的貨物相比。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​「但你給我們找到了白皚鍛爐，也許情況會有所改變。以防萬一，找個隊伍清理一下礦井。」她的笑容讓她不整齊的牙齒露了出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​「你看上去在努力保守著什麼秘密。」她冰冷的手指搭在你的肩膀上。她黑色的眼睛打量著你。</DefaultText>
+			<FemaleText>​「你看上去在努力保守著什麼秘密。」她冰冷的手指搭在你的肩膀上。她黑色的眼睛打量著你。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​「我見識過很多東西，但這對我來說是第一次。」她冰冷的手指緊緊握住你的手臂。黑色的眼睛一直盯著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>​「我聽說外面有食人魔！它們拆毀城牆，還傷害無辜的人。忘記那些糟糕的事情吧。」
+
+老女人捏著自己的手。她的關節腫脹，手上到處都是老繭，她搓著手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​「據說你在反抗灣時是個流氓，也許我們正需要你這樣的人。」一顆不整齊的牙在她笑的時候露了出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​「撒謊！如果錢幣之主佐爾坦把我們的大門再敞開一些，你就要清空我們的大廳了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​「我和你一樣，我們都得服從武裝監管人馬如恩的命令。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>​「但你已經打開了矮人軍械所，這種情況也許該改變一下了。」她的笑容讓她不整齊的牙齒露了出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​「我盡力經營著這些事，但我已經老了——不能一直保持九十歲。」她又發出咯咯的聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​你退出塔娜的靈魂，你覺得芝諾薇的憤怒和意志佔據著你的身體。她的精魂呼嘯著，衝向一個看不到的敵人。
+
+芝諾薇非常強大，但也很危險。她的憤怒讓她回想到了以前的記憶。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​「小心，她看你的眼光跟伊圖馬克看你的寵物豬的眼光一模一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​「小心，她看你的眼光跟伊圖馬克看你的寵物貓的眼光一模一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>​「她腦袋裡全是問題……以及解決方法……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>​「啊，天氣好像變熱了！」他尷尬地大笑起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​「夠了。」葩萊吉娜拍了拍魔鬼的肩膀，猶如母親安撫自己的孩子一樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>​「這不算秘密。頂多只是個他不想公開的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>​「看來我不是唯一知道不該信任你這種人的人，通魂者。你要是聰明的話，就最好別相信她。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>​「她看你的眼光就跟母獅看我的眼光一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​「要是大家都能守口如瓶就好了……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>​「終於！一個並不把一切都怪罪到鹿眾的鹿林人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>​「她已經被逼上絕境了，[Player Name]。小心點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>​「她的靈魂正在她體內戰鬥，觀察者。如果我們什麼都不做，她會被吞沒的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>​「你對她做了什麼，[Player Name]？！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>​「小心點。她體內遊走著非常危險的東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>​「如果她發起攻擊，我必須得打暈這個老女士，我不想聽到任何人指責我。我什麼也做不了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>​「這個傢伙太強大了。它會從內部吞噬她，弱者無法戰勝強者。」
+
+杜蘭斯盯著她，壓低了他的聲音。「但這可能對你沒什麼好處。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>​「我喜歡這種血腥味的話語！如果她在年輕一些，頭髮再多點……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>​「唔，這件事很快就變得不愉快了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>​「下面埋著一名真正的勇士。這就解釋了她周圍的那麼多的屍體。」（原文如此，我不明白……）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>​「小心。我不想惹上這個麻煩。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

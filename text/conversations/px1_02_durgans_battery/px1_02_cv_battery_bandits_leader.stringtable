@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_02_durgans_battery\px1_02_cv_battery_bandits_leader</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個男人站在路中間。他的肩膀上依然扛著劍，如同後方隊伍的話事人一樣向前走了兩步。「我還希望是又一個承福者，他們總能帶來驚喜——而我們最愛驚喜了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「我說的我們，當然，指的是我和這東西。」男人拍了拍劍柄。「（你會死得）很快的。站著別動哦。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

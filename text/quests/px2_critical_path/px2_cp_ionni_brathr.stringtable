@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px2_critical_path\px2_cp_ionni_brathr</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>無目者的巢穴</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>重造艾比頓之錘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>前往凱榮的傷疤。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>設法到達伊歐尼·布拉瑟的碎片。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>獲得伊歐尼·布拉瑟底部的水晶。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>擊敗巨海怪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>用艾比頓之錘擊打伊歐尼·布拉瑟的水晶。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>昂德拉說，無目者聚集在位於凱榮的傷疤的、伊歐尼·布拉瑟的一個碎塊中，而如果我能到達這個地方，也許有辦法阻止他們。
+
+但是，昂德拉建議我先去重造艾比頓之錘，以便能夠召喚他們來走向自己的死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>用我從修道院取得的艾比頓之錘的碎片，我有足夠的金屬來製造和原版相似的一個人類尺寸的版本。
+
+昂德拉相信這足以影響無目者的行動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>在凱榮的傷疤有伊歐尼·布拉瑟的巨大碎片。我必須去那摧毀無目者的軍隊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>位於凱榮的傷疤裡的凍湖的中央附近，就是隕月「伊歐尼·布拉瑟」的碎片。在它裡面有終結無目者的辦法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>這裡有大型的水晶貫穿著伊歐尼·布拉瑟的核心。我需要到那去並使用艾比頓之錘攻擊它，而它應該可以讓整個洞穴倒塌。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>昂德拉很久以前在凱榮的傷疤留下了一隻巨海怪，以保護她的無目者所休眠的這個地方。而現在，它擋在了我和我需要敲擊的水晶之間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我必須使用艾比頓之錘，敲擊在伊歐尼·布拉瑟中央的水晶，使洞穴倒塌並且徹底終結無目者的威脅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我到達了伊歐尼·布拉瑟碎片底部的水晶處，然後使用艾比頓之錘敲打了它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

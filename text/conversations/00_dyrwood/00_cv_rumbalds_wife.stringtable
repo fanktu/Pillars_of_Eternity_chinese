@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_rumbalds_wife</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個女人舉起雙手嚎啕大哭。一個穿著淡黃色衣服，頭髮浮誇，眼神迷離的女人。「我告訴過他！讓那個暴躁的白癡忘記過去，並感謝神沒讓食人魔毀掉我們的房子！但他就是不聽。」
+
+她雙手交叉。很難說清她是否看到了你。「而他還在繼續咒罵著其他人。果然，神派來了那只凶獸抓走了那個不懂感恩的男人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「他幾乎就沒有管過這些可憐的豬！看看這些家畜。」她最後轉身面對著你，手中抱著一頭小乳豬。它粉紅色的豬鼻微微拱動就好像在朝著你看。
+
+「我敢打賭你來照顧這些豬崽都比他好得多！」她把小豬塞到了你手臂上。你還來不及說話，她就轉身向天空舉起雙手，繼續著她的咆哮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「這是一次教訓！要感謝神留給你的東西，無論大小。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「……朗姆巴爾德，那個怨天尤人的傻瓜，他的暴躁給他帶來了什麼？成了食人魔的腹中之物！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

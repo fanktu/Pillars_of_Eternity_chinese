@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px2_bounties\px2_00_tsk_boss_lagufaeth</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：紅水六肢魚怪</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺死白石空洞的紅水六肢魚人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>將巢母的頭帶給堅忍村的阿莎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>劇烈的震動侵擾了白際山的六肢魚怪，使它們變得更具攻擊性。
+
+它們中最兇惡的一些，生活在白石空洞的湖裡，現在已經成了旅行者和那裡農民的威脅。當地人稱他們為紅水六肢魚怪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>阿莎要求我消滅紅水六肢魚人並將他們巢母的頭帶來作為證明。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我已經消滅了紅水六肢魚怪。當我返回的時候，阿莎會為巢母的腦袋而付我錢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我領取了解決紅水六肢魚怪的懸賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

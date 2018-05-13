@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_04_mercenary_camp\px1_04_cv_tanoss</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>49</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一個蛛人轉向了你，磨著它的下顎和爪子。它搖晃著浮在地面上。
+
+就在它好像要撲過來的時候，你在腦海中聽到了一個聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「[Player Race]——野獸來了，太好了！高興極了，塔諾斯。」
+
+蛛人停頓了一下，用它圓亮的眼睛打量了你一番。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「不是學徒。不，[Player Race]——野獸是別的什麼。」
+
+它靠的更近了。下顎周圍的隔膜顫動著。它看上去正在聞你的味道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「沒有營地的味道。也不像上面的武士蜂團，不。」蛛人的想法就像一聲細語迴響在你的腦中。
+
+它深慮地將自己的口器揉在一起。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「如果既不是學徒，也不是武士蜂，也許[Player Race]——野獸是盟友，是的。」
+
+它眼睛閃耀著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你認為我們能互相幫助麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「你在這做什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「關於鑰匙的事！關於學徒對手的事。」蛛人難以掩飾它的興奮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「塔諾斯為主人努力工作。但是其他的學徒——骯髒的野獸！——想要在主人面前爭寵。想要殺了塔諾斯。」
+
+塔諾斯發出可憐的聲音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「你想讓我為你做什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「當然是殺了學徒對手。」塔諾斯將他細長的爪子團成拳頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「塔諾斯知道，塔諾斯知道！[Player Race]——野獸是來見主人的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「告訴我關於鑰匙的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「但是主人有扇門。門想要鑰匙。」塔諾斯張開他的下顎展示了一排鋸齒狀的孔口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「但是[Player Race]——野獸從其他學徒對手手裡拿到了鑰匙部件對麼？那麼塔諾斯可以給你最後的鑰匙部件。」
+
+蛛人急忙湊了過來，顫動地交錯著他的手指。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[離開]「我走。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[攻擊]「死吧，蛛人！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「鑰匙是言語。是知識。」一隻爪子沿著生物的崎嶇的頭骨追蹤著螺旋狀的軌跡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「主人將鑰匙部件發給了每個學徒。並說道最聰明的最強大的學徒能夠拿到所有的鑰匙部件。」塔諾斯一邊強調一邊將爪子捏成了拳頭狀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「塔諾斯是最聰明的學徒，不是麼？[Player Race]——野獸見了主人之後，塔諾斯也會見到主人。並成為新寵。」
+
+蛛人的眼睛好似閃爍著光芒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「釋放法術。為了讓主人高興。看！」
+
+蛛人朝附近的一個奴隸伸出了細長的手臂。在蛛人嘀咕了一些難以理解的音節之後，那個奴隸轉向你並跪了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「還有很多工作要做，是的，是的。但是控制法術最能讓主人高興。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「[Player Race]——野獸回來了。帶著鑰匙部件麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「我在其他學徒身上找到一些奇怪的筆記。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「是的，鑰匙部件！能打開主人的門的。」塔諾斯的上顎不停的顫動著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「找到所有的鑰匙部件。從所有學徒那裡。然後塔諾斯給你最後的鑰匙部件。」
+
+蛛人發出好似愉快的叫聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「[Player Race]——野獸解決了其他的學徒對麼？聰明的野獸。」
+
+塔諾斯一邊興奮的顫抖一邊遞給了你什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「野獸真聰明！但是塔諾斯依舊更聰明！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「拿上最後的鑰匙部件去見主人吧。塔諾斯一會再來。成為主人的新寵，是的。」蛛人彎著它的小腰離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「跟我來，塔諾斯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[離開]「別擋著我的道，可悲的生物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「是的，是的！[Player Race]——野獸比塔諾斯更聰明！」他一邊彎著腰，一邊諂媚的離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「不，不，塔諾斯必須留在這裡，完成法術。還有很多工作，是的。」蛛人對著工作台比劃了一下並且做了一個貌似聳肩的動作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「等一下，你是怎麼知道我為什麼在這的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​塔諾斯原地懸浮，下顎抽動著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「主人是最偉大的法師。[Player Race]野獸還想要什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「你看起來相當急於和我合作。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「塔諾斯渴望獲得主人的歡心，更想活下去。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「塔諾斯必須工作。是的，有很多事要做。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「但是主人有扇門。門想要鑰匙。」塔諾斯張開他的下顎展示了一排鋸齒狀的孔口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​[攻擊]「我現在就搶走你的那部分鑰匙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​蛛人嘶嘶叫，「不！狡詐的畜生！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「我有從其他學徒那裡拿到的鑰匙部件。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「這些和你在一起的人是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​蛛人擺擺手。「僕人。守衛。有用的工具。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「我會記住的。我們談談別的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​[離開]「看看我能做點啥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​塔諾斯原地懸浮，下顎抽動著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「[Player Race]——野獸來了，太好了！在塔諾斯最令人高興的事了。」
+
+蛛人停頓了一下，用它圓亮的眼睛打量了你一番。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

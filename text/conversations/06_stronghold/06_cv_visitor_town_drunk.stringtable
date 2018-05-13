@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_visitor_town_drunk</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>34</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「你好。呃，讚美你，[Player Name]大人。我有事想找你一下。我遇到麻煩了。」
+
+此男子滿嘴酒氣。</DefaultText>
+			<FemaleText>​「你好。呃，讚美你，[Player Name]女士。我有事想找你一下。我遇到麻煩了。」
+
+此男子滿嘴酒氣。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「是這樣的，我在鹿灘欠下了數筆債務。還有其他的一些地方也是。加起來挺多的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「那好吧。說來聽聽吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[離開]「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你聚集起你的隊友們，然後示意請願者走上前來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我在想……不知道你認不認識有誰需要僱傭人什麼的。我想要工作！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「別擔心。讓我來處理。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「我知道一個辦法可以讓你還清債務。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我有病啊？為什麼要幫一位無業遊民？別浪費我時間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我、我不是那個意思，大人！我只是——我以為……對不起！」</DefaultText>
+			<FemaleText>​「我、我不是那個意思，女士！我只是——我以為……對不起！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「護衛，給我轟走這個垃圾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「來人啊，給我吊死這個廢物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「謝謝你，大人。我還以為沒人會幫我了。」</DefaultText>
+			<FemaleText>​「謝謝你，女士。我還以為沒人會幫我了。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[給他1200銅幣]「這應該足以還清你的債務。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「物質商品、債務——這一切都不重要。札瓦會解釋給你聽。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「我會讓十二人眾不斷地騷擾你，直到你前往港口。我會安排你一艘前往活化之地的船隻！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「我這人沒有一技之長。你有何想法？」
+
+加弗爾坐立不安。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「葩萊吉娜可以為你聯繫上維利亞共和國的研究者。你可以去當他們的助理。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「我會跟蕨堡區療養院的貝拉賽潔說說。你可以幫忙她的研究。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「我當前無法幫助你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​加弗爾兩眼放光。
+
+「太好了！願主保佑你，大人！我馬上出發到愛娜之憩去償還乾淨我的債務。他們一定驚訝死了！」</DefaultText>
+			<FemaleText>​加弗爾兩眼放光。
+
+「太好了！願主保佑你，女士！我馬上出發到愛娜之憩去償還乾淨我的債務。他們一定驚訝死了！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「仔細一想，還是算了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「哦。那麼……你有其他的主意嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「這些都是羈絆著你的世俗之物。解決方法就是燒掉你所有的財物，然後以自殘來償還你的債主。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「呃。你的意思是，成為實驗對像？唔，至少薪水不會低，對吧？」
+
+他笨拙地躬了躬身。「謝謝你，我會盡快前往那裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「維利亞共和國？但是那是很遙遠的……不過，有時候換換口味也挺不錯的。」
+
+他笨拙地躬了躬身。「謝謝你！我會努力工作的，我發誓！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「等等，我不是——！啊！」
+
+加弗爾蹲下避開了一位護衛的擒拿。他啜泣著跑出了大廳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​加弗爾驚恐地啜泣著跑出了大廳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「不要，等等！別動手！我道歉！」
+
+護衛們抓住加弗爾，拖著他出了大廳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「聽起來呃，挺有趣的。謝謝你，[Player Name]大人！就知道你能幫忙！」</DefaultText>
+			<FemaleText>​「聽起來呃，挺有趣的。謝謝你，[Player Name]女士！就知道你能幫忙！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「哦，那好吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​加弗爾不安地卑躬屈膝，眉頭上滿頭大汗。他等待著你的發言。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「嘿！就只打擾你一下子……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「我現在沒那麼多錢啊，大人。有錢的話我一定會還的！」</DefaultText>
+			<FemaleText>​「我現在沒那麼多錢啊，女士。有錢的話我一定會還的！」</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>

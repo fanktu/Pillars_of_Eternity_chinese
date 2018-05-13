@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_endgameslides</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>48</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​空嬰的詛咒終結了，白際山中再次出現了健康的兒童。
+
+而這一代人有著更強的活力，對探索也更加嚮往。不久，他們就會建立起新的小鎮，收復那些被遺忘的定居點，讓白際山變得日益強盛。
+
+曾經衰落的地區逐漸變成了繁榮的邊境，並產生了很多偉大的工匠和探險家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​儘管空嬰的詛咒終於被解除了，白際山依然還是一個艱難而危險的地方。
+
+但矮人軍械所讓它變得更加安全了。古堡中的大炮抵禦著強盜和食人魔，道路變得更加安全了，人民也得以受到保護。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​隨著空嬰詛咒的終結，白皚鍛爐的消息傳到各地，鐵匠們都來到了此地，努力工作著。
+
+儘管這招來了其他地區的嫉妒，但整個地區確實在日漸繁榮。再一次，白際山憑藉著自己的金屬加工技藝而變得聞名和繁榮起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​不幸的是，堅忍村想要重開礦井的想法隨著塔娜一起消逝了。隨著她的離去，村莊裡再也沒人擁有足夠的經驗和技巧來監察工程。
+
+很多商人和工匠為白皚鍛爐而來到此地，堅忍村可以從他們身上獲得不少收入，但由於沒有了礦石資源，他們只能看著別的村莊日漸富有，而自己則只能依舊以漁獵為生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​在塔娜的引導下，堅忍村的礦井重新開工了，不過進展緩慢而且出了一些事故。這並沒有阻止淘金者的到來，他們中很多人是土匪和歹徒，且所有人都希望通過白皚鍛爐來獲利。
+
+等到堅忍村的礦井重新開工時，很多其他人的礦井早就在運營中了。這些無法無天的人所開的礦井為當地帶來劇烈的競爭和暴力衝突。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​由於塔娜獲得了新的能量，在她的幫助下，堅忍村的礦井發展得十分迅速。矮人軍械所的消息傳到了各地，很多鐵匠和工匠都慕名前來，希望得到穩定的礦物供應。這些人帶來的財富為當地拓寬了道路，建造了城牆，也為堅忍村的人民帶來了希望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​矮人軍械所的開工為山裡的走私者帶來了很多機會。遵紀守法的堅忍村民盡力抵禦著這些人，不過他們還是找到方法進入了村莊，在街道上吐痰，為骰子賭局大喊大叫。
+
+人們對這些吵鬧的拜訪者非常不滿，不過並沒有多少人注意到歐維娜的午夜差事：她為喧鬧的金主們提供飲食，並從中賺得了不少錢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​儘管人們找到了白皚鍛爐，但通魂者的到來還是被當地人看作是一種不詳的徵兆。人們一邊談論著矮人軍械所帶來的繁榮，一邊又在心中默默祈禱，希望死亡早日降臨到通魂者的身上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​儘管堅忍村對於白皚鍛爐的發現非常高興，而通魂者的到來則讓他們更加歡呼雀躍。因為通魂者不僅給他們帶來了矮人軍械所，更為他們帶來了希望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​但對於堅忍村的人來說，白皚鍛爐這個名字往往也帶有一些苦難的意味。這讓他們想到了通魂者，那個惡棍給他們帶來了白皚鍛爐，不過也從村莊中拿走了很多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​堅忍村人歡慶著白皚鍛爐的發現，不過他們很少提到通魂者的事情。最終，人們只記住了耀眼的白皚鍛爐，而通魂者的名字則從傳說中淡出了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​哈姆克的死亡並沒有讓卡若克的魔鬼感到滿足。不久，她對復仇的飢渴開始惡化。隨之而來的，是對一切新鮮的某種、任何事物的渴望。
+
+當她感到自己的關節逐漸變得僵硬時，夏天的到來使積雪開始不斷融化。她放棄了靈魂學，離開了文明世界往東方走去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​釋放哈姆克讓卡若克的魔鬼感到非常不滿，在通魂者和賽奧斯的對抗結束後，這種不滿一直不斷地吞噬著她。
+
+她繼續搜尋那些曾經破環了寒曉鎮的人，希望通過自己的不斷復仇，終有一日自己能再次找回自己的感覺。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​她穿過群山，通過雷亞德賽熱斯，進入了以沙彌圖的平原。她已經忘記了那種沒有目標，只是單純享受旅程的感覺。
+
+現在她只能感覺到她的雙腳不斷踏在大地上，望著前方的地平線，走在一望無際的草地中，總有新的在等著她。她估算了自己的身體鈍化的剩餘時間，並感到滿足。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​然而隨著她的殺戮，這番行為的空虛越發沉重，彷彿體內有個鉛塊。她喪失了熱情，動作變得僵硬而呆滯。
+
+有一天，她在少女瀑布被包圍了。而當她想要進行反擊時，卻發現自己的四肢已經被卡住不能動彈了。
+
+村民們把她的身體撕成了碎片，她大叫著，但卻什麼也感覺不到。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​她的動作漸漸慢了下來，她的世界也逐漸靜止。齊腰的草在風中起伏，如同波浪一般。麻雀和烏鴉掠過天空，它們扇動翅膀，彷彿在莊嚴地致意。
+
+此時她已經無法移動，她看到了她從未見過的東西——大海。她用盡最後的力氣，把自己的身體拉入波濤之下，在自己最後的時間裡，她感受著波浪的翻湧和變幻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​札瓦坦然接受了他的大師的知識的損失，並決定重新開始。
+
+他回到了冷流湖的空蕩蕩的千夢修道院。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​在那裡，他重新建立了納爾帕茲卡教團，向他人傳授自己從大師那裡得到的知識。
+
+眾多門徒到遠方去尋求大師的智慧，而不久之後，他們也將把這些智慧傳給下一代門徒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​札瓦認為自己是伊謝皮羅的最後一代傳人，他不斷尋找著具有納爾帕茲卡精神的學徒。
+
+在反抗灣的酒吧中，札瓦找到了這樣一個人，並把自己從大師那裡學來的所有知識都傳授給了她。
+
+在她離開之前，他讓她許下承諾，今後也會用這種方法把知識傳授給別人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​札瓦認為大師的教誨從世間遺失了，而這都是自己的錯。
+
+他開始了一段毫無目的的旅程，尋求懲罰和痛苦，渴求它們帶給自己清明的那些片刻。
+
+但也僅僅是片刻而已。真正的啟發依舊無處可尋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​在那裡，他建立了一個新的教團，並基於自己的經驗和信仰創建了新的哲學。
+
+眾多門徒到遠方去尋求大師的智慧，而不久之後，他們也將把這些智慧傳給下一代門徒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​艾比頓的復興，給這位一直被認為沉寂、埋頭苦幹的神，帶來了新的活力和目的。在鹿林，手工藝品在復興，而工匠都不缺學徒。
+
+還有，艾比頓對於保存的興趣恢復了，導致人們加倍努力調查英格維斯的廢墟。靈魂學者和手工匠一樣有很多要學習，但和艾爾·格蘭法斯的緊張局勢也在加重。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​細語之焰氏族和堅忍村謹慎地和平相處，尤其是在聽說食人魔幫助抵抗無目者後。
+
+整個氏族搬回了赤褐樹林，當堅忍村日漸有威望後，村民們和他們的食人魔鄰居建立了更緊密的聯盟。就在這一代人中，食人魔的商人去了堅忍村，村子裡的獵人在赤褐樹林受到歡迎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​至於堅忍村，凱榮的傷疤之戰反而讓他們堅定了解開杜根鋼秘密和用白皚鍛爐創造奇跡的信心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​艾比頓康復了但是性子溫和了，他和昂德拉之間達成的妥協也在鹿林實施了起來。
+
+在鹿林，技術性勞動開始復興，舉國的建築師、工程師和泥瓦匠，把斷壁殘垣變成了一個奇跡。反抗灣被重新建成宏大的首都，聯結整個國家的道路鋪成了寬敞的高速路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​無目者的毀滅和艾比頓記憶的永久喪失，讓昂德拉更加膽大妄為了起來。
+
+她認為人類或許已經發現了神的起源以及她身上隱藏的秘密，於是發誓決不能讓這種災難發生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​從記憶的負擔中解脫出來後，瑪娜哈不久就離開了承福者，繼續探險之路。既然她體會過世界的一些滋味了，她想要重新體驗一遍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​瑪娜哈思緒平靜後，她就決定鼓起勇氣來面對最近發生的那些事。
+
+幾十年來她是第一次回家，她發現勞瓦泰和以前比改變了好多。新的街區沿著海岸噴薄而起，而其他一些街區卻淪為破爛地，街區和河流的方向都改了好多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​瑪娜哈從沒找到鹽之井，但是在她身為承福者的職責以及在她有起有落的旅途中，她找到了一種安寧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​瑪娜哈重新發現了她的戰鬥熱情和浪漫。她凝視著地平線，目光從此次旅行轉向更遠的旅行，從她懷中愛人的身上轉向那更為癡情的人身上。她一生充滿著刺激、暴力和激情。
+
+她走得太快，以至於「後悔」的情緒都追不上她。而她只希望在下一輩子她也能繼續甩開它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​她回來時，她父母喜極而泣。他們還開著一家老式香料店，聞著許多熟悉的香味，她回憶起了她走過的地方，她見過的人。她講述了她的故事，一個又一個，並且開始在她最熟悉的土壤上建立起一種生活。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​隨著她四處旅行並接受昂德拉懇求者們的負擔，她從他們眼中看到了她以前從未注意到過的一種安寧。
+
+是信仰而不是昂德拉把他們從痛苦、罪惡和後悔中解救了出來。
+
+意識到這之後，瑪娜哈學會了接受昂德拉之道。它們雖然是逐漸的，但不可阻擋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​但是，當越來越多貧困人民聚集在邊境發誓要完成鐵連枷的工作時，堅忍村的抱負讓他們和雷亞德賽熱斯人的衝突愈演愈烈。
+
+等這地區重歸和平，不知還要多少年。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​和此同時，無目者被打敗了，堅忍村的人們計算了他們的傷亡，重新考慮了他們的抱負帶來的代價。
+
+最後，他們意識到他們最大的力量不是來自矮人軍械所，而是來自那些尋求新機遇的人們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​因此，他們封鎖了白皚鍛爐，放棄了他們對杜根鋼的追求。矮人軍械所再度成為交易站，堅忍村在它帶動下也興盛了起來。
+
+堅忍村的復興從鹿林和雷亞德賽熱斯人各地吸引來了捕獸人、商人、工匠。繁榮給鹿林和雷亞德賽熱斯這樣邊境地區帶來了和平，拋開了歷史遺留爭論問題。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​無目者失敗後，堅忍村加倍努力想要解開杜根鋼的秘密，還想通過白皚鍛爐創造新的奇跡。
+
+但是，村民們也意識到他們沒法靠自己實現抱負的。為此，他們放下了不滿，歡迎新來者——鹿林和雷亞德賽熱斯之類——來他們小鎮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​堅忍村不僅擁有一個採礦和加工中心，還有一個貿易點，它們受到矮人軍械所的有力保護。
+
+這一派繁榮景象鑄就了一個和平的時代。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​她在她的海裡大攪大鬧——水下的高山時而升起，時而下降，海床也隨著她的憤怒而不斷動盪。
+
+儘管這種混亂只對地面產生了些許影響，但已經足夠讓艾爾·格蘭法斯各處河水氾濫，地震頻發。海岸附近城鎮的人民經受了很多苦難，但很少有人意識到這件事給塞恩泥沼以及雙榆城之間的英格維斯廢墟造成了多大傷害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​和無目者的戰鬥讓堅忍村對中部的食人魔的敵意更勝以往，而隨著社會的繁榮，村民的膽子也越來越大。在多次流血衝突之後，細語之焰氏族離開了赤褐樹林，到白際山去尋找一個更安靜、孤立的居住地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​儘管山地中有很多這種地方，穿過它們是十分危險的。食人魔經常會因為穿越了別人的領地而惹上麻煩。
+
+細語之焰氏族的族人只有一半活了下來，但他們最終在遠離人們的土地上找到了一個完美的居住點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​另一方面，到英格維斯廢墟去的人越來越少，鹿林和艾爾·格蘭法斯建立了一個更為穩定和平的關係。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​札瓦坦然接受了塔坎人民的終結，並打算朝著新目標繼續前進。
+
+他來到了反抗灣，加入了抄著師組織「掌秘人」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​他把所有的時間都用來寫作，記錄著他所記得的所有關於塔坎的事跡以及他們的生活方式。
+
+當他完成這一著作之後，他將它們交給了揭秘堂，希望以此讓塔坎的知識流傳下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​札瓦認為塔坎通過他而存留了下來。他回到了以沙彌圖，在他人民的信仰的指引下，他組建了很多小型、脆弱的部落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​他把這些部落叫做塔坎奎因——塔坎的血親——在他的指引下，這些部落一步步變強。
+
+札瓦沒有選擇繼承人，而是把自己的知識傳遞給了部落裡的所有人，並希望這些知識能一直流傳下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​札瓦意識到塔坎的時代已經過去了。他的靈魂不再受到困擾，他最終變成了他的薩滿所預見的那個開悟的安尼特雷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​他居住在冷流湖附近的一個空的修道院裡，這一消息很快傳播開來。他教導朝聖者如何放棄虛榮，放棄恐懼，甚至放棄過去。
+
+他邀請那些和自己一同學習的人到這裡來分享見解，並以此解除他們的痛苦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\px1_03_wildernesses\px1_03_qst_cursed_estoc</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>灰色沉睡者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>尋找「由銅、魂珀和石頭製成的旋轉的媒介物」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在下一首詩中提及的「死者沉睡的小丘陵」上休息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找到最後一首詩提到的「柱子們」。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我在遠望瀑布附近的一個神秘的石頭基座上發現一把破甲劍。一拔出它，我意識到這個武器已被詛咒並且是靈魂綁定的——和使用者捆綁在一起。
+
+刀刃上有一首詩。開頭是：
+
+「背叛者注定將沉睡而永不安息，
+
+同時他的行徑將在其胸膛裡存寄。
+
+但誠懇的懺悔治癒了這悲痛之人，
+
+且可敬的舉動中止了劊子手之手。」
+
+其他詩篇上或許有移除詛咒的關鍵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>當劍從基座上被取下時，一篇新的詩歌出現了。上面寫著：
+
+「尋找由銅、魂珀和石頭製成的旋轉的媒介物。
+
+首先喚醒你的精魂，讓你的罪得以彌補。」
+
+我想這就是移除詛咒的第一步。
+
+（友情提示：遊戲中有兩個相同的。其中一個藏的相當偏僻，比較難走；另一個則非常容易到達，而且保證你有很深的印象。）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>英格維斯的機器強化了武器，而且劍刃上的另一篇詩篇也顯現了出來：
+
+「找到陽光撫照下、死者沉睡的小丘陵。
+
+在廢爛肉體旁邊休息；看看你會收穫何種夢境。」
+
+這一定是另一條線索。
+
+（友情提示：其實那裡的地形是稍高但平坦，沒什麼起伏。重點是「死者沉眠」。）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我前往墓地為了尋找以前提到過的寶貴詩篇，而灰色沉睡者變得愈發強大。
+
+當我到那裡時，另一篇詩篇出現在了劍刃上：
+
+「世界之五指，結實而無恙的魂珀。
+
+臣服在柱子之前，給你的靈魂以秩序。」
+
+或許這能打破詛咒。
+
+（友情提示：我特意翻譯成了「五」指哦——原文只是複數的手指。另外，劇透一下：這五指和第二部預告片是相關的。）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我消除了灰色沉睡者身上的詛咒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_traveler_soul</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一些東西散落在過道上。這兒好像發生過鬥爭，不過一半的證據都被白雪覆蓋了。
+
+一縷精魂在寒冷的空氣中盤旋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[探出並觸及精魂]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[仔細查看區域]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​一個空包裹躺在雪地裡，被刀或者爪子撕開了。
+
+地面上有一道淤泥的痕跡，它們長著三根腳趾，而且有蹼，你數了數，有好幾雙腳印，都通向北邊。
+
+看起來還很新。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​一個空包裹躺在雪地裡，被撕成了兩半。
+
+地面上有一道淤泥的痕跡，很難識別其形狀和數量，但明顯是通往北方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​靈魂碎片突然讓你陷入回憶。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​你叫伊伽德，離家從沒超過20英里，更別說前往白際山了，可是你往上爬已經一個星期了。
+
+空氣漸漸稀薄，你的衣服也已經無法抵禦寒冷，而且剩下的食物已經不足三天。
+
+但你從未感覺到如此美好。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​自從開始旅程（至今的許多天），你（一共）只有幾個屈指可數的虛弱的法術——而你以前一天就能有同樣多。
+
+但做夢是最美好的部分。雖然四周都是凍土、亂石，還有寒風不停咆哮著，但每個夜晚睡眠造訪你，並把你帶入幻景，看到被白雪覆蓋的雄偉山峰。寒冷對你來說就不過是骨頭的一點甜美疼痛罷了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​你逆風而行，疼痛在體內擴散開來，你感覺更加接近他或她了。
+
+你的靈魂雙胞胎。
+
+一位和你擁有同樣靈魂的陌生人。是在誒歐拉上極少數的能夠理解靈魂分裂的痛苦的人之一，也是能幫你擺脫這種痛苦的唯一的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​有東西從前面的雪地裡靠近。
+
+你似乎感受到了一陣心跳，你知道——</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​幻景很快就消失了，你發現自己盯著伊伽德散落的東西，他的快樂從你的血管中漸漸褪去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​幻景很快就消失了，你發現自己盯著伊伽德散落的東西，他的快樂從你的血管中漸漸褪去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​他的精魂慢慢從你體內消失，你感覺到他的渴望變成了失望，最後只剩下毫無意義的死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

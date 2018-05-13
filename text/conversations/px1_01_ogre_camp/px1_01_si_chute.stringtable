@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_01_ogre_camp\px1_01_si_chute</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>104</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​一束寬廣的光線一直延伸到地下深處。入口邊緣到處都是零碎的廢棄物以及被撕咬過的動物屍體，但是沿著牆壁朝下有一縷閃爍的光芒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[固定抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[從繩子上爬下]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​抵禦了寶藏的誘惑之後，你繼續順著斜道而下。寬廣的洞穴再一次縮小成了傾斜的地道。
+
+冰在底下亮光的照射下成了淺海藍色。你已接近出口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​在接近出口時，斜道的牆壁也漸漸向你圍攏。腳下的立足點再次變得光滑而稀落。
+
+[SkillCheck 0]，勉強抓住繩索，在脫離地道進入寬廣的洞穴前扭傷了肩膀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​你將你的吊鉤固定在一塊堅固厚實的石筍上，使得拉扯繩索的時候更加安全。
+
+它固定住了，你接著將自由端拋進了斜道的黑暗之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[試圖徒手下到斜道]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​你在冰上找到了足夠多的裂痕和支點讓你能夠挑選下降的路線，並且安全地到達了底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你繼續順著斜道而下。寬廣的洞穴再一次縮小成了傾斜的地道。
+
+冰在底下亮光的照射下成了淺海藍色。你已接近出口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​然而斜道消失在了黑暗之中。朝著深處窺視，你能看到的只有零散的枯骨和結冰的污泥。
+
+從斜道飄來了一股腐肉的惡臭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[仔細查看你的周圍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​斜道上的冰十分光滑，它無法提供任何抓地力。從深處傳來的微弱回聲暗示這是條很長的道路。
+
+然而，你注意到了附近有塊厚實的石筍。看上去它能結實地固定住繩索和抓鉤。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​你抓起了繩索並且小心翼翼的將腳踏在了光滑的冰上。你緩慢地放低身子，尋找冰上堅硬的區塊以及有污穢條紋的冰痕。
+
+過了幾分鐘，斜道的洞口消失在了你的頭頂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​這次攀爬測試更多的是你的耐心而不是力量，迫使你小心翼翼地選擇立足點。
+
+直到你身邊的斜道變成寬廣的洞穴。你一邊降低身子一邊雙手交替，保持自己半麻木的手指緊緊抓著繩索。你依然看不見底。
+
+但是當你環顧四周，你看到了一絲閃光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​[爬回斜道缺口]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[擺動繩索讓自己能夠抓住臂架]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[從繩子上爬下]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​你決定爬回繩索。
+
+頭頂的亮光指引著你，並且你在回去的路上找到了穩定的立足點。
+
+幾分鐘後，你回到了洞穴，腳下是安穩的地面，身後則是斜道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​你將你的重量從一邊移到另一邊，產生動力。繩索在壓力下嘎吱作響，但是你也快要夠到臂架了。
+
+你又一次擺了過去。
+
+在你手指劃過凸起部分時，一記響亮的碎裂聲從斜道底部傳來，你的重量壓斷了繩索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​你看見一小塊凸起部分依附在附近的牆壁上。臂架上依舊佈滿了骨架，但在骨頭之間，你發現了一絲微光。
+
+凸起部分的邊緣離你十分近，也許你能夠蕩過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[再次嘗試到達臂架]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​在確信繩索足夠堅固之後，你蹬起腳讓繩索再次擺盪起來。
+
+你加快了速度，並且不一會凸起部分就到了差不多夠得著的範圍。
+
+最後你抓住了邊緣把自己拉了起來，就在一堆骷髏旁邊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​儘管有風險，但是你還是決定再次嘗試接近臂架。你蹬起腳讓繩索再次擺盪起來。
+
+你加快了速度，準備接近凸起部分。
+
+一記金屬碰撞的匡當聲在頭頂迴響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​[小心地爬上繩索並再次拿到它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​你決定將鉤子固定在一個新的支點。
+
+到這裡為止，你不能確定繩索夠不夠牢固，但是你懷疑如果笨手笨腳的又或者突然的重量改變會弄斷繩索並且讓你墜入深淵。
+
+你將會派誰去攀爬繩索並取回抓鉤呢？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​[自己爬上去取得抓鉤]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[派遣[Slot 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[派遣[Slot 1]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[派遣[Slot 2]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​[派遣[Slot 3]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[派遣[Slot 4]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​[派遣[Slot 5]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[幹別的事]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​你開始了攀爬繩索。
+
+它每次拉動都會嘎吱作響，但是你通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，你到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​石筍的頂部已經斷裂了，你的抓鉤只能勉強固定在剩下的部分上。
+
+你把鉤子取了下來並牢牢地楔入石筍的根基裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​你開始了攀爬繩索。
+
+它每次拉扯都會嘎吱作響。你盡全力的保持繩索的穩定，但是你感覺繩索在爬升過程中不停的搖晃。
+
+突然間，它從頂部的固定點滑落了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​[Slot 0]開始攀爬繩索。
+
+它每次拉動都會嘎吱作響，但是[Slot 0]通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，[Slot 0]到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​石筍的頂部已經斷裂了，並且抓鉤只能勉強固定在剩下的部分上。
+
+[Slot 0]把鉤子取了下來並牢牢地楔入石筍的根基裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​抓鉤從頂部的固定點掉了下來。
+
+你加快了速度，風聲呼嘯的從你耳邊吹過，尖叫聲在你喉嚨裡撕裂。
+
+你不停得被粗糙的石頭和堅硬的冰塊撞到，跌下狹窄的地道就好像整個世界在你身邊旋轉一樣。直到最後一次撞擊，斜道將你帶到了一個寬廣的洞穴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​你看著[Slot 0]攀爬繩索。
+
+它每次拉動都會嘎吱作響。[Slot 0]企圖穩住繩索，但是它晃的非常厲害。
+
+突然之間，繩索滑脫了。你聽到[Slot 0]咒罵了幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​[Slot 1]開始攀爬繩索。
+
+它每次拉扯都會嘎吱作響，但是[Slot 1]通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，[Slot 1]到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​石筍的頂部已經斷裂了，並且抓鉤只能勉強固定在剩下的部分上。
+
+[Slot 1]把鉤子取了下來並牢牢地楔入石筍的根基裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​你看著[Slot 1]攀爬繩索。
+
+它每次拉動都會嘎吱作響。[Slot 1]企圖穩住繩索，但是它晃的非常厲害。
+
+突然之間，繩索滑脫了。你聽到[Slot 1]咒罵了幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​[Slot 2]開始攀爬繩索。
+
+它每次拉扯都會嘎吱作響，但是[Slot 2]通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，[Slot 2]到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​石筍的頂部已經斷裂了，並且抓鉤只能勉強固定在剩下的部分上。
+
+[Slot 2]把鉤子取了下來並牢牢地楔入石筍的根基裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​你看著[Slot 2]攀爬繩索。
+
+它每次拉動都會嘎吱作響。[Slot 2]企圖穩住繩索，但是它晃的非常厲害。
+
+突然之間，繩索滑脫了。你聽到[Slot 2]咒罵了幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​[Slot 3]開始攀爬繩索。
+
+它每次拉扯都會嘎吱作響，但是[Slot 3]通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，[Slot 3]到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​石筍的頂部已經斷裂了，並且抓鉤只能勉強固定在剩下的部分上。
+
+[Slot 3]把鉤子取了下來並牢牢地楔入石筍的根基裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​你看著[Slot 3]攀爬繩索。
+
+它每次拉動都會嘎吱作響。[Slot 3]企圖穩住繩索，但是它晃的非常厲害。
+
+突然之間，繩索滑脫了。你聽到[Slot 3]咒罵了幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​[Slot 4]開始攀爬繩索。
+
+它每次拉扯都會嘎吱作響，但是[Slot 4]通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，[Slot 4]到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​石筍的頂部已經斷裂了，並且抓鉤只能勉強固定在剩下的部分上。
+
+[Slot 4]把鉤子取了下來並牢牢地楔入石筍的根基裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​你看著[Slot 4]攀爬繩索。
+
+它每次拉動都會嘎吱作響。[Slot 4]企圖穩住繩索，但是它晃的非常厲害。
+
+突然之間，繩索滑脫了。你聽到[Slot 4]咒罵了幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​[Slot 5]開始攀爬繩索。
+
+它每次拉扯都會嘎吱作響，但是[Slot 5]通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，[Slot 5]到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​石筍的頂部已經斷裂了，並且抓鉤只能勉強固定在剩下的部分上。
+
+[Slot 5]把鉤子取了下來並牢牢地楔入石筍的根基裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​你看著[Slot 5]攀爬繩索。
+
+它每次拉動都會嘎吱作響。[Slot 5]企圖穩住繩索，但是它晃的非常厲害。
+
+突然之間，繩索滑脫了。你聽到[Slot 5]咒罵了幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​由於並不確定繩索能堅持多久，你決定把所有人帶出斜道。
+
+繩索在你的隊伍攀爬時一邊搖晃一邊吱吱作響。突然之間，你感到一陣顫動。
+
+繩索下落了幾英吋。又被鉤住了，但是你不認為它能堅持的住，如果所有人都要同時爬出去的話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​由於並不確定繩索能堅持多久，你決定爬回去。
+
+繩索在你攀爬時一邊搖晃一邊吱吱作響。突然之間，你感到一陣顫動。
+
+繩索下落了幾英吋。又被鉤住了，但是你不認為它能堅持的住，如果你再接著這麼笨拙的爬升的話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​[小心地爬升並離開斜道]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​你開始了攀爬繩索。
+
+它每次拉動都會嘎吱作響，但是你通過嫻熟的技術讓它保持穩定。
+
+經過巨大的努力，你到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​你在繩索重新被鉤住之前經歷了一段恐怖的自由落體時間。
+
+雖然你看不到通往斜道入口的道路，你猜你的抓鉤可以正好將鉤爪挖進冰裡。
+
+它穩定住了。現在來說。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​介於你的抓鉤的不穩定性，你決定越早下降越好。
+
+你小心翼翼地一邊穩住繩索一邊滑落下去。看上去還堅持的下去。寬廣的洞穴再一次縮小成了傾斜的地道。
+
+冰在底下亮光的照射下成了淺海藍色。你已接近出口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​在接近出口時，斜道的牆壁也漸漸向你圍攏。腳下的立足點再次變得光滑而稀落。
+
+[SkillCheck 0]在冰上滑了一下。這個突然的運動猛拉了繩索一下。如果呻吟般的聲音傳來，同樣頭頂也傳來了金屬碰擊般的匡啷聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​抓鉤鬆垮了。
+
+你掉了下去，風聲呼嘯的從你耳邊吹過，尖叫聲在你喉嚨裡撕裂。
+
+你不停得被粗糙的石頭和堅硬的冰塊撞到，跌下狹窄的地道就好像整個世界在你身邊旋轉一樣。直到最後一次撞擊，斜道將你帶到了一個寬廣的洞穴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​你向洞穴盡頭的斜道靠近。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​你向洞穴盡頭的斜道靠近。你取出的只有一些石筍粗糙的剩餘部分，並且附近也沒有合適的支點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​你一邊緊緊抓著繩索一邊思考著繼續前進的選項，同時頭頂的繩索微微作響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​一個皮包半埋在骨堆裡，而且有什麼東西在其中微微發亮。
+
+你把它撿起並藏了起來。
+
+取得了獎品之後，你輕輕拉了下繩索並再次爬了上去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​取回了你的抓鉤之後，你爬回了斜道裡最寬的點，接著你看到了那個凸起部分。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​取回了抓鉤之後，[Slot 0]和你會合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​取回了抓鉤之後，[Slot 1]和你會合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​取回了抓鉤之後，[Slot 2]和你會合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​取回了抓鉤之後，[Slot 3]和你會合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​取回了抓鉤之後，[Slot 4]和你會合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>​取回了抓鉤之後，[Slot 5]和你會合。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​你開始了攀爬繩索。
+
+繩索在你的體重下嘎吱作響，但是因為你的敏捷和反應能力你成功地穩住了繩索。
+
+經過巨大的努力，你到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​你開始了攀爬繩索。
+
+它正在嘎吱作響，但是因為你較輕的體重和靈活的動作你成功地穩住了繩索。
+
+經過一段快速的爬升之後，你到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​你開始了攀爬繩索。
+
+它正在嘎吱作響，但是因為你較輕的體重和靈活的動作你成功地穩住了繩索。
+
+經過一段快速的爬升之後，你到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​你開始了攀爬繩索。
+
+繩索在你的體重下嘎吱作響，但是因為你的敏捷和反應能力你成功地穩住了繩索。
+
+經過巨大的努力，你到達了斜道的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​你熟悉下降路線上的立腳點，很快便到了露出地表的洞穴下方。
+
+在那裡，你停了下來，考慮你的選擇。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​[把抓鉤固定在損壞的石筍上]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​抓鉤勉強的固定在石筍上，石筍的頂部由於你下降時的重量而開始破碎。你把抓鉤推下石陣形成的豎井，成功的把它穩定的固定在石陣基層上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​在你垂直下落的時候，你突然茅塞頓開，察覺到是時候做出決定性的選擇了。
+
+你要怎麼做？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>​[施放群體減免]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>​[召喚[Slot 0]施放群體減免保護隊伍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​[召喚[Slot 1]施放群體減免保護隊伍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>​[召喚[Slot 2]施放群體減免保護隊伍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>​[召喚[Slot 3]施放群體減免保護隊伍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>​[召喚[Slot 4]施放群體減免保護隊伍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>​[召喚[Slot 5]施放群體減免保護隊伍]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>​[做好撞擊準備]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>​下落過程中，你召喚出你的神聖力量來施放群體減免。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>​下落過程中，[Slot 0]施放出群體減免來保護隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>​下落過程中，[Slot 1]施放出群體減免來保護隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>​下落過程中，[Slot 2]施放出群體減免來保護隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>​下落過程中，[Slot 3]施放出群體減免來保護隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>​下落過程中，[Slot 4]施放出群體減免來保護隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>​下落過程中，[Slot 5]施放出群體減免來保護隊伍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>​抓鉤脫離了你上方的錨點。
+
+你開始加速，風在你耳邊呼嘯而過，你不由自主的驚叫了起來。
+
+你猛烈的撞上岩石和堅冰，在狹窄的通道中翻滾著下落。在最後的一次撞擊中，斜坡把你送到了一個開放的洞穴。幸運的是，你的神聖防護吸收了大部分的傷害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>​[施放巨龍飛躍以自救]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>​下落過程中，你的血流加快，肌肉被賦予了超自然的力量。
+
+你蜷縮成著陸的姿勢，你自信你的力量會吸收墜落的傷害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>​抓鉤在你上方脫離了錨點。
+
+你開始加速，風在你耳邊呼嘯而過，你不由自主的驚叫了起來。
+
+你猛烈的撞上岩石和堅冰，在狹窄的通道中翻滾著下落。在最後的一次撞擊中，斜坡把你送到了一個開放的洞穴。幸運的是，你的力量吸收了大部分的傷害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>​你開始順著繩子往上爬。
+
+繩子難以承受你的重量，在你的掙扎和翻轉的作用下開始劇烈的搖晃。
+
+突然，繩子從上方的錨點脫落了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>​你安然無恙的抵達了下方洞穴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

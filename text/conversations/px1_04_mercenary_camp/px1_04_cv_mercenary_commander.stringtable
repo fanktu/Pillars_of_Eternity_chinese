@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_04_mercenary_camp\px1_04_cv_mercenary_commander</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>51</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「巴洛林指揮官，撕裂旗手團的領導者。無論你是誰，你都已經成了一個眼中釘。我該怎麼稱呼你？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「[Player Name]。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「有關係嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「怎麼稱呼都行。不會持續很久的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「很高興見到你，指揮官。我的名字是[Player Name]。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「我們在外面失去了很多人。康瑟豪特就算了，你為什麼要殺我的人？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「我不確定你是怎麼不動干戈通過我們的防禦的。很明顯我對手下不夠嚴格。我相信他們很感激你手下留情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​巴洛林禮貌地點點頭。
+
+「很好，[Player Name]。我代表撕裂旗手團，歡迎你的到來。」
+
+他的人互相看了一眼，傻笑起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「只要你不是『衝進我們營地的傻瓜』就行。
+
+「沒有關係。我相信我們很快就會妥善處理這件事的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​巴洛林淡淡一笑。
+
+「沒必要把事情弄得不愉快。不然，即便幾分鐘也會覺得像是很久。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「哈。距離城市的這麼遠，居然來了一個有禮貌的。不錯的男人。」</DefaultText>
+			<FemaleText>​「哈。距離城市的這麼遠，居然來了一個有禮貌的。不錯的女人。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我想應該是這樣。但——讓我們從他本人這裡再聽一遍吧。」</DefaultText>
+			<FemaleText>​「我想應該是這樣。但——讓我們從她本人這裡再聽一遍吧。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「我聽說那個塔樓中有一個力量強大的製品。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「你的僱傭兵無緣無故攻擊了我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「我來這裡是為康瑟豪特而戰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我不允許康瑟豪特的工作落入僱傭兵的手中。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​巴洛林緩慢地點點頭，毫不驚訝。
+
+「你和鹿林一半的人。都被懸賞了，而且價錢很高。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「我要找到英格維斯命匣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「但製品是我們的。如果有人不這麼認為，那麼他錯了。沒人能來到我們的營地還能活下來。」
+
+他對守衛舉手示意。
+
+「看來就要結束了。你準備好了嗎？我下手會利落一點的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​巴洛林露出一絲驚訝。
+
+「好吧，真是該死。沒想到外面有這麼多人知道我們的目的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​巴洛林的表情變得很難看。
+
+「我的手下奉命警告入侵者，不想造成不必要的流血。每個人都知道我想讓他們嚴格遵守命令，願神保佑那些犯錯的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「不，我相信你來這裡的原因應該和我們其餘人一樣。那個要塞中，藏著一個強大的製品……這對所有人來說都很有吸引力……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「啊。你要，什麼，攻擊一個老人？」
+
+巴洛林大笑。「康瑟豪特在塔樓中有很多寶藏。但他不知如何和他人聯盟。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「那又如何？你真是高尚。你冒著生命危險替撕裂旗手團來到這下面……為了什麼？康瑟豪特的書？他的蒸餾器？研缽和杵？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「等等——我們開始之前我有點問題要問。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「我準備好了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​巴洛林考慮著你的觀點。然後他聳了聳肩。
+
+「那樣也應該沒什麼壞處。我不保證我能提供答案。」
+
+他示意你繼續。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「你為誰工作？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「我們沒必要成為敵人。我可以幫助你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「關於英格維斯命匣，你知道些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「關於這個製品，你知道些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「圍攻進展如何？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「只知道命匣值很多錢。比普通的英格維斯遺物還值錢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「不知道那能做什麼。也不在乎。我們的僱主希望我們能找到它，並帶回去。他給出的價格甚至夠買一個國家了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「給了一些戰術意見？」
+
+巴洛林嘟囔道。「剛開始進展很順利。但我們打破了一面外牆，康瑟豪特的寵物們就從廢墟中衝殺了出來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「等援軍一到，我們就會強攻這個要塞。只是時間問題。
+
+「之後，可以把你的屍體運到上面的某個地方。用來嚇跑別的劫掠者。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「你殺了我的人，然後來討要工作？如果我接納了你，他們殺掉我就是罪有應得。
+
+「你來這兒就是為了殺戮。那現在就別慫。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「真是遺憾，如果情況不同，我說不定會接受你。但合同寫得很清楚——不能節外生枝。你明白的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​巴洛林輕笑道。
+
+「一個不喜歡康瑟豪特的人，是吧？這麼說吧，他們願意出很多錢，同時要求也很高。而現場作出決定也是服務的一項。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「康瑟豪特情況怎樣？他活下來了麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「問的好。沒人清楚他的情況。我們沒在戰場上見到他。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「或者那個老混賬可能已經被死人給吃了。他有可能正在控制他們。
+
+「又或者被石頭壓在了他自己的要塞下面。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​巴洛林聳了聳肩。
+
+「除非我們自己進去看看，不然我們什麼也不會知道。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「這些生物是什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「死人，走路和戰鬥都跟活人沒兩樣。他們擁有能擋住我們弓箭的護甲，而且還能施放法術把人活活燒死。」
+
+他朝附近的小山看去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「到了晚上你能看見他們像一排火炬一樣站在懸崖上。眼睛燃燒著……」
+
+巴洛林清了清嗓子。「他們不會下來我們的營地。他們會在那裡等著我們去找他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​巴洛林舉刀致意了一下。
+
+「我會代你向康瑟豪特致意的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「你會後悔的，指揮官。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「打住，打住。他已經走了這麼遠，我至少應該看他一眼。」
+
+在你面前的那個人有著權威的派頭，而他隨便一個命令便讓守衛立刻放低了手裡的兵器。即使這樣，他們依然警惕地看著你。</DefaultText>
+			<FemaleText>​「打住，打住。他已經走了這麼遠，我至少應該看她一眼。」
+
+在你面前的那個人有著權威的派頭，而他隨便一個命令便讓守衛立刻放低了手裡的兵器。即使這樣，他們依然警惕地看著你。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「把第一波敵人打了個措手不及，並砍成了碎塊。目前我們將他們推回了要塞，但是這耽擱了我們的勝利。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「在這兒你必須跟我打交道。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

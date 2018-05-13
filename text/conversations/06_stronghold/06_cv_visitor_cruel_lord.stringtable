@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_visitor_cruel_lord</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>53</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「你的大名如雷貫耳啊，[Player Name]大人。聽說你是個很有本事的人。我有個項目想跟你談談，如果你願意聽的話。」</DefaultText>
+			<FemaleText>​「你的大名如雷貫耳啊，[Player Name]大人。聽說你是個很有本事的人。我有個項目想跟你談談，如果你願意聽的話。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「身為努阿王堡的統治者，你一定是見識過不少麻煩。很多人樂於扳倒你以讓你跟他們一樣倒霉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「那好吧。說來聽聽吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[離開]「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​你聚集起你的隊友們，然後示意請願者走上前來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「事情可能有點……複雜。我覺得還是得先問問你好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「布萊恩維格大人，仁者無敵。公正善良地對待人民，他們自然樂於為你服務。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「這種事，最好就找個中間立場。賦予他們一些自由，以便讓他們繼續工作。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「我需要先跟我的人商量商量。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「是的是的，你說的是。」
+
+布萊恩維格踏步離開，走出了聽力所及範圍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「魔鬼，幹掉這傢伙。打槍的不要，悄悄的進村。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「你推崇仁慈？你的領地佈滿了山賊和歹徒。要是你用鐵血手段統治領地，也許就不會出現這種麻煩了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「啊，跟以往一樣。」布萊恩維格交叉雙臂。
+
+「他們不滿自己的福利。說付出和收穫不成正比，還有受到殘忍對待什麼的。要我說啊，大人，這些賤骨頭就是懶惰而已。」</DefaultText>
+			<FemaleText>​「啊，跟以往一樣。」布萊恩維格交叉雙臂。
+
+「他們不滿自己的福利。說付出和收穫不成正比，還有受到殘忍對待什麼的。要我說啊，女士，這些賤骨頭就是懶惰而已。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「我的管家告訴我你的名聲很惡劣。據說你很殘忍無情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​布萊恩維格臉色僵硬。
+
+「我只是知道效率的重要性。這些平民該認清自己的身份！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「你只不過是一個小氣而殘暴男人，手握你所不配的權力！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「說什麼也沒用，布萊恩維格。照樣吊死你。護衛，抓住他！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[給予700銅幣]「給他們點顏色瞧瞧也許就會清醒點了。拿去。去僱傭些傭兵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你竟敢嘲弄我？你這個窮鄉僻壤的暴發戶！你會後悔的！」
+
+臉紅耳赤的布萊恩維格怒氣沖沖地衝出了大廳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「的確很慷慨！我會好好利用這筆金錢的。謝謝你，[Player Name]大人！我就知道你理智靠得住。」</DefaultText>
+			<FemaleText>​「的確很慷慨！我會好好利用這筆金錢的。謝謝你，[Player Name]女士！我就知道你理智靠得住。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「你決定好了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[說謊]「我不認同你的野蠻方式。但是這一次我會睜一眼閉一眼。你走吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[說謊]「我百分百支持你。去把這些禍事者都給我揍一遍。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「是的。我打算殺了你。我給你兩個小時逃跑時間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「嘿，看來這次很好玩。」她跳出了大廳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[示意你的客人回來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​布萊恩維格目瞪口呆，直到被護衛拉扯才反應過來。他被拖出大廳時不斷掙扎咒罵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「這樣懷柔的策略。」布萊恩維格抽了抽鼻子。「他們會以為自己抗爭勝利的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「這些平民到底說了些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「我當前無法幫助你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「你的談判能力家喻戶曉。這不是我的強項。」布萊恩維格歎氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​「失去人民的話，你麾下統治的就只剩下石頭和樹木。重視點他們吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「你如果是想在我的城堡中指手畫腳的話，那請離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「就當做是對你的包容之心的考驗吧。跟人民溝通解決問題比以暴制暴有效得多。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​布萊恩維格開口想要反對，但明智地沒有出聲。他匆匆鞠躬，然後搖著頭轉身離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「我承認我是來尋求……資源而非批准的。但是我很感激你的支持。」
+
+布萊恩維格滿滿地鞠了一躬，滿意地離開了大廳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​[示意你的客人回來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「艾洛斯，你盡快前往布萊恩維格的城堡。通知人們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「我馬上去。」艾洛斯隨即出發。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「什麼？」布萊恩維格往後退了一步。「你……你這個兩面派混蛋！你不得好死！」
+
+他二話不說轉身逃離了大廳。</DefaultText>
+			<FemaleText>​「什麼？」布萊恩維格往後退了一步。「你……你這個兩面派混蛋！你不得好死！」
+
+他二話不說轉身逃離了大廳。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​「好快的速度。你決定好了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「我還有其他問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「嗯？我願意聆聽任何建議。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​「如你所願，大人。」
+
+布萊恩維格微微一躬身，轉身離開。</DefaultText>
+			<FemaleText>​「如你所願，女士。」
+
+布萊恩維格微微一躬身，轉身離開。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「是的，我的確很感激你撥出時間跟我會面，大人。我會回去好好考慮這件事。」
+
+他躬了躬身，轉身離開大廳。</DefaultText>
+			<FemaleText>​「是的，我的確很感激你撥出時間跟我會面，女士。我會回去好好考慮這件事。」
+
+他躬了躬身，轉身離開大廳。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「不得不說你的話的確有幾分道理。謝謝你的寶貴時間，[Player Name]大人。我會……在回程中考慮下你的建議。」</DefaultText>
+			<FemaleText>​「不得不說你的話的確有幾分道理。謝謝你的寶貴時間，[Player Name]女士。我會……在回程中考慮下你的建議。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「我的領地上出了一些禍事。該死的暴民。他們完全失控了。拒絕工作、威脅我的護衛、還到處宣揚……什麼狗屁的不公平對待。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「嗯。」布萊恩維格明顯沒被說服。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​布萊恩維格目瞪口呆，不過從他眼裡可看得出一份若有所思的樣子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「你的智慧果然名不虛傳。這個解決方法聽起來的確可行。謝謝你，大人。」</DefaultText>
+			<FemaleText>​「你的智慧果然名不虛傳。這個解決方法聽起來的確可行。謝謝你，女士。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「我能否打擾下你的時間？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「老子又不是沒有付工資給他們！恐怕這些傢伙不會那麼容易妥協。我再不出手，情況可能會更惡劣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「我建議還是三思為好，大人。別恩威伽領主向來以臭脾氣聞名。甚至已到了殘暴的程度。」
+
+你腦中聽到了管家的細語聲。</DefaultText>
+			<FemaleText>​「我建議還是三思為好，女士。別恩威伽領主向來以臭脾氣聞名。甚至已到了殘暴的程度。」
+
+你腦中聽到了管家的細語聲。</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>

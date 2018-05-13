@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_oldsong_cipher_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「我在指點你，外來者。你需要什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[展示鐵太陽]「你是一位靈能師嗎？我需要知道是否有人曾碰過這個。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「沒什麼。再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​羽精瞪大眼睛研究著那上面太陽的形狀。他不時嘟囔出讚美的話，表示對那些隱秘細節的欣賞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「我發現演示遠比語言更有效。也許我們今天就能有進展。」
+
+他掃了眼他的學生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「注意。」
+
+他一隻手拿著遺物，眼皮不由自主地在他細長的瞳孔上跳動著。有一瞬間你感覺似乎有光滑的小昆蟲爬進了你的耳道，當這種感覺過去後，你發覺心靈獵手出現在了你的意識中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「來吧。我將為你指路。」聲音在你的腦海裡迴響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「給我年輕學生的歡迎課。謝謝你把我找了出來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_oernos</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>1</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​歐爾諾斯看著愛因登和他的那些野蠻人離開。巨熊用他巨大有力的爪子抓著地面，向你咆哮著。當歐爾諾斯衝向前時，似乎整個洞穴都搖晃了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

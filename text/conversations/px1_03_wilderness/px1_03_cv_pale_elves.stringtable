@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_pale_elves</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>35</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「這毫無意義，野獸！你哪到去不了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「嘿，瓦姆雷爾……」
+
+其中一個精靈轉向你，向正跟食人魔糾纏的精靈打了個手勢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​精靈們轉身看著你，手放在武器上。瓦姆雷爾用盡最後的力氣拉了一下繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[向繩子射箭]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「你對那個食人魔做了什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「你離家真夠遠的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「這個生物會陪我們一起去窪斯川德。這一路我們歷盡坎坷，但有食人魔在的話，應該就會沒人來找麻煩了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​一群精靈圍著一個食人魔站成了一個圓。但他們似乎並沒有開戰。
+
+一個精靈正在使勁勒住綁在食人魔脖子上的繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​食人魔只能忿忿不平地把繩子往回扯。
+
+還有兩個精靈不時地用長柄斧戳他。食人魔沒有動搖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​在任何人說出下一個詞語之前，你搭弦並鬆開了一支箭。
+
+它準確地飛射並擊中了綁在食人魔脖子和雙手之間的繩子，然後其束縛就劈啪一聲斷開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「阻止那個食人魔——但不要破壞我的財產！還有把那個蠢貨的腦袋給我帶過來！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​一個精靈在瓦姆雷爾耳邊低語了幾句。
+
+瓦姆雷爾的眼光發亮了。
+
+「哦，不用這麼快。來吧，野獸——讓我們看看你的能耐！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「啊！食人魔身上的繩子鬆開了！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[攻擊離你最近的精靈]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「作為一頭食人魔來說，它可真是個悲劇的傢伙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​你徑直走到一個精靈面前，對著他的下巴就是一拳。
+
+其他精靈嚇了一跳。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你這一拳瞄準的是那個精靈的臉，但這一擊只讓她後退了幾步。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​在他們忙著掏出武器的時候，被綁住地食人魔趁亂掙脫了出來。
+
+食人魔帶著勝利的咆哮聲撐開了身上的繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[離開]「再會吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​食人魔大叫一聲，突然向後退去，從精靈的手裡掙脫了出來。
+
+食人魔帶著勝利的咆哮聲撐開了身上的繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「噢，我們明天還會走得更遠呢。就是沿路挑揀著一些幫助。」
+
+他抬頭看著食人魔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「無盡之路的食人魔可不是省油的燈。或許他們的峭壁表親們都算得上更嬌嫩點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「需要幫忙嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「有點小麻煩，但我們已經控制了局勢。這畜生以前還都挺逆來順受的——我很快就會將它重新聽話的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「對了！它只是想對侵略發洩一下不滿！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​你對著精靈的臉就是一拳，但這一擊並沒有造成多大的效果。和受到的傷害相比，他更吃驚於你的舉動，但她很快就恢復了過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​食人魔帶著勝利的咆哮撐開了身上的繩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「他的價格倒是不高。我們需要打手——天知道它們除了這個還能有啥用。」瓦姆雷爾又使勁拖動了一下繩子。
+
+食人魔的臉色更加難看了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「我從離這不遠的奴隸獵人那購買到他的。我希望，能收回本金。」
+
+他咕噥道。「我不知道他值多少錢幣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「好在寇格拉克不在這裡。要不然會很尷尬的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「你也一樣，陌生人。你有沒有想那個更加寒冷的家啊？」
+
+瓦姆雷爾輕聲地笑了。「我們明天會繼續前進。只是順路搞到了一點幫助。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「這些精靈應該感到羞恥。竟然用這種對待奴隸的行為，我才不管它是否是個兇惡的怪物！」
+
+希拉維亞斯握緊了拳頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「哦，親愛的。我覺得那個有點過了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「我們受到了攻擊！」她拔出了劍，其他精靈也轉向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​瓦姆雷爾盯著你。「看看你都幹了些什麼！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

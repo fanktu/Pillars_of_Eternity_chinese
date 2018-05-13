@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px1_03_wilderness\px1_03_cv_injured_wolf</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>25</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​這隻狼痛苦並疲憊地躺在雪地上。一支箭刺穿了它的前腿，從它的側面穿了出來。
+
+當你接近它時，它的尾巴在兩腿間搖晃著，溫柔地咆哮了一聲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[檢查傷口]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[用你的醫療知識處理傷口]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[試著把箭拔出來]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[安撫這隻狼]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​看來這隻狼是遇到了獵人。一支銀箭射中了它的前腿，嵌在了身體中。
+
+然而，你感覺拔出箭頭可能會擴大傷口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​看來這隻狼是遇到了獵人。一支銀箭射中了它的前腿。從箭上的羽毛可以看出這隻狼試圖將它咬下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​你的安撫似乎起到了作用，它漸漸接受了你，只有偶爾會嗚咽一聲。
+
+你小心地拔出了箭頭，然後包紮了下傷口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[不去碰它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​你慢慢地向狼走去，用低沉平靜的聲音安撫它。儘管這隻狼的眼神裡依舊充滿恐懼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[讓它解脫]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​你抓住了狼的脊背。它由於恐慌而掙扎，但你輕鬆的就壓住了它。
+
+雖然一刀殺了它也沒什麼。但片刻之後，它仍舊頑強地活著。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​它一開始還沒有什麼反映，但當你的手放在傷口時的瞬間，它痛苦地掙扎起來。它尖叫著，咬住你的手，敵視著你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​你抓住了狼的脊背，試圖按住它，但它驚恐地掙扎著。很遺憾，它掙脫了你的束縛，並向你撲了過來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[唱首歌來安撫它]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[對它釋放魅惑動物]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你慢慢地接近它，嘴裡哼著輕快的旋律。它的耳朵耷拉了下來，但它停止了咆哮。
+
+儘管這隻狼的眼神裡依舊充滿恐懼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​你的法術迅速產生了效果——它停止了咆哮，無聲的趴在了雪上，尾巴一搖一擺地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[SkillCheck 0]向前移動對它進行救助。你的安撫似乎起到了作用，它漸漸接受了你，只有偶爾會嗚咽一聲。
+
+[SkillCheck 0]小心地拔出箭，然後包紮傷口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​在你完成了治療後的下一刻，這隻狼突然搖搖晃晃地站了起來。
+
+它注視了你相當長的一段時間後，一瘸一拐地走進了樹林中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​你的安撫似乎起到了作用，它漸漸接受了你，只有偶爾會嗚咽一聲。
+
+你小心地拔出箭，然後包紮傷口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​幾乎在一瞬間[SkillCheck 0]就做完了，這隻狼突然站了起來。
+
+它注視了你很長一段時間後，一瘸一拐地走進了樹林中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​它一開始還沒有什麼反映，當你的手放倒傷口時的瞬間，它開始痛苦的掙扎起來。
+
+艾迭爾走到你身邊，他的表情非常鎮定。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「來，讓我看看。」
+
+他跪在那隻狼的面前，慢慢地抱起它的胸部和軀幹。他一邊撫摸它蓬亂的鬢毛，一邊哄它。
+
+他向你點點頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「現在試試。」
+
+當你的手伸向狼時它再次開始咆哮，但是艾迭爾緊緊保住了它，讓他不會影響到你。它咬住了艾迭爾，雖然血從他的手上留了下來，但艾迭爾沒有表現出一絲痛苦，而是繼續靜靜地安撫它。
+
+你小心的拔出了箭頭，然後包紮了下傷口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

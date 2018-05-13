@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_eder_hub2</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>83</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​「你想要什麼呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​「你想問努阿王堡的通魂者什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​「我想問問關於你的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「如果你確信的話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「在這之前你是幹什麼的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「哦，除非發生戰爭，不然我不會出去遊蕩得特別遠，就在你找到我的地方的附近。一般是在做農活，因為我不喜歡城市，也不懂得貿易。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​「鍍金谷的人真的嘗試殺死你？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「他們，呃，是的，確實如此。
+
+「時機太奇怪了，因為我們剛剛贏得戰爭。我回家的時候他們正在慶祝。到處都是音樂和舞蹈。特朗貝爾用他一半的穀物做了這麼大一個蜂蜜蛋糕。我現在還想著那個蛋糕。它就像我生命中最完美的情人一樣，只不過只能擁有一個晚上。
+
+「而且他們都為我的兄弟的情況感到遺憾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​「你為什麼要在一個討厭你的鎮子裡呆這麼久？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​「我知道我父母也在疑惑同樣的事情。
+
+「對誒歐瑟斯信仰者的大清洗，把整個鎮子都感染了瘋狂，就像一種疾病。
+
+「如果你見到了那樣的東西，你的本能就是躲起來，等它離開，哪怕當時你知道它可能不會離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「你有任何家人嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​「只有我的父母。在大清洗開始的時候，他們乘船回鹿眾了。想讓我和他們一起走，但我看待事情和他們不大一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​「告訴我你兄弟的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​「沃登……是一個你所能希望的最好的長子。有責任感，坦誠。每一件事都會認真考慮。」
+
+他笑道。「真是一個討厭的傢伙。讓我出盡了丑。他不是故意那麼做的，但當然這給事實只會讓事情變得更糟糕。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​「我在想著關於誒歐瑟斯的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​「我倆一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​「對誒歐瑟斯有什麼值得提的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​「如果你想要找到一種信仰，那你也許應該找一個還沒有被燒成灰的神，但我不會阻止你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​「你依然信仰誒歐瑟斯嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​「以我的方式。他現在該不會還指望我能到他神殿裡去吧。
+
+「對他我們能做的並不多，頂多也就是對他的記憶保持清晰，並繼續希望他在過去的……十五年裡，只是對我們開了一個玩笑。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​「在一開始的時候，你為什麼選擇誒歐瑟斯？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​「我成長的環境決定的，我的家人都是誒歐瑟斯人，我並沒有什麼選擇。
+
+「不知道我的父母為什麼崇拜誒歐瑟斯。可能是由於皋恩關照我們這樣的人吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​「為什麼你覺得懷德溫不是誒歐瑟斯的傳話者？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​「因為他的行為。不是因為他發動了叛亂，甚至掌控了雷亞德賽熱斯。而是因為他派兵進入了鹿林。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​「我想問你一些別的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​「我們繼續前進吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​「等我們擺脫了這些拿著火把的暴徒我們再討論更多！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​「這個……信息很難讓人相信。那個幽靈女士說的話並不太像真的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​「我還以為一個永恆的監獄裡能有更多犯人呢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​「這樣會有很多麻煩。你確定你打算待在這裡等著賽奧斯來殺你？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​「如果你殺了賽奧斯，我認為他們應該讓你成為公爵。反正，我投你一票。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​「為什麼能來參加的靈魂學會議的都是一些狂熱分子或者陰謀家？這能有什麼好結果？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​「我問我自己，如果我是鹿林裡的一個秘密謀殺組織，我會怎麼做？但我的想法都不是特別好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​「反抗灣……並不是我想的那個樣子。比如他們關於鍍金谷的想法，至少他們都同意他們想要把我吊死。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​艾迭爾撓了撓頭，笑道。「唔，我想一個瘋狂的通魂者總比沒有好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​「我希望那個老通魂者還在那裡。我已經好多年沒有聽到他的消息了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​「只是一些關於過去的事情，關於那場戰爭的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​「我本來有機會弄明白我想瞭解的事情，但我錯過了那個機會。不過，那個老通魂者，他給我開闢了某種新的可能性。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​「我年輕的時候，我以為我以後就是在我們的誒歐瑟斯神殿裡向人們傳道。
+
+「我的父母很支持。我在成長過程中給他們製造了很多麻煩，他們總是說我最好能乖乖跟隨救贖之神。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​「當然了，我們把他炸了，這點很可能無助於我在那邊的機會。不夠假如有人被炸了都還能原諒你的話，那人就只能是誒歐瑟斯了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​「大清洗的傳聞，過了一陣子才傳到了我們這裡。誒歐瑟斯人正被當眾謀殺。寒曉鎮或者類似的地方。
+
+「他們才不會讓這樣的事發生在鍍金谷呢。他們都這麼說。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​「讓我吃了一驚——在那麼大肆慶賀之後。」
+
+他笑道。「在那個裁縫說要給我做一些更合身的衣服，但他卻一直在測量我的脖子之後，我本該提前預見到的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​「但很快幾周都過去了，大清洗不斷蔓延。很快他們不再相信我的兄弟是在為鹿林而戰，然後他們也對我不是特別信任了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​艾迭爾停了一會，陷入了沉思。「我曾在一個農場裡工作，農夫家裡有一個空嬰小女孩。當時他們聽說靈魂學者們有了治療對策——被稱為『救贖』——他們急不可耐地跑去。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​「這個『救贖』，就是把動物的靈魂塞進兒童體內。你可能聽說過。這樣能讓他們有足夠的人格以照顧自己。
+
+「你可以猜出結果如何。過了一段時間，孩子們都崩潰了，變成了狂野的東西。怪物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​「無論如何，那些農夫把家裡狗的靈魂放進了小女孩的身體裡。過了一會，那個女孩開始和人進行眼神交流了，她還能自己吃東西，儘管方式很不雅觀。
+
+「然後有一天她就咬人了。他們發現她正在啃咬自己弟弟的骨頭。最終他們不得不把她拴上鐵鏈，並關進牛棚。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>​他搖了搖頭，閉上眼睛，陷入沉思。「他只是在等著有一天他的女兒能仰起頭，認出自己的爸爸。
+
+「他在等著她能變好。
+
+「當然了，當時我並不能理解他。但這些天我總是想起他的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>​「她母親，在那之後就不想再跟這女孩扯上關係了。但她父親，天天去看望。給她喂些雞吃。時不時打水洗去她身上的泥土。
+
+「村莊裡的多數人，低聲談論他。『可憐的男人，』他們說，『傷心成病了。』」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​「給我說說大清洗的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​「很久沒有見到他們了。我真的應該去看看，但不知什麼原因，我始終沒有覺得想要離家。
+
+「幸好他們把我趕了出來，否則我永遠都不會離開的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​「我的父母，他總是告訴我們做自己。他們從未讓我向他學習，或做類似的事情。」他笑著說，「那是一件好事，因為我從沒有打算向他學習。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​「並不是說他不闖禍，而是他總能在闖禍後及時悔改。
+
+「我們家附近有個農夫，希爾沃德。總是一直在談論自己把雞照顧得很好。說他家的雞的雞毛是鎮子上最白的。並說服了屠夫以雙倍的價格去買他家的雞。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​「我和沃登都聽到煩了。那時候我大概是十一、十二歲。」
+
+艾迭爾想到什麼事，咧嘴大笑了起來。「我們晚上從染工那裡，呃，『借』了六種不同的染料，把他家的雞染成了除了白色之外的各種顏色。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​「第二天，屠夫來敲門，找他要六隻最白的雞。」艾迭爾咯咯地笑，展露出調皮的驕傲。
+
+「我們感到棒極了，一直到希爾沃德看到我們的成果。他跪了下來並放聲痛哭，而他周圍的五顏六色的那些雞還不明白是怎麼回事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​「我覺得是他活該，但我看得出來沃登有別的想法。如我所料，第二天，所有雞身上的顏色都被洗掉了。儘管不是很白，但是，沃登的確盡了最大努力。他對此隻字未提，但我心裡清楚。就是沃登做的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​「誒歐瑟斯，他是個帶著白銀皇冠的年輕人，總是隨身帶著一個蠟燭。」
+
+他愉悅地抱怨了一句。「聽上去我的頌歌真差勁。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​「他……呃，他對於不同的人意味著不同的事物，我覺得。重生，救贖。光明。
+
+「在鄉村裡，他是農夫皋恩，他幫助所有的事物輪迴，包括季節和人們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​「皋恩照看著弱者。讓不平衡被糾正。你可以明白，為什麼這一帶的缺錢的流氓們喜歡那樣一個人。他在這裡一度真的很受歡迎。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​「現在已經沒有那麼多人公開信仰誒歐瑟斯了。你很難知道誰還私下裡信仰，誰已經放棄了。有些時候覺得我是最後一個信仰者。」
+
+他得意地笑著說。「如果真是這樣，我應該為他哀悼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​「就我所知，自從神錘引爆後，他就沒對任何人說過一句話。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​「那麼為什麼要信仰他呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​「我對誒歐瑟斯還有個問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​「好吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>​「不過那並不真的是——反正，不全是。」他斜著眼睛說。
+
+「估計更多的是，我仍然相信他所相信的東西。
+
+「我只是希望他的死亡，不意味著這些東西也隨之死亡（消逝）了。有些時候看上去是那樣的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>​他做出一個鬼臉，「如果最終證明他*沒有*死掉，而我放棄了他，我就等於背叛了自己的神兩次。即使是救贖之神，也是有底限的。
+
+「我下輩子八成會變成一個肥胖的海裔（所騎著）的馬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>​他看著你的眼睛，出神地說。「這樣也好，我的祖先做了很多錯事，只有誒歐瑟斯才能原諒。
+
+「這很好地解釋了我身上那些不太令人尊敬的特點到底是怎麼來的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>​他搖了搖頭。「嗯，誒歐瑟斯身上有一些特點讓我非常喜歡，一直是。比如他能比其他神更好地瞭解人民，知道我們所有的缺點和弱點，然後還能接受我們。
+
+「人們在害怕的時候總是會表現出最差勁的一面。而誒歐瑟斯這樣的神會讓你意識到沒什麼好怕的，然後你會因此變成一個更好的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>​「你信仰他只是因為成長環境嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>​「當然了，他才走了幾年，看看現在發生的事情吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>​「直到那之前，他還是和自己的人民在一起的。那就是誒歐瑟斯，至少是作為皋恩的他那部分，做的事。那些農民們快餓死了，而他們的政府無動於衷。就算這不是誒歐瑟斯親自所做，至少他的想法沒錯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>​「但後來他卻派兵越過邊境線。甚至最終對他自己都越界了。
+
+「據說他是為了追趕那些從叛亂中逃脫的人。想要懲罰他們，而讓那些人居住在當地的我們，也需要受到懲罰。
+
+「那——對我來說不合理。這些行為更像是喜歡復仇的神。比如斯卡恩，或者媉蒂卡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>​「或者只是一個失去了理智的人。
+
+「我依然不能相信。但已經沒有人可以供我咨詢了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>​艾迭爾就像直視太陽那樣（瞇眼）看著你。「你確定你不想談論一些更輕鬆的話題，比如黑樹之戰或者是遺贈什麼的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>​「真的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>​艾迭爾聳了聳肩，「不，最後那一段不是。但我總得想一想（這種可能）嘛。（前面這些話）充分表現了這麼多年來一直被我稱作家鄉的這個地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>​「讓我問點別的關於你的問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>​「真是大開眼界，看到沒有神保護你的時候你是什麼樣子。
+
+「聖人戰爭對鹿林來說是非常艱難的時期。很多人認為那是世界末日。儘管他們不停地說大話認為自己能戰勝一個神，但我認為從那裡到白際山，沒有一個人認為自己能活下來。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>​「這對你會產生一些作用，覺得你會死在別人的手裡。會讓你產生一種憤怒、憤慨。
+
+「想像一下，整個國家到處都是這種情緒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>​「整件事起始於寒曉鎮。一個邊境附近的鎮子。他們讓懷德溫的軍隊通過。而剩下的鹿林人，直到戰爭結束，一直詛咒他們的名字。
+
+「一些人說是誒歐瑟斯說服了人們不要抵抗軍隊。還有一些人認為那只是出於懦弱的心態。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>​「在這一點上它就像遺贈——沒人知道真正的原因，所以大家只是選擇了他們想要相信的。
+
+「總之，早在誒歐瑟斯的第一片灰燼落地之前，那個城鎮就早已在熊熊燃燒了。對這裡的人民來說，在如此無助之後又得到掌控權，感覺真好。於是火勢燎原。而我們誒歐瑟斯人中的很多人步了我們的神的後塵。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>​「瑪格嵐神殿裡曾傳出話來說是她控制著大清洗。但我覺得那不是真的。聽上去只是人們自己一廂情願地在包裝自己的神。
+
+「再次，那就是我對懷德溫的看法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>​「我在克裡阿班·利拉格外面找到了這個。可能是聖人戰爭留下來的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>​「鹿林的信徒是怎麼對待誒歐瑟斯的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

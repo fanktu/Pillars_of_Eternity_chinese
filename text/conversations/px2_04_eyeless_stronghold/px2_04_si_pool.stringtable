@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\px2_04_eyeless_stronghold\px2_04_si_pool</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>35</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​根據池子邊上的爪痕和鱗屑來看，你認為六肢魚怪經常使用。你在寒冷陰暗的水中看到了閃爍著微光的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​[自己潛下去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[Specified 0]潛了下去，隨即馬上感受到水的寒冷。水很平靜，但是要是人的體質不夠好的話，潛水的時間稍長一點就會對身體造成巨大的傷害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[Specified 0]並不介意這極度的嚴寒，朝著黑暗身處的冰山洞的微光潛去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​[Specified 0]很快就找到了六肢魚怪的一堆寶藏，其中有各種各樣的錢幣和一套出人意料地保存完好的板甲護脛。
+
+不幸的是，對這些秘藏的打擾被一群前來調查的六肢魚怪發現了。
+
+要想在六肢魚怪的眼皮底下藏起來是很困難的，但是想要靠游泳甩掉他們需要顯著的體能。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​[Specified 0]自信的從冰洞衝了出去。即便是一隻手帶著六肢魚怪的寶藏，[Specified 0]還是輕鬆的從六肢魚怪的手中逃跑到達了地面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​[派遣[Slot 0]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​[派遣[Slot 1]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​[派遣[Slot 2]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[派遣[Slot 3]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​[派遣[Slot 4]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​[派遣[Slot 5]]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[試圖躲藏]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[盡可能快地游向地面]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​[Specified 0]冰洞衝了出去，然後開始游向地面。
+
+不幸的是，即便是在最好的情況下，要想游過一群下定決心的六肢魚怪也是很困難的。[Specified 0]的一條腿在逃脫的過程中受了重傷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​片刻之後，憤怒的六肢魚人從池水中爆發了！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​六肢魚怪圍成一圈，看著擾亂的來源，但是沒有注意到[Specified 0]。在一段毫無成果的搜尋之後，他們失去了興趣隨後遊走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[Specified 0]帶著寶藏回到了地面。六肢魚怪沒有跟來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​儘管做了這一番絕望的努力，[Specified 0]很快就被憤怒的六肢魚怪發現了。
+
+[Specified 0]拼盡全力游向表面，但是六肢魚怪在路上砍了很多刀，[Specified 0]的一條腿受傷很嚴重。
+
+[Specified 0]勉勉強強逃回了地面，腿差點就保不住了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[朝微光潛去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​[回到地面]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​水太冷了。[Specified 0]到達了湖底發出微光的地方，但是已經開始麻痺了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​你潛到水裡，立即感受到了水的冰冷。寒冷迅速的把你身體的熱量抽走。
+
+水很平靜，但是要是人的體質不夠好的話，潛水的時間稍長一點就會對身體造成巨大的傷害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​你抖抖身子就祛除了這中程度的寒冷，然後潛向冰洞的黑暗深處的微光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​水太冷了。你到達了湖底發出微光的地方，但是已經開始麻痺了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​六肢魚怪圍成一圈，看著擾亂的來源，但是沒有注意到你。在一段毫無成果的搜尋之後，他們失去了興趣隨後遊走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​儘管你做了最大努力，六肢魚怪還是發現了你，使得你別無選擇只得游向表面。
+
+這些生物之一惡狠狠地抓住了你的一條腿並暴打它。你勉勉強強才脫身並逃出了池子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​你帶著寶藏回到了地面。六肢魚怪沒有跟來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​你冰洞衝了出去，然後開始游向地面。
+
+不幸的是，你還不夠強壯，游泳的速度沒法逃離一群堅決的六肢魚怪。兩個六肢魚怪趕上了你，然後用爪子攻擊你的一條腿。
+
+你勉勉強強才爬出了水池，腿險些就要斷掉了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​你自信的從冰洞衝了出去。即便是一隻手帶著六肢魚人的寶藏，你還是輕鬆的從六肢魚人的手中逃跑到達了地面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​你很快就找到了六肢魚怪的一堆寶藏，其中有各種各樣的錢幣和一套出人意料地保存完好的板甲護脛。
+
+不幸的是，對這些秘藏的打擾被一群前來調查的六肢魚怪發現了。
+
+要想在六肢魚怪的眼皮底下藏起來是很困難的，但是想要靠游泳甩掉他們需要顯著的體能。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​你並不介意這極度的嚴寒，朝著黑暗身處的冰山洞的微光潛去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[Specified 0]並不介意這極度的嚴寒，朝著黑暗身處的冰山洞的微光潛去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[Specified 0]並不介意這極度的嚴寒，朝著黑暗身處的冰洞穴的微光潛去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

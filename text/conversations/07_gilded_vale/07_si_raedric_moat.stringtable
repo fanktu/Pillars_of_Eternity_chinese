@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_si_raedric_moat</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>57</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​在城堡外部的牆角下有一個下水道，一股黑色的難聞的廢水從格柵裡流出來流到城堡周圍的護城河裡。跨過黑水的橋看上去不太穩固，上面的石頭長滿了青苔，非常光滑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​前面的下水道格柵的鐵欄杆將通道堵住了。這些欄杆的表面都已經生銹了，有一些都已經彎曲了或者是角度很奇怪。它們已經很不結實了，你可以把他們掰彎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​使用撬棍將這些鐵欄杆弄彎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​掰彎欄杆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​不停從格柵湧出的污水使得行到變得困難，但是你已經成功的將撬棍放在兩個很重的已經生銹的欄杆之間了，用力的推。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>​隨著吱嘎一聲，其中一根欄杆開始變彎。你用力推，終於伴隨著嘎吱一聲，欄杆從底座上掉下來了。在格柵的另一端，一條黑色的通道通向城堡的深處。黑色的水不斷地從裡面流出來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>​[Slot 0]向前走抓起其中一個欄杆。他身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，可以穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>​[Slot 0]向前走抓起其中兩個欄杆。他身體往後傾斜，用力的拔。儘管他使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>​游過去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>​你深吸了一口氣，避免聞到這股惡臭，快速向前走入這個充滿了污水的地道。當你置身於這恐怖的黑暗之中之後，牆很快就消失在視野之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>​[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>​[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>​[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>​[Slot 0]向前走抓起其中一個欄杆。她身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，可以穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>​[Slot 0]向前走抓起其中兩個欄杆。她身體往後傾斜，用力的拔。儘管她使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>​你往前游著，你前面的水面上開始出現光亮。你繼續往前游，搜尋光的來源，直到發現你正站在地道的一個圓形缺口的下面——是一個出口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>​[Slot 1]向前走抓起其中一個欄杆。他身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，可以穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>​[Slot 1]向前走抓起其中兩個欄杆。他身體往後傾斜，用力的拔。儘管他使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>​你覺得有些人的力氣能夠將那些破損的稍微嚴重一點的欄杆弄彎來形成一條道路嗎？誰想試一試？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>​[Slot 1]向前走抓起其中一個欄杆。她身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，已經足夠穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>​[Slot 1]向前走抓起其中兩個欄杆。她身體往後傾斜，用力的拔。儘管她使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>​[Slot 2]向前走抓起其中一個欄杆。他身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，可以穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>​[Slot 2]向前走抓起其中兩個欄杆。他身體往後傾斜，用力的拔。儘管他使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>​[Slot 2]向前走抓起其中一個欄杆。她身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，可以穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>​[Slot 2]向前走抓起其中兩個欄杆。她身體往後傾斜，用力的拔。儘管她使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>​[Slot 3]向前走抓起其中一個欄杆。他身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，已經足夠穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>​[Slot 3]向前走抓起其中兩個欄杆。他身體往後傾斜，用力的拔。儘管他使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>​[Slot 3]向前走抓起其中一個欄杆。她身體往後傾斜，用力的拔。在外力的作用下，彎曲的欄杆依然穩固，直到隨著一聲劈啪聲，它終於被拔了下來。不一會兒，另一個欄杆也被弄彎了，可以穿過格柵了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>​[Slot 3]向前走抓起其中兩個欄杆。她身體往後傾斜，用力的拔。儘管她使出了吃奶的力氣，然而，那個欄杆依然相當穩固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>​[Slot 4]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>​[Slot 5]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>​[Slot 4]向前走抓起其中一條鐵條。向後靠，他使出了吃奶的力氣。金屬在拉力下依舊穩定地彎曲著，一聲劈啪聲，從它原本的位置上斷了下來。另一條鐵條棒足夠地彎曲以清理出穿過格柵小道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>​[Slot 4]向前走抓起其中兩條鐵條。向後靠，他使出了吃奶的力氣。儘管他使出了最大的力氣，然而，鐵棒子依舊挺立。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>​[Slot 4]向前走抓起其中一條鐵條。向後靠，她使出了吃奶的力氣。金屬在拉力下依舊穩定地彎曲著，一聲劈啪聲，從它原本的位置上斷了下來。另一條鐵條棒足夠地彎曲以清理出穿過格柵小道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>​[Slot 4]向前走抓起其中兩條鐵條。向後靠，她使出了吃奶的力氣。儘管她使出了最大的力氣，然而，鐵棒子依舊挺立。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>​[Slot 5]向前走抓起其中一條鐵條。向後靠，他使出了吃奶的力氣。金屬在拉力下依舊穩定地彎曲著，一聲劈啪聲，從它原本的位置上斷了下來。另一條鐵條棒足夠地彎曲以清理出穿過格柵小道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>​[Slot 5]向前走抓起其中兩條鐵條。向後靠，他使出了吃奶的力氣。儘管他使出了最大的力氣，然而，鐵棒子依舊挺立。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>​[Slot 5]向前走抓起其中一條鐵條。向後靠，她使出了吃奶的力氣。金屬在拉力下依舊穩定地彎曲著，一聲劈啪聲，從它原本的位置上斷了下來。另一條鐵條棒足夠地彎曲以清理出穿過格柵小道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>​[Slot 5]向前走抓起其中兩條鐵條。向後靠，她使出了吃奶的力氣。儘管她使出了最大的力氣，然而，鐵棒子依舊挺立。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>​試試其他東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>​正當你繼續游著，光開始透過水面，氤氳著出現在你的頭頂上方。你繼續往前游，搜尋光的來源，直到你發現你自己正站地道裡面圓形缺口的下面——這是一個出口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>​持續下去不容易，而且經過長時間游泳之後，[SkillCheck 0]的雙手划動水面開始減慢並因疲憊而變得不穩定。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>​持續下去不容易，經過一段時間後，[SkillCheck 0]和[SkillCheck 1]作用開始減弱，太疲勞了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>​持續下去不容易，經過一段時間後，[SkillCheck 0]、[SkillCheck 1]以及[SkillCheck 2]作用開始減弱，太疲勞了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>​持續下去不容易，經過一段時間後，[SkillCheck 0]、[SkillCheck 1]、[SkillCheck 2]以及[SkillCheck 3]作用開始減弱，太疲勞了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>​持續下去不容易，經過一段時間後[SkillCheck 0]只能維持其原有的節奏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>​持續下去不容易，經過一段時間後你感覺肺部要火了。你的肌肉因游泳時對抗水流的阻力而開始酸痛難忍。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>​你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>​你向前走抓起其中一條鐵條。向後靠，你使出了吃奶的力氣。金屬在拉力下依舊穩定地彎曲著，一聲劈啪聲，從它原本的位置上斷了下來。另一條鐵條棒足夠地彎曲以清理出穿過格柵小道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>​你向前走抓住了其中兩條鐵棒。向後靠，你使出了吃奶的力氣。儘管你使出了最大的力氣，然而，鐵棒子依舊挺立。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>​堆積的木塊發出咯吱咯吱的聲響，在你身下危險地晃動著，但依舊穩固。前方，是彎曲的鐵條勾勒出通往小水道的黑暗小道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>​[帶上伊維拉的潛水頭盔，並游過去]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>​帶上潛水頭盔有個額外的好處：可以屏蔽周圍的糟糕惡臭。你游過了被淹沒的通道。隨著你的深入，周圍的牆壁漸漸被黑暗淹沒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>​持續下去不容易，而且經過長時間游泳之後，[SkillCheck 0]的雙手划動水面開始減慢並因疲憊而變得不穩定。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>​正當你繼續游著，光開始透過水面，氤氳著出現在你的頭頂上方。你繼續往前游，搜尋光的來源，直到你發現你自己正站地道裡面圓形缺口的下面——這是一個出口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

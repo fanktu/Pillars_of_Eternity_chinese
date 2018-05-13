@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_earn_gods_favor</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>群星議會</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在群星之塔向神祈禱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>獲得神恩的幫助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>進入埋葬島的深坑前往佈雷斯·阿曼</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>熙昭和理荷楠，榆樹之蔭的葉精，告訴我賽奧斯摧毀了從群星之塔去佈雷斯·阿曼的路。為了找到他，我必須進入埋葬島的深坑裡。
+
+這需要諸神的幫助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>葉精姐妹說沒有人下到佈雷斯·阿曼的深坑裡還能活下來。不過，神可以保證我的安全。
+
+為了得到他們的幫助，我得在群星之塔向他們祈禱，據說在那裡他們可以和凡人交流。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>神也想從我這裡得到什麼東西。為了得到幫助，我得完成在幻景裡交給我的任務。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我現在得到了神之青睞，可以去埋葬島去尋找賽奧斯了。
+
+然而，諸神願意用巨大的力量來換取我的一個承諾，按照他們所選擇的方式來解決被偷走靈魂。不過，背叛的代價可不小。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>貝拉斯的幻景讓我看到，在一條可怕的道路上，有一個矮人和一個精靈。在我的碰觸下，兩人都消亡了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>伽拉宛讓我看到，一隻巨大的獅子和一個強壯的熊之間的戰鬥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>海蕾婭讓我看到，有個山頂神殿受到了一個極大的威脅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>在銳末干德的聖壇裡，我看到一群蒼精靈在一堵冰牆前消逝了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我保證讓那些靈魂回歸循環，以換取貝拉斯的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我同意用靈魂來加強鹿林，以換取伽拉宛的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我跟海蕾婭保證我會把靈魂還給空嬰。而她要給我力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我同意把靈魂交給銳末干德的熵，以換取他的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>我瞭解到可以從古曲區前往埋葬島。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我為了尋找賽奧斯進入了佈雷斯·阿曼。現在沒有退路了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

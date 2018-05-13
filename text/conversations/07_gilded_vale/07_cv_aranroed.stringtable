@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_cv_aranroed</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​「嘿說你呢！克理沃指揮官派你來的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​女人打量著你，瞇著眼對望水下傳來的目光。「你來自熔煉堡，如果我沒猜錯。我聽說你有東西給我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​阿蘭柔德用披風內襯擦拭她的劍。「我會把那當做我們要離開的暗示。十二人眾如此魯莽，我們沒時間浪費了。」
+
+她大步邁向一艘停靠在岸邊的小船。「替我向指揮官問好。你自己當心點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>​[把薇安娜的研究給她]「給。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>​「告訴我艦隊擊破者城堡發生什麼了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>​「在這件事上你扮演什麼角色？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>​「好極了。我要把這送回大法官手裡，趁著還沒……」
+
+聽到腳步聲後，她看向你的肩膀目光隨即望向你身後。
+
+「太晚了。準備戰鬥。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>​她挺直腰板。「我們要組建兵力，保衛鹿林以及我們在這裡的地位。有了鍛爐騎士供我們驅使，沒人能阻止我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>​「我是艦隊擊破者城堡的指揮官。我受命前來取回大法官所做的研究。」
+
+她倚近了點。「你知道這份研究的內容，你可以想像我是多麼想快速而悄悄地把它送回城堡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>​女人打量著你，在黑暗中瞇著眼。「你來自熔煉堡，如果我沒猜錯。我聽說你有東西給我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>​她瞇著眼，但最後聳聳肩。「很明顯你是在幫克理沃指揮官，所以我想我可以告訴你。
+
+「大法官已經在那裡集合兵力。遺贈留下的這個爛攤子……不安、吃人的屍體遍佈全鹿林——而且看這架勢一時半會還停不了。十二人眾正利用這個時機篡權。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>​「我會回船上去了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

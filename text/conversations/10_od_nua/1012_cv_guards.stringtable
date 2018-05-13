@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\1012_cv_guards</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>​你到來的時候他們齊刷刷地仰望著你。你覺得腦子裡有一種癢癢酥酥得感覺，就像是有人伸出細細得手指滑過你的思緒一般。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>​你心中滿溢著一種無聲的痛苦，緊接著傳來一聲尖叫，是一個穿著布袍的傢伙發出來。說時遲那時快，那傢伙突然轉過身子來對付你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>​一群穿著布袍的傢伙一齊湧了過來。他們的腦袋有著和洞穴中寄生的蜘蛛所相似的恐怖模樣，他們的上下顎喀拉喀拉地持續小幅度地動著。藉著洞穴中昏暗的光，他們圓睜著的黑眼睛就像寶石一般。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

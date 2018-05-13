@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\stronghold</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>280</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>任務【{0}】到期。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>任務【{0}】添加。（將於{1}後到期）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>建築【{0}】完成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>原料收集完成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>傭兵發薪日。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>傭兵【{0}】離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>支付了{1}給{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>支付了{1}給{0}，於是回來上崗了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>沒有支付{1}給{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>沒有支付{1}給{0}，於是導致離崗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>任務【{0}】完成，{1}帶著[{2}]回到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>要塞受到【{0}】的襲擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>沒有支付{1}給{0}，於是離開了要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>要塞受到【{0}】的襲擊，但抗過去了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>建築【{0}】被摧毀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>{0}&#160;被殺了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>你負債了。（{0}）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>收稅日。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>強盜搶走了{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>收入{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>你的債務還清了！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>你的債務減少到{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>強盜搶走了所有稅款。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>發生越獄！{0}已經逃出地牢！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>發生綁架！{0}被從要塞綁架！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>{0}被綁匪殺掉了！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>{1}救出了{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>{0}前來要塞拜訪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>要塞受到【{0}】的襲擊。（{1}後抵達）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>傭兵【{0}】前來，可被僱傭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>有人前來贖放{0}。作為交換條件，他們提供{1}或{2}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>{0}完成護送{1}並返回要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>{0}遺棄了{1}。他/她將返回要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>一名懇求者從{0}到來，尋求{1}或護送。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>你對待{0}的記憶正在消退，你的聲望已恢復。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>{0}到來，希望以{2}賣給你&#160;{1}&#160;。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>你忽略了懇求者，他離開了要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>你忽略了懇求者，她離開了要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>{0}離開了要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>{0}在前來要塞的路上遭遇強盜襲擊不得不逃離。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>{0}經驗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>錢</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>物品</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>{0}的聲望</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>{0}和{1}</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>沒有新報告。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>來自北方的殘忍統治者{0}來到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>當地的傻瓜{0}溜進了要塞並準備住上一段時間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>通緝罪犯{0}來到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>聖人戰爭老英雄{0}來到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>富有貴族{0}來到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>鹿眾高官{0}來到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>奇貨商人{0}來到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>{0}來到要塞，提供錢物希望解決麻煩或安全護送通過野外。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>{1}的一位遠親來到要塞，並提供錢物請求釋放他們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>雷亞德賽熱斯奴隸主{0}來到要塞，並請求購買一個囚犯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>靈魂學者{0}來到要塞，並請求給他一個囚犯來進行實驗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>第{0}輪</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>{4}年{6}{3}日{2}時</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>於{0}後完成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>於{0}後離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>{0}剩餘</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>他在路上差點遇到強盜，但你的巡邏隊成功干預了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>她在路上差點遇到強盜，但你的巡邏隊成功干預了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>支出工資{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>一次攻擊已迫在眉睫，但你的巡邏隊阻止了敵人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>敵軍正在接近你的要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>一項升級已完成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>一位訪客已經到達。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>敵人襲擊了你的要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>傭兵已經得到工資。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>收到稅款。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>在你的要塞可以開始一次新冒險。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>一次冒險已經完成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>一個囚犯逃走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>一名訪客被綁架了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>我在銅板巷發現了尼瑞德，這個暴徒被僱用冒充一個欠供應商債的迷草商人。他使用這層身份銷售迷草，從而彌補供應商的損失。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>娜朵是鉛灰之鑰的一名密探，試圖在風暴牆峽谷伏擊我。發現她的同伴們都不敢面對我之後，她重新考慮後投降了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>凱斯托瑞克是一名盤踞在奧德·努阿的無盡之路的蛛人斥候。它要求死亡，但我認為最好把它鎖在地牢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>艾芙蕾是十二人眾的成員，其策劃了一場反對鹹桅桿顧客的騷擾活動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>艾斯默隊長發現自己在侵入格蘭法斯人領地時被包圍了。格蘭法斯人同意放他離開而由我俘虜他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>艾奧恩是一名因謀殺熔煉騎士而遭通緝的逃犯。我發現他藏在反抗灣下面的地下墓穴並選擇以我自己的正義讓他為罪行付出代價。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>格拉姆斐爾和一群亡命之徒在我經過瑪格嵐岔口時襲擊了我。看起來他還沒準備好迎接自己的死亡，而是乞求監禁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>{0}：已死亡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>{0}：被綁架</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>事件</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>{0}：已忽略</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>其他</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>在堅忍村，我遇到一個契約傭工，為了逃脫奴役他採取了一些致命的措施。我把他關在努阿王堡而不是讓他回到奴隸主那裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>聖人戰爭的英雄{0}來到要塞，她要求拜見你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>{0}正在跟{1}講他們在戰爭中的經歷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>在一起度過一些時間後，{0}得以幫助{1}和她的過去和解。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>象牙號角</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>在艾爾·格蘭法斯的探險家們發現了出處有爭議的象牙號角。許多格蘭法斯人相信它是從英格維斯廢墟偷來的，但探險家們聲稱它是由早期的矮人探險隊掉落的。
+
+探險者們在愛娜之憩等待鹿林的仲裁時，有盜賊襲擊了他們，殺死了幾個成員並偷走了號角。其目前的下落被懷疑是在伊施·伊恩河沿岸的某個地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>{0}一直跟蹤偷走象牙號角的盜賊到分叉溪谷。在一場小衝突後，有兩個盜賊死了。剩下的盜賊沒有選擇為了號角而死，他扔下號角逃走了。{0}重新取得了號角並把它歸還給愛娜之憩的仲裁人。在一個對他們有利的裁決後，探險隊的殘部給了{0}澳格萊蒙的鸚鵡螺，一個來自亡焰群島的奇妙的附魔貝殼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>象牙號角</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>在艾爾·格蘭法斯的探險家們發現了出處有爭議的象牙號角。許多格蘭法斯人相信它是從英格維斯廢墟偷來的，但探險家們聲稱它是由早期的矮人探險隊掉落的。
+
+探險者們在愛娜之憩等待鹿林的仲裁時，有盜賊襲擊了他們，殺死了幾個成員並偷走了號角。其目前的下落被懷疑是在伊施·伊恩河沿岸的某個地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>{0}一直跟蹤偷走象牙號角的盜賊到分叉溪谷。在一場小衝突後，有兩個盜賊死了。剩下的盜賊沒有選擇為了號角而死，他扔下號角逃走了。{0}重新取得了號角並把它歸還給愛娜之憩的仲裁人。在一個對他們有利的裁決後，探險隊的殘部給了{0}澳格萊蒙的鸚鵡螺，一個來自亡焰群島的奇妙的附魔貝殼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>黑水和破墓</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>在艾爾·格蘭法斯的東南邊境，孤立的城鎮愛拉娜之淚，坐落在浸墓之湖北岸。
+
+最近，一個奇怪的現象令清澈的湖水變黑了。更奇怪的是，鎮上的石墓被從裡面破開，其中的骸骨慢慢地行進到水邊並進入深處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>經過幾個晚上的徒勞等待，{0}終於發現湖的黑水的由來：一個多世紀前曾在愛拉娜之淚定居的一個女巫的血母。當地人不小心犁出了她的墓地。她的遺體在一場激烈的風暴中滑進了湖裡。
+
+之前滿意於出沒於田野的這個靈體，開始呼喚她的老鄰居們到湖底下去陪她。在當地人的幫助下，{0}讓靈體得到安息。
+
+大部分屍體都得以返回到他們的墳墓，但並非所有的墳墓都能被重建。{0}帶回了一座神秘的墳墓的一塊碎片作為紀念。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>文書/牧師的錯誤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>在聖人戰爭快結束前，鹿林人在慈悲溪谷之戰遭到了他們的北方鄰居雷亞德賽熱斯人的痛擊。當侵略者們洗劫蜿蜒火焰教會時，許多瑪格嵐的聖人遺物丟失了。
+
+在戰爭結束以來的多年裡，人們相信所有的遺物的去向都已經被弄清。但直到最近，瑪格嵐的信眾才發覺，有三個物品被錯誤地標記為已找到：聖伊格拉茲之手，聖達丹的一綹頭髮，和聖勃拉吉亞之淚。
+
+瑪格嵐人正在鹿林四處調查著它們的下落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>{0}在鹿林到處打聽，並在新休瑪的珍奇店找到了聖伊格拉茲之手，在木材之鄉的一個女孩的洋娃娃上找到了聖達丹的頭髮，在路之盡頭的一個兇惡的傭兵的脖子上找到了聖勃拉吉亞之淚。
+
+蜿蜒火焰教會的重建要感謝這三個遺物的回歸，但在{0}的調查中，瑪格嵐的兩個高級牧師對聖勃拉吉亞的愛國心產生了懷疑。使用來自她的履歷的正本作為證據，牧師們發起批判，以至於教會不情願地擯棄了聖勃拉吉亞之淚。他們的損失成了{0}的收益。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>神聖的皮</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>來自倍岔箭部落的斥候聲稱，一個瘋狂的精靈德魯伊衝進了艾爾·格蘭法斯的較小的西部的廢墟之一，然後帶著部落在五代人前所捕殺的一隻巨大的熊的皮潛逃。
+
+流浪者部落一直以來都無法找到這個德魯伊，他們也沒有得到任何來自他們的同胞格蘭法斯人的幫助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>從倍岔箭那裡得到了足夠的信息，{0}追趕著瘋狂的德魯伊進入鹿灘北部的森林。和德魯伊的談話是困難的，因為她的情緒轉變得很迅速且毫無預兆，通常很激烈。
+
+{0}最終弄明白，她的靈魂在她變身的過程中被喚醒了。她覺醒的靈魂變得癡迷於找到並取回他當年在幾代前獵殺的熊皮。最後，德魯伊攻擊{0}和一些鹿灘當地人，並在隨後的混戰中被打死。
+
+倍岔箭者為重新得到熊的藏身處的消息而感激不已，並對這嚴酷的考驗的結束方式而唏噓不已。他們給了{0}一雙精製的狩獵靴作為臨別禮物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>破天者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>多年來，人們一直看見一個老法師在鹿林西北海岸的非常猛烈的風暴中進行實驗。當地人從來都不確定法師是否在利用天氣，或者是否是她自己在引發這一現象。
+
+近幾個月來，人們一直沒有見過法師，但農民們報告一片翻滾著的暗雲在穿過本來晴朗的天空。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>在跟蹤奇怪風暴的過程中，{0}發現，老法師不知怎麼的把她自己變成了一種獨特類型的魔力喪魂。以這風暴狀形態，她繼續在鹿林之上漂浮，無法變回她原來的精靈的身體。
+
+通過觀察一系列令人迷惑的雷聲和閃電，{0}得以費力的和她溝通。法師指引{0}前往她在鍍金谷的郊區的實驗室。在實驗室執行了一系列簡單操作後，{0}得以將充滿感激的法師變回到她的自然形態。出於感激，她給了{0}一根生成風暴的魔棒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>被遺忘的空洞</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>二十年前，在被稱為布萊克威爾的茂密的森林的某處，木材之鄉的一個樵夫讓一名昂德拉的承福者埋葬他亡妻的痛苦回憶。
+
+自從他新近去世後，他的女兒一直在尋找她的母親的信息。她的父親沒有留下任何線索，而當地人在過去十年裡只見過那個承福者兩次。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>通過跟蹤承福者，{0}得以推斷出女孩的母親的所有物的長眠之地，一棵古老的死橡樹。不幸的是，這棵大樹已經成為一個大型群落的木甲蟲的宿主。
+
+經過一些仔細的偵察和一些戰鬥，{0}獲得了所有物，並將其還給了女孩。然而，女孩意識到物品中一枚奇怪的木製戒指並不屬於她的母親。她把它給了{0}作為答謝。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>女巫的步行</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>每幾年裡，一群來自東陲周圍的德魯伊在瑪格嵐岔口會面，並沿著一條他們認為曾經被英格維斯人使用過的古道進行為期一周的遊行。近年來，人們已經很少使用這條古道，但野獸和魔怪卻經常光顧它。
+
+由於遊行的性質，德魯伊沒有攜帶武器，並誓言放棄暴力。他們正在尋求值得信賴的傭兵和冒險者，在他們的紀念活動保護他們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>雖然遊行漫長而充滿危險，對{0}的安全的唯一真正威脅是來自一個冒險連隊的攻擊，希望綁架德魯伊以向他們各自的團體勒索贖金。
+
+在德魯伊的僱傭兵的幫助下，{0}得以輕鬆打敗攻擊者。不幸的是，老德魯伊之一在襲擊中死亡，可能是由於形勢的壓力。作為勇敢服務的答謝，{0}得到了老德魯伊的帽子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>夜之鏡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>在艾爾·格蘭法斯的西部邊境的一系列令人不安的謀殺和自殺和最近出土的英格維斯製品的傳言聯繫到了一起。受害者們談到在月圓之夜，一面大的錫鏡子向那些凝視它的人低聲發出令人發狂的信息。
+
+丹瑞德街和蕨堡區療養院試圖詢問倖存者，但他們的大多數都受驚過度，無法就發生了什麼事或鏡子被帶到了哪裡給出一致的解釋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>在秘密的羽精靈能師的幫助下，{0}得以在艾爾·格蘭法斯西南部的一個偏遠地區找到所謂的夜之鏡。不料，夜之鏡奴役著幾個格蘭法斯人，他們全都願意為了保護鏡子而殺戮。
+
+在一場持久戰裡，{0}和靈能師得以打碎鏡子並打破施加在那幾個格蘭法斯人身上的魔咒。
+
+當塵埃落定，靈能師的一些「同夥」到來，顯然是某個不知名的組織的密探。羽精害羞地向{0}道歉，解釋說夜之鏡的殘餘不得不被帶走保管。他對於事情的結果如此的驕傲，以至於在整個談話中都沒有注意到{0}正站在一塊鏡子碎片上。很自然地，{0}把它帶回了努阿王堡以作紀念。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>靈體的法庭</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>在鍍金谷西南，旅人們報告一群憤怒的靈體聚集在一圈破碎的魂珀柱附近。那些敢於接近靈體附近的人報告說，它們似乎在爭論一些長期被遺忘的法律事務。
+
+雖然當地人很快就學會走一條完全繞過魂珀柱的路線，但不少到達路之盡頭的外地商人成為了幽影的祭品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>{0}準備和那些靈體戰鬥，但很快發現它們只是想解決一批老糾紛。令人驚訝的是，靈體們花長達幾個小時的時間介紹他們的案例。{0}擔任這群靈體的仲裁者，宣佈決定並讓這群靈體得到安息。
+
+隨著最後一對爭吵的幽影的消失，{0}發現以前的侵入者的遺體，包括一個不幸的武僧的腰帶上的精美的冥想掛鈴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>灰燼的花環</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>在帕米尼亞維利亞共和國，一群蓄意破壞者襲擊了一個軍事墓地，焚燒了留給死者們的貢品。雖然這讓女公爵困擾，但她卻沒有多少當地的資源來處理這個問題。
+
+因為共和國很快就要慶祝拉貢o皮萊拉戰役50週年，女公爵想快速而安靜地解開謎團。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>在帕米尼亞的女公爵的祝福下，{0}開始認真調查在軍事墓地的蓄意破壞行為。在大量挖掘後，{0}得以追查到元兇，是一個因為在拉貢o皮萊拉戰役中的怯懦而被處刑的士兵的孫子。
+
+根據這個年輕人所供，他的祖父是被誣蔑的，處刑是不公平的。女公爵和帕米尼亞的公爵議會檢閱了那個男人的證據，決定在拉貢o皮萊拉的紀念館上題寫他的祖父的名字，以恢復他的祖父的尊嚴。然而，那個年輕人仍然有罪，因為他違反了帕米尼亞一長串的法律和習俗。女公爵把他從島上終生放逐了出去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>未翻開的一頁</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>一系列謀殺案震驚和恐嚇了白石島的書吏們。隔離在昂德拉之靴的島嶼修道院裡，他們幾乎沒辦法向大陸尋求幫助。
+
+雖然素以正直和藝術才華著稱，書吏們可能在不知不覺中庇護著正企圖破壞他們的「禁」書工作的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>在未能阻止另外兩個人的死亡後，{0}和武僧們得以追查到兇手，是教團裡的其他武僧們以為已經死去多年的一個秘書書吏。
+
+在現實中，這個書吏一直躲在修道院之下的地下墓穴，並逐步破壞那些他認為傳播了關於諸神的起源的謊言的「旁門左道」的作品。當武僧們開始發覺時，他殺了任何起疑的人。
+
+沒有選擇面對處罰，書吏從修道院的最高的塔上跳下而死。在書吏的地下實驗室，{0}發現了幾個裝著厚厚的棕色液體的可疑的小瓶。修道院的藥水師鑒定其為一種烈性毒藥，很可能是被用來殺死武僧們的同一種毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>通向水線</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>一個勞瓦泰商船在雷亞德賽熱斯的東海岸被鹿眾海盜擊沉。在船被捲入海浪前，海盜們掠走各種珍貴的寶物，其中許多是反抗灣和斯畢壬托的靈魂學實驗法器或航海設備。
+
+有關的貨物的可能的收件人們各自尋求潛在的幫助。他們希望在海盜們瞭解到那些寶物的價值之前取回它們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>在從神錘堡壘向北旅行後，{0}抵達雷亞德賽熱斯的港口城市本霍特。有幾個海盜已經到達那裡並賣掉了許多被盜的贓物。
+
+商人和犯罪分子的提示和傳言引領{0}到了骨頭島，一個位於雷亞德賽熱斯西北的小群島。有勇無謀的海盜們拚命抵抗，但他們中的大多數都帶著少量貨物逃走了。
+
+最後，{0}設法找回了超過一半的被盜貨物。但有一件物品，一座小而稀奇的潛水鐘，在商人裡無人認領。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>如石頭般靜止</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>在以沙彌圖平原的艾帕輝羅農民們，在一個僻靜的南部山谷發現了由小型魂珀柱組成的一個精心佈置的大環。
+
+雖然被假設以某種方式和英格維斯人有關，這些柱子似乎沒有和任何廢墟有關聯。然而，自從這個地點被發現後，遠至五十英里以外的農民們都失蹤了，最終於數天或數周後在石環裡被發現，被永久地石化。
+
+由於艾帕輝羅人沒有多少魂珀柱的經驗，他們向雷亞德賽熱斯人、鹿林人和格蘭法斯人求救。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>到以沙彌圖平原的旅途基本平安無事，但{0}在到達艾帕輝羅魂珀環時發現了一個可怕的景象。超過五十個當地人在石頭之間被永久地石化了。
+
+調查花了好幾天時間，但{0}瞭解到，一切綁架都發生在晚上的特定時間，並遵循著固定的模式：總在石頭周圍的數英里內。在艾帕輝羅數學家和哲學家的協助下，{0}得以揭露兇手的身份，是保護著這個魂珀環已達數百年的一個極為強大的魂珀精。當人們發現這個秘密的地方，她就開始系統地跟蹤並石化住在從這個地點的步行可及的距離以內的任何人。
+
+在當地人的幫助下，{0}領導了對這個生物的一場持久戰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>哀悼之圈</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>一個靈魂學者的秘密團體一直在東陲周遊，承諾為那些失去了親人的人們恢復親人的生命。他們在各個城市進行秘密會議，舉行他們的儀式，在一個地方停留從未超過幾天。
+
+儘管一些生命的火花似乎恢復到了他們復活的身體上，當局懷疑該集團是綁架、謀殺、活體解剖、以及他們的方法所必需的其他恐怖行為的背後主使。更糟糕的是，這些恢復了生命的人在他們復活的幾天內迅速分解或發瘋。
+
+有關的靈魂學者和各種民間機構正在尋求幫助來追查這幫元兇。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>這個秘密團體，被稱為哀悼之圈，多次逃避{0}的追蹤。只要{0}發現了他們的最新位置，他們就開始移動到一個新城鎮。原來，哀悼之圈有一個廣泛的間諜網絡。
+
+最後，{0}設法捉住了團體裡一個願意交待她的兄弟姐妹的信息的高級成員。在路之盡頭的像停屍房一樣的房子裡，{0}和曼赫姆家族信任的士兵們，和邪教的領導者們對峙並殺死了他們。
+
+雖然團體的一些成員逃脫了，冥界之門的伯爵，弗萊亞o曼赫姆，相信他們在鹿林的力量已經被打破了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>給母親的頭骨</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>在伊布瑞爾之井的廢墟深處某個地方，一對朽妖殺害旅客們，並將他們祭祀給他們的「媽媽」。
+
+在過去，旅客們只知道要避開所有通向井的路，但在近幾年，朽妖擴大了他們的狩獵範圍。旅客在慰藉溪谷和中林之間的路上被綁架或殺害。
+
+由於那裡的廢墟的宗教意義，格蘭法斯人在進入伊布瑞爾之井時很謹慎，但是這並沒有停止受影響的城鎮居民向鹿林內部求助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>{0}廣泛的探索伊布瑞爾之井的廢墟，在古城搖搖欲墜的房屋和宮殿裡發現了一系列的危險。
+
+雖然朽妖一直仇視外人，{0}卻得以和他們說話，並意識到他們在心智上被別人控制了。增加的攻擊的來源是一個被她的父親否認關係並隨後被從倍岔箭放逐的羽精靈能師。
+
+尤其擅長精神控制，這個靈能師利用朽妖（她的「孩子們」）在倒霉的旅客們身上發一些小財。然而，一旦{0}把她拉到外面的空地，過於自信的靈能師很快就被擊敗。
+
+在靈能師在伊布瑞爾之井的心臟附近的巢穴裡，{0}發現了一個可怕的寶物：朽妖用這個羽精的被謀殺的父親的牙齒做成的一條項鏈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>綁起來埋了</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>在路之盡頭附近的迷信的人們一直在按照一個傳言行事，這個傳言說，一個被綁起來活埋的死的處女的頭髮可以治療空嬰。它不僅造成了對年輕女性的恐怖攻擊，奸商們還弄到頭發來賣給那些沒有膽子自己動手的人。
+
+路之盡頭的子爵已經指定代理人去根除這個問題，但他們一點成效都沒有。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>雖然{0}無法找到困擾著路之盡頭和冥界之門伯爵領的周邊的那些傳言的源頭，地方當局協助打擊了暴民，懲罰了可能的謀殺者，並防止了更多的年輕女性被活埋。在凱爾山墓地有一大群暴民，{0}不得不集合當地士兵來打倒這些主要麻煩製造者。
+
+在最大的好戰者的身上，{0}找到一根他打算用在當地一個年輕女子身上的古怪的魔法繩子。冥界之門伯爵的一個法師顧問懷疑繩子是由最初散佈傳言和煽動攻擊的同一個人製作的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>編織者之歌</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>在斯畢壬托的編織者波尼賽塔的豐富多彩的服裝聞名整個東陲。在一年多前，她在前往反抗灣的途中時，她的船在猛烈的風暴中，於珍珠海岸沉沒。不可思議的是，許多乘客倖存了下來。
+
+波尼賽塔的屍體沒有被找到，於是她被推測已經死亡。然而，在反抗灣的一個維利亞商人最近從一批不起眼的紡織品貨物裡認出了一些明顯是波尼賽塔所作的作品。他和其他人交談，得知幾批發到不同的商家的貨物具有相同的包含隱情的模式。
+
+現在，許多商人相信波尼賽塔正被關押在某處，並試圖通過她的作品傳遞信息。無論這信息是什麼，沒有人能夠破譯它，也不知道它來自哪裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>{0}發現對於波尼賽塔的下落的調查遇到了令人驚訝的阻力。抓走她的人不想讓人知道她的位置。
+
+在斯畢壬托的領袖的命令下，一隊維利亞密碼學家企圖破譯波尼賽塔編織的消息的片段。他們輪流把這些線索告訴{0}。經過和訓練有素的僱傭兵的幾次殘忍的戰鬥，{0}到達了關押波尼賽塔的監獄，在吉爾拉拉附近的一所編織房。那家綁架了她的維利亞紡織公司立即被維利亞共和國各階層人民驅逐。
+
+為了感謝救命之恩，波尼賽塔為{0}返回努阿王堡的旅途織了一件附魔的斗篷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>b;lh泥土的詛咒</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>橫跨整個東陲，人們被埋葬在墓地，並以噬魂鬼的形態從死亡裡回來。當地人的檢查發現，靈魂學者曾在葬禮前破壞了幾個墓地。
+
+當地領主已經發佈懸賞捉拿元兇。不幸的是，事件的迅速蔓延導致許多人相信，在實驗背後是一個群體，而不是一個人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>{0}從「絞刑執行人修道院」前往王冠灣，調查關於噬魂鬼的出現的各種報告。在每個案例裡，{0}發現這些墓地周圍埋有精心製作的玻璃、銅、和魂珀設備。
+
+那些設備的獨特複雜度被追溯到了一個因為在塞隆納和安森色的令人不愉快的行為而被人敬而遠之的維利亞矮人。被捉住後，矮人聲稱他的意圖不是創造噬魂鬼，而是要恢復生命。那些噬魂鬼被創造出來，是由於矮人無力用他的機械設備解決一個基本問題。矮人之所以頻繁活動，並不是由於同謀，而是他大量使用藥物讓他在接連數日裡保持清醒和瘋狂。
+
+被對質後，矮人沒有反抗就接受了羈押。當{0}離開他時，他正在泰蘭耐爾等待著審判。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>聖伊芬的結</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>伊密拉的傳說認為，聖伊芬創造了一個奇跡般的結，不忠的人都無法解開。
+
+最近，有一次大膽的入室盜竊，把伊乜蓋爾匠人大廳裡的無數珍貴遺物偷了個精光。在每個寶物曾經的位置，都綁著一根繩子，連到大廳中央的一個複雜的結上。以對聖伊芬的書面祈禱詞的形式，小偷留下了一個挑釁的線索，但謎語難倒了當地人。
+
+對找回製品感到絕望的牧師們，轉而向僱傭兵和冒險者求助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>在伊乜蓋爾，{0}和艾比頓的牧師們開會討論誰偷了匠人大廳的製品及其目的。
+
+在調查過程中，瓦爾的一個古怪的牧師以怪異的形式「幫助」眾人：以新的謎語來回答小偷的謎語。通過一系列的額外線索追查被盜的每一個製品後，{0}和艾比頓的牧師意識到瓦爾的牧師就是小偷。
+
+對自己非常滿意，他毫不反對被抓獲並送往伊密拉的伯爵以接受處罰。當{0}離開艾比頓的牧師們時，他們仍在試圖確定這場盜竊的意義。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>井裡有什麼</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>點亮溪谷以北幾英里坐落著一個叫白花環的小村莊。這個村子是如此之小，以至於它常常被地圖和納稅記錄忽略，而且村子和鹿林的其他地方鮮有往來。儘管村子很小，但卻有著悠久的歷史，可以追溯到三個世紀以前其被用作格蘭法斯部落營地的時候。
+
+這個社群最突出的特點是一口深井，其頂部是由英格維斯魂珀製成。雖然對格蘭法斯人不具備任何宗教意義，但所有看到井的人都同意它真的很古老。近年來，當地人報告說從井內傳出奇怪的聲音。有人形容它是動物的叫聲，還有人形容是用外來語言在說奇怪的話。沒有人敢冒險下到井裡，村民們在從中取水時也變得緊張。
+
+雖然該社群可以調度的資源很有限，他們還是到附近的領主處救助了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>冒險進入白花環之井的深處，{0}發現，雖然井的根基是用一塊活魂珀所製成，但聲音的來源是被他們的母親投進井裡的狂童。
+
+共有十二個來自白花環村和和周圍的樹林的女人，在得知她們的孩子將變成狂童後，把他們扔進了井裡。有些已經死了，但許多沒有摔死，靠小老鼠和其他在英格維斯地道裡流浪的小動物為食。
+
+{0}被迫和那些侵略性的狂童戰鬥，之後從井裡出來，並把發生的事情告訴村裡人。有些母親立即供認了她們所做的事。其他的則逃離了村莊。最終，沒有人想要為已經發生的事而懲罰任何人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>司儀的輓歌</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>自聖人戰爭結束後，鹿林人在伊馮·丟沃大橋聚集，紀念為了打敗聖懷德溫而獻出生命的十二人眾的犧牲。由瑪格嵐的牧師來領導遊行並以唱輓歌的方式來結束儀式，已經成為了慣例。
+
+今年，當牧師試圖唱輓歌時，他的舌頭在他的喉嚨腫脹起來，他在聚集的人群面前痛苦的死去。一個月後，當另一個牧師試圖唱輓歌時，也遭受了同樣的命運。一些人認為神是牧師們的死亡的罪魁禍首。其他人懷疑記仇的雷亞德賽熱斯人。
+
+無論是誰，瑪格嵐的神職人員和神錘堡壘的士兵們都希望能將他們繩之以法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>伊馮·丟沃大橋上的兩個瑪格嵐牧師可怕的死亡在神錘堡壘造成了大量的悲痛和憤怒。
+
+{0}很快就發覺是雷亞德賽熱斯人搞的鬼。兩個法師佈置了那個殺死牧師的詛咒，但是他們有許多參和過聖人戰爭的雷亞德賽熱斯幾十個老兵做後援。由於法師沒興趣和{0}或瑪格嵐教徒談判，戰爭爆發了，大部分就發生在戰爭時期的同樣的戰場上。
+
+到最後，法師們被殺死，而剩下的雷亞德賽熱斯人也潰不成軍。在最初的攻擊中死去的牧師們被埋葬在大橋附近，{0}被贈和了牧師長老的儀式手套，以示感謝。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>蘆葦中的哨聲</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>在以沙彌圖平原，佐切尼湖因每年春天幾個星期中岸邊上長出的美麗的鮮花而著名。當地的農夫會採摘這些鮮花，為附近所有的村子的春節做準備。
+
+在過去3年中，總共有4個人在採摘鮮花的過程中失蹤。沒有人目擊到綁架的過程，但是附近的人聲稱聽到了來自高高的蘆葦叢中的尖銳的哨聲。被綁架的人們幾天後出現在湖岸上的時候，他們的臉上帶著笑容，一副幸福的感覺，但是卻感覺不到周邊的世界。這些充滿喜悅的受害者們再也沒有從這個狀態中恢復過來，大多數人都在幾周裡死去了。
+
+佐切尼湖附近的修道院裡的哲學家建議當地統治者尋求外界幫助來解決這個問題。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>在發生更多的綁架事件之後，{0}發現這些攻擊的幕後黑手是一隻未知的野獸。一隻奇怪的紅寶石甲蟲捕捉當地人民，以他們最可怕的記憶為食。
+
+雖然受害者們最初會進行反擊，但是很快就會陷入一種幸福的狀態然後放棄了抵抗。不幸的是，這個甲蟲會最終吞食掉他們的記憶，使得他們的大腦一片空白，脫離了世界。{0}得以追蹤到甲蟲的巢穴然後將其殺掉。
+
+當地人聽說甲蟲被殺死之後都鬆了一口氣，但是在聽到巢穴中有孵化了的蟲卵之後又變得擔心起來。佐切尼修道院的一個哲學家用一根長在湖邊蘆葦叢中的紅色蘆葦為{0}製造了一個魔杖，以此作為離別的禮物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>人跡罕至之徑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>按照友善旅團的傳統，當一名騎士團成員自然死亡的時候，按習俗該聖武士會要求埋葬在難以到達的地方。而在履行逝去同志的要求的過程中，友善旅團員會為其他人開闢一條更容易走的路線。
+
+當老聖武士艾哲姆·德爾法死時，他的兄弟姐妹開始了向遙遠的雷亞德賽熱斯東方的紅花湖進發，但是他們沒能抵達目的地。在東陲那個部分剩下沒幾個團員，因而友善旅團向外尋求援手，以找回他們的同志並且幫助他們到達安息之地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>通往紅花湖的路途比友善旅團的長老們預計的還要凶險得多。他們認為是食人魔發起的對艾哲姆·德爾法的送葬隊伍的攻擊。事實上，{0}和友善旅團的新人發現了雙頭魔——又巨大又凶殘的扭曲的、有兩個腦袋的食人魔。
+
+奪回聖武士的屍體付出了極大的代價，在這過程中共有5名新人付出了生命。最後，{0}和7個友善旅團團員到達了紅花湖。在那裡，他們為艾哲姆·德爾法以及其他沖頂過程中死掉的人舉辦了一場葬禮。
+
+下來的路上，新人沿路放置了有標記的石塚，以此表明這裡被友善旅團清除的時間——還有付出的代價。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>無名指</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>殘忍，而且連部落最好的獵手也抓不到，尼亨是一個聲名狼藉的格蘭法斯殺人犯。當他終於被抓住並處死之後，他的屍體被埋葬在克裡阿班·利拉格附近的一個秘密地點。一個智者們提出一個不尋常的建議，希望英格維斯廢墟能抓獲這個殺手的靈魂並阻止他回到轉輪之中。
+
+在最近的一個大清掃慶典上，一個羽精小孩偶然發現了尼亨的墳墓。她並不知道自己發現了什麼，所以告訴了自己的父母，她的父母猜出了那是什麼並且告訴了部落中其他的成員。僅僅一天時間，尼亨的埋葬地點被幾個蠻幹的格蘭法斯人破壞掉了，屍體出於儀式的目的被帶走了。剩下的就只有他右手的無名指。
+
+魂君反對使用尼亨的屍體準備神聖物品的行為，並且會獎勵任何將屍體歸還的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>搜尋尼亨屍體的過程很艱難，因為格蘭法斯人為了包庇那些有責任的人不停的撒謊。一個羽精心靈獵手幫{0}發覺出了事實，最終找回了這個死去殺手的全部身體。
+
+儘管格蘭法斯人非常樂意為他們的所做所為撒謊，但是當{0}和心靈獵手和他們對峙的時候卻沒有人動粗。一個魂君命令心靈獵手把屍體埋在一個比起克裡阿班·利拉格附近的路線更少有人經過的地方。
+
+在回到努阿王堡的路上，{0}發覺魂君從沒有要回尼亨的無名指……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>喚醒星辰的人</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>預言了愛人潮會摧毀昂德拉福地的格蘭法斯天文學家，拿走了很多儀器和筆記並且藏了起來以免被鹿眾人抓到。
+
+戰爭結束幾十年後，部落發現了天文學家的傑作。不幸的是，所有最初的天文學家都死掉了並且他們的筆跡大多都是用一種未知編碼寫成的。
+
+兩個維利亞公爵給任何幫助格蘭法斯人破譯編碼的人一筆獎勵。部落的人很不情願讓任何人看到筆記，但是他們相信分享學識總比擁有一個未知的秘密要好。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>儘管有金錢和兩個維利亞公爵的間諜的支持，{0}還是難以破解格蘭法斯天文學家的密碼。很多最初看起來有所幫助的格蘭法斯人最終都是破壞份子，他們相信外來人不值得信任，不能讓他們知道格蘭法斯的秘密。
+
+一系列的埋伏和遍佈艾爾·格蘭法斯艱難的追捕終於讓{0}和一個預言了愛人潮的羽精天文學家的曾曾孫女面對面了。她威脅道要毀掉密碼的密鑰，但是{0}最終還是經過談判獲得了有限的一部分天文學信息。
+
+最後，維利亞公爵有點失望，因為他們希望能瞭解到關於格蘭法斯天文學的額外秘密。不過，{0}挖掘出的信息對維利亞天文學家來說還是非常吸引人的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>受難的眼睛</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>在「拉弓灰燼的王庭」上有一個高聳的魂珀雕塑，和活著的樹錯綜複雜地交織著。雕塑可以追溯到英格維斯人的時代，被認為是那個失落帝國的一個羽精統治者的象徵。
+
+儘管雕塑受到了時間的侵蝕，格蘭法斯人還是記得在早先殖民時期的一次破壞行為。在碎石之戰的混亂中，鹿眾探險者深入艾爾·格蘭法斯進行探險，抵達了臣服灰土法庭，然後為了取下一隻眼睛而損害雕像，那隻眼睛是由純的白魂珀製成，大小如海裔的腦袋一般。那只探險隊的大部分人都被格蘭法斯人抓住並且殺害，但是眼睛一直沒有找到。
+
+近年間，一個傳言在東陲散佈開來，一個新的眼睛主人試圖在隱蔽市場賣掉眼睛。至少三個部落的魂君願意獎勵取回眼睛的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>經過三個世紀廣泛的搜尋和探究，{0}終於發現了被偷走的白魂珀眼睛的蹤跡。在碎石之戰之後，海裔竊賊向南到達了阿貝特，然後到了納西塔克。在這些寒地矮人中，竊賊找到了一名富有的買家，一個富饒的部落的酋長。一個世紀之後，這個部落遭遇不幸，被亡焰群島的海盜和來自白茫極地的蒼精靈打劫了。蒼精靈把失竊的眼睛賣給了舊維利亞的商人，隨後又帶給了北方的達寇茲的王子。它被放在了那裡兩個世紀的時間。
+
+當達克茨宮殿被洗劫時，其中一名入侵的士兵把眼睛作為戰利品帶走了，漂洋過海來到了維利亞共和國的奧茲亞。當{0}到達時它還在那。儘管擁有眼睛的酋長開出了高昂的價碼，格蘭法斯魂君還是毫不猶豫地付了這筆錢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>情人之光</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>在最近的兩年間，在西亞門納之恩典上的水手們看到了一對光束在深夜的浪尖上跳動。靠近觀察的人聲稱聽見了兩個女人的聲音，唱著一首動聽得無和倫比的歌曲。有些人相信那是艾萊薩和佩蘭尼的靈魂，兩個來自一個世紀前的不幸的愛人，她們被暴民驅逐出安森色然後被推下了懸崖。
+
+安森色的女公爵譴責暴民的行為，但是毫無同情心的公爵議會並沒有嚴厲的懲罰罪犯。傳言傳開之後，浪漫的維利亞人湧向懸崖，甚至在晚上划著小船離開海岸，就為了撇上兩個靈體一眼。
+
+安森色的新公爵在盡力遏制這種行為，但是他相信正確的補救的做法是讓兩個靈體安息——從她們出現的時間和地點看來，這可不是個小任務。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>一個昂德拉的牧師和一群貪婪的水手把{0}帶到了佩蘭尼和艾萊薩的靈體唱歌的地方。不幸的是，混亂的風暴掀翻了小船。{0}、牧師和水手們都陷入了西亞門納之恩典。奇跡的是，大多數人出現在了巴達附近的一個巨大海蝕洞。
+
+雖然山洞的入口被隱藏在了海面之下，內部卻別有洞天：沉默的戰船、貿易船隻、不幸的旅者的屍體。衣衫襤褸的{0}等人發現了一個倖存者的部落，他們在山洞中的一系列食人行為和有限的掠奪中存活了下來。長期的山洞生活使得他們變得愚蠢和野蠻。雖然有些人攻擊了這批剛剛沉沒之船的船員們，{0}成功地嚇跑了其他人。
+
+最終，隊伍發現了一堆骸骨，裡面就有艾萊薩和佩蘭尼的屍體。昂德拉的牧師把兩人的屍體埋在一起並且進行了一場葬禮。至此，兩個靈體脫離了世間走向了往生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>制蠟人</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>在南部鹿眾省份——馬伽儂，法師兼發明家加萊弗耗費了幾十年的時間製造出了一個能夠模仿出魔法效果和性能的裝置。他的同行法師們鄙視加萊弗的作品，但是研究的一個方面讓這些精英們也感到好奇：一個能完全複製出魔法物品的裝置。
+
+加萊弗的研究的關鍵是一個附魔的模具。加萊弗老死之後，他在遠方的工坊最終被一群劫掠當地多年的南部野蠻人所侵略。人們以為他的所有作品都丟失了。
+
+近期，一個匿名出資人在東陲各地尋求幫助，根據未知手段獲得的線索，尋找加萊弗的一些研究筆記。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>{0}的出資人對線索的來源保持緘默，但是筆記很快就顯示出了他們的價值。一個兮斯林地的魔法書拍賣會還有一個死去的雷亞德賽熱斯法師的筆記指出了通往另外三個法師的路，他們不經意間展示出了一些根據加萊弗的失竊的筆記做出的研究。
+
+在東陲各地，法師們足夠和藹但是很不情願地和他們自己的筆記分開了。在向出資人的僕從報告之後，{0}發現沒有被要求額外的服務。直到回到努阿王堡之後，{0}知曉了三名法師離奇的死訊。
+
+不久之後，一個包裹被護衛周全地送來。包裹的收件人是{0}，裡面的字條上寫的只有，「禮物」。用的是古老的筆跡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>薰衣草和鹼液</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>在亡焰群島的一個偏遠的島嶼，著名的藥水師塔瑪·瓦圖亞製造的藥水和藥膏，從納西塔克到東陲南部邊緣都享譽盛名。
+
+他誇口說他成功的秘密是他在群島的位置，在那裡不僅僅有著大量的本地動植物，還有來自世界各個定居點的商人們。
+
+最近，塔瑪的家和實驗室受到了海盜的攻擊，逼迫他幾乎天天都從一個島嶼逃亡到另一座島嶼。藥水師的客戶和塔瑪的孩子們懇求海盜們停止追捕。他們沒有得到海盜的同情，也沒有獲得阿貝特大陸的統治者的幫助，只得向東陲的僱傭兵尋求幫助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>{0}加入了另外5個東陲僱傭兵，成為了一個海裔長船的一個乘客。這艘船速度迅捷，上面裝滿了武裝的水手，在追蹤塔瑪的綁架者的途中捲進了和海盜的戰鬥中。
+
+最終，{0}和船員們發現了綁架著塔瑪的維利亞快船，並且在它到達公海之前超過了它。僱傭兵和海裔水手在一番格鬥和技巧之後和{0}一起登陸了快船。甲板上的戰鬥充滿了厚厚的硝煙，使得難以分別敵我。
+
+在混亂的肉搏戰中，{0}和海盜船長面對面了。在隨後的混戰中，長船和快船發生了碰撞，使得快船過度傾斜。船長滑下了甲板然後被一個沒有固定好的炮管打下了甲板。老大掉下海之後，剩下的海盜要麼是投降了要麼跳下水逃往附近的島嶼。
+
+塔瑪回來後，他的朋友和家人舉辦了一個巨大的宴會，以此向{0}和其他幫忙救他的人致敬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>巨大寂靜之地</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>5年前，伊施特洛奇的12名資深武僧開始了前往泰特拉特克圖安的沉默的朝聖之旅，當地人稱那裡是禁山，山上天氣惡劣，被認為是神的詛咒。武僧們今年本應回來了，但是他們沒有回來。
+
+由新人們組成的探險隊在泰特拉特克圖安發現了他們的營地，但是他們震驚地發現他們的師父們坐成一圈，只剩下空洞的皮囊，保持著冥想的姿勢凍成了冰塊。伊施特洛奇的核心集團有一個理論，他們認為大師們超越了原先的物理形態，可能還在東陲遊蕩。
+
+他們給雷亞德賽熱斯和鹿林的領主們帶去話，伊施特洛奇很希望能讓大師們回歸，以便把他們的智慧就傳給下一代。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>{0}在東陲各地進行旅行並調查，希望能查到失蹤的武僧的線索。武僧們一個接一個以各種不同的形態出現在{0}的旅途中——有些以人類形態，有的以野獸形態，還有的以獨特的形態。
+
+武僧們顯然忘記了他們開始冥想的原因，所以拉著{0}進行了一場亢長的哲學探討。最後，每個武僧都通過他們創造出的心智迷宮中返回，觸發了自發的感悟和回到原本的形態之後隨後的「蛻變」。
+
+等他們都回到修道院之後，他們向{0}贈送了一套編鐘。每個武僧獻出了十二個鐘的一個，最終完成了這件樂器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>玻璃樹</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>傳說在活化之地的一個隱藏的山谷中每天都有奇妙的生物直接從地表生出，每日都有新的植物開花發芽。有些人稱這個地方是神的聖地，神在那裡用地表下的原生物元素創造出所有生物和魔怪。
+
+許多神話描繪出了一顆巨大的令人窒息的玻璃樹，它有著直指雲端和遍佈山谷的枝幹。據說它的根基由一個不祥的武士在守護，該勇士全副武裝，從頭到腳都是閃閃發光的護甲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>{0}從活化之地南岸分別進行了三次探險才得以到達寓言中的玻璃山谷。儘管傳說有些誇張，但是山谷的真實情況也是令人窒息的。這裡有誒歐拉其他地區從沒見過的動植物群，巨大的伐木野獸和翱翔在高高的雲中幾乎要看不見的帶翅膀的可怕生物。在這正中間聳立著的，正是那棵巨大的「玻璃」樹。
+
+當{0}檢視它的時候，很明顯那根本不是由玻璃構成，而是一種迷人的清晰的木頭，樹枝和樹幹上面流淌著透明的樹液。雖然故事裡的帶頭盔的武士沒有出現，{0}的確在樹根的地方找到了一雙閃閃發光的木質手套。不清楚是誰知道的，是否是由這棵樹的木材製造，為什麼會被留在這裡。
+
+路線終於被規劃出來之後，其他的探險者開始抵達玻璃山谷，但是隨後的遊客報告動植物群開始慢慢消失了。有些人推測是外來者的到來造成了山谷的魔力退回了誒歐拉深處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>孤單的標記</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>從東陲到鹿眾再到舊維利亞，老老少少的左側大腿內側出現了一個奇怪的和眾不同的標記。每個人之間似乎沒有任何關聯，也沒有關於標記產生的副作用的任何報道，但是沒幾個人認為這會是好事要發生的預兆。
+
+有些經常旅行的維利亞人宣稱一個不算秘密的社團對有記號的人產生了興趣，並且可能抱有邪惡的想法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>在這麼大的區域內找出對這個對被標記的人有興趣的教派對{0}來說是件難事。最終，{0}還是找到了一群異教徒的老窩，然後發現一堆秘密文件。
+
+這個團體自稱「白色之焰」，他們相信被標記的人是注定要被用來作為誒歐瑟斯「轉世」的容器。這個邪教開始綁架被標記的人，把他們帶到關押區域進行觀察和實驗。{0}發現的一張地圖顯示出幾個牢房的分佈還有他們打算作為目標的地點。
+
+在聖娥爾佳之持盾者的幫助下，{0}得以襲擊他們在兮斯林地的一個要塞。白色之焰的力量是不是真的被打倒還尚不清楚，但是在{0}的介入之後，綁架事件很快就停止了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>閾限的空間</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>維利亞靈魂學者艾賽塔，因她對活魂珀的特性的研究而出名，當她告訴同行她相信所有活魂珀都是和誒歐拉的心相連時，在比亞結皮造成了不小的轟動。這個聲明本身並不受人非議，但是艾賽塔誇口說她創造了一個能夠讓她本身能通過活魂珀的通道抵達他們的來源的裝置。
+
+她聲稱自己所看到的東西在一些更加虔誠的靈魂學者之間造成了不小的騷動，他們中很多人都認為這個聲明是對神明的褻瀆。幾天之後，艾賽塔失蹤了，她的家也被徹徹底底的洗劫了。
+
+有些人擔心她是因為自己的誇口而死。其他人擔心她的聲明是事實，艾賽塔使用她自己的發明永遠地進入了「間裡」，因而逃出了她同行的憤怒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>穿過誒歐拉堅硬的石頭追蹤一個靈魂學者對{0}來說相當困難。在和不同的維利亞製圖師和探險者進行調查之後，{0}得以通過幾條魂珀靜脈的瓜爾菲的群山中的山洞網絡。
+
+在五個同行的靈魂學者的幫助下聯絡到了艾賽塔，隨後艾賽塔通過魂珀傳回了幾幅畫面作為回應。不幸的是，魂珀中的脈衝引起了一個充滿敵意的蛛人社群的警報，他們暫時逼迫了{0}和靈魂學者撤退到山洞網絡的另一部分。
+
+儘管{0}說她沒法回來，她提示她處在一個全新的完美的地方。廣闊、驚奇的空間的圖片充斥了{0}和靈魂學者們的腦海，雖然聯絡中斷了。靈魂學者們試著恢復聯絡，但是在幾天的嘗試之後，他們斷定這是徒勞的。
+
+比亞結皮的公爵議會決定艾賽塔的房產應該分給城中的靈魂學者們以支持他們的研究。至於{0}，他們給他了一個奇怪而精緻的銅和魂珀製成的頭盔。不少靈魂學者對公爵議會的決定表示憤怒，但是無法說服公爵否決他們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>吃煤者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>在阿貝特的黑色丘陵裡有東西覺醒了，一個巨大的可怕的泰坦，從地底升起，為了吞食煤礦然後毀滅經過的工人。就連從阿貝特附近趕來的亡焰群島的水手都看見了這個在驚叫懸崖邊上行走的巨獸。
+
+沒人確定這個生物從哪來，什麼時候會停下對黑色丘陵的恐嚇，但是阿貝特的統治家族對直接干預好像沒什麼興趣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>當{0}到達阿貝特的黑色丘陵時，很輕易地就找到了這個巨大的怪物。幾里開外，只要是眼神好點的人就能發現它，光憑它沿路留下的破壞的痕跡就能找到。雙腿直立行走，它的皮膚就跟它吞食的煤炭一般黑，大量的黑色泥土從它身上脫落。
+
+雖然礦工們最先不知道是什麼吵醒了這個生物，{0}明白了這個生物出現的礦洞已經挖進了一個古代的阿貝特之前文明的地下廢墟。一名來自阿貝特的海裔學著幫助{0}研究了廢墟的深處，翻譯出了描繪出泰坦在多年前覺醒的碑文。
+
+{0}敲響了城市廢墟中的一系列的鐘，把怪物召回了它醒來的地方。不幸的是，它的歸來造成了廢墟大部分地區的坍塌。即便如此，阿貝特的學者對他的發現還是感到滿足。這片區域裡的礦工雖然不願意重新開始工作，不過至少對這個巨大的吃煤者不再是個威脅而鬆了一口氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>在所有已知事物的邊緣</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>著名又富有的勞瓦泰學者阿瑪婭在其長壽的一生中，一直在編纂一部關於誒歐拉的形形色色的傳說的巨著寶典。從海裔、鹿眾人、舊維利亞、以沙彌圖平原和納西塔克所收集的資料，匯總起來相當龐大，足足有幾千頁。
+
+雖然她有抄寫員在過去的20年間不停地抄寫她目前的作品，有一些民間傳說她還是沒能觸及。她試圖聯繫白茫極地的長老格蘭費倫，安排了和鹿眾人伊內·西弛儒阿的一場特殊的會面，並且身處最著名的艾爾·格蘭法斯智者們之間。所有如上嘗試，由於路途中各種各樣的凶險的威脅，她都沒有成功。
+
+這些最後的課題將會是她一生的工作中最後的幾個章節，她正在尋求有經驗的冒險者來幫助她。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>{0}嘗試了至少三次才得以在不被攻擊的情況下聯繫上白茫極地的格蘭費倫。當阿瑪婭終於能夠和長者交談的時候，她寫下了他們關於格蘭費倫的來歷，他們是如何在很久以前來到世界底端的故事。
+
+為了訪問鹿眾皇帝們的神聖的魂珀墓棺，伊內·希斯瑞拉，用到的可不止是一點小手段。雖然阿瑪婭只能和死去皇帝的靈體交談幾分鐘，這已經足夠完成她的那部分研究了。
+
+艾爾·格蘭法斯的智者們，滿足了阿瑪婭的要求，但是他們對她進行了幾天的詢問，以此確保她不會分享他們神聖的秘密，也不會對他們進行不好的描述。智者們講述了艾爾·格蘭法斯早期的故事，他們如何到達那裡，以及如何收到永遠守衛英格維斯廢墟的命令。
+
+阿瑪婭對完成研究感到十分滿足，回到了勞瓦泰攥寫她最後的章節，然後讓抄寫員們複寫了起來。儘管完成的副本還要花上幾年才能出現，她將她工作的精華部分的濃縮版寶典送給了{0}，裡面包括附魔在最後幾頁上的大量法術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>查看報告</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>{0}正在護送{1}到塞恩泥沼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>{1}在{0}的幫助下成功的抵達了塞恩泥沼。{1}表達了他的問候，並承諾很快就再來拜訪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>一個來自反抗灣的信使到了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>一個來自反抗灣的信使到了努阿王堡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>福維恩司令帶著緊急消息來到了努阿王堡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>鹿眾官員{0}來到要塞。他請求你在即將展開的和塞恩泥沼附近的漁鶴部落的代表的會議中幫忙。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>{0}接受了你的建議，正徑直趕往塞恩泥沼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>{0}在路上遭遇了幾處周折，但是還是成功的在指定的日期抵達了會議。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>按照你的建議，{0}途徑維利亞共和國到達塞恩泥沼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>213</ID>
+			<DefaultText>{0}比預期的時間晚了很多才到塞恩泥沼，但是成功地拜見了漁鶴部落。{0}表達了他的問候，並承諾很快就再來拜訪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText>{0}僱傭了少量僱傭兵護送他到塞恩泥沼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>在你的支援下，{0}到達了和漁鶴部落的會議。{0}表達了他的問候，並承諾很快就再來拜訪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>216</ID>
+			<DefaultText>多虧你的通行令，{0}在通往塞恩泥沼的路上幾乎沒有遇到困難。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>217</ID>
+			<DefaultText>{0}正在教導{1}昂德拉之道，以及怎樣可以更好地卸下自己過去的負擔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>218</ID>
+			<DefaultText>{0}得以幫助{1}克服她的騷動。{1}獲得了平靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>219</ID>
+			<DefaultText>富有貴族{0}來到要塞。他想要你幫忙抵禦他的對手、保衛他的要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>220</ID>
+			<DefaultText>本地酒鬼{0}來到要塞。他希望你幫忙解決他累計的債務。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>221</ID>
+			<DefaultText>{1}帶著你慷慨的捐贈離開了努阿王堡，打算償還他的債務。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>222</ID>
+			<DefaultText>{1}回到充滿敵意的鹿灘，不過還是得以緩和了情況。多虧你的幫助，他得以償還自己的債務。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>223</ID>
+			<DefaultText>{0}和{1}一同離開，來幫助他更好的理解並控制他的酒癮。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>224</ID>
+			<DefaultText>{1}以一個全新的面貌回到了努阿王堡。在鹿林附近旅行的過程中，{0}指導{1}使用藥物提自己的意識。{1}沒法償還債務，但是他現在踏上了不同的道路，並且打算和過去訣別。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>225</ID>
+			<DefaultText>{0}和{1}一同離開，護送他到維利亞共和國。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>226</ID>
+			<DefaultText>{0}得以把{1}交到一些受人尊重的靈魂學者的手上。他們同意償還他的債務，條件是他要在幾個試驗中當志願者。至於此後{1}有沒有再回過鹿灘，就不清楚了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>227</ID>
+			<DefaultText>你把{1}趕走，並放出話去說不管他走到哪裡十二人眾都會暴打他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>228</ID>
+			<DefaultText>{1}忍受了一段漫長又痛苦的旅程，從努阿王堡來到了反抗灣，在鹿灘的家中短暫停留之後就被趕走了。最終他被安置在一個通往離鹿林遠遠的活化之地的船上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>229</ID>
+			<DefaultText>回到要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>230</ID>
+			<DefaultText>{1}離開了努阿王堡，打算按照你的規格加強他的主樓的防禦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>231</ID>
+			<DefaultText>在幾次嘗試之後，{1}的對手放棄了對他地窖的攻擊。{1}奪回領地之後，向你表示了謝意。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>232</ID>
+			<DefaultText>一封信函被送到熔煉堡的指揮官手上，告知他們，{1}的城堡需要部隊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>233</ID>
+			<DefaultText>來自北方的殘忍統治者{0}來到要塞。關於一場本地叛亂，他希望能拜見你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>234</ID>
+			<DefaultText>你成功的阻止{1}對農民採取暴力手段。{1}離開了你的要塞。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>235</ID>
+			<DefaultText>他回去後，{1}平息了暴動。這個區域的貿易變得蕭條了，但是你被當作當地的英雄。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>236</ID>
+			<DefaultText>在認定你對抗農民起義的方法過於軟弱之後，{1}匆匆離開了城堡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>237</ID>
+			<DefaultText>{1}試著用武力解決憤怒的農民。殘忍的表象使得居民爆發了，{1}被推翻並且殺害了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>238</ID>
+			<DefaultText>{1}帶著你的錢幣回家了，打算僱傭僱傭兵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>239</ID>
+			<DefaultText>{1}成功地用你幫忙提供的僱傭兵潰敗了煽動者。當地人不會很快忘記你的名字的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>240</ID>
+			<DefaultText>你派{0}去警告煽動者，關於{1}要取他們性命的打算。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>241</ID>
+			<DefaultText>{0}成功聯繫到了煽動者，使他們及時跑掉。{1}的土地被拋棄了，但是沒有出現流血事件。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>242</ID>
+			<DefaultText>派{0}在路上埋伏{1}，解決他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>243</ID>
+			<DefaultText>{0}來到了你領土邊境上的{1}的營地。{0}潛入營地，最後到達了{1}的帳篷。次日早上，{0}已在回家的路上，而{1}則不知所蹤。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>244</ID>
+			<DefaultText>你派{0}去謹慎地處理{1}的對手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>245</ID>
+			<DefaultText>通過一些周密佈置的妖法，以及一場神秘力量的最終演出，{0}得以「說服」{1}的對手去別處尋求財路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>246</ID>
+			<DefaultText>你送走了{1}，承諾鐸門耐爾很快就會來的。他離開後，你給鐸門耐爾寫了一封信，說明了你對{1}寶藏的真實意圖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>247</ID>
+			<DefaultText>在掠襲的混亂期間，鐸門耐爾洗劫了寶藏室和儲物室。竊賊們跑了，但是{1}和他的守衛被殺死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>248</ID>
+			<DefaultText>你派{0}護送{1}回他保管。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>249</ID>
+			<DefaultText>在{1}地的混亂期間，{0}溜到了地窖，把能帶走的全帶走了。她跑了，但是{1}和他的守衛被殺死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>250</ID>
+			<DefaultText>一個叫{0}的通緝犯到了要塞試圖逃離鹿林。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>251</ID>
+			<DefaultText>來自雷亞德賽熱斯的奴隸販子{0}來到要塞，想要尋求你商務上的一些建議。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>252</ID>
+			<DefaultText>靈魂學者{0}來到要塞，請求拜見你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>253</ID>
+			<DefaultText>有了你的錢幣在手，{1}直奔最近的港口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>254</ID>
+			<DefaultText>{1}從亡焰群島發來問候，感謝你給了她新的開始。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>255</ID>
+			<DefaultText>和鐸門耐爾護衛一起，{1}前往了最近的港口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>256</ID>
+			<DefaultText>你說服了{1}繼續他的旅途期間不停下來休息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>257</ID>
+			<DefaultText>大概兩星期就到了，但是{1}成功把羽精奴隸轉移到了以沙彌圖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>258</ID>
+			<DefaultText>知道新休瑪會是途中較為安全的一個停靠站後，{1}就離開了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>259</ID>
+			<DefaultText>{1}從以沙彌圖發來問候，感謝你幫他迅速到達了此地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>260</ID>
+			<DefaultText>{1}和你的隊友一起離開了你的要塞，前往以沙彌圖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>261</ID>
+			<DefaultText>{1}從以沙彌圖發來問候，感謝你幫他迅速到達了以沙彌圖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>262</ID>
+			<DefaultText>{1}開始了返回吉爾拉拉的旅途。你派{0}跟著他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>263</ID>
+			<DefaultText>{0}到達了吉爾拉拉並成功解放了很多奴隸。據說{1}非常生氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>264</ID>
+			<DefaultText>{1}僱傭了很多僱傭兵圍捕來自傳承山的軀殼，以進行實驗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>265</ID>
+			<DefaultText>{1}成功圍捕了她的實驗對象。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>266</ID>
+			<DefaultText>{1}孤身前往了傳承山。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>267</ID>
+			<DefaultText>你聽說一位叫{1}的靈魂學者被發現死在了傳承山中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>268</ID>
+			<DefaultText>{1}僱傭了一小隊捕獸人，以圍捕瑪格嵐岔口附近荒野的野獸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>269</ID>
+			<DefaultText>{0}在幫助{1}狩獵她的實驗對象。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>270</ID>
+			<DefaultText>{0}被派過去和{1}一起幫她完成研究。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>271</ID>
+			<DefaultText>{0}跟著{1}去了她實驗室，殺了{1}並燒了那地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>272</ID>
+			<DefaultText>{0}正在護送{1}去瑪格嵐岔口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>273</ID>
+			<DefaultText>{0}到了{1}的實驗室，迅速地摧毀了她。然後他洗劫了實驗室，竊取了{1}所有的研究成果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>274</ID>
+			<DefaultText>{0}被處死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>275</ID>
+			<DefaultText>奇貨商人{0}來到要塞，請求你的接見。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>276</ID>
+			<DefaultText>{0}被派去幫助{1}確保貿易安全不受強盜搶劫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>277</ID>
+			<DefaultText>有了{0}的幫忙，{1}應該能夠確保貿易路的安全，也能說服當地商人和供應商提供貨物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>278</ID>
+			<DefaultText>伯爵收取了{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>279</ID>
+				<DefaultText/>
+				<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>280</ID>
+			<DefaultText>你的要塞贏得了{0}威望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>281</ID>
+			<DefaultText>你的要塞獲得了{0}安全。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>282</ID>
+			<DefaultText>{0}企圖逃離地牢，不過被你守衛發現了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>283</ID>
+			<DefaultText>建築【{0}】開始建造。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
