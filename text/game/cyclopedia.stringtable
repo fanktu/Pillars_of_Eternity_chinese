@@ -525,7 +525,7 @@
 		</Entry>
 		<Entry>
 			<ID>85</ID>
-			<DefaultText>偏斜</DefaultText>
+			<DefaultText>格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -570,7 +570,7 @@
 		</Entry>
 		<Entry>
 			<ID>94</ID>
-			<DefaultText>命中降低25，感知降低4，移動速度降低2，反射和偏斜都降低20。</DefaultText>
+			<DefaultText>命中降低25，感知降低4，移動速度降低2，反射和格擋都降低20。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -626,7 +626,7 @@
 		</Entry>
 		<Entry>
 			<ID>104</ID>
-			<DefaultText>偏斜降低10。</DefaultText>
+			<DefaultText>格擋降低10。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -656,7 +656,7 @@
 		</Entry>
 		<Entry>
 			<ID>110</ID>
-			<DefaultText>無法行動，敏捷變為0，反射和偏斜都降低40。覆蓋定身、眩暈和擊倒效果。</DefaultText>
+			<DefaultText>無法行動，敏捷變為0，反射和格擋都降低40。覆蓋定身、眩暈和擊倒效果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -676,7 +676,7 @@
 		</Entry>
 		<Entry>
 			<ID>114</ID>
-			<DefaultText>無法行動，敏捷降低2，反射和偏斜都降低10。</DefaultText>
+			<DefaultText>無法行動，敏捷降低2，反射和格擋都降低10。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -696,7 +696,7 @@
 		</Entry>
 		<Entry>
 			<ID>118</ID>
-			<DefaultText>無法移動，敏捷降低2，命中降低5，反射和偏斜降低20。</DefaultText>
+			<DefaultText>無法移動，敏捷降低2，命中降低5，反射和格擋降低20。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -706,7 +706,7 @@
 		</Entry>
 		<Entry>
 			<ID>120</ID>
-			<DefaultText>無法行動，敏捷、智力和感知都降低4，偏斜和反射都降低30。覆蓋定身和擊倒效果。</DefaultText>
+			<DefaultText>無法行動，敏捷、智力和感知都降低4，格擋和反射都降低30。覆蓋定身和擊倒效果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -756,7 +756,7 @@
 		</Entry>
 		<Entry>
 			<ID>130</ID>
-			<DefaultText>手腕扭傷會使偏斜和命中收到減值。</DefaultText>
+			<DefaultText>手腕扭傷會使格擋和命中收到減值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -846,7 +846,7 @@
 			<ID>146</ID>
 			<DefaultText>永恆之柱中有四種防禦。每種分別被用來抵禦一種不同類型的攻擊檢定。
 
--偏斜用來抵禦大多數直接武器攻擊，或者是類似於武器攻擊的攻擊。
+-格擋用來抵禦大多數直接武器攻擊，或者是類似於武器攻擊的攻擊。
 
 -堅韌可以讓角色對抗物理力量，或者那些可以作用於他們的身體內部（例如通過毒藥）的攻擊。
 
@@ -854,7 +854,7 @@
 
 -意志則對抗幾乎所有的心智型攻擊。
 
-所有防禦都隨角色提高而成長、通常戰士類職業偏斜要遠高於法師類職業。</DefaultText>
+所有防禦都隨角色提高而成長、通常戰士類職業格擋要遠高於法師類職業。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -902,7 +902,7 @@
 		</Entry>
 		<Entry>
 			<ID>154</ID>
-			<DefaultText>所有傷害都會將攻擊者的命中和四種防禦之一進行比較: 偏斜、堅韌、反射或意志。同時隨機產生一個1到100之間的數字並加到命中和防禦的差值上，這個數字將決定攻擊的結果。
+			<DefaultText>所有傷害都會將攻擊者的命中和四種防禦之一進行比較: 格擋、堅韌、反射或意志。同時隨機產生一個1到100之間的數字並加到命中和防禦的差值上，這個數字將決定攻擊的結果。
 小於16=失手
 16到50=擦傷
 51到100=擊中
@@ -1126,7 +1126,7 @@
 		</Entry>
 		<Entry>
 			<ID>192</ID>
-			<DefaultText>次生防禦作用在第二階段的攻擊中，例如，匕首上的毒藥。在這個例子中，第一階段的攻擊（揮舞匕首）瞄準一種防禦（偏斜），並且只有在第一階段攻擊擊中之後才會發動毒藥攻擊。如果攻擊擊中，這時會檢查次生防禦（在這個例子裡，是堅韌對抗毒藥）來決定效果。如果初始的攻擊失手了，次生防禦不會被啟動。</DefaultText>
+			<DefaultText>次生防禦作用在第二階段的攻擊中，例如，匕首上的毒藥。在這個例子中，第一階段的攻擊（揮舞匕首）瞄準一種防禦（格擋），並且只有在第一階段攻擊擊中之後才會發動毒藥攻擊。如果攻擊擊中，這時會檢查次生防禦（在這個例子裡，是堅韌對抗毒藥）來決定效果。如果初始的攻擊失手了，次生防禦不會被啟動。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1221,7 +1221,7 @@
 
 所有來自被動和武器的加成和減值會疊加。
 
-主動和模式加成（比如來自能力和消耗品）只會採用對數值加成和減值的最大值。比如，一項法師法術賦予+3至偏斜，而一位聖武士的光環會賦予+5，那麼主動/模式的加成就是+5。如果此法術同時也為威力賦予加成，其效果將會保留，直至更高級的威力加成將其覆蓋。
+主動和模式加成（比如來自能力和消耗品）只會採用對數值加成和減值的最大值。比如，一項法師法術賦予+3至格擋，而一位聖武士的光環會賦予+5，那麼主動/模式的加成就是+5。如果此法術同時也為威力賦予加成，其效果將會保留，直至更高級的威力加成將其覆蓋。
 
 裝備加成也採用對數值加成和減值的最大值。這包括所有用於角色的物品，不過武器除外。裝備是獨立於主動/模式的一個分類。每個分類的加成和減值的最大值將被加到一起。
 
@@ -1866,7 +1866,7 @@
 		</Entry>
 		<Entry>
 			<ID>324</ID>
-			<DefaultText>無法行動，敏捷降為0，反射和偏斜都40。</DefaultText>
+			<DefaultText>無法行動，敏捷降為0，反射和格擋都40。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

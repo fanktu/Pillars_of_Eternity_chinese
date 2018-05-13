@@ -991,7 +991,7 @@
 		</Entry>
 		<Entry>
 			<ID>197</ID>
-			<DefaultText>偏斜光環</DefaultText>
+			<DefaultText>格擋光環</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1036,7 +1036,7 @@
 		</Entry>
 		<Entry>
 			<ID>206</ID>
-			<DefaultText>次元偏斜</DefaultText>
+			<DefaultText>次元格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1226,7 +1226,7 @@
 		</Entry>
 		<Entry>
 			<ID>244</ID>
-			<DefaultText>標記一個目標作為懲戒對象，造成火傷害並降低其偏斜。</DefaultText>
+			<DefaultText>標記一個目標作為懲戒對象，造成火傷害並降低其格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1351,7 +1351,7 @@
 		</Entry>
 		<Entry>
 			<ID>269</ID>
-			<DefaultText>暫時提高自身的偏斜，當自身或召喚出的幻影被命中時降低該偏斜加成。</DefaultText>
+			<DefaultText>暫時提高自身的格擋，當自身或召喚出的幻影被命中時降低該格擋加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1381,7 +1381,7 @@
 		</Entry>
 		<Entry>
 			<ID>275</ID>
-			<DefaultText>降低作用範圍內所有敵人的減免、偏斜和專注。</DefaultText>
+			<DefaultText>降低作用範圍內所有敵人的減免、格擋和專注。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1391,7 +1391,7 @@
 		</Entry>
 		<Entry>
 			<ID>277</ID>
-			<DefaultText>讓施法者從視野裡消失，提升其偏斜和反射，持續一段時間。此外，相當數量的偏斜和反射攻擊擊中將化為擦傷。</DefaultText>
+			<DefaultText>讓施法者從視野裡消失，提升其格擋和反射，持續一段時間。此外，相當數量的格擋和反射攻擊擊中將化為擦傷。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1446,7 +1446,7 @@
 		</Entry>
 		<Entry>
 			<ID>288</ID>
-			<DefaultText>靈能師利用目標的心靈之力對付敵人，竊取目標部分的決心，以便提升自身的偏斜。</DefaultText>
+			<DefaultText>靈能師利用目標的心靈之力對付敵人，竊取目標部分的決心，以便提升自身的格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1496,7 +1496,7 @@
 		</Entry>
 		<Entry>
 			<ID>298</ID>
-			<DefaultText>以降低偏斜為代價，提高接敵數。和偏斜光環、猛力攻擊模式不共存。</DefaultText>
+			<DefaultText>以降低格擋為代價，提高接敵數。和格擋光環、猛力攻擊模式不共存。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1581,7 +1581,7 @@
 		</Entry>
 		<Entry>
 			<ID>315</ID>
-			<DefaultText>召喚魔法護盾，大大提升法師的偏斜。</DefaultText>
+			<DefaultText>召喚魔法護盾，大大提升法師的格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1626,12 +1626,12 @@
 		</Entry>
 		<Entry>
 			<ID>324</ID>
-			<DefaultText>偏斜鼓舞</DefaultText>
+			<DefaultText>格擋鼓舞</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>325</ID>
-			<DefaultText>暫時提高隊友的偏斜。</DefaultText>
+			<DefaultText>暫時提高隊友的格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2031,7 +2031,7 @@
 		</Entry>
 		<Entry>
 			<ID>405</ID>
-			<DefaultText>持續提高自身的偏斜，直到自身或召喚出的幻影被命中為止。</DefaultText>
+			<DefaultText>持續提高自身的格擋，直到自身或召喚出的幻影被命中為止。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2486,7 +2486,7 @@
 		</Entry>
 		<Entry>
 			<ID>496</ID>
-			<DefaultText>召喚一道強大的神聖護盾，賦予作用範圍內全部隊友的偏斜加成。</DefaultText>
+			<DefaultText>召喚一道強大的神聖護盾，賦予作用範圍內全部隊友的格擋加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3521,7 +3521,7 @@
 		</Entry>
 		<Entry>
 			<ID>703</ID>
-			<DefaultText>突襲模式-偏斜強化</DefaultText>
+			<DefaultText>突襲模式-格擋強化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4051,7 +4051,7 @@
 		</Entry>
 		<Entry>
 			<ID>809</ID>
-			<DefaultText>在作用範圍內增加隊友的偏斜。</DefaultText>
+			<DefaultText>在作用範圍內增加隊友的格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4091,7 +4091,7 @@
 		</Entry>
 		<Entry>
 			<ID>817</ID>
-			<DefaultText>降低作用範圍內所有敵人的偏斜和反射。</DefaultText>
+			<DefaultText>降低作用範圍內所有敵人的格擋和反射。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4161,7 +4161,7 @@
 		</Entry>
 		<Entry>
 			<ID>831</ID>
-			<DefaultText>變出一隻巨大的鹿角攻擊目標，對目標造成穿刺傷害並降低其偏斜和反射屬性。</DefaultText>
+			<DefaultText>變出一隻巨大的鹿角攻擊目標，對目標造成穿刺傷害並降低其格擋和反射屬性。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4301,7 +4301,7 @@
 		</Entry>
 		<Entry>
 			<ID>859</ID>
-			<DefaultText>施法者暫時犧牲奧術威力來提升作戰力量。法師獲得偏斜、命中、威力、體質、敏捷等屬性的加成，但是在本法術期間，會變得無法施放法術或者切換魔法書。</DefaultText>
+			<DefaultText>施法者暫時犧牲奧術威力來提升作戰力量。法師獲得格擋、命中、威力、體質、敏捷等屬性的加成，但是在本法術期間，會變得無法施放法術或者切換魔法書。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4321,7 +4321,7 @@
 		</Entry>
 		<Entry>
 			<ID>863</ID>
-			<DefaultText>以降低偏斜和隱藏生命耐力顯示為代價，提高威力、體質和回復速度。</DefaultText>
+			<DefaultText>以降低格擋和隱藏生命耐力顯示為代價，提高威力、體質和回復速度。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4351,7 +4351,7 @@
 		</Entry>
 		<Entry>
 			<ID>869</ID>
-			<DefaultText>當目標堅韌比偏斜低時，野蠻人所有對其偏斜的檢定改為對堅韌。</DefaultText>
+			<DefaultText>當目標堅韌比格擋低時，野蠻人所有對其格擋的檢定改為對堅韌。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4428,7 +4428,7 @@
 		</Entry>
 		<Entry>
 			<ID>884</ID>
-			<DefaultText>以降低自身命中為代價，提高周圍隊友的偏斜。和接敵模式、猛力攻擊模式不共存。</DefaultText>
+			<DefaultText>以降低自身命中為代價，提高周圍隊友的格擋。和接敵模式、猛力攻擊模式不共存。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4498,12 +4498,12 @@
 		</Entry>
 		<Entry>
 			<ID>898</ID>
-			<DefaultText>提高自身的偏斜。和次元防禦不共存。</DefaultText>
+			<DefaultText>提高自身的格擋。和次元防禦不共存。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>899</ID>
-			<DefaultText>提高自身的堅韌、反射和意志。和次元偏斜不共存。</DefaultText>
+			<DefaultText>提高自身的堅韌、反射和意志。和次元格擋不共存。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4580,7 +4580,7 @@
 		</Entry>
 		<Entry>
 			<ID>914</ID>
-			<DefaultText>遊俠獲得其動物夥伴的一部分感知和本能，變得對針對自己偏斜的遠程攻擊更加敏感。</DefaultText>
+			<DefaultText>遊俠獲得其動物夥伴的一部分感知和本能，變得對針對自己格擋的遠程攻擊更加敏感。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4605,7 +4605,7 @@
 		</Entry>
 		<Entry>
 			<ID>919</ID>
-			<DefaultText>以降低偏斜為代價，提高近戰命中和近戰傷害。</DefaultText>
+			<DefaultText>以降低格擋為代價，提高近戰命中和近戰傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4630,7 +4630,7 @@
 		</Entry>
 		<Entry>
 			<ID>924</ID>
-			<DefaultText>遊蕩者在戰鬥中尋求反擊的機會。來襲的近戰攻擊若被偏斜、失手或擦傷，遊蕩者將有一定概率立刻進行一次全武器攻擊反擊。僅在裝備近戰武器時有效。</DefaultText>
+			<DefaultText>遊蕩者在戰鬥中尋求反擊的機會。來襲的近戰攻擊若被格擋、失手或擦傷，遊蕩者將有一定概率立刻進行一次全武器攻擊反擊。僅在裝備近戰武器時有效。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4787,7 +4787,7 @@
 		</Entry>
 		<Entry>
 			<ID>955</ID>
-			<DefaultText>強化法師的奧術壁障，提供一個極其高的偏斜加成。</DefaultText>
+			<DefaultText>強化法師的奧術壁障，提供一個極其高的格擋加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4832,7 +4832,7 @@
 		</Entry>
 		<Entry>
 			<ID>964</ID>
-			<DefaultText>增加遊蕩者專注的能力，當使用突襲模式時減少偏斜減值。</DefaultText>
+			<DefaultText>增加遊蕩者專注的能力，當使用突襲模式時減少格擋減值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5067,7 +5067,7 @@
 		</Entry>
 		<Entry>
 			<ID>1011</ID>
-			<DefaultText>當處於牡鹿形態時，德魯伊獲得全防禦的額外加成（偏斜、堅韌、反射和意志）</DefaultText>
+			<DefaultText>當處於牡鹿形態時，德魯伊獲得全防禦的額外加成（格擋、堅韌、反射和意志）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5092,7 +5092,7 @@
 		</Entry>
 		<Entry>
 			<ID>1016</ID>
-			<DefaultText>羚羊同伴擁有優越的自然防禦（偏斜、堅韌、反射、意志）。
+			<DefaultText>羚羊同伴擁有優越的自然防禦（格擋、堅韌、反射、意志）。
 
 所有的遊俠和一隻動物形成強大的精神連接，成為他們的動物夥伴。這種連接允許遊俠和他們的同伴合作攻擊有效地擊倒獵物。在大多數情況下，當遊俠進行範圍攻擊時同伴進行干擾。
 
@@ -5166,7 +5166,7 @@
 		</Entry>
 		<Entry>
 			<ID>1026</ID>
-			<DefaultText>對抗所有超過4米範圍內的敵人，你會獲得命中、偏斜和反射的加成。</DefaultText>
+			<DefaultText>對抗所有超過4米範圍內的敵人，你會獲得命中、格擋和反射的加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5231,7 +5231,7 @@
 		</Entry>
 		<Entry>
 			<ID>1039</ID>
-			<DefaultText>以犧牲近戰回復速度為代價，提高近戰傷害。和偏斜光環、接敵模式不共存。</DefaultText>
+			<DefaultText>以犧牲近戰回復速度為代價，提高近戰傷害。和格擋光環、接敵模式不共存。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5241,7 +5241,7 @@
 		</Entry>
 		<Entry>
 			<ID>1041</ID>
-			<DefaultText>以降低回復速度為代價，提高偏斜。</DefaultText>
+			<DefaultText>以降低回復速度為代價，提高格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5396,7 +5396,7 @@
 		</Entry>
 		<Entry>
 			<ID>1072</ID>
-			<DefaultText>手持單手和盾牌時，提高盾牌偏斜，並將所有盾牌偏斜加成到反射。</DefaultText>
+			<DefaultText>手持單手和盾牌時，提高盾牌格擋，並將所有盾牌格擋加成到反射。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5406,7 +5406,7 @@
 		</Entry>
 		<Entry>
 			<ID>1074</ID>
-			<DefaultText>手持單手和盾牌時，提高盾牌偏斜，並將所有盾牌偏斜加成到反射。</DefaultText>
+			<DefaultText>手持單手和盾牌時，提高盾牌格擋，並將所有盾牌格擋加成到反射。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5511,12 +5511,12 @@
 		</Entry>
 		<Entry>
 			<ID>1095</ID>
-			<DefaultText>聖焰打擊-群體偏斜</DefaultText>
+			<DefaultText>聖焰打擊-群體格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1096</ID>
-			<DefaultText>為聖焰打擊附加提高自身和周圍所有盟友偏斜的額外效果。</DefaultText>
+			<DefaultText>為聖焰打擊附加提高自身和周圍所有盟友格擋的額外效果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6098,7 +6098,7 @@
 		</Entry>
 		<Entry>
 			<ID>1212</ID>
-			<DefaultText>當聖武士對隊友使用神聖治療時，隊友獲得偏斜加成。</DefaultText>
+			<DefaultText>當聖武士對隊友使用神聖治療時，隊友獲得格擋加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6330,22 +6330,22 @@
 		</Entry>
 		<Entry>
 			<ID>1258</ID>
-			<DefaultText>額外偏斜</DefaultText>
+			<DefaultText>額外格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1259</ID>
-			<DefaultText>提高角色的偏斜。</DefaultText>
+			<DefaultText>提高角色的格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1260</ID>
-			<DefaultText>額外偏斜</DefaultText>
+			<DefaultText>額外格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1261</ID>
-			<DefaultText>提高角色的偏斜。</DefaultText>
+			<DefaultText>提高角色的格擋。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6710,7 +6710,7 @@
 		</Entry>
 		<Entry>
 			<ID>1334</ID>
-			<DefaultText>彈道類武器對抗鳥類顯然有著天生的劣勢，因此天空神嗣對抗此類攻擊有偏斜加成。受到嚴重傷害時，鳥類急於奔命逃亡的天性讓天空神嗣的在耐力較低時獲得感知和對抗藉機攻擊的防禦。</DefaultText>
+			<DefaultText>彈道類武器對抗鳥類顯然有著天生的劣勢，因此天空神嗣對抗此類攻擊有格擋加成。受到嚴重傷害時，鳥類急於奔命逃亡的天性讓天空神嗣的在耐力較低時獲得感知和對抗藉機攻擊的防禦。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6765,7 +6765,7 @@
 		</Entry>
 		<Entry>
 			<ID>1345</ID>
-			<DefaultText>武僧獲得兩種模式的能力，可以讓他或她在偏斜加成和其他防禦值加成之間切換。</DefaultText>
+			<DefaultText>武僧獲得兩種模式的能力，可以讓他或她在格擋加成和其他防禦值加成之間切換。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6970,7 +6970,7 @@
 		</Entry>
 		<Entry>
 			<ID>1386</ID>
-			<DefaultText>偏斜光環</DefaultText>
+			<DefaultText>格擋光環</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7425,7 +7425,7 @@
 		</Entry>
 		<Entry>
 			<ID>1477</ID>
-			<DefaultText>此法術召喚出強力法杖，每次成功的攻擊加成偏斜並將敵人推走，造成蹣跚效果。召喚法術本身也推走召喚者附近的所有單位（包括友方）。</DefaultText>
+			<DefaultText>此法術召喚出強力法杖，每次成功的攻擊加成格擋並將敵人推走，造成蹣跚效果。召喚法術本身也推走召喚者附近的所有單位（包括友方）。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7450,7 +7450,7 @@
 		</Entry>
 		<Entry>
 			<ID>1482</ID>
-			<DefaultText>以降低偏斜和隱藏生命耐力顯示為代價，提高威力、體質和回復速度。</DefaultText>
+			<DefaultText>以降低格擋和隱藏生命耐力顯示為代價，提高威力、體質和回復速度。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7465,7 +7465,7 @@
 		</Entry>
 		<Entry>
 			<ID>1485</ID>
-			<DefaultText>降低作用範圍內所有敵人的偏斜和反射。</DefaultText>
+			<DefaultText>降低作用範圍內所有敵人的格擋和反射。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7610,7 +7610,7 @@
 		</Entry>
 		<Entry>
 			<ID>1514</ID>
-			<DefaultText>技能使用同進攻型，但優先使用位移技能攻擊低偏斜敵人。勾選使用休息週期能力後會使用迴旋攻擊。</DefaultText>
+			<DefaultText>技能使用同進攻型，但優先使用位移技能攻擊低格擋敵人。勾選使用休息週期能力後會使用迴旋攻擊。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7680,7 +7680,7 @@
 		</Entry>
 		<Entry>
 			<ID>1528</ID>
-			<DefaultText>當隊友耐力低於50%時對其釋放神聖治療，當隊友擁有長時間負面效果時對其釋放解放鼓舞，當隊友被夾擊時對其釋放偏斜鼓舞，當隊友昏迷時對其釋放復活鼓舞。勾選使用休息週期能力後會自動使用加速鼓舞。自動啟動坦克光環。</DefaultText>
+			<DefaultText>當隊友耐力低於50%時對其釋放神聖治療，當隊友擁有長時間負面效果時對其釋放解放鼓舞，當隊友被夾擊時對其釋放格擋鼓舞，當隊友昏迷時對其釋放復活鼓舞。勾選使用休息週期能力後會自動使用加速鼓舞。自動啟動坦克光環。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7700,7 +7700,7 @@
 		</Entry>
 		<Entry>
 			<ID>1532</ID>
-			<DefaultText>技能使用同進攻優先，但無視中斷對恃優先進攻施法者和低偏斜敵人。</DefaultText>
+			<DefaultText>技能使用同進攻優先，但無視中斷對恃優先進攻施法者和低格擋敵人。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7745,7 +7745,7 @@
 		</Entry>
 		<Entry>
 			<ID>1541</ID>
-			<DefaultText>隊友耐力低於50%時會使用神聖治療，隊友擁有高於5s的負面時使用解放鼓舞，隊友被夾擊時使用偏斜鼓舞，隊友昏迷時使用復活鼓舞。勾選使用休息週期能力後會使用加速鼓舞。自動啟動坦克光環。</DefaultText>
+			<DefaultText>隊友耐力低於50%時會使用神聖治療，隊友擁有高於5s的負面時使用解放鼓舞，隊友被夾擊時使用格擋鼓舞，隊友昏迷時使用復活鼓舞。勾選使用休息週期能力後會使用加速鼓舞。自動啟動坦克光環。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

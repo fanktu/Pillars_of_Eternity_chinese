@@ -56,7 +56,7 @@
 		</Entry>
 		<Entry>
 			<ID>10</ID>
-			<DefaultText>所有攻擊都被這四種防禦所抵抗：偏斜、堅韌、反射和意志。如果敵人其中一種類型的防禦特別強大，試著針對不同的防禦進行攻擊。</DefaultText>
+			<DefaultText>所有攻擊都被這四種防禦所抵抗：格擋、堅韌、反射和意志。如果敵人其中一種類型的防禦特別強大，試著針對不同的防禦進行攻擊。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -166,7 +166,7 @@
 		</Entry>
 		<Entry>
 			<ID>32</ID>
-			<DefaultText>決心影響專注、偏斜和意志。也可以作用於涉及到純粹的意志力、強烈的情感或魅力的對話和劇情互動。</DefaultText>
+			<DefaultText>決心影響專注、格擋和意志。也可以作用於涉及到純粹的意志力、強烈的情感或魅力的對話和劇情互動。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -261,7 +261,7 @@
 		</Entry>
 		<Entry>
 			<ID>51</ID>
-			<DefaultText>良好、卓越和超凡品質的武器、盾牌以及護甲在基本屬性上，如命中、傷害、偏斜和所有減免有加成。</DefaultText>
+			<DefaultText>良好、卓越和超凡品質的武器、盾牌以及護甲在基本屬性上，如命中、傷害、格擋和所有減免有加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -291,12 +291,12 @@
 		</Entry>
 		<Entry>
 			<ID>57</ID>
-			<DefaultText>雙持近戰武器提供最快的攻擊速率，但缺乏雙手武器的傷害、單手武器的命中和盾牌的偏斜加成。</DefaultText>
+			<DefaultText>雙持近戰武器提供最快的攻擊速率，但缺乏雙手武器的傷害、單手武器的命中和盾牌的格擋加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>58</ID>
-			<DefaultText>大多數盾牌以降低整體命中為代價提高角色的偏斜，越大的盾牌降低的越多。</DefaultText>
+			<DefaultText>大多數盾牌以降低整體命中為代價提高角色的格擋，越大的盾牌降低的越多。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

@@ -2921,7 +2921,7 @@
 		</Entry>
 		<Entry>
 			<ID>567</ID>
-			<DefaultText>偏斜護手</DefaultText>
+			<DefaultText>格擋護手</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2976,7 +2976,7 @@
 		</Entry>
 		<Entry>
 			<ID>578</ID>
-			<DefaultText>初級偏斜護手</DefaultText>
+			<DefaultText>初級格擋護手</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10220,7 +10220,7 @@ C.G.裡弗吉
 		</Entry>
 		<Entry>
 			<ID>1662</ID>
-			<DefaultText>偏斜斗篷</DefaultText>
+			<DefaultText>格擋斗篷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10867,7 +10867,7 @@ Yngmar發音為「EENG-mar」，以元音開頭。</DefaultText>
 		</Entry>
 		<Entry>
 			<ID>1751</ID>
-			<DefaultText>讓施法者從視野裡消失，提升其偏斜和反射，持續一段時間。</DefaultText>
+			<DefaultText>讓施法者從視野裡消失，提升其格擋和反射，持續一段時間。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10879,7 +10879,7 @@ Yngmar發音為「EENG-mar」，以元音開頭。</DefaultText>
 			<ID>1753</ID>
 			<DefaultText>產生施法者的複製體（鏡像）擾亂敵人。
 
-獲得很高的偏斜加成，不過每次被擊中後，這個加成的幅度都會隨之遞減。
+獲得很高的格擋加成，不過每次被擊中後，這個加成的幅度都會隨之遞減。
 
 </DefaultText>
 			<FemaleText/>
@@ -10891,7 +10891,7 @@ Yngmar發音為「EENG-mar」，以元音開頭。</DefaultText>
 		</Entry>
 		<Entry>
 			<ID>1755</ID>
-			<DefaultText>製造出一個施法者的鏡像來干擾敵人，賦予施放者對抗單體攻擊高額的偏斜加成。</DefaultText>
+			<DefaultText>製造出一個施法者的鏡像來干擾敵人，賦予施放者對抗單體攻擊高額的格擋加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11106,7 +11106,7 @@ Yngmar發音為「EENG-mar」，以元音開頭。</DefaultText>
 		</Entry>
 		<Entry>
 			<ID>1798</ID>
-			<DefaultText>使作用範圍內的敵人發出微弱的綠光，更好辨別。受影響的敵人將減少偏斜和反射。</DefaultText>
+			<DefaultText>使作用範圍內的敵人發出微弱的綠光，更好辨別。受影響的敵人將減少格擋和反射。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11151,7 +11151,7 @@ Yngmar發音為「EENG-mar」，以元音開頭。</DefaultText>
 		</Entry>
 		<Entry>
 			<ID>1807</ID>
-			<DefaultText>召喚一個巨大的牡鹿角攻擊目標，造成穿刺傷害並對反射和偏斜造成減值。</DefaultText>
+			<DefaultText>召喚一個巨大的牡鹿角攻擊目標，造成穿刺傷害並對反射和格擋造成減值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12353,7 +12353,7 @@ Yngmar發音為「EENG-mar」，以元音開頭。</DefaultText>
 		</Entry>
 		<Entry>
 			<ID>2027</ID>
-			<DefaultText>偏斜神盾</DefaultText>
+			<DefaultText>格擋神盾</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13387,7 +13387,7 @@ Yngmar發音為「EENG-mar」，以元音開頭。</DefaultText>
 			<ID>2179</ID>
 			<DefaultText>路菲克是個彪形大漢，也是瓦爾的追隨者。因為他的體形和力量，常常受雇成為信差或保鏢。但他是個文靜的人，他習慣走路的時候低著頭祈禱。正因為如此，盜賊經常試圖伏擊他。
 
-但是路菲克受到神秘之神的保佑。他擁有不可思議的預見力，躲避和偏斜了這些突然攻擊，殺死了刺殺者們，把他們的眼睛縫進了斗篷。他當這是個警告，但是其他人視其為挑戰。
+但是路菲克受到神秘之神的保佑。他擁有不可思議的預見力，躲避和格擋了這些突然攻擊，殺死了刺殺者們，把他們的眼睛縫進了斗篷。他當這是個警告，但是其他人視其為挑戰。
 
 最終，他丟棄了這件斗篷，取而代之地穿上了更簡單、不明顯的衣服。帶有微光、變化的眼睛的黑暗鬥篷在路霸和強盜之間臭名遠揚。</DefaultText>
 			<FemaleText/>

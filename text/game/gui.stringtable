@@ -206,7 +206,7 @@
 		</Entry>
 		<Entry>
 			<ID>40</ID>
-			<DefaultText>偏斜</DefaultText>
+			<DefaultText>格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -246,7 +246,7 @@
 		</Entry>
 		<Entry>
 			<ID>48</ID>
-			<DefaultText>偏斜</DefaultText>
+			<DefaultText>格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -766,7 +766,7 @@
 		</Entry>
 		<Entry>
 			<ID>152</ID>
-			<DefaultText>詛咒之路模式專為喜歡自虐的玩家設計，該模式下敵人數量相當於困難模式，但敵人所有面板屬性提高非常多，這使得一些高減免和高偏斜的敵人在前期幾乎不可戰勝。（警告: 該設置無法在遊戲中更改！）</DefaultText>
+			<DefaultText>詛咒之路模式專為喜歡自虐的玩家設計，該模式下敵人數量相當於困難模式，但敵人所有面板屬性提高非常多，這使得一些高減免和高格擋的敵人在前期幾乎不可戰勝。（警告: 該設置無法在遊戲中更改！）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1136,7 +1136,7 @@
 		</Entry>
 		<Entry>
 			<ID>226</ID>
-			<DefaultText>偏斜</DefaultText>
+			<DefaultText>格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1866,7 +1866,7 @@
 		</Entry>
 		<Entry>
 			<ID>372</ID>
-			<DefaultText>專注{0}、偏斜{1}、意志{2}</DefaultText>
+			<DefaultText>專注{0}、格擋{1}、意志{2}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2354,7 +2354,7 @@
 			<DefaultText>決心包括角色的內在力量、決斷、無畏和對他人施加影響的能力。它體現於心智上的震懾、領導力和說服力
 
 每點提高3點專注
-每點提高1點偏斜
+每點提高1點格擋
 每點提高2點意志</DefaultText>
 			<FemaleText/>
 		</Entry>
@@ -2457,7 +2457,7 @@
 			<ID>484</ID>
 			<DefaultText>木精靈（賽特洛孚）起源於今日鹿眾帝國的極北之地，後南遷，一路遷徙至赤道以南，散佈於大陸的森林中。據傳，他們也遷徙到了大洋彼岸的艾爾·格蘭法斯。儘管兩者在生理上相差無幾，鹿眾的木精靈和艾爾·格蘭法斯的木精靈的文化相距甚遠，他們因此被認定為兩個完全不同的族群。
 
-距離優勢: 所有木精靈獲得對遠處目標命中、偏斜和反射的額外加成。</DefaultText>
+距離優勢: 所有木精靈獲得對遠處目標命中、格擋和反射的額外加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5631,7 +5631,7 @@
 		</Entry>
 		<Entry>
 			<ID>1108</ID>
-			<DefaultText>偏斜{0}</DefaultText>
+			<DefaultText>格擋{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5826,7 +5826,7 @@
 		</Entry>
 		<Entry>
 			<ID>1147</ID>
-			<DefaultText>汲取決心{0}，提升偏斜{1}</DefaultText>
+			<DefaultText>汲取決心{0}，提升格擋{1}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5936,7 +5936,7 @@
 		</Entry>
 		<Entry>
 			<ID>1169</ID>
-			<DefaultText>[對遠處目標]命中{0}、[對遠處目標]偏斜{0}、[對遠處目標]反射{0}</DefaultText>
+			<DefaultText>[對遠處目標]命中{0}、[對遠處目標]格擋{0}、[對遠處目標]反射{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5966,7 +5966,7 @@
 		</Entry>
 		<Entry>
 			<ID>1175</ID>
-			<DefaultText>[用偏斜或反射對抗攻擊時]將來襲擊中化為擦傷的概率{0}</DefaultText>
+			<DefaultText>[用格擋或反射對抗攻擊時]將來襲擊中化為擦傷的概率{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6396,7 +6396,7 @@
 		</Entry>
 		<Entry>
 			<ID>1261</ID>
-			<DefaultText>[對遠程攻擊]偏斜{0}</DefaultText>
+			<DefaultText>[對遠程攻擊]格擋{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8247,12 +8247,12 @@
 		</Entry>
 		<Entry>
 			<ID>1628</ID>
-			<DefaultText>[盾牌]偏斜{0}</DefaultText>
+			<DefaultText>[盾牌]格擋{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1629</ID>
-			<DefaultText>盾牌偏斜加成可用於反射</DefaultText>
+			<DefaultText>盾牌格擋加成可用於反射</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8487,7 +8487,7 @@
 		</Entry>
 		<Entry>
 			<ID>1676</ID>
-			<DefaultText>[對雙手武器]偏斜{0}</DefaultText>
+			<DefaultText>[對雙手武器]格擋{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

@@ -206,7 +206,7 @@
 		</Entry>
 		<Entry>
 			<ID>40</ID>
-			<DefaultText>偏斜</DefaultText>
+			<DefaultText>格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -381,7 +381,7 @@
 		</Entry>
 		<Entry>
 			<ID>75</ID>
-			<DefaultText>偏斜光環</DefaultText>
+			<DefaultText>格擋光環</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -656,7 +656,7 @@
 		</Entry>
 		<Entry>
 			<ID>130</ID>
-			<DefaultText>遠程偏斜</DefaultText>
+			<DefaultText>遠程格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -771,7 +771,7 @@
 		</Entry>
 		<Entry>
 			<ID>153</ID>
-			<DefaultText>偏斜中a</DefaultText>
+			<DefaultText>格擋中a</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -786,7 +786,7 @@
 		</Entry>
 		<Entry>
 			<ID>156</ID>
-			<DefaultText>偏斜小a</DefaultText>
+			<DefaultText>格擋小a</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1111,17 +1111,17 @@
 		</Entry>
 		<Entry>
 			<ID>221</ID>
-			<DefaultText>偏斜小</DefaultText>
+			<DefaultText>格擋小</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>222</ID>
-			<DefaultText>偏斜中</DefaultText>
+			<DefaultText>格擋中</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>223</ID>
-			<DefaultText>偏斜大</DefaultText>
+			<DefaultText>格擋大</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1291,7 +1291,7 @@
 		</Entry>
 		<Entry>
 			<ID>257</ID>
-			<DefaultText>擊殺時威力大, 擊殺時減免中, 擊殺時偏斜弱</DefaultText>
+			<DefaultText>擊殺時威力大, 擊殺時減免中, 擊殺時格擋弱</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1461,7 +1461,7 @@
 		</Entry>
 		<Entry>
 			<ID>291</ID>
-			<DefaultText>偏斜</DefaultText>
+			<DefaultText>格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2421,7 +2421,7 @@
 		</Entry>
 		<Entry>
 			<ID>483</ID>
-			<DefaultText>偏斜巨</DefaultText>
+			<DefaultText>格擋巨</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
